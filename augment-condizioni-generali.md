@@ -38,9 +38,9 @@ In caso di ulteriori danni, addebitiamo una tassa di riparazione in conformità 
 
 ## Articolo 7 - Obblighi dell’utilizzatore
 
-Articolo 3.1. Il noleggio è riservato ad adulti o persone di età pari o superiore a 18 anni. Guidare il monopattino elettrico è strettamente riservato alla persona identificata come utilizzatore nel contratto di noleggio. Qualsiasi cessione, sub-noleggio, prestito, erogazione gratuita o assegnazione del monopattino noleggiato è severamente vietato.
+Articolo 7.1. Il noleggio è riservato ad adulti o persone di età pari o superiore a 18 anni. Guidare il monopattino elettrico è strettamente riservato alla persona identificata come utilizzatore nel contratto di noleggio. Qualsiasi cessione, sub-noleggio, prestito, erogazione gratuita o assegnazione del monopattino noleggiato è severamente vietato.
 
-Articolo 3.2. Durante il periodo di noleggio, l'utilizzatore è tenuto a rispettare i diversi obblighi derivanti dal Codice della Strada e dal Manuale d'Uso fornito. L’uso del casco è altamente raccomandato e obbligatorio per gli utenti sotto i 18 anni, nel caso in cui i genitori siano al corrente e responsabili dell’utilizzo del monopattino da parte del loro figlio/a.
+Articolo 7.2. Durante il periodo di noleggio, l'utilizzatore è tenuto a rispettare i diversi obblighi derivanti dal Codice della Strada e dal Manuale d'Uso fornito. L’uso del casco è altamente raccomandato e obbligatorio per gli utenti sotto i 18 anni, nel caso in cui i genitori siano al corrente e responsabili dell’utilizzo del monopattino da parte del loro figlio/a.
 
 - Il monopattino elettrico non può essere utilizzato per trasportare passeggeri.
 - Assicurarsi di non superare il peso massimo specificato per il monopattino elettrico.
@@ -58,7 +58,7 @@ Articolo 3.2. Durante il periodo di noleggio, l'utilizzatore è tenuto a rispett
 - Se la batteria del monopattino elettrico diventa insolitamente calda durante la ricarica o l’utilizzo, si prega di contattare il nostro servizio clienti.
 - Se si presta il monopattino elettrico a terzi, assicurarsi che l'utente disponga di conoscenze e competenze sufficienti per utilizzare il monopattino elettrico.
 
-Articolo 3.3. Durante ogni periodo di mancato utilizzo del monopattino, l'utilizzatore si impegna ad attaccare sistematicamente il telaio del suo monopattino ad un supporto fisso (tipo barriera...) con un dispositivo antifurto. L'utilizzatore si impegna, in caso di mancato utilizzo del monopattino elettrico per un lungo periodo di tempo durante il contratto di noleggio, ad una ricarica completa della batteria almeno ogni 3 mesi. Questo principio garantisce una durata ottimale della batteria. In caso di mancato rispetto di questa regola e della restituzione di batteria fuori servizio, l’utilizzatore si occuperà della sostituzione di quest'ultima.
+Articolo 7.3. Durante ogni periodo di mancato utilizzo del monopattino, l'utilizzatore si impegna ad attaccare sistematicamente il telaio del suo monopattino ad un supporto fisso (tipo barriera...) con un dispositivo antifurto. L'utilizzatore si impegna, in caso di mancato utilizzo del monopattino elettrico per un lungo periodo di tempo durante il contratto di noleggio, ad una ricarica completa della batteria almeno ogni 3 mesi. Questo principio garantisce una durata ottimale della batteria. In caso di mancato rispetto di questa regola e della restituzione di batteria fuori servizio, l’utilizzatore si occuperà della sostituzione di quest'ultima.
 
 ## Articolo 8 - Pagamento
 
