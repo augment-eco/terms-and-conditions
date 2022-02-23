@@ -15,7 +15,7 @@ Au début de la période contractuelle minimale de 24 mois, Augment.Eco vous liv
 
 La trottinette électrique est la propriété d'Augment.Eco pendant la durée du contrat. Veuillez la conserver dans son état d'origine. N'enlevez aucun logo d'Augment.Eco, n’utilisez pas d'autocollants, ne la peignez ou n’apportez aucune modification sous aucune façon.
 
-Documents à fournir par le Locataire : **une pièce d’identité, un justificatif de domicile.**
+Documents à fournir par le Locataire : **une pièce d’identité, un justificatif d'assurance NVEI**
 
 Augment Mobility Ab se réserve le droit de refuser toute commande
 
@@ -81,15 +81,23 @@ Augment.Eco n'exclut ni ne limite l'utilisation du service en cas de non-paiemen
 
 En cas de non-paiement, à l’échéance prévue, la procédure de rappel sera activée (2 rappels et une mise en demeure)
 
-A défaut de réaction suite à l’envoi de notre lettre de mise en demeure, les factures impayées seront transmises pour recouvrement par toute voie de droit.
+A défaut de réponse suite à l’envoi de notre mise en demeure, les factures impayées seront transmises pour recouvrement par toute voie de droit.La période de 60 jours échues, nous demanderons l'inscription au fichier national FICP de la banque de France une période de 5 ans.
 
 Le matériel (produits et accessoires) livré reste la propriété de la Société jusqu’au paiement intégral des factures et des dettes accessoires.
 
-## Entretien et réparation
+<div class="page"/>
+
+## Service de remplacement express Augment
 
 La réparation de pièces cassées est à la charge de Augment.Eco. En cas de nécessité d’une réparation, le Locataire doit impérativement s’adresser à Augment.Eco qui procédera à la réparation en échange de photographie pour la demande de prise en charge. Envoyez celle-ci via email ou chat quand elle vous sera demandée.
 
-En cas de panne, nous vous enverrons les pièces de rechange ou une trottinette de courtoisie dans un délai de 3 jours ouvrables, quel que soit votre lieu de résidence. Les pièces d’usure sont incluses dans le forfait de location des trottinettes électrique:
+Si la réparation du problème signalé nécessite le remplacement de la trottinette électrique, nous vous enverrons une trottinette de remplacement, le locataire sera dans l'obligation de contacter le service Augment afin de mettre en place le retour de la trottinette défectueuse sous 7 jours.Sans retour éffectué dans les temps impartis, nous facturerons 12,5€ par semaine de retard et limiterons l'utilisation des trottinettes. Le remplacement de la trottinette sera envoyé le jour ouvrable suivant depuis notre centre de réparation le plus proche.
+
+Le remplacement des scooters électriques est normalement de 3 à 5 jours ouvrables. Le service de remplacement express couvre également les consommables, c'est-à-dire les plaquettes de frein, les chambres à air et les pneus.
+
+Les scooters électriques de remplacement complètent un processus de remise à neuf rigoureux qui comprend des tests complets qui répond aux mêmes normes fonctionnelles que les nouveaux produits Augment, mais sur le les scooters électriques de remplacement peuvent être utiles.
+
+Pour votre sécurité, suivez les conseils d'entretien indiqués dans le manuel d'utilisation.
 
 - Plaquettes de freins, pneumatiques (nous évaluerons le pneumatique et en cas de dérapages, nous nous réserverons le droit de faire l’échange), chambre à air, tampons des béquilles, câbleries freins et indexation vitesse.
 - Après avoir reçu une trottinette électrique de remplacement, veuillez retourner la trottinette électrique que vous utilisez à Augment.Eco dans un délai maximum d'une semaine. La procédure de retour vous sera envoyée par email.
@@ -103,19 +111,25 @@ La période minimale d’abonnement commence à la date de la commande et se ter
 
 Au terme du contrat de location, le Locataire s’engage à restituer, en bon état de fonctionnement, la trottinette louée ainsi que ses accessoires au plus tard 2 semaines de la fin du contrat de location. En cas de retard, le tarif en vigueur sera appliqué pour compenser le retard de restitution du matériel. Le Loueur pourra facturer par jours de retard jusqu’à restitution de la trottinette et de ses accessoires et pourra engager toutes poursuites judiciaires en cas de non-restitution au terme du contrat de location.
 
+<div class="page"/>
+
 ## Résiliation du contrat avant la fin de la durée minimale du contrat
 
-Passé le délai de rétractation de 14 jours, vous pouvez résilier le contrat au bout de 8 mois en payant 195 € en nous signalant et en nous retournant le matériel que vous utilisez.
-Vous pouvez également acheter le scooter que vous utilisez à tout moment pendant la durée du contrat.
-tel que défini dans la section intitulée « Option d'achat»
+Passé le délai de rétractation de 14 jours, vous pouvez résilier le contrat sous certaines conditions :
+
+- Au bout de 8 mois et en réglant les 195 €, vous devenez propriétaire et conservez la trottinette.
+- Au bout de 8 mois, en nous signalant que vous souhaitez résilier votre abonnement et nous retourner la trottinette électrique dans un état d'utilisation correcte qui sera validé après envoi de photographies de l'état général de celle-ci.
+- Vous pouvez également acheter la trottinette que vous utilisez à tout moment pendant la durée du contrat, en payant les frais mensuels restants + 29 €
 
 ## Vol
 
 En cas de vol, le Locataire devra déposer plainte auprès des services de police, contacter son **assurance** et avertir sans délai Augment.Eco en lui présentant l’original du dépôt de plainte.
 
-**Si la trottinette électrique est perdue ou volée, vous devez payer les frais mensuels pour les mois restants de la période du contrat et le prix de retour de la trottinette électrique si vous n’avez pas souscrit à une assurance vol.Merci de nous contacter afin de vous proposer les différentes options pour continuer votre contrat d'abonnement.**
+Sans assurance contre le vol, le locataire reste redevable des mensualités restantes ou peut s'affranchir de la franchise de 350€.Cette franchise honorée, l'envoie d'une nouvelle trottinette permettra de continuer l'abonnement.
 
-<div class="page"/>
+A défaut de non réglement des mensualités après la période légale de 60 jours, nous demanderons l'inscription au fichier national FICP de la banque de France.
+
+**Si la trottinette électrique est perdue ou volée, vous devez payer les frais mensuels pour les mois restants de la période du contrat et le prix de retour de la trottinette électrique si vous n’avez pas souscrit à une assurance vol.Merci de nous contacter afin de vous proposer les différentes options pour continuer votre contrat d'abonnement.**
 
 ## Responsabilité et assurance
 
@@ -128,6 +142,12 @@ L’assurance contre le vol et les dégradations est à **la charge du Locataire
 Pour éviter cela, vous devez souscrire un contrat spécifique EDPM (Engin de Déplacement Personnel Motorisé).
 
 Avec les gyropodes et les hoverboards, les trottinettes électriques font partie des véhicules que l’on regroupe sous le nom de NVEI (Nouveaux Véhicules Électriques Individuels). Depuis un décret d’octobre 2019, il est obligatoire d’assurer ces véhicules uniquement propulsés par un moteur. Si vous êtes contrôlé sur un véhicule non assuré, vous pouvez écoper d'une amende de 500 euros pour une première infraction et le montant de la contravention pourra atteindre 3 750 euros en cas de récidive.
+
+<div class="page"/>
+
+## Revente
+
+En cas de revente ou de depôt d’annonce afin de revendre une trottinette de la société Augmnent AB, une plainte pour “Recel de matériel de location” sera déposée auprès des autorités compétentes.L’annonce sera signalée et enregistrée dans le but de compléter le dossier de plainte. La pièce d’identité et les coordonnées du locataire seront transmises auprès du service contentieux et également données au service compétent. Chaque trottinette est attribuée d’un numéro de série affilié au contrat du locataire. En cas de revente, la trottinette ne sera pas utilisable par un acheteur potentiel et ce numéro nous permettra de tracer le locataire ayant commis le délit de recel de matériel de location.
 
 ## Accidents
 
@@ -143,8 +163,6 @@ Si d'autres dommages se produisent, nous facturons des frais de réparation pour
 
 Dans le cadre de la relation contractuelle établie entre l’Usager et Augment.Eco, nous souhaitons vous assurer d’une communication par mails de qualité. Ceci pour suivre la pertinence de la réception de ces informations par l’Usager. À cet égard, nous suivons les statuts des mails dans leur réception par l’Usager ainsi que la confirmation de lecture par ses soins. Lors de la signature par l’Usager du Contrat de location, il est explicitement mentionné le consentement éclairé de celui-ci sur le suivi des mails échangés.
 
-<div class="page"/>
-
 ## Caractéristiques des produits
 
 Les produits proposés sont décrits et présentés avec la plus grande exactitude possible. Toutefois, si des erreurs ou omissions ont pu se produire quant à cette présentation, la responsabilité de Augment Mobility Ab ne pourrait être engagée. Les photographies ne sont pas contractuelles
@@ -152,6 +170,8 @@ Les produits proposés sont décrits et présentés avec la plus grande exactitu
 ## Mise à niveau de la trottinette électrique
 
 Si vous le souhaitez, vous pouvez remplacer gratuitement la trottinette électrique que vous utilisez après une période de contrat de 18 mois via les outils de communication du service client Augment.eco par une nouvelle, non utilisée. Ou après 12 mois en payant 125 €. La mise à niveau de la trottinette électrique démarre une nouvelle période contractuelle minimale de 24 mois.
+
+<div class="page"/>
 
 ## Option d’achat de la trottinette électrique
 
@@ -173,14 +193,15 @@ Si la trottinette électrique retournée est invendable, vous serez responsable 
 
 ## Notifications relatives au Service et à votre droit de résiliation en cas de changements
 
-Vous devez vous assurer qu'Augment dispose de coordonnées à jour pour vous et l'utilisateur à qui
-que vous avez mis à disposition la trottinette électrique. Augment Mobility Ab vous enverra des notifications relatives au contrat, telles que des informations sur les retards de paiement ou des modifications du service de l'e-mail,l'adresse ou le numéro de téléphone portable que vous avez fourni par voie électronique.
+Vous devez vous assurer qu'Augment Ab dispose de coordonnées à jour pour vous et l'utilisateur à qui vous avez mis à disposition la trottinette électrique. Augment Mobility Ab vous enverra des notifications relatives au contrat, telles que des informations sur les retards de paiement ou des modifications du service de l'e-mail, l'adresse ou le numéro de téléphone portable que vous avez fourni par voie électronique.
+
 Le Service et ses fonctionnalités ou les conditions applicables peuvent changer. Si le changement concerne votre préjudice, vous avez le droit de résilier le Service immédiatement dans un délai d'un mois après avoir été notifié d'un changement important au Service ou de tout autre changement du Service.
 
-Nous vous informerons de tout changement important dans le contenu du Service au moins un mois
-avant le changement. Les nouvelles conditions générales s'appliqueront à compter de leur date d'entrée en vigueur.
+Nous vous informerons de tout changement important dans le contenu du Service au moins un mois avant le changement. Les nouvelles conditions générales s'appliqueront à compter de leur date d'entrée en vigueur.
 
 Si le changement résulte d'un changement de législation ou d'une décision d'une autorité publique, Augment Mobility Ab a le droit de mettre en œuvre le changement à partir de la date à laquelle le changement de loi ou la décision de l'autorité entre en vigueur.
+
+<div class="page"/>
 
 ## Droits immatériels
 
@@ -202,4 +223,4 @@ Si l'exécution du contrat est empêchée ou retardée en raison d'un cas de for
 
 Les présentes Conditions Générales de Vente seront exécutées et interprétées conformément au droit Français. Les parties rechercheront en cas de litige un accord amiable prioritairement à toute action judiciaire. Nous vous prions à cette fin de contacter notre service client via formulaire de contact ou Chat, un responsable du service clientèle pourra également vous contacter par téléphone. Nos conseillers sont à votre disposition du lundi au samedi de 9 à 18 h heure locale française (GMT+1). Plateforme de la Commission européenne relative au règlement extrajudiciaire des litiges : [http://ec.europa.eu/consumers/odr](http://ec.europa.eu/consumers/odr)
 
-Notre entreprise adhère au Code Déontologique de la FEVAD (Fédération du E-commerce et de la Vente A Distance) et à son système de médiation. Pour de plus
+Notre entreprise adhère au Code Déontologique de la FEVAD (Fédération du E-commerce et de la Vente A Distance) et à son système de médiation.
