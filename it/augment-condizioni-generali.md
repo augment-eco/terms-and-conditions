@@ -115,6 +115,8 @@ La risoluzione del contratto di noleggio è consentita solo per i seguenti motiv
 
 Al termine del contratto di noleggio, l’utilizzatore si impegna a restituire, in buono stato di funzionamento, il monopattino elettrico noleggiato e i suoi accessori al massimo entro 2 settimane dalla fine del contratto di noleggio. In caso di ritardo, sarà applicata la tariffa in vigore per compensare il ritardo nella restituzione del monopattino elettrico. Il Locatore può fatturare i giorni di ritardo fino alla restituzione del monopattino e dei suoi accessori, e può avviare qualsiasi procedimento giudiziario in caso di mancata restituzione al termine del contratto di noleggio.
 
+<div class="page"/>
+
 ## Articolo 13 - Furto o smarrimento
 
 In caso di furto, l'utilizzatore deve presentare un reclamo ai servizidi polizia, contattare **la propria assicurazione** e avvisare Augment.Eco senza indugio o ritardo presentando l'originale della denuncia.
@@ -159,9 +161,13 @@ Se ha stipulato un contratto online o per telefono, ha il diritto di annullare l
 
 Se ha deciso di rescindere dal contratto, deve segnalarlo entro 14 giorni dall'inizio del contratto e restituire il monopattino elettrico entro i termini previsti. In ogni caso e’ possibile aprire la scatola contenente ilmonopattino elettrico e conoscerne ilcontenuto prima del reinvio, se lo desidera.
 
-## Articolo 19 - Risoluzione del contratto prima della fine del periodo contrattuale
+## Articolo 19 - Risoluzione del contratto prima della scadenza del periodo minimo contrattuale di mesi 24
 
-Dopo ilperiodo di recesso, è possibile risolvere ilcontratto dopo 8 mesi pagando 195 € avvisandoci e restituendoci il monopattino elettrico in utilizzo. Può anche decidere di acquistare il monopattino elettrico in utilizzo in qualsiasi momento durante il periodo contrattuale come definito nella sezione "Possibilità di acquistare il monopattino elettrico".
+Dopo il periodo di recesso di 14 giorni di calendario puoi recedere dal contratto a determinate condizioni, stabilite di seguito:
+
+- Dopo 8 mesi e pagando la quota di 195€, diventi effettivo e legale proprietario e avrai il monopattino elettrico Augment.
+- Oppure, sempre dopo 8 mesi, comunicandoci che desideri annullare l’abbonamento e ridare a noi il monopattino elettrico in uno stato di corretto utilizzo che verrà convalidato dopo l’invio di fotografie in buona risoluzione di profilo e non, assicurandoci le condizioni generali del monopattino in buono stato.
+- Puoi anche acquistare il monopattino elettrico che stai utilizzando in qualsiasi momento durante il periodo di validità del contratto, pagando la(e) restante(i) quota(e) mensile(i), più 29,00€ per la procedura amministrativa di riscatto del monopattino elettrico.
 
 ## Articolo 20 - Diritti immateriali
 
