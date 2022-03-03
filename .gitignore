@@ -1,3 +1,5 @@
 .DS_Store
 *.pdf
 *.odt
+*.zip
+*-old.md
