@@ -71,7 +71,7 @@ In the event of a theft claim You must:
 
 ### Deductible
 
-Deductible for the e-Scooter without a battery is 100 € and with a battery 150 €. The deductible for the battery alone is 125 €. The deductible will be invoiced when the theft or loss is reported and a replacement e-Scooter will be delivered.
+Deductible for the e-Scooter without a battery is 100 € and with a battery 150 €. The deductible for the battery alone is 125 €. The deductible will be invoiced when the theft or loss is reported.
 
 ### Minimum Contract period
 
