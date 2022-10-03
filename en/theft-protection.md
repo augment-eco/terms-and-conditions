@@ -19,6 +19,8 @@ a theft claim to Us:
 - or a photo of the key and lock, provided we can identify the lock;
 - or the remains of the lock when Your e-Scooter was stolen.
 
+If you don’t have Augment battery lock, store the battery unmounted in the locked space for example at your home, when you leave your e-scooter unattended or store it in shared space.
+
 ### At Home
 
 - When Your e-Scooter is kept in Your garage or outbuilding, the doors and windows must be locked. Doors must be locked, a closed shackle padlock, or a Chubb deadlock.
