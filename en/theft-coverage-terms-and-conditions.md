@@ -1,4 +1,4 @@
-# AUGMENT THEFT PROTECTION
+# AUGMENT THEFT COVERAGE
 
 We will cover Your Augment e-Scooter by delivering you an Augment replacement e-scooter with or without a battery, provided You have complied with the Security conditions, when Your e-Scooter is stolen from Your Home or away from Your Home.
 
@@ -75,13 +75,13 @@ Deductible for the e-Scooter without a battery is 100 € and with a battery 150
 
 ### Minimum Contract period
 
-After the expiry of the Minimum Contract Term of 12 months, you can terminate the theft protection service by 30 days written notice.
+After the expiry of the Minimum Contract Term of 12 months, you can terminate the Theft Coverage service by 30 days written notice.
 
 ### Billing
 
-The Theft Protection is invoiced monthly using the payment method You have provided.
+The Theft Coverage service is invoiced monthly using the payment method You have provided.
 
-If You fail to pay Your overdue bills despite having received a payment reminder, Augment has a right terminate Your Theft Protection service and collect a reasonable compensation from You for the damage or costs caused by the premature termination of this minimum contract period agreement.
+If You fail to pay Your overdue bills despite having received a payment reminder, Augment has a right terminate Your Theft Coverage service and collect a reasonable compensation from You for the damage or costs caused by the premature termination of this minimum contract period agreement.
 
 ### Force majeure
 
@@ -89,4 +89,4 @@ Augment is freed from its contractual obligations and liability for damages inso
 
 ### Validity of the terms and conditions
 
-These terms and conditions are valid from October 3rd, 2022, until further notice.
+These terms and conditions are valid from October 4th, 2022, until further notice.
