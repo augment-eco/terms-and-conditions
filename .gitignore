@@ -2,5 +2,6 @@
 *.pdf
 *.odt
 *.docx
+*.docx#
 *.zip
 *-old.md
