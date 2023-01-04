@@ -1,170 +1,137 @@
-# AUGMENT.ECO PALVELUSOPIMUS
+# AUGMENT PALVELUSOPIMUS
 
-## Määritelmät ja Soveltamisala
+## Soveltamisala
 
-Tällä Sopimuksella on määritelty Sopijoiden eli asiakkaan (myöhemmin Sinä) ja Augment Mobility Ab:n sekä muiden Augment -ryhmään kuuluvien yrityksien (myöhemmin yhdessä Augment) oikeudet ja velvollisuudet koskien Augment.Eco sähköpotkulautojen (myöhemmin Skuutti) käyttöä (myöhemmin Palvelu) ja niihin liittyvien lisäpalveluiden käyttöä (myöhemmin Lisäpalvelu).
+Tällä Sopimuksella on määritelty Sopijoiden eli asiakkaan (myöhemmin Sinä) ja Augment Mobility Ab:n sekä muiden Augment -ryhmään kuuluvien yrityksien (myöhemmin yhdessä Augment) oikeudet ja velvollisuudet koskien Augmentin tämän Sopimuksen mukaista palvelua (myöhemmin Palvelu) ja siihen sisältyvää sähköpotkulautaa (myöhemmin Skuutti).
 
-Halutessasi voit antaa skuutin samassa osoitteessa asuvan perheenjäsenen käyttöön (myöhemmin Käyttäjä). Muistathan, että olet aina kuitenkin vastuussa skuutista, palvelumaksuista ja sen käytöstä. Voit rekisteröidä skuutin vakituisen käyttäjän Augment.Eco itsepalvelusivuston kautta. Huomaathan, että käytössäsi olevan skuutin vuokraaminen ei ole sallittua.
+Sinä olet vastuussa Skuutista, sen Käytöstä ja Palvelumaksuista. Halutessasi voit antaa skuutin samassa kotitaloudessa asuvan toisen henkilön käyttöön (myöhemmin Käyttäjä).
 
 ## Sopimuksen alkaminen
 
-Palvelua koskeva sopimus voidaan laatia kirjallisesti tai sähköisesti. Palvelu tulee voimaan Augmentin hyväksyttyä Sinun tilauksesi. Halutessasi voit ladata itsellesi sopimuksen alkamishetkellä voimassa olevan palvelusopimuksen sähköisessä muodossa.
-
-Augmentilla on sopimusta tehtäessä oikeus tarkistaa Sinun luottotietosi. Tarvittaessa Augment voi pyytää sinulta ennen tilauksen hyväksymistä ennakkomaksun.
-
-## Minimisopimuskausi
-
-Minimisopimuskausi alkaa tilauspäivästä, ja päättyy tilauspäivästä 24 kuukauden ja kahden viikon kuluttua (päivissä ilmoitettuna minimisopimuskausi on 744 päivää, 2x365+14 päivää).
-
-Mikäli haluat päättää tämän sopimuksen minimisopimusajan jälkeen:
-
-- Ole yhteydessä Augmentin asiakaspalveluun sähköpostilla tai itsepalvelusivuston välityksellä ennen 24 kk sopimusjakson päättymistä
-- Palauta käytössäsi oleva skuutti asiakaspalvelumme antamien ohjeiden mukaisesti viikon sisällä sopimuksesi päättymisestä. Voit palauttaa skuutin veloituksetta.
-
-Ellet irtisano Sopimusta tai palauta skuuttia ennen minimisopimuskauden päättymistä, niin Sopimus jatkuu toistaiseksi voimassa olevana kuukauden irtisanomisajalla.
+Tämä Sopimus laaditaan sähköisesti. Sopimus alkaa Augmentin hyväksyttyä Sinun tilauksesi. Voit ladata tämän sopimuksen sähköisessä muodossa Augmentin verkkosivuilta.
 
 ## Käyttöösi toimitettava Skuutti
 
-Voit valita itsellesi sopivan skuutin Augment.Econ valikoimasta. Augment toimittaa sinulle uuden käyttämättömän skuutin 24kk minimisopimusajan alussa.
-Skuutti on Augmentin omaisuutta sopimusaikana, joten säilytäthän skuutin alkuperäisenä. Älä poista skuutista Augment:n logoja, maalaa sitä, kiinnitä skuuttiin tarroja tai muutenkaan muuta skuuttia.
+Augment toimittaa Sinulle uuden käyttämättömän Skuutin Minimisopimuskauden alussa.
 
-<div class="page"/>
-
-## Skuuttiin päivittäminen uuteen
-
-Halutessasi voit päivittää veloituksetta käytössäsi olevan Skuuttiin uuteen käyttämättömään skuuttiin 18 kk kuluttua tämän sopimuksen alkamisesta Augment.eco -itsepalvelusivuston kautta. Tai 12 kk jälkeen maksamalla 125 €. Skuuttiin päivittäminen aloittaa uuden 24kk minimisopimuskauden.
-
-## Mahdollisuus ostaa skuutti omaksi
-
-Voit ostaa milloin tahansa käytössäsi olevan Skuuttiin omaksesi maksamalla jäljellä olevat minimisopimuskauden kuukausimaksut ja 29 euron lunastushinnan. Tämä sopimus lakkaa olemasta voimassa ostettuasi skuutin.
-
-Esimerkiksi voit ostaa halutessasi Skuuttiin omaksesi 20 kuukauden jälkeen maksamalla minimisopimusajan jäljellä olevat 4 kuukauden kk-maksut ja 29 euron lunastushinnan. Maksettava kk- maksu määräytyy valitsemasi mallin ja maksuvälin mukaisesti.
+Skuutti on Augmentin omaisuutta Sopimuksen voimassaoloaikana. Säilytä Skuutin alkuperäisenä. Älä poista Skuutista Augment:n logoja, maalaa sitä, kiinnitä Skuuttiin tarroja tai muutenkaan muuta Skuuttia. Augmentilla on oikeus periä Sinulta kustannukset, jotka aiheutuvat Skuutin palauttamisesta alkuperäiseksi.
 
 ## Skuutin käyttäminen
 
-Augment.Eco skuutit ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi kuten määritelty tieliikennelaissa.
+Sähköpotkulaudat ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi kuten tieliikennelaissa on määritelty. Varmista, että Sinä ja Skuutin mahdolliset muut Käyttäjät tuntevat Skuutin käyttämiseen liittyvät liikennesäännöt, ja osaavat käsitellä Skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itselleen tai muille liikenteessä kulkijoille.
 
-Varmista ennen Skuutin käyttöönottoa, että Sinä tunnet skuutin käyttämiseen liittyvät liikennesäännöt, ja että osaat käsitellä Skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itsellesi tai muille liikenteessä kulkijoille.
+Älä käytä viallista tai vahingoittunutta Skuuttia. Sinä vastaat, että käytössäsi oleva Skuutti on lakien mukaisessa kunnossa.
 
-Säätila voi vaikuttaa skuutin käsiteltävyyteen ja jarrutusmatkaan merkittävästi. Kypärä on Sinun tärkein turvavarusteesi. Augment suosittelee käyttämään kypärää aina skuutilla ajettaessa.
+Skuuttia ei saa käyttää kilpailu-, maastoajoon tai temppuiluun. Temppuiluksi katsotaan esimerkiksi sudittelu kaasulla tai jarrulla, yhdellä renkaalla ajaminen, keuliminen ja hyppiminen. Skuutin edelleen vuokraaminen tai Ammattikäyttö ilman Augmentin erillistä lupaa ei ole sallittua.
 
-- Skuuttia ei saa käyttää matkustajien kuljettamiseen.
-- Huolehdi, ettet ylitä skuutille ilmoitettua ylintä käyttöpainoa.
-- Augment.Eco skuuttia ei saa käyttää kilpailu-, maastoajoon tai temppuiluun. Temppuiluksi katsotaan esimerkiksi sudittelu kaasulla tai jarrulla, yhdellä renkaalla ajaminen, keuliminen ja hyppiminen.
-- Ethän aja skuutilla syviin vesilätäköihin tai muuten upota skuutin moottoria tai akkua veden alle
-- Aja ainoastaan sallituilla alueilla käyttäen korkeintaan sallittua nopeutta.
-- Matkapuhelimen käyttäminen skuutilla ajettaessa ei ole turvallista.
-- Skuuttiin käyttäminen humaltuneena on kiellettyä.
-- Parkkeeraathan skuutin ainoastaan sallituille alueille.
-- Muista lukita skuutti asianmukaisesti, jos et ole skuutin välittömässä läheisyydessä
-- Ethän jätä skuuttia ulos useiksi päiviksi, sillä sade ja ilmankosteuden vaihtelut ulkona voivat aiheuttaa vikoja skuuttiin. Voit säilyttää skuuttia turvallisesti ja vaivattomasti sisätiloissa taitettuna.
-- Muista ladata skuutin akku ajoissa. Mikäli skuutin akku loppuu kesken, voit käyttää skuuttia tavallisena potkulautana. Huomioithan, että akun latauksen laskiessa E- scootin suorituskyky myös laskee jonkin verran.
-- Mikäli skuutin akku kuumenee poikkeuksellisen paljon latauksen tai käytön yhteydessä, ole yhteydessä asiakaspalveluumme.
+## Skuutin rikkoutuminen
 
-Mikäli luovutat Skuutin jonkun toisen käyttöön, varmista, että Käyttäjällä on riittävät tiedot ja taidot skuutin käyttämiseen.
+Ilmoita Skuuttiin tulleesta viasta tai vahingosta Asiakaspalvelun live chat:n välityksellä. Ilmoituksen jälkeen Augment lähettää Sinulle veloituksetta Vaihtoskuutin seuraavana työpäivänä. Lähetyspäivästä laskettuna vaihtoskuutin toimitusaika on normaalisti 1-3 työpäivää.
 
-## Vikakorjaukset
+Vaihtoehtoisesti voit korjata itse rikki menneen Skuutin. Tällöin toimitamme Sinulle veloituksetta korjaamiseen tarvittavat varaosat.
 
-Voit ilmoittaa Skuuttiin mahdollisesti tulevasta viasta itsepalvelusivustomme kautta:
+<div class="page"/>
 
-Mikäli vian korjaaminen edellyttää Skuutin korvaamista toisella, niin huoltomme lähettää sinulle vaihtokuutin seuraavana työpäivänä. Vaihtoskuutin toimitusaika on normaalisti 1-3 työpäivää.
+Palvelumme kattaa:
 
-Vastaanotettuasi korvaavan skuutin, lähetä aikaisemmin käytössäsi ollut skuutti välittömästi korkeintaan viikon sisällä takaisin Augment.Eco:lle.
+- Kaikki viat mukaan lukien kuluvat osat kuten renkaat, jarrut, moottori ja akku
+- Normaalikäytöstä poikkeavat odottamattomat vahingot esim. skuutin rikkoutuminen törmäyksen tai kaatumisen takia. Näissä tapauksissa korvattavien vahinkojen määrä on rajoitettu maksimissaan kahteen tapaukseen vuosittain.
 
-## Kuluvien osien kuten renkaiden ja akun vaihtaminen
+Augmentilla on oikeus periä Sinulta tahallaan aiheutettujen vikojen korjaamisesta aiheutuneet kustannukset. Augment ei vastaa Sinulle tai kolmansille osapuolille Skuutista tai sen käytöstä aiheutuneita henkilö-, irtaimisto- tai kiinteistövahinkoja. Varmista, että Sinulla on niiden varalta voimassa olevat tapaturma- ja vastuuvakuutukset.
 
-Augment.Eco huoltotakuu kattaa myöskin kuluvat osat kuten renkaat, jarrut ja akun. Palvelumme ei kata kuluvien osien korjaamista, mikäli kuluminen on aiheutunut tämän sopimuksen ”Skuutin käyttäminen” -kohdan vastaisesta käytöstä.
+## Rikki menneen Skuutin palauttaminen
 
-Vaihdamme Sopimusaikana käytössäsi olevan Skuuttiin akun uuteen, mikäli akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista.
+Vastaanotettuasi Vaihtoskuutin, lähetä rikki mennyt Skuutti Augmentille noudattaen Asiakaspalvelulta saamiasi ohjeita. Rikki menneen Skuutin lähettäminen on veloituksetonta.
 
-Ilmoita mahdollisesta korjaustarpeesta ajoissa, jotta voimme esimerkiksi toimittaa sinulle korvaavat renkaat tai järjestää renkaiden vaihdon ajoissa. Voit tehdä ilmoituksen kuluvien osien korjaustarpeesta itsepalvelusivustomme kautta.
+Ellet lähetä rikki mennyttä Skuuttia viikon kuluessa, Augmentilla on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksu.
 
-## Vahingoista aiheutuneiden vaurioiden korjaaminen
+## Skuutin akku ja sen lataaminen
 
-Mikäli Skuutti vaurioituu, Sinun tai Käyttäjän toiminnasta johtuvan odottamattoman vahingon takia, Augment Palvelu kattaa niiden korjaamisen. Huomaathan, että Sopimukseen sisältyvien veloituksettomien vahinkokorjauksien määrä on rajoitettu maksimissaan kahteen tapaukseen vuosittain.
+Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät Skuutin käyttöohjeesta. Lataa Skuutin akku vähintään 2 kuukauden välein. Älä lataa tai käytä akkua, jossa on fyysisiä vaurioita, se kuumentuu tavallista enemmän, se pitää omituista ääntä tai se vuotaa.
 
-Mikäli vahinkoja sattuu useampia, veloitamme vahinkojen korjaamisesta palveluhinnastomme mukaisen korjausmaksun. Palvelumme ei kata tahallisesti aiheutettujen vaurioiden korjaamista, eikä kolmannen osapuolen aiheuttamien vaurioiden korjaamista.
+Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista, Augment vaihtaa akun veloituksetta. Augmentilla ei ole velvollisuutta vaihtaa akkua, mikäli sitä ei ole säilytetty tai ladattu ohjeiden mukaisesti.
 
-Voit ilmoittaa Skuuttiin mahdollisesta vahingosta itsepalvelusivustomme kuten vioistakin.
+## Varastettu Skuutti ja Skuuttiin kohdistuva ilkivalta.
 
-Älä käytä viallista tai vahingoittunutta Skuuttia. Sinun vastuullasi on, että käytössäsi oleva Skuutti on lakien mukaisessa kunnossa.
+Mikäli Skuuttisi varastetaan, tee asiasta viikon kuluessa ilmoitus poliisille ja ole yhteydessä Asiakaspalveluun live chat:n välityksellä.
 
-## Onnettomuudet
+Augmentilta on saatavana lisämaksullinen Varkausturva-lisäpalvelu varkauksien varalle. Ellei Sinulla ole Varkausturva-lisäpalvelua, veloitamme Sinulta varastetusta Skuutista 250 € ilman akkua, 360Wh akun kanssa 350 € ja isompien akkujen kanssa 450 €. Maksun suorittamisen jälkeen toimitamme Sinulle veloituksetta Vaihtoskuutin. Varkaus ei päätä tätä Sopimusta.
 
-Augment ei vastaa sinulle tai kolmansille osapuolille Skuutista tai sen käytöstä aiheutuneita vahinkoja. Varmista, että sinulla on voimassa olevat asianmukaiset vakuutukset. Paras vaihtoehto on Augment.Eco Skuutti -vakuutus.
+## Skuutin päivittäminen uuteen
 
-Mikäli joudut onnettomuuteen, ilmoita asiasta välittömästi poliisille ja sen jälkeen viivytyksittä korkeintaan viikon sisällä Augmentille itsepalvelusivustomme kautta tai ottamalla yhteyttä asiakaspalveluumme.
+Voit päivittää käytössäsi olevan Skuutin uuteen 12 kk jälkeen maksamalla 125 € tai veloituksetta 18 kk kuluttua Sopimuksen alkamisesta. Skuutin päivittäminen aloittaa uuden 24kk minimisopimuskauden.
 
-Jos loukkaannut skuutti -onnettomuudessa, tapaturmavakuutuksesta tai sairauskuluvakuutuksesta voi olla apua. Jos auto tai muu moottoriajoneuvo on mukana kolarissa, saat korvausta ajoneuvon liikennevakuutuksesta. Kotivakuutukseen kuuluva vastuuvakuutus puolestaan korvaa, jos Sinä ajat vahingossa esimerkiksi jalankulkijan päälle.
+Saatuasi uuden skuutin lähetä vanha Skuutti Augmentille Asiakaspalvelun ohjeita noudattaen. Ellet lähetä vanhaa Skuuttia viikon sisällä uuden vastaanottamisesta, Augmentilla on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksun.
 
-## Skuutin häviäminen ja varkaudet
+<div class="page"/>
 
-Skuutti on Sinun vastuullasi. Mikäli Skuutti häviää tai varastetaan, Sinun tulee maksaa Augmentille minimisopimusajan jäljellä olevien kuukausien kuukausimaksut ja Skuutin lunastushinta. Ilmoita varkauksista aina poliisille.
+## Mahdollisuus lunastaa Skuutti omaksi
 
-Suurin osa kotivakuutuksista korvaa skuutti -varkaudet.
+Minimisopimuskauden jälkeen voit lunastaa käytössäsi olevan Skuutin maksamalla 49 euron lunastushinnan. Halutessasi voit lunataa Skuutin omaksesi myös ennen Minimisopimuskauden päättymistä maksamalla jäljellä olevat minimisopimuskauden Palvelumaksut ja 49 euron lunastushinnan.
 
-## Palveluveloitukset
+Lunastettuasi Skuutin omaksesi tämä Sopimus lakkaa olemasta voimassa.
 
-Sopimuksen mukaiset palveluveloitukset veloitetaan etukäteen, kuten olet valinnut palvelun tilauksen yhteydessä. Valittavat maksuvälit ovat 1, 3, 12 ja 24 kk.
+## Minimisopimuskausi
 
-Kuukausimaksun eräpäivä määräytyy tilauspäivän mukaan. Kuukausimaksut veloitetaan etukäteen 30 päivän monikertojen välein. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
+Sopimusaika on vähintään 24 kuukautta Sopimuksen alkamisesta. Ensimmäiset 24kk Sopimus on voimassa määräaikaisena. Tämän jälkeen Sopimus jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
 
-Varmistathan, että sinun luottokortilla tai pankkitilillä on riittävästi katetta maksujen suorittamiseen.
+Mikäli haluat päättää Sopimuksen määräaikaisen sopimuksen lopussa, ole yhteydessä Asiakaspalveluun ennen määräajan päättymistä. Sinulla on mahdollisuus irtisanoa Sopimus aikaisintaan 8 kuukauden kuluttua sen alkamisesta olemalla yhteydessä Asiakaspalveluun ja maksamalla 195 €. Maksun suorittamisen jälkeen Skuutti siirtyy omistukseesi ja tämä Sopimus lakkaa olemasta voimassa.
 
-Liittymäsopimuksen alaiset saatavat on pantattu Collector Bank AB:n hyväksi pantinsaajana ja kukaan muu kuin pantinsaaja ei saa tehdä muutoksia maksuohjeisiin.
+Augmentilla on oikeus irtisanoa tämä sopimus 30 päivän irtisanomisajalla.
+
+## Luottotietojen tarkistaminen
+
+Augmentilla on oikeus tarkistaa luottotietosi ennen Sopimuksen alkamista tai tarvittaessa Sopimuksen voimassaoloaikana. Tarvittaessa Augment voi pyytää Sinulta ennen tilauksen hyväksymistä ennakkomaksun.
+
+## Etämyynnin peruutusoikeus
+
+Verkossa tai puhelimessa tekemälläsi Sopimuksella on 14 vuorokauden etämyynnin peruuttamisoikeus. Jos päätät peruuttaa tekemäsi Sopimuksen, ole yhteydessä Asiakaspalveluun live chatin välityksellä 14 vuorokauden sisällä Sopimuksen alkamisesta. Peruutettuasi Sopimuksen lähetä Skuutti alkuperäisessä uutta vastaavassa kunnossa Augmentille viikon kuluessa saamiasi ohjeita noudattaen.
+
+Voit avata Skuutti-paketin ja tutustua rauhassa sen sisältöön. Mikäli kuitenkin otat Skuutin käyttöösi peruutusaikana ja peruutat tekemäsi Sopimuksen, vastaat Skuutin arvon alentumisesta. Jos palautettu Skuutti on myyntikelvoton, vastaat Skuutin koko arvosta.
+
+## Palvelumaksut
+
+Sopimuksen mukaiset Palvelumaksut veloitetaan etukäteen valitsemasi maksuvälin (1, 3 tai 24kk) mukaisesti. Varmistathan, että Sinun maksukortilla tai pankkitilillä on riittävästi katetta maksujen suorittamiseen.
+
+Palvelumaksun eräpäivä määräytyy tilauspäivän mukaan. Ole yhteydessä Asiakaspalveluun, mikäli haluat vaihtaa eräpäivää. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
+
+Tämän Sopimuksen alaiset saatavat on pantattu Danske Bank AB:n hyväksi. Kukaan muu kuin pantinsaaja ei saa tehdä muutoksia maksuohjeisiin.
+
+<div class="page"/>
 
 ## Maksutietojen ylläpitäminen
 
-Mikäli kuukausimaksujen maksamiseen käyttämäsi maksuvälineen tiedot muuttuvat, esim. kun saat uuden luottokortin vanhentuneen tilalle päivitäthän tiedot viipymättä Augment.Eco -itsepalvelusivuston kautta ennen seuraavan Palvelumaksun erääntymistä.
+Mikäli käyttämäsi maksukortin / pankkitilin tiedot muuttuvat, päivitä uudet tiedot Augmentin itsepalvelusivustolle ennen seuraavan Palvelumaksun erääntymistä.
 
-Luottokortti- ja muut maksuvälinetiedot tallennetaan vahvasti salattuina käytössämme olevan laskutusjärjestelmän tietokantaan.
+Maksukortti- ja muut maksuvälinetiedot tallennetaan vahvasti salattuina käyttämiemme maksun välittäjien (Adyen / Stripe) tietokantaan.
 
-## Palvelun käytön rajoittaminen
+## Palvelun käytön sulkeminen ja rajoittaminen
 
-Augmentilla on velvollisuus pyynnöstä sulkea, rajoittaa tai estää palvelun käyttö, jos Sinä, Käyttäjä, toimivaltainen viranomainen kuten Poliisi tai vakuutusyhtiö niin vaatii.
+Augmentilla on velvollisuus pyynnöstä sulkea, rajoittaa tai estää palvelun käyttö, jos Sinä tai toimivaltainen viranomainen kuten Poliisi tai vakuutusyhtiö niin vaatii.
 
-Skuutin sulkemisella tarkoitetaan palvelusopimuksen kautta saatavien kaikkien palveluiden estämistä. Laitteen käytön rajoittamisella tarkoitetaan palvelusopimuksen kautta saatavan yhden tai useamman palvelun käytön estämistä.
+Skuutin käyttöä voidaan rajoittaa esimerkiksi siten, että Sinä voit ajaa sillä vain kävelyvauhtia, mutta et voi itse muuttaa maksiminopeutta. Augment voi lisäksi estää Skuutilla ajamisen määritellyillä alueilla.
 
-Skuutin käyttöä voidaan rajoittaa esimerkiksi siten, että Sinä voit ajaa sillä vain kävelyvauhtia, mutta et voi itse muuttaa nopeutta. Augment voi myöskin estää Skuutilla ajamisen kielletyillä alueilla.
+Augmentilla on oikeus rajoittaa Skuutin käyttöä, mikäli Sinulla on erääntyneitä Palvelumaksuja, Skuuttisi on varastettu, kadonnut tai sitä on oikeudettomasti käytetty taikka se on oikeudettomasti toisen hallussa.
 
-Augmentilla on oikeus myöskin rajoittaa Skuutin käyttöä, mikäli Skuutti on varastettu, kadonnut tai sitä on oikeudettomasti käytetty taikka se on oikeudettomasti toisen hallussa.
+Sulkemisella tarkoitetaan tämän Sopimuksen kautta saatavien kaikkien palveluiden estämistä. Käytön rajoittamisella tarkoitetaan Sopimuksen kautta saatavan yhden tai useamman palvelun käytön estämistä.
 
-Augment voi sulkea Palvelun taikka rajoittaa niiden käyttöä, jos
+Augment voi sulkea Palvelun, jos
 
 - Et ole maksanut kyseisen palvelun erääntynyttä maksua kahden (2) viikon kuluessa maksukehotuksen lähettämisestä,
-- Et ole maksanut muun palvelun erääntyneitä maksuja kahden (2) viikon kuluessa maksukehotuksen lähettämisestä; tällöin palvelua ei suljeta, mutta näiden palvelujen käyttö estetään tai rajoitetaan,
+- Et ole maksanut muun palvelun erääntyneitä maksuja kahden (2) viikon kuluessa maksukehotuksen lähettämisestä,
 - Se on tarpeen väärinkäytösten tai vahinkojen estämiseksi; tällöin palvelua ei suljeta, mutta muiden palvelujen käyttö estetään tai sitä rajoitetaan,
-- Et toimita Sopimuksen solmimisen yhteydessä vaadittua ennakkomaksua tai vakuutta,
 - Sinut on asetettu konkurssiin tai viranomainen on todennut Sinut muutoin maksukyvyttömäksi, etkä aseta vaadittua kohtuullista vakuutta,
 - Et kehotuksesta huolimatta noudata muita kuin maksuja koskevia Sopimuksen mukaisia velvollisuuksiaan.
 
 Augment ei sulje tai rajoita palvelun käyttöä maksujen laiminlyönnin vuoksi, jos voit osoittaa maksun laiminlyönnin johtuvan yllättävästä sairaudesta, muusta siihen verrattavasta, Sinusta riippumattomasta syystä ja erääntynyt maksu maksetaan yhden (1) kuukauden kuluessa maksukehotuksen lähettämisestä, tai olet tehnyt laskusta perustellun laskuhuomautuksen ja riidaton osa maksusta on maksettu määräaikana.
 
-## Etämyynnin peruutusoikeus
-
-Verkossa tai puhelimessa tekemälläsi Sopimuksella on 14 vuorokauden etämyynnin peruuttamisoikeus. Jos päätät peruuttaa tekemäsi Sopimuksen, tulee sinun ilmoittaa asiasta tai palauttaa käyttöön saamasi Skuutti Augmentille 14 vuorokauden sisällä Sopimuksen alkamisesta.
-
-Voit avata Skuutti paketin ja tutustua rauhassa sen sisältöön.
-
-Mikäli kuitenkin otat Skuutin käyttöösi peruutusaikana ja peruutat tekemäsi Sopimuksen, vastaat Skuutin arvon alentumisesta. Laitteen käyttöönotosta seuraava arvon alentuminen on 30 % Skuutin ostohinnasta.
-
-Ostohinta on määritelty tämän sopimuksen kohdassa **”Mahdollisuus ostaa Skuutti omaksi”**.
-
-Jos palautettu Skuutti myyntikelvoton, vastaat Skuutin koko arvosta. Skuutin käyttöönotosta seuraava arvon alentuminen tai myyntikelvottoman laitteen arvo laskutetaan Sinulta jälkikäteen.
-
-## Sopimuksen irtisanominen ennen sopimusajan päättymistä
-
-Peruuttamisajan jälkeen voit irtisanoa sopimuksen 8 kuukauden jälkeen maksamalla 195 € ilmoittamalla asiasta meille ja palauttamalla käytössäsi olevan laitteen meille.
-
-Voit myöskin ostaa käytössäsi olevan Skuuttiin omaksesi milloin tahansa sopimuksen voimassaoloaikana kuten määritelty kohdassa ”Mahdollisuus ostaa Skuutti omaksi”.
-
 ## Palveluun liittyvät ilmoitukset sekä Sinun irtisanomisoikeus muutostilanteessa
 
-Sinun on huolehdittava siitä, että Augmentilla on ajan tasalla olevat yhteystiedot Sinusta ja Käyttäjästä, jolle olet antanut Skuutin käyttöön.
+Sinun on huolehdittava siitä, että Augmentilla on Sinun ja Käyttäjän ajan tasalla olevat yhteystiedot.
 
-Augment lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai Palvelumuutoksista sähköisesti ilmoittamaasi sähköpostiosoitteeseen taikka matkaviestinliittymänumeroon.
+Augment lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai Palvelumuutoksista sähköisesti ilmoittamaasi sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
 
-Palvelun ja sen ominaisuudet tai sovellettavat ehdot voivat muuttua. Jos muutos on vahingoksesi, Sinulla on oikeus irtisanoa Palvelu päättyväksi heti kuukauden sisällä saatuasi tiedon olennaisesta Palvelua koskevasta muutoksesta.
+Palvelun ja sen ominaisuudet tai sovellettavat ehdot voivat muuttua. Jos muutos on vahingoksesi, Sinulla on oikeus irtisanoa Sopimus päättyväksi heti kuukauden sisällä saatuasi tiedon olennaisesta Palvelua koskevasta muutoksesta.
 
 Ilmoitamme olennaisista Palvelun sisällön muutoksista viimeistään kuukautta ennen muutosta. Palveluun sovelletaan uusia sopimusehtoja niiden voimaantulosta alkaen.
 
@@ -188,12 +155,30 @@ Jos sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi, ve
 
 ## Erimielisyydet
 
-Erimielisyydet tulee ensisijaisesti pyrkiä ensiksi ratkaisemaan Sopijoiden välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevasi kotipaikan käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
+Erimielisyydet tulee pyrkiä ratkaisemaan Sopijoiden välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevasi kotipaikan käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
 
-Sinulla on oikeus saattaa Sopimusta koskeva erimielisyys myös käsiteltäväksi Kuluttajariitalautakuntaan, jonka päätökset ovat luonteeltaan suosituksia.
+Sinulla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi Kuluttajariitalautakuntaan, jonka päätökset ovat luonteeltaan suosituksia.
 
-<div class="page"/>
+## Sopimusehtojen voimassaolo
 
-## Ehtojen voimassaolo
+Nämä sopimusehdot ovat voimassa Suomessa 1.1.2023 alkaen toistaiseksi.
 
-Nämä ehdot ovat voimassa 16.11.2021 alkaen toistaiseksi Suomessa. Sopimusehdot ovat saatavissa Augmentilta maksutta.
+## Määritelmät
+
+- Augment – Augment Mobility Ab tai Augment Mobility Ab:n kanssa samaan yritysryhmään kuuluva yritys
+- Skuutti – Palveluun kuuluva Augmentin sähköpotkulauta
+- Sopimus – Tämä sopimus
+- Palveluehdot – Tämän Sopimuksen ehdot
+- Käyttäjä – Tähän sopimukseen sisältyvän Skuutin käyttäjä – sinä tai joku Sinun kanssa samassa kotitaloudessa asuva, jolle olet antanut Skuutin käyttöön.
+- Käyttö – Skuutin käyttäminen liikkumiseen
+- Palvelumaksu – Tähän sopimukseen liittyvät käyttöveloitukset, joka veloitetaan 1,3 tai 24 kk välein
+- Minimisopimuskausi – Sopimusaika, minkä ajan Sopimus on voimassa määräaikaisena ja jonka jälkeen Sopimus jatkuu toistaiseksi voimassa olevana, ellet ole irtisanonut sitä ennen määräajan päättymistä
+- Sinä – asiakas, joka solmii palvelusopimuksen Augmentin kanssa. Tämän sopimuksen osapuolena olet aina vastuussa Skuutista, Palvelumaksuista ja Käytöstä.
+- Asiakaspalvelu – Augmentin asiakaspalvelu
+- Vaihtoskuutti – Sinulla käytössä ollut Skuuttia vastaava Augmentin korjaama ja tarkistama vaihtolaite. Vaihtoskuutit ovat Augmentin korjaamia ja tarkastamia. Vaihtoskuuteissa voi olla käytön jälkiä.
+- Peruutusoikeus – Lakisääteinen oikeus irtisanoa tämä Sopimus etämyyntilainsäädännön mukaisesti 14 päivän sisällä tilauksesta
+- Lisäpalvelut – Tähän Sopimukseen erikseen tarjottavat palvelut, jotka edellyttävät tämän Sopimuksen voimassaoloa
+- Kuluvat osat – Skuutin käytön yhteydessä normaalisti kuluvat osat kuten renkaat ja jarrupalat
+- Vika – Skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Skuutin käyttämistä tai rajoittaa sitä.
+- Vahinko – Käyttäjästä tai olosuhteista aiheutuva Skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
+- Ammattikäyttö – Skuutin käyttäminen tulonhankkimiseen esim. ruokalähetyksien toimittamiseen maksua vastaan
