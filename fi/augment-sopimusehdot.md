@@ -14,11 +14,11 @@ Tämä Sopimus laaditaan sähköisesti. Sopimus alkaa Augmentin hyväksyttyä Si
 
 Augment toimittaa Sinulle uuden käyttämättömän Skuutin Minimisopimuskauden alussa.
 
-Skuutti on Augmentin omaisuutta Sopimuksen voimassaoloaikana. Säilytä Skuutin alkuperäisenä. Älä poista Skuutista Augment:n logoja, maalaa sitä, kiinnitä Skuuttiin tarroja tai muutenkaan muuta Skuuttia. Augmentilla on oikeus periä Sinulta kustannukset, jotka aiheutuvat Skuutin palauttamisesta alkuperäiseksi.
+Skuutti on Augmentin omaisuutta Sopimuksen voimassaoloaikana. Säilytä Skuutti alkuperäisenä. Älä poista Skuutista Augment:n logoja, maalaa sitä, kiinnitä Skuuttiin tarroja tai muutenkaan muuta Skuuttia. Augmentilla on oikeus periä Sinulta kustannukset, jotka aiheutuvat Skuutin palauttamisesta alkuperäiseksi.
 
 ## Skuutin käyttäminen
 
-Sähköpotkulaudat ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi kuten tieliikennelaissa on määritelty. Varmista, että Sinä ja Skuutin mahdolliset muut Käyttäjät tuntevat Skuutin käyttämiseen liittyvät liikennesäännöt, ja osaavat käsitellä Skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itselleen tai muille liikenteessä kulkijoille.
+Sähköpotkulaudat ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi kuten tieliikennelaissa on määritelty. Varmista, että Sinä ja Skuutin mahdolliset muut Käyttäjät tuntevat Skuutin käyttämiseen liittyvät liikennesäännöt ja osaavat käsitellä Skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itselleen tai muille liikenteessä kulkijoille.
 
 Älä käytä viallista tai vahingoittunutta Skuuttia. Sinä vastaat, että käytössäsi oleva Skuutti on lakien mukaisessa kunnossa.
 
@@ -47,7 +47,7 @@ Ellet lähetä rikki mennyttä Skuuttia viikon kuluessa, Augmentilla on oikeus v
 
 ## Skuutin akku ja sen lataaminen
 
-Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät Skuutin käyttöohjeesta. Lataa Skuutin akku vähintään 2 kuukauden välein. Älä lataa tai käytä akkua, jossa on fyysisiä vaurioita, se kuumentuu tavallista enemmän, se pitää omituista ääntä tai se vuotaa.
+Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät Skuutin käyttöohjeesta. Lataa Skuutin akku vähintään 2 kuukauden välein. Älä lataa tai käytä akkua, jossa on fyysisiä vaurioita, tai jos se kuumentuu tavallista enemmän, pitää omituista ääntä tai vuotaa.
 
 Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista, Augment vaihtaa akun veloituksetta. Augmentilla ei ole velvollisuutta vaihtaa akkua, mikäli sitä ei ole säilytetty tai ladattu ohjeiden mukaisesti.
 
@@ -67,7 +67,7 @@ Saatuasi uuden skuutin lähetä vanha Skuutti Augmentille Asiakaspalvelun ohjeit
 
 ## Mahdollisuus lunastaa Skuutti omaksi
 
-Minimisopimuskauden jälkeen voit lunastaa käytössäsi olevan Skuutin maksamalla 49 euron lunastushinnan. Halutessasi voit lunataa Skuutin omaksesi myös ennen Minimisopimuskauden päättymistä maksamalla jäljellä olevat minimisopimuskauden Palvelumaksut ja 49 euron lunastushinnan.
+Minimisopimuskauden jälkeen voit lunastaa käytössäsi olevan Skuutin maksamalla 49 euron lunastushinnan. Halutessasi voit lunastaa Skuutin omaksesi myös ennen Minimisopimuskauden päättymistä maksamalla jäljellä olevat minimisopimuskauden Palvelumaksut ja 49 euron lunastushinnan.
 
 Lunastettuasi Skuutin omaksesi tämä Sopimus lakkaa olemasta voimassa.
 
@@ -101,9 +101,9 @@ Tämän Sopimuksen alaiset saatavat on pantattu Danske Bank AB:n hyväksi. Kukaa
 
 ## Maksutietojen ylläpitäminen
 
-Mikäli käyttämäsi maksukortin / pankkitilin tiedot muuttuvat, päivitä uudet tiedot Augmentin itsepalvelusivustolle ennen seuraavan Palvelumaksun erääntymistä.
+Mikäli käyttämäsi maksukortin / pankkitilin tiedot muuttuvat, päivitä uudet tiedot Augmentin itsepalvelusivustolla ennen seuraavan Palvelumaksun erääntymistä.
 
-Maksukortti- ja muut maksuvälinetiedot tallennetaan vahvasti salattuina käyttämiemme maksun välittäjien (Adyen / Stripe) tietokantaan.
+Maksukortti- ja muut maksuvälinetiedot tallennetaan vahvasti salattuina käyttämiemme maksunvälittäjien (Adyen / Stripe) tietokantaan.
 
 ## Palvelun käytön sulkeminen ja rajoittaminen
 
@@ -121,7 +121,7 @@ Augment voi sulkea Palvelun, jos
 - Et ole maksanut muun palvelun erääntyneitä maksuja kahden (2) viikon kuluessa maksukehotuksen lähettämisestä,
 - Se on tarpeen väärinkäytösten tai vahinkojen estämiseksi; tällöin palvelua ei suljeta, mutta muiden palvelujen käyttö estetään tai sitä rajoitetaan,
 - Sinut on asetettu konkurssiin tai viranomainen on todennut Sinut muutoin maksukyvyttömäksi, etkä aseta vaadittua kohtuullista vakuutta,
-- Et kehotuksesta huolimatta noudata muita kuin maksuja koskevia Sopimuksen mukaisia velvollisuuksiaan.
+- Et kehotuksesta huolimatta noudata muita kuin maksuja koskevia Sopimuksen mukaisia velvollisuuksia.
 
 Augment ei sulje tai rajoita palvelun käyttöä maksujen laiminlyönnin vuoksi, jos voit osoittaa maksun laiminlyönnin johtuvan yllättävästä sairaudesta, muusta siihen verrattavasta, Sinusta riippumattomasta syystä ja erääntynyt maksu maksetaan yhden (1) kuukauden kuluessa maksukehotuksen lähettämisestä, tai olet tehnyt laskusta perustellun laskuhuomautuksen ja riidaton osa maksusta on maksettu määräaikana.
 
@@ -161,7 +161,7 @@ Sinulla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi Kulut
 
 ## Sopimusehtojen voimassaolo
 
-Nämä sopimusehdot ovat voimassa Suomessa 1.1.2023 alkaen toistaiseksi.
+Nämä sopimusehdot ovat voimassa Suomessa 10.1.2023 alkaen toistaiseksi.
 
 ## Määritelmät
 
