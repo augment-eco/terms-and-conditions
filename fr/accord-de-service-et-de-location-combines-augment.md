@@ -7,7 +7,7 @@ Le contrat a pour objet de définir les droits et obligations des parties concer
 - Entrée en vigueur de l'**accord** (page 1)
 - Utilisation de la **trottinette** électrique et durée du contrat (page 2)
 - Résiliation du contrat (page 4)
-- **Frais de service** et maintien des coordonnées (page 5)
+- **Frais de service** et maintien des coordonnées (page 4)
 - Autres termes et conditions (page 5)
 
 ## Entrée en vigueur de l'accord
@@ -86,7 +86,7 @@ La **trottinette** électrique peut être mise à niveau par une nouvelle **trot
 
 L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de 12,50 € par semaine de retard.
 
-### Résiliation de l'accord
+## Résiliation de l'accord
 
 Le **client** a le droit de résilier le contrat à l'expiration de la **durée minimale** du contrat en le notifiant par écrit à **Augment** via le chat d'**Augment** ou par e-mail avant l'expiration de la **durée minimale**.
 
