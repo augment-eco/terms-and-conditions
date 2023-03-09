@@ -1,226 +1,284 @@
-# CONDITIONS GÉNÉRALES DE LOCATION ET D'UTILISATION
+# ACCORD DE SERVICE ET DE LOCATION COMBINÉS AUGMENT
 
-## Dispositions générales
+Les termes et conditions du présent **accord** s'appliquent au **service trottinette** électrique fourni par **Augment** aux particuliers, le **client**, **Augment** et le **client** collectivement, les **parties**. Le **client** doit être une personne physique [pleinement autorisée] âgée de plus de 18 ans et non un pupille d'un tribunal. Le **service** et la **trottinette** électrique sont destinés à l'usage d'un seul ménage. Le **service** ou la **trottinette** électrique ne peut être utilisé à des fins commerciales ou pour générer des revenus.
 
-Les présentes conditions générales s’appliquent de plein droit à tout abonnement d’une trottinette électrique, pour une durée avec engagement de 24 mois. Votre accord lors de la procédure de paiement définit en cliquant sur le bouton " Payer maintenant ", vous acceptez nos accords [politique de confidentialité](https://augment.eco/fr/conditions/Politique-confidentialite) & [contrat de service](https://augment.eco/fr/contrat-de-service/) et
-confirmez que vous avez plus de **18 ans**.
+Le contrat a pour objet de définir les droits et obligations des parties concernant le **service** et la **trottinette** électrique, définis comme suit :
 
-Votre adhésion de 24 mois à Augment. Eco commence dès le premier paiement et la réception des documents demandés, puis se poursuit automatiquement après 24 mois par tacite reconduction.
+- Entrée en vigueur de l'**accord** (page 1)
+- Utilisation de la **trottinette** électrique et durée du contrat (page 2)
+- Résiliation du contrat (page 4)
+- **Frais de service** et maintien des coordonnées (page 5)
+- Autres termes et conditions (page 5)
 
-## Début de contrat
+## Entrée en vigueur de l'accord
 
-L'adhésion commence dès que les documents demandés pour la constitution du dossier ont été validés. La signature électronique lors de la souscription du formulaire de contrat de location emporte acceptation sans réserve des présentes conditions générales. La souscription d’un contrat de location d’une trottinette engage les parties suivantes : l’utilisateur et le payeur (ci-après dénommés ensemble le Locataire) et le Loueur la société Augment Mobility Ab dont le siège social se situe Maakunnankatu 7, 60100 Seinäjoki, Finlande.
+Le contrat est conclu par voie électronique. Le contrat entre en vigueur lorsque **Augment** a accepté la commande du **client**. Cet **accord** peut être téléchargé électroniquement à partir du site Web d'**Augment**.
 
-Au début de la période contractuelle minimale de 24 mois, Augment.Eco vous livrera une nouvelle trottinette électrique neuve.
+## Vérification des informations d’identité
 
-La trottinette électrique est la propriété d'Augment.Eco pendant la durée du contrat. Veuillez la conserver dans son état d'origine. N'enlevez aucun logo d'Augment.Eco, n’utilisez pas d'autocollants, ne la peignez ou n’apportez aucune modification sous aucune façon.
+Avant d'accepter une commande, **Augment** se reserve le droit de vérifier l’identité et de demander des justificatifs d’égilibilités au **client**.
 
-Documents à fournir par le Locataire : **une pièce d’identité, un justificatif d'assurance NVEI**
+## Trottinette électrique
 
-Augment Mobility Ab se réserve le droit de refuser toute commande
+Le service comprend la location d'une **trottinette** personnelle. Au début de la durée minimale du contrat, **Augment** fournit une nouvelle **trottinette** électrique. La **trottinette** électrique appartient à **Augment** pour la durée de l'**accord**. La **trottinette** électrique doit être conservée dans son état d'origine. Aucune modification technique ou autre n'est autorisée. Le client n'est pas autorisé à retirer les logos **Augment**, à peindre la **trottinette** électrique, à appliquer des autocollants ou à modifier la **trottinette** électrique de toute autre manière. **Augment** se réserve le droit de facturer au client les frais de retour de la **trottinette** électrique dans son état d'origine.
 
-## Obligations du Locataire
-
-La location est réservée aux majeurs soit des personnes âgées de 18 ans au minimum. La conduite de la trottinette électrique est strictement réservée à la personne identifiée dans le contrat de location comme étant l’utilisateur. Toute cession du contrat de location, toute sous-location, tout prêt, mise à disposition gratuite ou cession de la trottinette louée est strictement interdite.
-
-Pendant la durée de la location, le Locataire est tenu au respect des différentes obligations découlant du Code de la Route et du Manuel d’utilisation fourni. Le port du casque est vivement recommandé et obligatoire pour les enfants de moins de 14 ans.
-
-- La trottinette électrique ne peut pas être utilisée pour transporter des passagers.
-- Assurez-vous de ne pas dépasser le poids en ordre de marche maximal spécifié pour la trottinette électrique.
-- La trottinette électrique Augment.Eco ne convient pas pour la course, le tout-terrain ou les cascades. Les cascades comprennent, par exemple, l'accélération ou le freinage, la conduite avec un pneu, le wheelie et le saut.
-- Ne conduisez pas la trottinette électrique dans des flaques d'eau profondes et ne plongez pas le moteur ou la batterie de la trottinette électrique dans l'eau.
-- Conduisez uniquement dans les zones autorisées et au maximum à la vitesse autorisée.
-- Il est dangereux d'utiliser un téléphone portable en conduisant une trottinette électrique.
-- L'utilisation de la trottinette électrique en état d’ébriété est interdite.
-- Veuillez ne garer la trottinette électrique que dans des zones approuvées.
-- Assurez-vous que la trottinette électrique est correctement sécurisée par un dispositif antivol lorsque vous n'êtes pas à proximité immédiate de la trottinette électrique.
-- La trottinette électrique ne doit pas être laissée à l'extérieur pendant plusieurs jours, car la pluie et les fluctuations d'humidité peuvent l'endommager.
-- Vous pouvez ranger la trottinette électrique en toute sécurité et la plier facilement à l'intérieur.
-- Veillez à avoir un niveau de charge de la batterie de la trottinette électrique à un niveau suffisant.
-- Si la batterie de la trottinette électrique est épuisée, vous pouvez utiliser la trottinette électrique comme une trottinette normale.
-- N'oubliez pas qu'à mesure que la charge de la batterie diminue, les performances de la trottinette électrique diminuent également.
-- Si la batterie de la trottinette électrique devient inhabituellement chaude pendant la charge ou l'utilisation, veuillez contacter notre service client.
-- Si vous prêtez la trottinette électrique à une tierce personne, assurez-vous que l'utilisateur a suffisamment de connaissances et de compétences pour utiliser la trottinette électrique.
-
-Lors de chaque période d’inutilisation de la trottinette, le Locataire s’engage à systématiquement attacher le cadre de sa trottinette à un support fixe (type barrière...) avec un antivol.
-
-## Paiement
-
-La location est payable à la signature du contrat aux conditions tarifaires en vigueur à cette date.
-
-Les prélèvements se feront à date de prise d’abonnement
-
-Le débit de la carte s'effectue au moment de la confirmation de la commande. L'adhérent garantit à la société Augment Mobility Ab qu'il dispose des autorisations éventuelles nécessaires pour utiliser le mode de paiement par carte lors de la prise de commande. Augment Mobility Ab met en œuvre tous les moyens nécessaires pour assurer la sécurité et la confidentialité des données transmises sur le Site (dont le paiement en ligne, dans les conditions indiquées dans la Politique de confidentialité).
-
-Si les informations de votre moyen de paiement utilisé pour payer les frais mensuels changent, par ex. si vous recevez une nouvelle carte bancaire pour remplacer une carte expirée, veuillez mettre à jour les informations immédiatement via le site Web Augment.eco avant que les frais de service suivants ne soient dus.
-
-Les sommes dues au titre du contrat de souscription ont été gagé en faveur de Collector Bank AB en tant que créancier gagiste et le créancier gagiste doit être la seule personne à apporter des modifications aux instructions de paiement.
+Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
 
 <div class="page"/>
 
-## Droit de restriction à l'utilisation du service
+## Durée de l'accord et l'utilisation de la trottinette électrique
 
-Augment.Eco est tenu de fermer, restreindre ou bloquer l'utilisation du service sur demande si vous, l'utilisateur, une autorité compétente telle que la police ou la compagnie d'assurance le demande.
+### Durée de l'accord
 
-Bloquer la trottinette électrique signifie bloquer tous les services disponibles dans le cadre du contrat de service. Restreindre l'utilisation de l'appareil signifie empêcher l'utilisation d'un ou plusieurs services disponibles via le contrat de service.
+La **durée minimale** ferme du contrat est de 24 mois. Pendant les 24 premiers mois du contrat, le contrat ne peut pas être résilié (**durée minimale** du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le **client** a mis à niveau la **trottinette** électrique vers un nouvel **accord** conformément à la procédure mentionnée ci-dessous.
 
-L'utilisation de la trottinette électrique peut, par exemple, être restreinte afin que vous ne puissiez conduire qu'au pas et que vous ne puissiez pas modifier la vitesse vous-même. Augment.Eco peut également empêcher la trottinette électrique de conduire dans des zones restreintes.
+### Utilisation de la trottinette électrique
 
-Augment.Eco a également le droit de restreindre l'utilisation de la trottinette électrique si la trottinette électrique a été volée, perdue ou utilisée sans autorisation, ou est en possession illégale d'une autre personne.
+Selon le code de la route Français, la **trottinette** électrique est un "véhicule électrique léger" et est destinée à être utilisée en France conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique et sont capables de manipuler la **trottinette** électrique en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
 
-Augment.Eco peut bloquer le service ou restreindre son utilisation si :
+Le **client** est responsable de s'assurer que la **trottinette** électrique est en bon état de fonctionnement et qu'elle est utilisée conformément aux exigences légales. La **trottinette** électrique ne doit pas être utilisée dans des conditions météorologiques inadaptées à une utilisation en toute sécurité.
 
-- vous ne payez pas le solde de ce service dans les deux (2) semaines suivant l'envoi de la demande de paiement ;
-- vous ne fournissez pas le paiement anticipé requis ou la garantie requise au moment de la conclusion du contrat ;
-- vous avez été déclaré en faillite ou insolvable par un organisme gouvernemental et ne fournissez pas la garantie adéquate requise ;
-- vous ne remplissez pas les autres obligations de paiement en vertu du contrat, même si vous avez été invité à le faire.
+La **trottinette** électrique n'est pas destinée à la course, au tout-terrain ou à l’acrobatie. La conduite acrobatique comprend, mais sans s'y limiter, le dérapage, le blocage délibéré des freins, la rotation, le saut et le rebond.
 
-Augment.Eco n'exclut ni ne limite l'utilisation du service en cas de non-paiement si vous pouvez prouver que le non-paiement est dû à une maladie imprévue ou à une autre raison comparable sur laquelle vous ne pouvez pas influencer et que vous avez reçu le paiement dû. dans un délai d'un (1) mois après l'envoi de la demande de paiement, ou si vous avez formulé une objection motivée concernant la facture et que la partie incontestée de la facture a été payée dans les délais.
+**Augment** a le droit de facturer au **client** tous les frais encourus en raison de l'utilisation de la **trottinette** électrique d'une manière contraire à cet **accord** ou au manuel d'utilisation.
 
-## Non-paiement
+### Panne de la trottinette électrique
 
-En cas de non-paiement, à l’échéance prévue, la procédure de rappel sera activée (2 rappels et une mise en demeure)
+Tout **défaut** technique ou dommage à la **trottinette** électrique doit être signalé via le chat du **service client**. Une fois signalé, **Augment** enverra gratuitement au **client** une **trottinette électrique de remplacement** le jour ouvrable suivant. Le délai de livraison de la **trottinette** électrique est normalement de 3 à 5 jours ouvrables à compter de la date d'expédition.
 
-A défaut de réponse suite à l’envoi de notre mise en demeure, les factures impayées seront transmises pour recouvrement par toute voie de droit.La période de 60 jours échues, nous demanderons l'inscription au fichier national FICP de la banque de France une période de 5 ans.
+Le **client** peut également réparer lui-même la **trottinette** électrique. Dans ce cas, **Augment** fournit gratuitement au **client** les pièces de rechange nécessaires à la réparation.
 
-Le matériel (produits et accessoires) livré reste la propriété de la Société jusqu’au paiement intégral des factures et des dettes accessoires.
+La prestation couvre :
+
+- Tous les défauts, y compris l'usure des pièces telles que les pneus, les freins, le moteur et la batterie.
+- **Dommages** inattendus, par exemple, casser la **trottinette** en raison d'une collision ou d'un renversement. Pendant la durée du contrat, le nombre de **dommages** à indemniser est limité à un maximum de deux cas par an.
+
+La prestation ne couvre pas :
+
+- Rayures, usures ou marques sur la peinture qui n'affectent pas l'utilisation de la **trottinette** électrique
+- Défauts causés intentionnellement ou par négligence grave, auquel cas **Augment** a le droit de facturer le coût de la réparation au **client**
+
+**Augment** n'est pas responsable vis-à-vis du **client** ou de tiers des **dommages** aux personnes, aux biens ou aux biens mobiliers ou immobiliers causés par la **trottinette** électrique ou son utilisation. Il est de la responsabilité du **client** de s'assurer qu'il dispose d'une police d'assurance valide couvrant ces **dommages**, accidents et responsabilité civile.
+
+### Retourner la trottinette électrique défectueuse
+
+Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
+
+**Augment** se réserve le droit de facturer des frais de retard de 12,50 € pour chaque semaine suivante si la **trottinette** électrique défectueuse n'est pas retournée.
+
+### Batterie et charge de la trottinette électrique
+
+Le **client** doit se conformer au manuel d'utilisation de la **trottinette** électrique pour les instructions de chargement et de stockage de la batterie. Le **client** doit charger la batterie au moins tous les 2 mois. Le **client** ne doit pas charger ou utiliser la batterie si elle est physiquement endommagée, chauffe plus que d'habitude, fait un bruit étrange ou fuit.
+
+**Augment** remplacera la batterie gratuitement si la capacité maximale de la batterie tombe en dessous de 70 % de la capacité de la nouvelle batterie. Si la batterie n'a pas été stockée ou chargée conformément aux instructions, **Augment** n'est pas obligé de remplacer la batterie.
+
+### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
+
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+
+### Accidents de la circulation
+
+Tout accident de la **circulation** impliquant un tiers doit être signalé à la Police et à **Augment** dans les 48 heures suivant l'accident.
+
+### Mise à jour de la trottinette électrique
+
+La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de 125 €, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
+
+L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de 12,50 € par semaine de retard.
+
+### Résiliation de l'accord
+
+Le **client** a le droit de résilier le contrat à l'expiration de la **durée minimale** du contrat en le notifiant par écrit à **Augment** via le chat d'**Augment** ou par e-mail avant l'expiration de la **durée minimale**.
+
+Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
+
+### Rachat de la trottinette électrique
+
+Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+
+### Résiliation du contrat avant la fin de la durée minimale du contrat
+
+Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
+
+### Restitution de la trottinette électrique après la résiliation du contrat
+
+Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
+
+Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+
+### Droit de rétractation de la vente à distance
+
+Conformément à la loi sur la protection du consommateur, le **client** a le droit de résilier le contrat dans les 14 jours suivant la conclusion du contrat. La résiliation du contrat doit être notifiée à **Augment** en renvoyant le formulaire de résiliation de vente à distance ci-joint dûment complété au **service client**.
+
+Le colis contenant la **trottinette** électrique peut être ouvert par le **client** pour permettre l'inspection du contenu. En cas d'annulation de l'**accord** par le **client**, la **trottinette** électrique doit être retourné à **Augment** dans son état d'origine, en suivant les instructions du **service client**, dans un délai d'une semaine à compter de l'annulation de l'**accord**.
+
+Si la **trottinette** électrique a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique. **Augment** a le droit de facturer au **client** la valeur totale de la **trottinette** électrique si la **trottinette** électrique retournée est invendable.
+
+## Frais de service et maintien des coordonnées
+
+### Frais de service
+
+Les frais de **service** sont facturés à l'avance selon l'intervalle de paiement présélectionné (1 mois, 3 mois ou 24 mois). Le **client** doit s'assurer que la carte de paiement ou le compte bancaire dispose de fonds suffisants pour couvrir les **frais de service** applicables.
+
+La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
+
+Si le **client** ne paie pas les frais de service à la date d'échéance, le **client** se verra facturer des intérêts de retard selon la loi. En plus des intérêts de retard, **Augment** aura droit de facturer des frais de recouvrement raisonnables. Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
+
+**Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
+
+Les paiements au titre de l'**accord** sont gagés en faveur de Danske Bank A/S, succursale finlandaise en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
+
+### Gestion des informations de paiement
+
+Si les détails de la carte de paiement/du compte bancaire changent, les nouveaux détails doivent être mis à jour via le site Web en libre-**service** d'**Augment** avant que les prochains **frais de service** ne soient dus.
+
+Les processeurs de paiement utilisés par **Augment** (actuellement Adyen / Stripe) stockent les données de carte de paiement et autres instruments de paiement nécessaires sous une forme fortement cryptée dans leurs propres bases de données.
+
+### Maintien des coordonnées
+
+Le **client** doit s'assurer qu'**Augment** dispose de ses coordonnées à jour.
+
+**Augment** utilisera l'adresse e-mail ou le numéro de téléphone portable fourni pour envoyer des avis liés au **service** et à l'**accord**, tels que des modifications de **service** ou des informations de retard de paiement.
+
+## Autres termes et conditions
+
+### Résiliation et limitation d'utilisation du service
+
+A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité compétente telle que la Police, **Augment** fermera, restreindra ou suspendra l'utilisation du **service**.
+
+**Augment** a le droit de suspendre et/ou de restreindre l'utilisation du **service** dans les circonstances mentionnées ci-dessous. La suspension signifie le gel de tous les services disponibles dans le cadre du présent **accord**. Restreindre signifie limiter l'utilisation d'un ou plusieurs des services (ou d'une partie de ceux-ci) disponibles dans le cadre de cet **accord**.
+
+Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volé, perdu, détourné ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
 <div class="page"/>
 
-## Service de remplacement express Augment
+**Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
-La réparation de pièces cassées est à la charge de Augment.Eco. En cas de nécessité d’une réparation, le Locataire doit impérativement s’adresser à Augment.Eco qui procédera à la réparation en échange de photographie pour la demande de prise en charge. Envoyez celle-ci via email ou chat quand elle vous sera demandée.
+- Le paiement dû n'a pas été payé dans les deux (2) semaines après l'envoi du rappel de paiement,
+- Cela est nécessaire pour éviter les abus ou les **dommages**,
+- Malgré la demande d'**Augment**, le **client** n'a pas respecté ses obligations contractuelles autres que celles relatives au paiement.
 
-Si la réparation du problème signalé nécessite le remplacement de la trottinette électrique, nous vous enverrons une trottinette de remplacement, le locataire sera dans l'obligation de contacter le service Augment afin de mettre en place le retour de la trottinette défectueuse sous 7 jours.Sans retour éffectué dans les temps impartis, nous facturerons 12,5€ par semaine de retard et limiterons l'utilisation des trottinettes. Le remplacement de la trottinette sera envoyé le jour ouvrable suivant depuis notre centre de réparation le plus proche.
+**Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
 
-Le remplacement des scooters électriques est normalement de 3 à 5 jours ouvrables. Le service de remplacement express couvre également les consommables, c'est-à-dire les plaquettes de frein, les chambres à air et les pneus.
+### Rupture d'accord
 
-Les scooters électriques de remplacement complètent un processus de remise à neuf rigoureux qui comprend des tests complets qui répond aux mêmes normes fonctionnelles que les nouveaux produits Augment, mais sur le les scooters électriques de remplacement peuvent être utiles.
+Si le **client** ne paie pas les frais de service dus ou autrement matériellement enfreint les termes de l'**accord**, **Augment** a le droit de résilier immédiatement le contrat et reprendre possession de la **trottinette** sans concertation avec le **client**.
 
-Pour votre sécurité, suivez les conseils d'entretien indiqués dans le manuel d'utilisation.
+**Augment** a un droit similaire si le comportement ou la situation financière du **client** sont telles qu'il existe des raisons sérieuses de croire que le **client** ne paiera pas ou ne violera pas substantiellement l'**accord**.
 
-- Plaquettes de freins, pneumatiques (nous évaluerons le pneumatique et en cas de dérapages, nous nous réserverons le droit de faire l’échange), chambre à air, tampons des béquilles, câbleries freins et indexation vitesse.
-- Après avoir reçu une trottinette électrique de remplacement, veuillez retourner la trottinette électrique que vous utilisez à Augment.Eco dans un délai maximum d'une semaine. La procédure de retour vous sera envoyée par email.
-- Nous remplacerons la batterie de la trottinette électrique que vous utilisez pendant la durée du contrat par une nouvelle si la capacité de la batterie est tombée en dessous de 70% de sa capacité.
+Le **client** est tenu de rembourser **Augment** pour les frais et dommages causé par la résiliation du contrat.
 
-Le Locataire accepte sans réserve de se conformer à ce plan de maintenance assurant sa sécurité. Le Locataire s’engage à ne pas modifier, adjoindre ou retirer un quelconque équipement de la trottinette loué.
+### Modifications du service ou des conditions générales
 
-## Durée
+Le **service** et ses fonctionnalités ou les termes et conditions applicables peuvent changer. Le **client** a le droit de résilier le contrat dans un délai d'un mois après avoir été informé d'une modification importante du **service**.
 
-La période minimale d’abonnement commence à la date de la commande et se termine 24 mois plus deux semaines après la date de la commande (en jours, la période minimale du contrat est de 744 jours, 2 x 365 + 14 jours).
+**Augment** informera le **client** des modifications importantes du contenu du **service** au moins un mois avant la modification de l'adresse e-mail fournie par le **client**. Les nouvelles conditions générales seront applicables au **service** à compter de leur date d'entrée en vigueur.
 
-Au terme du contrat de location, le Locataire s’engage à restituer, en bon état de fonctionnement, la trottinette louée ainsi que ses accessoires au plus tard 2 semaines de la fin du contrat de location. En cas de retard, le tarif en vigueur sera appliqué pour compenser le retard de restitution du matériel. Le Loueur pourra facturer par jours de retard jusqu’à restitution de la trottinette et de ses accessoires et pourra engager toutes poursuites judiciaires en cas de non-restitution au terme du contrat de location.
+Si la modification est fondée sur une modification de la loi ou sur une décision d'une autorité, **Augment** est en droit de mettre en œuvre la modification à compter de la date d'entrée en vigueur de la modification de la loi ou de la décision d'une autorité.
 
-<div class="page"/>
+### Droits de propriété intellectuelle
 
-## Résiliation du contrat avant la fin de la durée minimale du contrat
+Les droits de propriété intellectuelle tels que les droits d'auteur, les marques et les brevets relatifs aux services, de la trottinettes électriques et autres produits d'**Augment** appartiennent à **Augment** ou à un tiers. **Augment** accorde une licence limitée pour la durée du contrat au **service** en vertu du contrat et aux versions en langage machine et à la documentation du logiciel livré en vertu du contrat uniquement pour une utilisation conforme au présent contrat.
 
-Passé le délai de rétractation de 14 jours, vous pouvez résilier le contrat sous certaines conditions :
+Le **service** et le matériel, les logiciels, les documents et tout autre matériel sous licence en rapport avec celui-ci doivent être utilisés conformément aux instructions d'**Augment** ou d'un tiers, tel que le propriétaire du logiciel, et uniquement aux fins convenues.
 
-- Au bout de 8 mois et en réglant les 195 €, vous devenez propriétaire et conservez la trottinette.
-- Au bout de 8 mois, en nous signalant que vous souhaitez résilier votre abonnement et nous retourner la trottinette électrique dans un état d'utilisation correcte qui sera validé après envoi de photographies de l'état général de celle-ci.
-- Vous pouvez également acheter la trottinette que vous utilisez à tout moment pendant la durée du contrat, en payant les frais mensuels restants + 29 €
+À la résiliation du contrat, **Augment** peut demander au **client** de restituer ou de détruire les manuels, autres documents ou logiciels.
 
-## Vol
+### Force majeure
 
-En cas de vol, le Locataire devra déposer plainte auprès des services de police, contacter son **assurance** et avertir sans délai Augment.Eco en lui présentant l’original du dépôt de plainte.
+Aucune des parties ne sera responsable de ses obligations contractuelles ou d'une indemnisation dans la mesure où l'exécution du contrat est limitée, suspendue ou retardée par un cas de force majeure.
 
-Sans assurance contre le vol, le locataire reste redevable des mensualités restantes ou peut s'affranchir de la franchise de 350€.Cette franchise honorée, l'envoie d'une nouvelle trottinette permettra de continuer l'abonnement.
+La force majeure désigne une circonstance que la partie ne pouvait pas raisonnablement prévoir au moment de la conclusion du contrat et qui échappe au contrôle de la partie. Ces circonstances peuvent inclure, par exemple, des circonstances résultant de conditions météorologiques exceptionnelles, d'un état d'urgence national, d'une catastrophe naturelle, d'une interruption de l'approvisionnement énergétique, d'une interruption du trafic de paiement, d'une disposition légale ou d'un ordre ou d'une décision officielle, d'excavation, de **dommages** matériels ou de **dommages** similaires causés par un tiers et des erreurs de livraison par le sous-traitant ou le fournisseur d'**Augment** résultant des circonstances.
 
-A défaut de non réglement des mensualités après la période légale de 60 jours, nous demanderons l'inscription au fichier national FICP de la banque de France.
+Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de force majeure, le délai d'exécution de l'obligation sera prolongé dans la mesure raisonnable dans les circonstances données.
 
-**Si la trottinette électrique est perdue ou volée, vous devez payer les frais mensuels pour les mois restants de la période du contrat et le prix de retour de la trottinette électrique si vous n’avez pas souscrit à une assurance vol.Merci de nous contacter afin de vous proposer les différentes options pour continuer votre contrat d'abonnement.**
+### Traitement des données personnelles, données télématiques, cookies
 
-## Responsabilité et assurance
+**Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
-**Assurer sa trottinette électrique est obligatoire.**
+**Augment** peut collecter des données télématiques de la **trottinette** et d'autresdispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
 
-le locataire est responsable des dommages découlant de son utilisation de la trottinette louée. Le Locataire reconnaît avoir une **assurance responsabilité civile individuelle EDMP/NVEI pour l’usage de la dite trottinette tant vis-à-vis de lui-même que des tiers.**
+### Limitation de responsabilité
 
-L’assurance contre le vol et les dégradations est à **la charge du Locataire**. En aucun cas, Augment.Eco ne pourra être tenu responsable des dommages causés au Locataire ou aux tiers du fait de l’utilisation dont il transfère la garde dans le cadre du contrat de location.
+**Augment** ne sera pas responsable de toute perte ou dommage indirect ou consécutif causé par **Augment**, à moins qu'**Augment** n'ait causé cette perte ou ce dommage intentionnellement ou par négligence grave.
 
-Pour éviter cela, vous devez souscrire un contrat spécifique EDPM (Engin de Déplacement Personnel Motorisé).
+### Langage contractuel
 
-Avec les gyropodes et les hoverboards, les trottinettes électriques font partie des véhicules que l’on regroupe sous le nom de NVEI (Nouveaux Véhicules Électriques Individuels). Depuis un décret d’octobre 2019, il est obligatoire d’assurer ces véhicules uniquement propulsés par un moteur. Si vous êtes contrôlé sur un véhicule non assuré, vous pouvez écoper d'une amende de 500 euros pour une première infraction et le montant de la contravention pourra atteindre 3 750 euros en cas de récidive.
+La langue principale de cet accord est le français. En cas de divergence entre les différentes versions linguistiques, la version française prévaudra.
 
-<div class="page"/>
+### Droit applicable et litiges
 
-## Revente
+L'**accord** sera régi et interprété conformément aux lois françaises.
 
-En cas de revente ou de depôt d’annonce afin de revendre une trottinette de la société Augmnent AB, une plainte pour “Recel de matériel de location” sera déposée auprès des autorités compétentes.L’annonce sera signalée et enregistrée dans le but de compléter le dossier de plainte. La pièce d’identité et les coordonnées du locataire seront transmises auprès du service contentieux et également données au service compétent. Chaque trottinette est attribuée d’un numéro de série affilié au contrat du locataire. En cas de revente, la trottinette ne sera pas utilisable par un acheteur potentiel et ce numéro nous permettra de tracer le locataire ayant commis le délit de recel de matériel de location.
+Les différends seront principalement réglés par voie de négociation entre les parties. Le **client** a le droit d'intenter une action contre **Augment** devant le tribunal de grande instance de son lieu de domicile ou de résidence habituelle en France.
 
-## Accidents
+Les présentes Conditions Générales d'Achat sont soumises à la loi française. En cas de litige, le Client s'adressera à Recommerce Solutions pour obtenir une solution amiable.
 
-Augment.Eco n'est pas responsable envers vous ou envers des tiers, des dommages causés par la trottinette électrique ou son utilisation. Assurez-vous d'avoir une assurance valide et adéquate.
+Conformément aux dispositions du Code de la consommation relatives au règlement amiable des litiges, **La médiation du e-commerce** est membre du **service** de médiation du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie - 75008 - Paris : https://www.mediateurfevad.fr
 
-Si vous avez un accident, signalez-le immédiatement à la police puis immédiatement dans un délai maximum d'une semaine à Augment.Eco via notre site internet par chat ou en contactant notre service client.
+Après demande écrite préalable du consommateur à **La médiation du e-commerce**, le **service** du médiateur peut être saisi pour tout litige de consommation non réglé.
 
-Si la trottinette électrique est endommagée par des dommages inattendus causés par vous ou par les actions de l'utilisateur, le service Augment se chargera de la réparation. Veuillez noter que le nombre de réparations gratuites de dommages incluses dans le contrat est limité à un maximum de deux cas par an.
+Pour savoir comment contacter le médiateur : https://www.mediateurfevad.fr/index.php/espace-consommateur/
 
-Si d'autres dommages se produisent, nous facturons des frais de réparation pour réparer les dommages conformément à notre liste de prix de service. Notre service ne couvre pas la réparation des dommages causés intentionnellement, y compris les dommages causés par des tiers
+**La médiation du e-commerce** s'engage à appliquer le Code de déontologie du e-commerce et de la vente à distance de la FEVAD.
 
-## Suivi des mails
+Le Client peut consulter à tout moment ces dispositions sur le site http://www.fevad.com
 
-Dans le cadre de la relation contractuelle établie entre l’Usager et Augment.Eco, nous souhaitons vous assurer d’une communication par mails de qualité. Ceci pour suivre la pertinence de la réception de ces informations par l’Usager. À cet égard, nous suivons les statuts des mails dans leur réception par l’Usager ainsi que la confirmation de lecture par ses soins. Lors de la signature par l’Usager du Contrat de location, il est explicitement mentionné le consentement éclairé de celui-ci sur le suivi des mails échangés.
+A défaut, tout litige né de la formation, de l'interprétation ou de l'exécution du présent Contrat sera de la compétence exclusive des tribunaux français compétents.
 
-## Caractéristiques des produits
+### Validité des termes de l'accord
 
-Les produits proposés sont décrits et présentés avec la plus grande exactitude possible. Toutefois, si des erreurs ou omissions ont pu se produire quant à cette présentation, la responsabilité de Augment Mobility Ab ne pourrait être engagée. Les photographies ne sont pas contractuelles
-
-## Mise à niveau de la trottinette électrique
-
-Si vous le souhaitez, vous pouvez remplacer gratuitement la trottinette électrique que vous utilisez après une période de contrat de 18 mois via les outils de communication du service client Augment.eco par une nouvelle, non utilisée. Ou après 12 mois en payant 125 €. La mise à niveau de la trottinette électrique démarre une nouvelle période contractuelle minimale de 24 mois.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
 
 <div class="page"/>
 
-## Option d’achat de la trottinette électrique
+### Définitions (les mots sont écrits en gras dans la langue de l'accord lorsqu'ils font référence à une définition)
 
-Vous pouvez acheter la trottinette électrique à tout moment en payant les frais mensuels restants pour la durée minimale du contrat et un prix de remboursement de 29 €. Ce contrat expirera une fois que vous avez acheté la trottinette électrique.
-Par exemple, si vous le souhaitez, vous pouvez acheter la trottinette électrique après 20 mois en payant les 4 mois de mensualités restantes et un prix de rachat de 29 €.
-La redevance mensuelle à payer est déterminée selon le modèle et l'échéancier de paiement que vous avez choisie.
-
-## Droit de rétractation pour les ventes à distance
-
-Le Droit de Rétractation est considéré comme appliqué correctement dans le cas où les conditions suivantes sont totalement respectées :
-
-Si vous avez conclu un contrat en ligne ou par téléphone, vous avez le droit d'annuler la vente à distance dans les 14 jours. Après avoir contacté le service client, vous disposez d'un délai de quatorze (14) jours francs pour nous retourner la marchandise dans son état initial. Les délais s'entendent en jours calendaires.
-
-Si vous avez décidé de résilier le contrat, vous devez le signaler dans les 14 jours suivant le début du contrat ou renvoyer la trottinette électrique que vous avez reçue.
-
-Vous pouvez ouvrir le pack trottinette électrique et vous familiariser avec son contenu pour votre
-plaisir. Cependant, si vous utilisez la trottinette électrique pendant la période de rétractation et annulez votre contrat, vous serez responsable des frais d'utilisation de la trottinette électrique L'amortissement de l'utilisation de la trottinette électrique est de 30% du prix d'achat.
-Si la trottinette électrique retournée est invendable, vous serez responsable de la valeur totale de celle-ci.
-
-## Notifications relatives au Service et à votre droit de résiliation en cas de changements
-
-Vous devez vous assurer qu'Augment Ab dispose de coordonnées à jour pour vous et l'utilisateur à qui vous avez mis à disposition la trottinette électrique. Augment Mobility Ab vous enverra des notifications relatives au contrat, telles que des informations sur les retards de paiement ou des modifications du service de l'e-mail, l'adresse ou le numéro de téléphone portable que vous avez fourni par voie électronique.
-
-Le Service et ses fonctionnalités ou les conditions applicables peuvent changer. Si le changement concerne votre préjudice, vous avez le droit de résilier le Service immédiatement dans un délai d'un mois après avoir été notifié d'un changement important au Service ou de tout autre changement du Service.
-
-Nous vous informerons de tout changement important dans le contenu du Service au moins un mois avant le changement. Les nouvelles conditions générales s'appliqueront à compter de leur date d'entrée en vigueur.
-
-Si le changement résulte d'un changement de législation ou d'une décision d'une autorité publique, Augment Mobility Ab a le droit de mettre en œuvre le changement à partir de la date à laquelle le changement de loi ou la décision de l'autorité entre en vigueur.
+- **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**]
+- **Accord** - cet **accord**
+- **Augment** - **Augment** Mobility Ab, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility Ab
+- **Loi sur la protection des consommateurs** – Loi française sur la protection des consommateurs (2011/83/EU), telle que modifiée de temps à autre
+- **Client** - un **client** qui conclut un contrat de service avec **Augment**. En tant que partie au présent accord, vous êtes responsable de la **trottinette** électrique inclus, des **frais de service** et de l'utilisation.
+- **Service client** - **Service client Augment**
+- **Dommages** - Une panne inattendue de la **trottinette** électrique causée par l'utilisateur ou des circonstances en dehors de l'utilisation normale, par ex. un chute ou une collision
+- **Défaut** - Un problème inattendu avec la **trottinette** électrique lors d'une utilisation normale qui empêche ou limite l'utilisation de la **trottinette** électrique.
+- **Trottinette électrique** -La **trottinette électrique** d'**Augment** inclus dans le **service**
+- **Durée minimale de l'accord** - La période pendant laquelle l'**accord** est en vigueur pour une durée déterminée, après laquelle l'**accord** se poursuit indéfiniment à moins qu'il ne soit résilié par le **client** conformément aux termes de l'**accord** avant la fin de la durée déterminée
+- **Loi sur la circulation routière** - Loi française sur la **circulation routière** (R412-43-1), telle que modifiée de temps à autre
+- **Gage** - Danske Bank [A/S, succursale finlandaise], ID d'entreprise : [1078693-2]
+- **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
+- **Droit de rétractation** - Droit légal de résilier le présent Contrat dans les 14 jours suivant la commande conformément aux dispositions de la loi sur la protection du consommateur concernant la vente à distance
+- **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
+- **Frais de service** - Frais d'utilisation liés à cet **accord**, facturés à des intervalles de 1 mois, 3 mois ou 24 mois
+- **Conditions d'utilisation** - Conditions de cet **accord**
+- **Pièces d'usure** - Pièces qui s'usent normalement lorsque la **trottinette** électrique est utilisée, telles que les pneus, les freins, le moteur et la batterie
 
 <div class="page"/>
 
-## Droits immatériels
+## Formulaire d'annulation de vente à distance
 
-Les droits immatériels relatifs aux services et produits d'Augment.Eco, tels que les droits d'auteur, les marques et les brevets, appartiennent à Augment.Eco ou à un tiers. Pendant la durée du contrat, Augment Mobility Ab vous accorde un droit d'utilisation limité pour le service inclus dans le champ d'application du contrat et pour les versions en langage machine et les documents du logiciel fournis conformément au contrat.
+Veuillez remplir le formulaire et le joindre au colis de retour afin que votre annulation et votre retour puissent être traités, en prenant particulièrement soin de remplir les sections de l'**accord**
 
-Le Service et tous les matériels, logiciels, documents et autres matériels concédés sous licence en relation avec ceux-ci ne peuvent être utilisés que conformément aux instructions d'Augment Mobility Ab ou d'un tiers, tel que le propriétaire du logiciel, et uniquement aux fins convenues.
+Nom: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Selon le droit d'utilisation, Augment Mobility Ab peut vous demander de retourner ou de détruire les manuels et autres documents ou logiciels de cet autre matériel.
+Adresse e-mail utilisée pour la commande : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Force majeure
+Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Augment Mobility Ab n'est pas responsable de ses obligations contractuelles ou de ses obligations de payer des dommages-intérêts si l'exécution est empêchée ou retardée par un cas de force majeure.
+Mobile: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-La force majeure désigne une circonstance qu'Augment Mobility Ab n'a pas pu prendre en compte lors de la conclusion du contrat et qui est indépendante d'Augment Mobility Ab. Ces circonstances incluent, mais sans s'y limiter, les conditions météorologiques exceptionnelles, les urgences nationales, les conflits du travail, les catastrophes naturelles, les interruptions d'énergie, les interruptions de paiement, les lois ou les ordonnances ou décisions gouvernementales, les dommages causés par des excavations, des équipements ou autres causés par des tiers et les erreurs de livraison par les entrepreneurs en raison des facteurs ci-dessus.
+Date d'annulation : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Si l'exécution du contrat est empêchée ou retardée en raison d'un cas de force majeure, le délai d'exécution de l'obligation est prolongé dans la mesure jugée appropriée dans les circonstances données. Tu n'es pas pour eux Responsable de l'exécution des obligations contractuelles en cas de force majeure, à condition que le respect du contrat soit empêché ou retardé par un cas de force majeure, tel que :. urgence nationale, catastrophe naturelle, suspension des opérations de paiement et décision ou décision officielle.
+J'ai acheté le produit à retourner :  En ligne  J’ai commandé par téléphone  J’ai reçu un appel
 
-## Règlements des litiges
+Raison du retour:
 
-Les présentes Conditions Générales de Vente seront exécutées et interprétées conformément au droit Français. Les parties rechercheront en cas de litige un accord amiable prioritairement à toute action judiciaire. Nous vous prions à cette fin de contacter notre service client via formulaire de contact ou Chat, un responsable du service clientèle pourra également vous contacter par téléphone. Nos conseillers sont à votre disposition du lundi au samedi de 9 à 18 h heure locale française (GMT+1). Plateforme de la Commission européenne relative au règlement extrajudiciaire des litiges : [http://ec.europa.eu/consumers/odr](http://ec.europa.eu/consumers/odr)
+ Le produit/service n'a pas répondu à mes attentes car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Notre entreprise adhère au Code Déontologique de la FEVAD (Fédération du E-commerce et de la Vente A Distance) et à son système de médiation.
+ Le produit/service n'a pas répondu à mes attentes comme convenu avec le vendeur car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ Je n'ai aucune utilité pour le produit/service parce que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ Le produit/service n'a pas pu être déployé avec succès car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ Autre raison: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
