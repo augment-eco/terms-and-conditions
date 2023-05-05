@@ -42,7 +42,7 @@ Inom fem (5) arbetsdagar ska en polisanmälan vara genomförd, samt ska denna an
 
 ## Självrisk
 
-Självrisken för endast elscooter (utan batteri) är 100 € och elscooter med batteri 150 €. Endast stöld av batteri är självrisken 125 €.
+Självrisken för endast elscooter (utan batteri) är 1,099 kr. och elscooter med batteri 1,649 kr. Endast stöld av batteri är självrisken 1,390.00 kr.
 
 Självrisken faktureras när stölden/förlorat gods blivit rapporterat.
 
@@ -76,4 +76,4 @@ Augment är befriad från sina kontraktuella förpliktelser och ansvar för skad
 
 ## Giltighet av användarvillkor
 
-Dessa villkor gäller från den 27 oktober 2022 tills annat anges.
+Dessa villkor gäller från den 5 maj 2023 tills annat anges.
