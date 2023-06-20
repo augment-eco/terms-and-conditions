@@ -170,8 +170,6 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"/>
-
 ### Immaterielle Rechte
 
 Immaterielle Eigentumsrechte wie Urheberrechte, Marken und Patente, die sich auf den Service, den **E-Scooter** und andere Produkte von **Augment** beziehen, gehören **Augment** oder einer dritten Partei. **Augment** gewährt für die Dauer des **Vertrags** eine eingeschränkte Lizenz für den **Service** im Rahmen des **Vertrags** und für die maschinensprachlichen Versionen und die Dokumentation der im Rahmen des **Vertrags** gelieferten Software.
@@ -179,6 +177,8 @@ Immaterielle Eigentumsrechte wie Urheberrechte, Marken und Patente, die sich auf
 Der **Service** und die Hardware, die Software, die Dokumente und anderes Material, das in Verbindung damit lizenziert wird, dürfen nur in Übereinstimmung mit den von **Augment** oder einem Dritten, z.B. dem Eigentümer der Software, erteilten Anweisungen und nur für den vereinbarten Zweck verwendet werden.
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
+
+<div class="page"/>
 
 ### Höhere Gewalt
 
