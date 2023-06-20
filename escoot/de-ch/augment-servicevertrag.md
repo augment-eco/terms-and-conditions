@@ -198,8 +198,6 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"/>
-
 ### Vertragssprache
 
 Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs zwischen den verschiedenen Sprachversionen ist die französische Version maßgebend.
@@ -212,7 +210,9 @@ Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs z
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 1.6.2023 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 20.6.2023 bis auf weiteres gültig.
+
+<div class="page"/>
 
 ### Definitionen (ein Wort ist im Text des Vertrags fett gedruckt, wenn es sich auf eine Definition bezieht)
 
