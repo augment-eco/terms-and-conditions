@@ -70,7 +70,7 @@ Der **Service** umfasst nicht:
 
 Nachdem Sie einen **Ersatzscooter** erhalten haben, müssen Sie den defekten **E-Scooter** gemäß den Anweisungen des **Kundendienstes** an **Augment** zurückschicken. Die Rücksendung des defekten **E-Scooters** ist kostenlos.
 
-Wenn der defekte **E-Scooter** nicht innerhalb einer Woche nach Erhalt des **Ersatzscooters** zurückgeschickt wird, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 € für jede weitere Woche zu berechnen.
+Wenn der defekte **E-Scooter** nicht innerhalb einer Woche nach Erhalt des **Ersatzscooters** zurückgeschickt wird, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 CHF für jede weitere Woche zu berechnen.
 
 ### E-Scooter Akku und wie man ihn auflädt
 
@@ -80,7 +80,7 @@ Wenn die maximale Kapazität des Akkus unter 70% der Kapazität des neuen Akkus 
 
 ### Gestohlener E-Scooter, Vandalismus am E-Scooter, sonstiger Verlust des E-Scooters
 
-Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 € ohne Akku, 350 € mit einem 360-Wh-Akku und 450 € mit einem größeren Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
+Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 CHF ohne Akku, 350 CHF mit einem 360-Wh-Akku und 450 CHF mit einem größeren Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
 
 ### Verkehrsunfälle
 
@@ -88,9 +88,9 @@ Verkehrsunfälle, an denen Dritte beteiligt sind, müssen der Polizei und **Augm
 
 ### Upgrade des E-Scooters
 
-Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 € oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 24 Monaten.
+Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 CHF oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 24 Monaten.
 
-Bei Ankunft des neuen **E-Scooters** muss der alte **E-Scooter** gemäß den Anweisungen des **Kundendienstes** an **Augment** geschickt werden. Wenn der alte E-**Scooter** nicht innerhalb einer Woche nach Erhalt des neuen **E-Scooters** an **Augment** geschickt wurde, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 € für jede weitere Woche zu berechnen.
+Bei Ankunft des neuen **E-Scooters** muss der alte **E-Scooter** gemäß den Anweisungen des **Kundendienstes** an **Augment** geschickt werden. Wenn der alte E-**Scooter** nicht innerhalb einer Woche nach Erhalt des neuen **E-Scooters** an **Augment** geschickt wurde, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 CHF für jede weitere Woche zu berechnen.
 
 ## Bedingungen für die Kündigung des Vertrages
 
@@ -102,11 +102,11 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 ### Möglichkeit, den E-Scooter zu erwerben
 
-Nach Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** gegen eine Zahlung von 49 € kaufen. Vor Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** kaufen, indem er die verbleibenden **Servicegebühren** für die **Mindestvertragslaufzeit** und den Ablösepreis von 49 € bezahlt. Sobald **Augment** die Zahlung des **Kunden** erhalten hat, läuft der **Vertrag** aus.
+Nach Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** gegen eine Zahlung von 49 CHF kaufen. Vor Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** kaufen, indem er die verbleibenden **Servicegebühren** für die **Mindestvertragslaufzeit** und den Ablösepreis von 49 CHF bezahlt. Sobald **Augment** die Zahlung des **Kunden** erhalten hat, läuft der **Vertrag** aus.
 
 ### Vertragskündigung vor Ablauf der Mindestvertragslaufzeit
 
-Der **Kunde** hat das Recht, den **Vertrag** frühestens 11 Monate nach Vertragsbeginn zu kündigen, indem er den **Augment-Kundendienst** benachrichtigt und 195 € zahlt. Nach Eingang der Zahlung bei **Augment** geht der **E-Scooter** in das Eigentum des **Kunden** über und der **Vertrag** wird beendet.
+Der **Kunde** hat das Recht, den **Vertrag** frühestens 11 Monate nach Vertragsbeginn zu kündigen, indem er den **Augment-Kundendienst** benachrichtigt und 195 CHF zahlt. Nach Eingang der Zahlung bei **Augment** geht der **E-Scooter** in das Eigentum des **Kunden** über und der **Vertrag** wird beendet.
 
 ### Rückgabe des E-Scooters nach Vertragsende
 
