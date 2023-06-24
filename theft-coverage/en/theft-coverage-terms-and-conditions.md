@@ -2,7 +2,9 @@
 
 Please read this Disclosure to ensure your understanding of how “Augment Theft Coverage” with Theft and Loss works.
 
-In case of theft / loss of the e-scooter Your Augment Subscription continues normally and Your e-scooter is replaced with an Augment replacement e-scooter. Augment replacement e-scooters are refurbished and may showed traces of use.
+## In case of theft / loss of the e-scooter:
+
+Your Augment Subscription continues normally and Your e-scooter is replaced with an Augment replacement e-scooter. Augment replacement e-scooters are refurbished and may showed traces of use.
 
 It is important that you follow these security conditions, or your claim may not be accepted.
 
