@@ -1,6 +1,8 @@
-# Augment Theft coverage
+# Augment Theft Coverage
 
 Please read this Disclosure to ensure your understanding of how “Augment Theft Coverage” with Theft and Loss works.
+
+One (1) Augment Theft Coverage subscription covers one (1) e-scooter. If you want to cover for more than one e-scooter, you will need a separate Augment Theft Coverage subscription for each of them.
 
 ## In the event of a theft / loss of an e-scooter:
 
