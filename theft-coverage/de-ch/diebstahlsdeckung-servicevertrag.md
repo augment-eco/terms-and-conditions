@@ -51,9 +51,9 @@ Folgende Punkte sind von der "Augment-Diebstahlabdeckung" und Ihren Ansprüchen 
 
 ## Selbstbehalt
 
-Der Selbstbehalt für den E-Scooter ohne Akku beträgt 100 € und mit Akku 150 €.
+Der Selbstbehalt für den E-Scooter ohne Akku beträgt 100 CHF und mit Akku 150 CHF.
 
-Der Selbstbehalt für die Batterie allein beträgt 125 €. Der Selbstbehalt wird bei der Meldung des Diebstahls/Verlustes in Rechnung gestellt.
+Der Selbstbehalt für die Batterie allein beträgt 125 CHF. Der Selbstbehalt wird bei der Meldung des Diebstahls/Verlustes in Rechnung gestellt.
 
 ## Mindestvertragslaufzeit
 
