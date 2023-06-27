@@ -4,13 +4,13 @@ Bitte lesen Sie diese Erklärung, um sicherzustellen, dass Sie verstehen, wie di
 
 Ein (1) Augment Diebstahlabdeckung Abonnement deckt einen (1) E-Scooter ab. Wenn Sie mehr als einen E-Scooter abdecken möchten, benötigen Sie für jeden ein separates Augment Diebstahlabdeckung Abonnement für jeden dieser E-Scooter.
 
-## Im Falle eines Diebstahls/Verlusts eines E-Scooters:
+## Im Falle eines Diebstahls / Verlusts eines E-Scooters:
 
 Wenn der Roller / Akku gestohlen wird, melden Sie den Vorfall der örtlichen Polizei innerhalb von 48 Stunden. Melden Sie den Vorfall dann so schnell wie möglich bei Augment über den Augment's Live Chat. Eine Kopie des Polizeiberichts wird angefordert.
 
 Sobald Sie Augment den Vorfall gemeldet haben, erhalten Sie einen Ersatzscooter / Akku / E-Scooter + Akku. Augment Ersatzscooter sind eventuell generalüberholt und weisen möglicherweise Gebrauchsspuren auf.
 
-Im Falle eines Diebstahls/Verlusts des E-Scooters wird der Augment Servicevertrag wie vor dem Diebstahl/Verlust fortgesetzt.
+Im Falle eines Diebstahls / Verlusts des E-Scooters wird der Augment Servicevertrag wie vor dem Diebstahl / Verlust fortgesetzt.
 
 Es ist wichtig, dass Sie die folgenden Bedingungen einhalten.
 
@@ -53,11 +53,11 @@ Folgende Punkte sind von der "Augment-Diebstahlabdeckung" und Ihren Ansprüchen 
 
 Der Selbstbehalt für den E-Scooter ohne Akku beträgt 100 € und mit Akku 150 €.
 
-Der Selbstbehalt für die Batterie allein beträgt 125 €. Der Selbstbehalt wird bei der Meldung des Diebstahls/Verlustes in Rechnung gestellt.
+Der Selbstbehalt für die Batterie allein beträgt 125 €. Der Selbstbehalt wird bei der Meldung des Diebstahls / Verlustes in Rechnung gestellt.
 
 ## Mindestvertragslaufzeit
 
-Nach Ablauf der Mindestvertragslaufzeit (https://www.lawinsider.com/dictionary/minimum-contract-term) von 12 Monaten können Sie den Service "Augment Theft Coverage" mit einer Frist von 30 Tagen schriftlich kündigen.
+Nach Ablauf der [Mindestvertragslaufzeit](https://www.lawinsider.com/dictionary/minimum-contract-term) von 12 Monaten können Sie den Service "Augment Theft Coverage" mit einer Frist von 30 Tagen schriftlich kündigen.
 
 ## Rechnungsstellung
 
@@ -71,6 +71,6 @@ Augment ist von seinen vertraglichen Verpflichtungen und seiner Schadensersatzpf
 
 ## Gültigkeit der Bedingungen und Konditionen
 
-Diese Bedingungen sind ab dem 01. Juli, 2023 bis auf weiteres gültig.
+Diese Bedingungen sind ab dem 27. Juni, 2023 bis auf weiteres gültig.
 
 Der technische Support wird über den Augment.Eco Live Chat angeboten und beginnt mit der Bestätigung und Annahme Ihres Vertrags.
