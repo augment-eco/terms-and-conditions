@@ -210,7 +210,7 @@ Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs z
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 20.6.2023 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 27.6.2023 bis auf weiteres gültig.
 
 <div class="page"/>
 
