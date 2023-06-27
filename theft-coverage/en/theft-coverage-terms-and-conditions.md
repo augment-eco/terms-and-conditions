@@ -71,6 +71,6 @@ Augment is freed from its contractual obligations and liability for damages inso
 
 ## Validity of the terms and conditions
 
-These terms and conditions are valid from July 1st 2023 until further notice.
+These terms and conditions are valid from June 27th 2023 until further notice.
 
 Technical support is provided by Augment.Eco Live Chat and begins upon validation and acceptance of your contract.
