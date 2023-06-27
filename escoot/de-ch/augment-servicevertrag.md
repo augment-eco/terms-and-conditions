@@ -204,9 +204,7 @@ Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs z
 
 ### Anwendbares Recht und Streitbeilegungsverfahren
 
-### Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich.
-
-### Obligatorische Gerichtsstände nach Bundesrecht bleiben vorbehalten.
+Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligatorische Gerichtsstände nach Bundesrecht bleiben vorbehalten.
 
 ### Gültigkeit der Vertragsbedingungen
 
