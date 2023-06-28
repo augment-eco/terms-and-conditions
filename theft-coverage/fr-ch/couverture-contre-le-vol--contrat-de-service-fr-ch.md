@@ -53,9 +53,9 @@ Les éléments suivants sont exclus de la "couverture contre le vol d'Augment" e
 
 ## Franchise
 
-La franchise pour la trottinette sans batterie est de 100 € et avec la batterie de 150 €.
+La franchise pour la trottinette sans batterie est de 100 CHF et avec la batterie de 150 CHF.
 
-La franchise pour la batterie seule est de 125 €. La franchise sera facturée lors de la déclaration de vol/perte.
+La franchise pour la batterie seule est de 125 CHF. La franchise sera facturée lors de la déclaration de vol/perte.
 
 ## Durée minimale du contrat
 
