@@ -218,7 +218,7 @@ En cas de litige, le client peut toujours s'adresser à la plateforme européenn
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 15.6.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 28.6.2023 jusqu'à nouvel ordre.
 
 <div class="page"/>
 
