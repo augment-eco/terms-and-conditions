@@ -106,14 +106,6 @@ Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la dur
 
 Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
 
-### Droit de rétractation de la vente à distance
-
-Conformément à la loi sur la protection du consommateur, le **client** a le droit de résilier le contrat dans les 14 jours suivant la conclusion du contrat. La résiliation du contrat doit être notifiée à **Augment** en renvoyant le formulaire de résiliation de vente à distance ci-joint dûment complété au **service client**.
-
-Le colis contenant la **trottinette** électrique peut être ouvert par le **client** pour permettre l'inspection du contenu. En cas d'annulation de l'**accord** par le **client**, la **trottinette** électrique doit être retourné à **Augment** dans son état d'origine, en suivant les instructions du **service client**, dans un délai d'une semaine à compter de l'annulation de l'**accord**.
-
-Si la **trottinette** électrique a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique. **Augment** a le droit de facturer au **client** la valeur totale de la **trottinette** électrique si la **trottinette** électrique retournée est invendable.
-
 ## Frais de service et maintien des coordonnées
 
 ### Frais de service
@@ -247,38 +239,7 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 - **Loi sur la circulation routière** - Loi française sur la **circulation routière** (R412-43-1), telle que modifiée de temps à autre
 - **Gage** - Danske Bank [A/S, succursale finlandaise], ID d'entreprise : [1078693-2]
 - **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
-- **Droit de rétractation** - Droit légal de résilier le présent Contrat dans les 14 jours suivant la commande conformément aux dispositions de la loi sur la protection du consommateur concernant la vente à distance
 - **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
 - **Frais de service** - Frais d'utilisation liés à cet **accord**, facturés à des intervalles de 1 mois, 3 mois ou 24 mois
 - **Conditions d'utilisation** - Conditions de cet **accord**
 - **Pièces d'usure** - Pièces qui s'usent normalement lorsque la **trottinette** électrique est utilisée, telles que les pneus, les freins, le moteur et la batterie
-
-<div class="page"/>
-
-## Formulaire d'annulation de vente à distance
-
-Veuillez remplir le formulaire et le joindre au colis de retour afin que votre annulation et votre retour puissent être traités, en prenant particulièrement soin de remplir les sections de l'**accord**
-
-Nom: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Adresse e-mail utilisée pour la commande : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Mobile: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Date d'annulation : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-J'ai acheté le produit à retourner :  En ligne  J’ai commandé par téléphone  J’ai reçu un appel
-
-Raison du retour:
-
- Le produit/service n'a pas répondu à mes attentes car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Le produit/service n'a pas répondu à mes attentes comme convenu avec le vendeur car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Je n'ai aucune utilité pour le produit/service parce que \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Le produit/service n'a pas pu être déployé avec succès car \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Autre raison: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
