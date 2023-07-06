@@ -16,7 +16,7 @@ Le contrat est conclu par voie électronique. Le contrat entre en vigueur lorsqu
 
 ## Vérification des informations d’identité
 
-Avant d'accepter une commande, **Augment** se reserve le droit de vérifier l’identité et de demander des justificatifs d’égilibilités au **client**.
+Avant d'accepter une commande, **Augment** se reserve le droit de vérifier l’identité et de demander des justificatifs d’éligibilités au **client**.
 
 ## Trottinette électrique
 
@@ -34,7 +34,7 @@ La **durée minimale** ferme du contrat est de 24 mois. Pendant les 24 premiers 
 
 ### Utilisation de la trottinette électrique
 
-Selon le code de la route Français, la **trottinette** électrique est un "véhicule électrique léger" et est destinée à être utilisée en France conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique et sont capables de manipuler la **trottinette** électrique en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
+Selon le code de la route Suisse, la **trottinette** électrique est un "véhicule électrique léger" et est destinée à être utilisée en Suisse conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique et sont capables de manipuler la **trottinette** électrique en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
 
 Le **client** est responsable de s'assurer que la **trottinette** électrique est en bon état de fonctionnement et qu'elle est utilisée conformément aux exigences légales. La **trottinette** électrique ne doit pas être utilisée dans des conditions météorologiques inadaptées à une utilisation en toute sécurité.
 
@@ -64,7 +64,7 @@ La prestation ne couvre pas :
 
 Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
 
-**Augment** se réserve le droit de facturer des frais de retard de 12,50 € pour chaque semaine suivante si la **trottinette** électrique défectueuse n'est pas retournée.
+**Augment** se réserve le droit de facturer des frais de retard de CHF 12,50 pour chaque semaine suivante si la **trottinette** électrique défectueuse n'est pas retournée.
 
 ### Batterie et charge de la trottinette électrique
 
@@ -74,7 +74,7 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera CHF 250 sans batterie, CHF 350 avec une batterie de 360 ​​Wh et CHF 450 avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
@@ -82,9 +82,9 @@ Tout accident de la **circulation** impliquant un tiers doit être signalé à l
 
 ### Mise à jour de la trottinette électrique
 
-La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de 125 €, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
+La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de CHF 125, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
 
-L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de 12,50 € par semaine de retard.
+L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de CHF 12,50 par semaine de retard.
 
 ## Résiliation de l'accord
 
@@ -94,11 +94,11 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Rachat de la trottinette électrique
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de CHF 49 après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de CHF 49. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
 
 ### Résiliation du contrat avant la fin de la durée minimale du contrat
 
-Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
+Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant CHF 195. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
 
 ### Restitution de la trottinette électrique après la résiliation du contrat
 
@@ -158,7 +158,7 @@ Si le **client** ne paie pas les frais de service dus ou autrement matérielleme
 
 **Augment** a un droit similaire si le comportement ou la situation financière du **client** sont telles qu'il existe des raisons sérieuses de croire que le **client** ne paiera pas ou ne violera pas substantiellement l'**accord**.
 
-Le **client** est tenu de rembourser **Augment** pour les frais et dommages causé par la résiliation du contrat.
+Le **client** est tenu de rembourser **Augment** pour les frais et dommages causés par la résiliation du contrat.
 
 ### Modifications du service ou des conditions générales
 
@@ -188,7 +188,7 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 
 **Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
-**Augment** peut collecter des données télématiques de la **trottinette** et d'autresdispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
+**Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
 
 ### Limitation de responsabilité
 
@@ -200,27 +200,21 @@ La langue principale de cet accord est le français. En cas de divergence entre 
 
 ### Droit applicable et litiges
 
-L'**accord** sera régi et interprété conformément aux lois françaises.
+L'**accord** sera régi et interprété conformément aux lois Suisses.
 
-Les différends seront principalement réglés par voie de négociation entre les parties. Le **client** a le droit d'intenter une action contre **Augment** devant le tribunal de grande instance de son lieu de domicile ou de résidence habituelle en France.
+En cas de litige découlant d’un contrat de consommation, le consommateur peut intenter une action en justice soit à son lieu de domicile soit à celui du vendeur. Le consommateur ne peut pas renoncer d’avance à ce droit.
 
-Les présentes Conditions Générales d'Achat sont soumises à la loi française. En cas de litige, le Client s'adressera à Recommerce Solutions pour obtenir une solution amiable.
+Les présentes Conditions Générales d'Achat sont soumises à la loi Suisse. En cas de litige, le Client s'adressera à **Fédération Romande des Consommateurs** pour obtenir une solution amiable.
 
-Conformément aux dispositions du Code de la consommation relatives au règlement amiable des litiges, **La médiation du e-commerce** est membre du **service** de médiation du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie - 75008 - Paris : https://www.mediateurfevad.fr
+Le Client peut consulter à tout moment ces dispositions sur le site <https://www.frc.ch>
 
-Après demande écrite préalable du consommateur à **La médiation du e-commerce**, le **service** du médiateur peut être saisi pour tout litige de consommation non réglé.
-
-Pour savoir comment contacter le médiateur : https://www.mediateurfevad.fr/index.php/espace-consommateur/
-
-**La médiation du e-commerce** s'engage à appliquer le Code de déontologie du e-commerce et de la vente à distance de la FEVAD.
-
-Le Client peut consulter à tout moment ces dispositions sur le site http://www.fevad.com
-
-A défaut, tout litige né de la formation, de l'interprétation ou de l'exécution du présent Contrat sera de la compétence exclusive des tribunaux français compétents.
+**Fédération Romande des Consommateurs**
+Rue de Genève 17
+1002 Lausanne
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 6.7.2023 jusqu'à nouvel ordre.
 
 <div class="page"/>
 
@@ -229,14 +223,14 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 - **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**]
 - **Accord** - cet **accord**
 - **Augment** - **Augment** Mobility Ab, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility Ab
-- **Loi sur la protection des consommateurs** – Loi française sur la protection des consommateurs (2011/83/EU), telle que modifiée de temps à autre
+- **Loi sur la protection des consommateurs** – Loi Suisse sur la protection des consommateurs
 - **Client** - un **client** qui conclut un contrat de service avec **Augment**. En tant que partie au présent accord, vous êtes responsable de la **trottinette** électrique inclus, des **frais de service** et de l'utilisation.
 - **Service client** - **Service client Augment**
 - **Dommages** - Une panne inattendue de la **trottinette** électrique causée par l'utilisateur ou des circonstances en dehors de l'utilisation normale, par ex. un chute ou une collision
 - **Défaut** - Un problème inattendu avec la **trottinette** électrique lors d'une utilisation normale qui empêche ou limite l'utilisation de la **trottinette** électrique.
 - **Trottinette électrique** -La **trottinette électrique** d'**Augment** inclus dans le **service**
 - **Durée minimale de l'accord** - La période pendant laquelle l'**accord** est en vigueur pour une durée déterminée, après laquelle l'**accord** se poursuit indéfiniment à moins qu'il ne soit résilié par le **client** conformément aux termes de l'**accord** avant la fin de la durée déterminée
-- **Loi sur la circulation routière** - Loi française sur la **circulation routière** (R412-43-1), telle que modifiée de temps à autre
+- **Loi sur la circulation routière** - Loi Suisse sur la **circulation routière** (art. 18), let. b de l’ordonnance concernant les exigences techniques requises pour les véhicules routiers (OETV)
 - **Gage** - Danske Bank [A/S, succursale finlandaise], ID d'entreprise : [1078693-2]
 - **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
 - **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
