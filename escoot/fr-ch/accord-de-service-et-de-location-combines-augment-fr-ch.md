@@ -55,8 +55,8 @@ La prestation couvre :
 
 La prestation ne couvre pas :
 
-- Rayures, usures ou marques sur la peinture qui n'affectent pas l'utilisation de la **trottinette** électrique
-- Défauts causés intentionnellement ou par négligence grave, auquel cas **Augment** a le droit de facturer le coût de la réparation au **client**
+- Rayures, usures ou marques sur la peinture qui n'affectent pas l'utilisation de la **trottinette** électrique.
+- Défauts causés intentionnellement ou par négligence grave, auquel cas **Augment** a le droit de facturer le coût de la réparation au **client**.
 
 **Augment** n'est pas responsable vis-à-vis du **client** ou de tiers des **dommages** aux personnes, aux biens ou aux biens mobiliers ou immobiliers causés par la **trottinette** électrique ou son utilisation. Il est de la responsabilité du **client** de s'assurer qu'il dispose d'une police d'assurance valide couvrant ces **dommages**, accidents et responsabilité civile.
 
@@ -142,8 +142,6 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 
 Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volé, perdu, détourné ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
-<div class="page"/>
-
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
 - Le paiement dû n'a pas été payé dans les deux (2) semaines après l'envoi du rappel de paiement,
@@ -151,6 +149,8 @@ Si le **client** a des **frais de service** impayés, ou si la **trottinette** �
 - Malgré la demande d'**Augment**, le **client** n'a pas respecté ses obligations contractuelles autres que celles relatives au paiement.
 
 **Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
+
+<div class="page"/>
 
 ### Rupture d'accord
 
@@ -222,7 +222,7 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 
 - **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**]
 - **Accord** - cet **accord**
-- **Augment** - **Augment** Mobility Ab, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility Ab
+- **Augment** - **Augment** Mobility SA, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility SA
 - **Loi sur la protection des consommateurs** – Loi Suisse sur la protection des consommateurs
 - **Client** - un **client** qui conclut un contrat de service avec **Augment**. En tant que partie au présent accord, vous êtes responsable de la **trottinette** électrique inclus, des **frais de service** et de l'utilisation.
 - **Service client** - **Service client Augment**
