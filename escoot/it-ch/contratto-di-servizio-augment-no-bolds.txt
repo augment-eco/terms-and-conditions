@@ -34,7 +34,7 @@ La durata minima del contratto è di 24 mesi. Durante il primo periodo di 24 mes
 
 ### Uso del monopattini elettrico
 
-Secondo la Legge Sulla Circolazione Stradale Italiana, il monopattino elettrico è un "veicolo elettrico leggero" ed è destinato all'uso in Italia in conformità con la Legge Sulla Circolazione Stradale. Il cliente deve garantire che il cliente e gli altri utenti del monopattino elettrico abbiano familiarità con le regole del traffico relative all'uso del monopattino elettrico e siano in grado di gestire il monopattino elettrico in ogni circostanza senza causare pericoli a se stessi o ad altri utenti della strada.
+Secondo la Legge Sulla Circolazione Stradale Svizzera, il monopattino elettrico è un "veicolo elettrico leggero" ed è destinato all'uso in Italia in conformità con la Legge Sulla Circolazione Stradale. Il cliente deve garantire che il cliente e gli altri utenti del monopattino elettrico abbiano familiarità con le regole del traffico relative all'uso del monopattino elettrico e siano in grado di gestire il monopattino elettrico in ogni circostanza senza causare pericoli a se stessi o ad altri utenti della strada.
 
 Il cliente è responsabile di garantire che il monopattino elettrico sia in buone condizioni e funzionante e che venga utilizzato in conformità con i requisiti di legge. Il monopattino elettrico non deve essere utilizzato in condizioni meteorologiche inadatte per un uso sicuro.
 
@@ -185,7 +185,7 @@ La lingua principale di questo accordo è l'italiano. In caso di discrepanza tra
 
 ### Legge applicabile e controversie
 
-Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il contratto è regolato e interpretato secondo la legge italiana se il domicilio o la residenza abituale del cliente è in Italia. Per tutte le controversie il Foro di Roma ha competenza esclusiva. L'applicazione del Decreto Legislativo n. 206/2005 (Codice del Consumo) resta inalterata.
+Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il contratto è regolato e interpretato secondo la legge italiana se il domicilio o la residenza abituale del cliente è in Svizzera.
 
 I reclami devono essere effettuati dal cliente tramite live chat al servizio clienti di Augment, per iscritto con lettera raccomandata con ricevuta di ritorno o per semplice posta entro 45 giorni dal verificarsi dell'evento. I reclami relativi a disservizi di carattere eccezionale e generale di complessità tecnica devono essere confermati con lettera raccomandata con ricevuta di ritorno entro 45 giorni dalla fine del disservizio.
 
@@ -195,7 +195,17 @@ In caso di reclami per fatti particolarmente complessi, che non consentono una r
 
 Per le controversie identificate con le misure di attuazione dell'autorità competente, non si può ricorrere ai tribunali fino a quando non sia stato compiuto il tentativo obbligatorio di conciliazione.
 
-La presentazione del tentativo obbligatorio di conciliazione sospende il termine per intraprendere un'azione legale. Tale mandato ricomincia alla scadenza del termine per la conclusione della procedura di conciliazione, che non può durare più di 30 giorni dalla presentazione della petizione. In alternativa, il cliente ha la possibilità di attivare la procedura di conciliazione contattando l'organismo ADR dell'Associazione dei Consumatori nell'elenco di cui alla delibera 661/15/CONS, nonché il tentativo di conciliazione dinanzi agli altri organi ADR di cui alla risoluzione 203/18/CONS e successive modifiche e aggiunte e dinanzi alle camere di conciliazione istituite presso le camere di commercio, Industria, Artigianato e Agricoltura aderenti al Protocollo d'Intesa stipulato tra l'Autorità e UNIONCAMERE.
+L'accordo sarà regolato e interpretato in conformità con le leggi svizzere.
+
+In caso di controversia derivante da un contratto di consumo, il consumatore può intentare un'azione legale nel suo luogo di domicilio o in quello del venditore. Il consumatore non può rinunciare in anticipo a tale diritto.
+
+Le presenti Condizioni Generali di Acquisto sono soggette alla legge Svizzera. In caso di controversia, il Cliente si rivolgerà alla Federazione Romanda dei Consumatori per ottenere una soluzione amichevole.
+
+Il Cliente può consultare in qualsiasi momento queste disposizioni sul sito <https://www.frc.ch>
+
+Federazione Romanda dei Consumatori
+Rue de Genève 17
+1002 Lausanne
 
 ## Validita’ dei termini del contratto
 
