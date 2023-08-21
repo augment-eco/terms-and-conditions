@@ -106,14 +106,6 @@ Il **cliente** ha il diritto di risolvere il **contratto** 11 mesi dopo l'inizio
 
 Se il **cliente** non desidera riscattare lo scooter al **termine del contratto**, il **monopattino elettrico** deve essere restituito ad **Augment** in conformità con le istruzioni del **servizio clienti**.
 
-### Diritto di recesso dalla vendita a distanza
-
-Secondo la **Legge Sulla Protezione Dei Consumatori**, il **cliente** ha il diritto di recedere dal **contratto** entro 14 giorni dalla stipula del **contratto**. L'annullamento del **contratto** deve essere notificato ad **Augment** restituendo al **servizio clienti** il **modulo di annullamento della vendita a distanza** allegato debitamente compilato.
-
-Il pacco contenente il **monopattino elettrico** può essere aperto dal **cliente** per consentire l'ispezione del contenuto. In caso di annullamento del **contratto** da parte del **cliente**, il **monopattino elettrico** deve essere restituito ad **Augment** nella sua condizione originale, seguendo le istruzioni del **servizio clienti**, entro una settimana dalla cancellazione del **contratto**.
-
-Se il **monopattino elettrico** è stato utilizzato durante il periodo di recesso e il **contratto** viene annullato, **Augment** ha il diritto di addebitare al **cliente** la riduzione di valore del **monopattino elettrico**. **Augment** ha il diritto di addebitare al **cliente** l'intero valore del **monopattino elettrico** se il **monopattino elettrico** restituito è invendibile.
-
 ## Commissioni di servizio e mantenimento dei dettagli di contatto
 
 ### Commissioni di servizio
@@ -235,35 +227,3 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Spesa di servizio** - Spese di utilizzo relative al presente accordo, addebitate a intervalli di 1 mese, 3 mesi o 24 mesi
 - **Termini di servizio** - Termini di questo contratto
 - **Parti soggette a usura** - Parti che normalmente si usurano quando si utilizza il monopattino elettrico, come pneumatici, freni, motore e batteria
-
-<div class="page"/>
-
-## Diritto di recesso dalla vendita a distanza Modulo
-
-Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto
-
-Nome: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-E-mail usata per l’ordine: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Indirizzo: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Cellulare: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Data di cancellazione: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Ho acquistato il prodotto da restituire:  Online ho ordinato  Per telefono  Ho ricevuto una chiamata
-
-Motivo della restituzione:
-
- Il prodotto/ servizio non ha soddisfatto le mie aspettative perché \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Il prodotto/ servizio non ha soddisfatto le mie aspettative come concordato con il venditore perché
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Non ho alcun uso per il prodotto/ servizio perché \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Il prodotto/ servizio non può essere distribuito correttamente perché \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Altri motivi: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
