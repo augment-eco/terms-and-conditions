@@ -100,7 +100,7 @@ Il **cliente** può riscattare il **monopattino elettrico** pagando il prezzo di
 
 ### Conclusione del contratto prima della fine del period minimo di contratto
 
-Il **cliente** ha il diritto di risolvere il **contratto** 11 mesi dopo l'inizio del **contratto** al più presto notificando il **servizio clienti** e pagando € 195. Una volta ricevuto il pagamento ad **Augment**, la proprietà del **monopattino elettrico** verrà trasferita al **cliente** e il **contratto** terminerà automaticamente.
+Il **cliente** ha il diritto di risolvere il **contratto** 11 mesi dopo l'inizio del **contratto** al più presto notificando il **servizio clienti** e pagando CHF 195. Una volta ricevuto il pagamento ad **Augment**, la proprietà del **monopattino elettrico** verrà trasferita al **cliente** e il **contratto** terminerà automaticamente.
 
 ### Riconsegna del monopattini elettrico dopo la fine del contratto
 
@@ -205,7 +205,7 @@ La presentazione del tentativo obbligatorio di conciliazione sospende il termine
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 20.3.2023 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 22.8.2023 fino a nuovo avviso.
 
 ### Definizioni (le parole sono scritte in grassetto in linguaggio di accordo quando si riferiscono ad una definizione)
 
@@ -222,7 +222,6 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Legge sul traffico stradale** - Legge finlandese sul traffico stradale (729/2018), modificata di volta in volta
 - **Pegno** - Danske Bank [A/S, filiale finlandese], business ID: [aggiungere entità corretta]
 - **Monopattino elettrico di sostituzione** - Lo scooter elettrico di sostituzione che è equivalente a quello che il cliente ha usato. I monopattini elettrici sostitutivi sono stati riparati e verificati da Augment. I monopattini elettrici possono mostrare segni di usura. Questi includono graffi e trucioli di vernice.
-- **Diritto di recesso** - Diritto legale di risolvere il presente Contratto entro 14 giorni dall'ordine in conformità con le disposizioni della Legge sulla protezione dei consumatori in materia di vendita a distanza
 - **Servizio** - Servizio di monopattino elettrico Augment fornito in conformità con il presente accordo
 - **Spesa di servizio** - Spese di utilizzo relative al presente accordo, addebitate a intervalli di 1 mese, 3 mesi o 24 mesi
 - **Termini di servizio** - Termini di questo contratto
