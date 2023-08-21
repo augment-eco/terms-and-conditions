@@ -147,8 +147,6 @@ Se il **cliente** ha spese di servizio non pagate in sospeso, o se il **monopatt
 
 **Augment** non sospenderà o limiterà l'uso del **servizio** per il mancato pagamento se il mancato pagamento è dimostrato essere dovuto a malattia imprevista o altra causa comparabile al di fuori del controllo del **cliente**, e il pagamento dovuto è effettuato entro un (1) mese dall'invio del sollecito di pagamento, o se il **cliente** ha contestato la fattura con motivi giustificati e la parte indiscussa del pagamento viene pagata entro la data di scadenza.
 
-<div class="page"/>
-
 ### Cambiamenti del servizio o di termini e condizioni
 
 Il **servizio** e le sue caratteristiche o termini e condizioni applicabili possono cambiare. Il **cliente** ha il diritto di risolvere il contratto entro un mese dalla notifica di una modifica sostanziale del **servizio**.
@@ -177,8 +175,6 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 **Augment** tratta i dati personali in conformità con la legislazione applicabile in materia di protezione dei dati. Per maggiori informazioni sul trattamento dei dati personali e dei cookie, si prega di fare riferimento all'Informativa sulla privacy di **Augment**, disponibile sul sito web di **Augment**.
 
-<div class="page"/>
-
 ### Limitazione della responsabilità
 
 **Augment** non sarà responsabile per qualsiasi perdita o danno indiretto o consequenziale causato da **Augment** a meno che **Augment** non abbia causato tale perdita o danno intenzionalmente o per negligenza grave.
@@ -201,15 +197,15 @@ Per le controversie identificate con le misure di attuazione dell'autorità comp
 
 La presentazione del tentativo obbligatorio di conciliazione sospende il termine per intraprendere un'azione legale. Tale mandato ricomincia alla scadenza del termine per la conclusione della procedura di conciliazione, che non può durare più di 30 giorni dalla presentazione della petizione. In alternativa, il cliente ha la possibilità di attivare la procedura di conciliazione contattando l'organismo ADR dell'Associazione dei Consumatori nell'elenco di cui alla delibera 661/15/CONS, nonché il tentativo di conciliazione dinanzi agli altri organi ADR di cui alla risoluzione 203/18/CONS e successive modifiche e aggiunte e dinanzi alle camere di conciliazione istituite presso le camere di commercio, Industria, Artigianato e Agricoltura aderenti al Protocollo d'Intesa stipulato tra l'Autorità e UNIONCAMERE.
 
-<div class="page"/>
-
 ## Validita’ dei termini del contratto
 
 I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 22.8.2023 fino a nuovo avviso.
 
+<div class="page"/>
+
 ### Definizioni (le parole sono scritte in grassetto in linguaggio di accordo quando si riferiscono ad una definizione)
 
-- [**Servizi aggiuntivi** - Servizi forniti separatamente al presente accordo e che richiedono la validità del presente accordo]
+- **Servizi aggiuntivi** - Servizi forniti separatamente al presente accordo e che richiedono la validità del presente accordo
 - **Contratto** - questo contratto
 - **Augment** - Augment Mobility Ab, indirizzo registrato Upankatu 1, 60100 Seinäjoki e aziende appartenenti allo stesso gruppo di Augment Mobility Ab
 - **Legge sulla protezione dei consumatori** - Legge finlandese sulla protezione dei consumatori (38/1978), modificata di volta in volta
