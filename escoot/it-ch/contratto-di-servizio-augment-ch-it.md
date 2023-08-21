@@ -66,7 +66,7 @@ Il **servizio** non comprende:
 
 Dopo aver ricevuto un **monopattino elettrico sostitutivo**, il **monopattino elettrico** difettoso deve essere restituito ad **Augment** entro una settimana dal ricevimento del **monopattino elettrico sostitutivo** in conformità con le istruzioni fornite dal **servizio clienti**. La restituzione di un **monopattino elettrico** difettoso è gratuita.
 
-**Augment** si riserva il diritto di addebitare una penale di 12,50 € per ogni settimana di ritardo in cui il **monopattino elettrico** difettoso non viene restituito.
+**Augment** si riserva il diritto di addebitare una penale di CHF 12,50 per ogni settimana di ritardo in cui il **monopattino elettrico** difettoso non viene restituito.
 
 ### Batteria del monopattini elettrico e ricarica
 
@@ -76,7 +76,7 @@ Il **cliente** deve rispettare il manuale utente del **monopattino elettrico** p
 
 ### Perdita del monopattini elettrico dovuta a furto, vandalismo o altra perdita.
 
-Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà 250 € senza batteria, 350 € con una batteria 360Wh e 450 € con una batteria più grande per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
+Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà CHF 250 senza batteria, CHF 350 con una batteria 360Wh e CHF 450 con una batteria più grande per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
 
 ### Incidenti stradali
 
@@ -84,9 +84,9 @@ Qualsiasi incidente stradale che coinvolga un terzo deve essere segnalato alla P
 
 ### Aggiornamento del monopattino elettrico con uno nuovo
 
-Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino elettrico** dopo 12 mesi dall'inizio del **contratto** al costo di € 125, o gratuitamente 18 mesi dopo l'inizio del **contratto**. Una nuova **durata minima del contratto** di 24 mesi inizia quando un **monopattino elettrico** viene aggiornato.
+Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino elettrico** dopo 12 mesi dall'inizio del **contratto** al costo di CHF 125, o gratuitamente 18 mesi dopo l'inizio del **contratto**. Una nuova **durata minima del contratto** di 24 mesi inizia quando un **monopattino elettrico** viene aggiornato.
 
-Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di € 12,50 a settimana di ritardo.
+Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di CHF 12,50 a settimana di ritardo.
 
 ## Risoluzione del contratto
 
@@ -96,7 +96,7 @@ Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere 
 
 ### Riscatto del monopattini elettrico
 
-Il **cliente** può riscattare il **monopattino elettrico** pagando il prezzo di redenzione di € 49 dopo la **scadenza minima del contratto**. Prima della fine del **periodo minimo**, il **cliente** può riscattare il **monopattino elettrico** pagando le rate rimanenti per il **periodo minimo** e il prezzo di riscatto di € 49. Una volta che il prezzo di riscatto è stato ricevuto da **Augment**, il **contratto** terminerà automaticamente.
+Il **cliente** può riscattare il **monopattino elettrico** pagando il prezzo di redenzione di CHF 49 dopo la **scadenza minima del contratto**. Prima della fine del **periodo minimo**, il **cliente** può riscattare il **monopattino elettrico** pagando le rate rimanenti per il **periodo minimo** e il prezzo di riscatto di CHF 49. Una volta che il prezzo di riscatto è stato ricevuto da **Augment**, il **contratto** terminerà automaticamente.
 
 ### Conclusione del contratto prima della fine del period minimo di contratto
 
