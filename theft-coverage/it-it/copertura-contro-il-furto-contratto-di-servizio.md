@@ -1,75 +1,76 @@
-# Copertura contro il furto Augment
+# Augment copertura contro i furti
 
-Per favore leggi attentamente questa Divulgazione per assicurarti di aver capito come la “Copertura contro il furto Augment” funziona con il furto e lo smarrimento.
+Si prega di leggere questa Informativa per garantire la comprensione di "Augment copertura contro i furti" per il furto e la perdita.
 
-In caso di furto/smarrimento del monopattino, la tua sottoscrizione Augment continua normalmente e il tuo monopattino è sostituito con un monopattino sostitutivo Augment. I monopattini Augment sostitutivi sono rigenerati e possono presentare segni di utilizzo.
+Un (1) abbonamento Copertura Furto Augment copre un (1) monopattino elettrico. Se si desidera coprire per più di un monopattino elettrico, è necessario un abbonamento separato Copertura Furto Augment per ciascuno di essi.
 
-È importante che tu segua queste condizioni di sicurezza, o la tua richiesta potrebbe essere non accettata.
+## In caso di furto/ perdita di un monopattino elettrico:
 
-## Bloccare il tuo monopattino
+Se il monopattino/ batteria viene rubato, segnalare l'incidente alla polizia locale entro 48 ore. Quindi segnala l'incidente ad Augment il prima possibile tramite la Live Chat di Augment. Verrà richiesta una copia del rapporto della polizia.
 
-Devi sempre bloccare il tuo monopattino con l’app Augment Scooters.
+Una volta che avete segnalato l'incidente ad Augment, vi verrà inviato un e-scooter di sostituzione / batteria / e-scooter + batteria. Aumentare il monopattino elettrico di ricambio può essere sostitutivo e può avere segni di uso.
 
-È importante che quando blocchi il monopattino, sia bloccato ad un oggetto non removibile usando il cavo per il blocco Augment per monopattino o una catena/lucchetto omologato per monopattino, bici o motocicletta.
+In caso di furto/ perdita del monopattino elettrico, il principale contratto di servizio Augment continuerà come prima del furto/ perdita.
 
-Se non hai il blocca batteria Augment, conserva la batteria smontata in un posto sicuro chiuso per esempio a casa tua, quando lasci il monopattino non supervisionato o in uno spazio condiviso.
+È importante rispettare le seguenti condizioni.
+
+## Bloccare il tuo monopattino elettrico
+
+Quando non in uso, bloccare il monopattino elettrico con Augment Scooter App. Il monopattino elettrico deve anche essere bloccato attraverso il telaio a un oggetto immobile utilizzando un lucchetto monopattino elettrico appropriato, o per bici, scooter o moto.
+
+Si consiglia di acquistare e utilizzare un cavo di bloccaggio per monopattino Augment con il supporto di bloccaggio del tubo superiore.
 
 ## A casa
 
-- Quando il tuo monopattino è tenuto in casa, le porte e le finestre devono essere chiuse quando la casa non è occupata o quando stai dormendo.
-- Se lasci il monopattino in un’area comune, per esempio in un parcheggio o vicino al foyer di un edificio, il mezzo deve essere bloccato usando l’app Augment Scooters e un lucchetto o una catena appropriata collegata a un oggetto irremovibile, attraverso il busto.
-- Quando il tuo monopattino è tenuto in un garage o una dependance, le porte e le finestre devono essere chiuse. Le porte devono essere chiuse, con un lucchetto a grillo o con serratura Chubb.
-- Se il tuo monopattino è lasciato in una rimessa di legno o metallo, tale rimessa deve essere accessibile solo privatamente. La rimessa di legno deve essere chiusa, accessibile dai confini dell atua casa e il tuo monopattino deve essere bloccato dall’app Augment Scooters.
+- Conservare il monopattino elettrico a casa o in un garage asciutto, caldo e ben chiuso o in annesso.
+- Se lasci il tuo monopattino elettrico in un'area comune, ad esempio all'interno di un garage o nel foyer di un edificio, il monopattino elettrico deve essere bloccato da Augment Scooters App e un lucchetto appropriato a un oggetto immobile, attraverso il telaio.
 
-## Lontano da casa
+## Lontano da casa tua
 
-- Se lasci il monopattino incustodito, quando non sei a casa o nella tua residenza provvisoria, il monopattino deve essere bloccato dall’app Augment Scooters e bloccato in sicurezza tramite il busto del monopattino connesso con un lucchetto ad un oggetto irremovibile.
-- Incustodito significa fuori dalla tua portata visiva o a più di cinque (5) metri lontano da te. Non saranno accettate domande con causa di abbandono.
+Mentre non a casa, il monopattino elettrico deve essere bloccato con Augment Scooter App e utilizzando un blocco fisico e oggetto immobile attraverso il telaio, quando lasciato incustodito, fuori dalla vostra linea diretta di vista o più di cinque (5) metri di distanza da voi. Invece di lasciare la batteria montata sul monopattino elettrico, portarla con voi o conservare in modo sicuro separatamente.
 
-## Trasportare il tuo monopattino con il tuo veicolo
+## Trasporto del tuo monopattino elettrico con il tuo veicolo
 
-Quando stai trasportando il tuo monopattino, mantienilo sempre bloccato tramite l’app Augment Scooters e:
+Se il monopattino elettrico viene lasciato incustodito mentre è in o collegato a qualsiasi veicolo a motore, anche mentre è in transito, deve essere bloccato da Augment Scooter App e:
 
-- Bloccato in uno spazio chiuso;
-- O tenuto bloccato in un veicolo chiuso;
-- O tenuto in un trailer chiuso che è attaccato in sicurezza con un lucchetto a grillo o dalle provvisioni bloccabili di sicurezza del trailer.
+- chiuso in uno cofano chiuso;
+- o custoditi in un veicolo chiuso a chiave;
+- o alloggiati in un rimorchio chiuso a chiave
 
-## In caso di furto
+## Esclusioni specifiche e condizioni specifiche
 
-Effettuare denuncia dell’accaduto nei 5 giorni lavorativi dall’accaduto, mandare la copia del report complete insieme a tutti i dettagli ad Augment. Puoi contattare il servizio clienti Augment tramite la Live Chat Augment.eco.
+I seguenti sono esclusi da "Copertura furto Augment" e qualsiasi reclamo da voi per furto.
 
-## Deduttibile
+- Se non è possibile fornirci un rapporto di polizia contenente i dettagli del furto e un numero di riferimento del reato.
+- in partenza o in partenza da casa o da un veicolo in cui non vi è alcun ingresso forzato e non avete rispettato le condizioni di sicurezza.
+- Lontano da casa quando il monopattino elettrico è lasciato incustodito per più di 18 ore
+- dal vostro giardino o da un'altra zona esterna situata entro il perimetro della vostra proprietà.
+- il monopattino elettrico viene utilizzato contro il contratto principale di servizio Augment
+- Furto commesso dal conduttore o da un membro della sua famiglia.
+- Cattura per ordine di un governo o di un'autorità pubblica.
 
-Il deduttibile per il monopattino senza batteria è di 100€ e con la batteria è di 150€. Il deduttibile per la sola batteria è di 125€. Il deduttibile verra’ fatturato quando il furto/lo smarrimento è comunicato.
+## Deducibile
 
-## Periodo di contratto minimo
+Detraibile per il monopattino elettrico senza batteria è di 100 € e con la batteria 150 €.
 
-Dopo la scadenza del Contratto Minimo di 12 mesi puoi terminare il servizio “Copertura contro il furto Augment” dando un preavviso scritto di 30 giorni.
+La franchigia per la sola batteria è di 125 €. La franchigia sarà fatturata quando viene segnalato il furto/ perdita.
+
+## Durata minima del contratto
+
+Dopo la scadenza della [Durata minima del Contratto](https://www.lawinsider.com/dictionary/minimum-contract-term) di 12 mesi è possibile terminare il servizio "Copertura Antifurto Augment" con 30 giorni di preavviso scritto.
 
 ## Fatturazione
 
-La “Copertura Augment contro il furto” è fatturata mensilmente usando la carta di debito/credito data da Te.
+La "Copertura antifurto Augment" viene fatturata mensilmente in anticipo utilizzando il metodo di pagamento da voi forniti.
 
-Se fallisci nel pagare le rate insolute anche dopo aver ricevuto promemoria di pagamento, Augment ha il diritto di terminare la tua Copertura contro il furto e collezionare un compenso ragionevole da te per i danni causati dalla conclusione prematura di questo accordo.
-
-## Esclusioni Specifiche e Condizioni Specifiche
-
-Le seguenti sono escluse dal servizio “Copertura contro il furto Augment”:
-
-Qualsiasi reclamo fatto da te per furto.
-
-- Se non sei in grado di provvederci con la denuncia della polizia che contiene tutti i dettagli del furto e il numero di referenza del crimine.
-- Da casa o lontano da casa se non ci sono segni di entrata forzata e non hai seguito le condizioni di sicurezza di cui si parla nella sessione “A Casa” di questo documento di policy.
-- Lontano da casa dove, indipendentemente da come i tuoi possedimenti siano assicurati , lasci il monopattino incustodito per più di 18 ore.
-- Dal tuo giardino o qualsiasi altra area esterna al perimetro della tua proprietà.
-- I tuoi oggetti assicurati siano utilizzati da un’altra persona, dati in prestito, regalati o dati al corriere.
-- Il furto è causato da un membro della casa o della famiglia che vive nella stessa casa.
-- Preso da qualsiasi autorità governativa.
+Se non si riesce a pagare le bollette scadute nonostante aver ricevuto un sollecito di pagamento, Augment ha il diritto di interrompere il servizio di copertura contro i furti e di ottenere un risarcimento ragionevole per i danni o i costi causati dalla risoluzione anticipata di questo contratto minimo.
 
 ## Forza maggiore
 
-Augment è libero dalle obbligazioni contrattuali e da responsabilità di danni in caso il compimento del contratto è prevenuto o ritardato da una forza Maggiore. Forza Maggiore si riferisce a circostanze che Augment non avrebbe potuto prevedere nel periodo di conclusione del contratto, e che sono fuori controllo dalla propria portata.
+Augment è liberato dai suoi obblighi contrattuali e dalla responsabilità per i danni nella misura in cui l'adempimento del contratto è impedito o ritardato da una forza maggiore. La forza maggiore si riferisce a circostanze che Augment non avrebbe potuto prevedere al momento della conclusione dell'accordo e che esulano dal suo controllo.
 
 ## Validità dei termini e delle condizioni
 
-Questi termini e condizioni sono validi a partire dal giorno 27 Ottobre 2022, fino a diversa comunicazione.
+Questi termini e condizioni sono validi dal 29 agosto 2023 fino a nuovo avviso.
+
+Il supporto tecnico è fornito da Augment.Eco Live Chat e inizia dopo la convalida e l'accettazione del contratto.
