@@ -61,7 +61,7 @@ Dopo la scadenza della [Durata minima del Contratto](https://www.lawinsider.com/
 
 ## Fatturazione
 
-La "Copertura antifurto Augment" viene fatturata mensilmente in anticipo utilizzando il metodo di pagamento da voi forniti.
+La copertura antifurto Augment verrà addebitata allo stesso momento di pagamento dell'abbonamento monopattino elettrico quando ordinato insieme alla sottoscrizione.
 
 Se non si riesce a pagare le bollette scadute nonostante aver ricevuto un sollecito di pagamento, Augment ha il diritto di interrompere il servizio di copertura contro i furti e di ottenere un risarcimento ragionevole per i danni o i costi causati dalla risoluzione anticipata di questo contratto minimo.
 
