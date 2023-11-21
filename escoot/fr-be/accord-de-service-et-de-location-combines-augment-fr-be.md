@@ -94,7 +94,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Rachat de la trottinette électrique
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+À l'issue de la **durée minimale** du contrat ou suite au règlement intégral de toutes les échéances du contrat, le **client** est habilité à exercer son droit d'acquisition sur la **trottinette** moyennant la somme de 29 euros. À réception du paiement de ladite option d'achat, le contrat prend automatiquement fin.
 
 ### Résiliation du contrat avant la fin de la durée minimale du contrat
 

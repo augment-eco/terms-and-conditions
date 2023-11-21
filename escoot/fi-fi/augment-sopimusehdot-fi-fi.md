@@ -93,7 +93,7 @@ Mikäli **sopimuksen** päättymisen jälkeen **asiakas** ei halua lunastaa **sk
 
 ### Mahdollisuus lunastaa Skuutti omaksi
 
-**Minimisopimuskauden** jälkeen käytössä olevan **skuutin** voi lunastaa omaksi maksamalla 49 euron **lunastushinnan**. Ennen **minimisopimuskauden** päättymistä **skuutin** voi lunastaa maksamalla jäljellä olevat **minimisopimuskauden palvelumaksut** ja 49 euron **lunastushinnan**. **Lunastushinnan** maksamisen jälkeen **sopimus** lakkaa olemasta voimassa.
+**Minimisopimuskauden** jälkeen tai maksettuaan kaikki **minimisopimuskauden** maksuerät, **asiakas** voi lunastaa **skuutin** omakseen 29 eurolla. **Lunastushinnan** maksamisen jälkeen **sopimus** päättyy automaattisesti.
 
 ### Sopimuksen päättäminen ennen minimisopimuskauden päättymistä
 
