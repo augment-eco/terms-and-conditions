@@ -218,13 +218,13 @@ En cas de litige, le client peut toujours s'adresser à la plateforme européenn
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 28.6.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 21.11.2023 jusqu'à nouvel ordre.
 
 <div class="page"/>
 
 ### Définitions (les mots sont écrits en gras dans la langue de l'accord lorsqu'ils font référence à une définition)
 
-- **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**]
+- **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**
 - **Accord** - cet **accord**
 - **Augment** - **Augment** Mobility Ab, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility Ab
 - **Loi sur la protection des consommateurs** – Loi luxembourgeoise sur la protection des consommateurs, telle que modifiée de temps à autre

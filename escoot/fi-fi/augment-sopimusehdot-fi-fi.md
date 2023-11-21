@@ -196,7 +196,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen toistaiseksi.
+Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 21.11.2023 alkaen toistaiseksi.
 
 <div class="page"/>
 
