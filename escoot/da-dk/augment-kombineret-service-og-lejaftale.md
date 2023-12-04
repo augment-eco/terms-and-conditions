@@ -16,7 +16,7 @@ Formålet med **aftalen** er at definere parternes rettigheder og forpligtelser 
 
 ### Verifikation af kreditoplysningerne
 
-Inden ordrens godkendelse, har **Augment** ret til at verificere **kundens** kreditværdighed.
+**Augment** foretager på baggrund af dine oplysninger en kreditvurdering. Kreditvurderingen foretages ved søgning i Collectia A/S database. **Augment** forbeholder sig retten til at afvise ansøgere uden yderligere begrundelse. Hvis kortansøgningen afvises på baggrund af søgning i en database, kan du ved henvendelse til **Augment** få oplyst, hvilken database informationerne kommer fra.
 
 ### El-løbehjul
 
