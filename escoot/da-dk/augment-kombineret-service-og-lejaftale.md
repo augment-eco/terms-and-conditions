@@ -74,7 +74,7 @@ Efter at have modtaget et **erstatningsløbehjul**, skal det defekte **el-løbeh
 
 ### Tab af el-løbehjul på grund af tyveri, hærværk eller andet tab
 
-Hvis **el-løbehjulet** bliver stjålet, går tabt eller udsat for hærværk, skal **kunden** underrette politiet og **Augment** inden for 48 timer efter hændelsen. **Augment** vil opkræve 1865 DKK uden batteri, 2600 DKK med et 360Wh batteri og 3355 DKK med et større batteri for et stjålet **el-løbehjul**. Ved modtagelse af betaling vil et **erstatningsløbehjul** blive leveret til kunden. Denne **aftale** opsiges ikke ved tyveri, tab eller hærværk.
+Hvis **el-løbehjulet** bliver stjålet, går tabt eller udsat for hærværk, skal **kunden** underrette politiet og **Augment** inden for 48 timer efter hændelsen. **Augment** vil opkræve 1850 DKK uden batteri, 2600 DKK med et 360Wh batteri og 3355 DKK med et større batteri for et stjålet **el-løbehjul**. Ved modtagelse af betaling vil et **erstatningsløbehjul** blive leveret til kunden. Denne **aftale** opsiges ikke ved tyveri, tab eller hærværk.
 
 ### Trafikulykker
 
@@ -214,7 +214,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 ### Aftalens gyldighed
 
-Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark** fra 10.3.2023 indtil videre.
+Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark** fra 4.12.2023 indtil videre.
 
 <div class="page"/>
 
@@ -222,7 +222,7 @@ Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark*
 
 - **Yderligere tjenester** - Tjenester, der leveres separat i henhold til denne aftale, og som kræver denne aftales gyldighed
 - **Aftale** - denne aftale
-- **Augment** - Augment Mobility Ab, registreret adresse Upankatu 1, 60100 Seinäjoki (virksomheds-ID: (2700974-2) og virksomheder, der tilhører samme koncern som Augment Mobility Ab
+- **Augment** - Augment Mobility Ab, registreret adresse Upankatu 1, 60100 Seinäjoki (virksomheds-ID: 2700974-2) og virksomheder, der tilhører samme koncern som Augment Mobility Ab
 - **Forbrugerbeskyttelsesloven** – Dansk Forbrugerbeskyttelseslov, som ændret fra tid til anden
 - **Kunde** - en kunde, der indgår en Serviceaftale med Augment. Som part i denne aftale er du ansvarlig for det inkluderede el-løbehjul, servicegebyrer og brug.
 - **Kundeservice** - Augment kundeservice
