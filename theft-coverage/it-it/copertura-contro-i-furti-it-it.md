@@ -8,7 +8,7 @@ Un (1) abbonamento Copertura Furto Augment copre un (1) monopattino elettrico. S
 
 Se il monopattino/ batteria viene rubato, segnalare l'incidente alla polizia locale entro 48 ore. Quindi segnala l'incidente ad Augment il prima possibile tramite la Live Chat di Augment. Verrà richiesta una copia del rapporto della polizia.
 
-Una volta che avete segnalato l'incidente ad Augment, vi verrà inviato un e-scooter di sostituzione / batteria / e-scooter + batteria. Aumentare il monopattino elettrico di ricambio può essere sostitutivo e può avere segni di uso.
+Una volta che avete segnalato l'incidente ad Augment, vi verrà inviato un e-scooter di sostituzione / batteria / e-scooter + batteria. Il monopattino elettrico Augment di ricambio può essere sostitutivo e può avere segni di usura.
 
 In caso di furto/ perdita del monopattino elettrico, il principale contratto di servizio Augment continuerà come prima del furto/ perdita.
 
@@ -49,13 +49,13 @@ I seguenti sono esclusi da "Copertura furto Augment" e qualsiasi reclamo da voi 
 - dal vostro giardino o da un'altra zona esterna situata entro il perimetro della vostra proprietà.
 - il monopattino elettrico viene utilizzato contro il contratto principale di servizio Augment
 - Furto commesso dal conduttore o da un membro della sua famiglia.
-- Cattura per ordine di un governo o di un'autorità pubblica.
+- Sequestro per ordine di un governo o di un'autorità pubblica.
 
-## Deducibile
+## Detraibile
 
-Detraibile per il monopattino elettrico senza batteria è di 100 € e con la batteria 150 €.
+La franchigia necessaria per il monopattino elettrico senza batteria è di EUR100 e con la batteria EUR150.
 
-La franchigia per la sola batteria è di 125 €. La franchigia sarà fatturata quando viene segnalato il furto/ perdita.
+La franchigia per la sola batteria è di EUR125. La franchigia sarà fatturata quando viene segnalato il furto/ perdita.
 
 ## Durata minima del contratto
 
@@ -63,7 +63,7 @@ Dopo la scadenza della [Durata minima del Contratto](https://www.lawinsider.com/
 
 ## Fatturazione
 
-La copertura antifurto Augment verrà addebitata allo stesso momento di pagamento dell'abbonamento monopattino elettrico quando ordinato insieme alla sottoscrizione.
+La "Copertura antifurto Augment" viene fatturata mensilmente in anticipo utilizzando il metodo di pagamento da voi forniti.
 
 Se non si riesce a pagare le bollette scadute nonostante aver ricevuto un sollecito di pagamento, Augment ha il diritto di interrompere il servizio di copertura contro i furti e di ottenere un risarcimento ragionevole per i danni o i costi causati dalla risoluzione anticipata di questo contratto minimo.
 
@@ -73,6 +73,6 @@ Augment è liberato dai suoi obblighi contrattuali e dalla responsabilità per i
 
 ## Validità dei termini e delle condizioni
 
-Questi termini e condizioni sono validi dal 29 agosto 2023 fino a nuovo avviso.
+Questi termini e condizioni sono validi dal 19.02.2024 fino a nuovo avviso.
 
 Il supporto tecnico è fornito da Augment.Eco Live Chat e inizia dopo la convalida e l'accettazione del contratto.
