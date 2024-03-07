@@ -1,201 +1,273 @@
-# CONDICIONES GENERALES DE ALQUILER Y USO
+# CONTRATO DE SERVICIO DE AUGMENT
 
-## Artículo 1 - Disposiciones generales
+## Partes y objeto del contrato
 
-Al hacer clic en el botón "Pagar ahora", usted valida su consentimiento para el pago, acepta nuestra [política de confidencialidad](https://augment.eco/es/condiciones/politica-de-confidencialidad) y confirma que es mayor de 18 años.
+Los términos y condiciones de este **contrato** se aplican al **servicio** de patinete eléctrico proporcionado por **Augment** a particulares, el **cliente**, **Augment** y el **cliente** colectivamente, las **partes**. El cliente deberá ser una persona física [totalmente autorizada] mayor de 18 años y no estar bajo tutela judicial. El **servicio** y el patinete eléctrico son para uso de un solo hogar. El **servicio** o el **patinete eléctrico** no se pueden utilizar para ningún fin comercial ni para la generación de ingresos.
 
-La adhesión al contrato comienza en cuanto se validan los documentos requeridos. Augment Mobility se reserva el derecho de rechazar cualquier solicitud de alquiler.
+El objetivo del **contrato** es definir los derechos y obligaciones de las partes con respecto al **servicio** y al **patinete eléctrico**, que se describen a continuación:
 
-La firma electrónica en el momento de la inscripción implica la aceptación sin reservas de las condiciones generales. El contrato de alquiler del patinete eléctrico se celebra entre: el usuario/pagador (en adelante "usuario") y Augment Mobility (en adelante "arrendador") con domicilio social en Maakunnankatu 7, 60100 Seinäjoki, Finlandia.
+- Entrada en vigor del **contrato** (página 1)
+- Uso del **patinete eléctrico** y duración del **contrato** (página 2)
+- Finalización del **contrato** (página 4)
+- **Tarifas de servicio** y mantenimiento de datos de contacto (página 4)
+- Otros términos y condiciones (página 5)
 
-## Artículo 2 - Inicio del contrato
+### Entrada en vigor del contrato
 
-Al inicio de éste contrato, Augment.eco le entregará su nuevo patinete eléctrico.
+El **contrato** se concluye electrónicamente. El **contrato** entra en vigor cuando **Augment** acepta el pedido del **cliente**. Este **contrato** se puede descargar electrónicamente desde el sitio web de **Augment**.
 
-El patinete eléctrico sigue siendo propiedad de Augment.eco durante la duración del contrato. Por favor, manténgalo en su estado original: no retire ningún logotipo de Augment.eco, no aplique ninguna pegatina, no lo pinte, no lo modifique de ninguna manera, ni quite alguno de los accesorios.
+### Verificación de la información crediticia
 
-## Artículo 3 - Actualización de su patinete eléctrico
+Antes de aceptar un pedido, **Augment** tiene derecho a verificar la solvencia del **cliente**.
 
-Puede actualizar su patinete eléctrico de forma gratuita al último modelo tras un periodo de contrato de 18 meses. O después de 12 meses por un total de 125 euros. Al actualizar su patinete eléctrico se inicia un nuevo período de contrato de al menos 24 meses. Después de recibir un nuevo patinete eléctrico puede devolver el antiguo patinete de forma gratuita.
+### Patinete eléctrico
 
-## Artículo 4 - Posibilidad de adquirir el patinete eléctrico
+Tras la entrada en vigor del **contrato**, **Augment** proporcionará al **cliente** un **patinete eléctrico** nuevo y sin usar. El **patinete eléctrico** será propiedad de **Augment** durante la vigencia del **contrato**. El **patinete eléctrico** deberá mantenerse en su estado original. No se permiten modificaciones técnicas ni de otro tipo. El **cliente** no puede eliminar los logotipos de **Augment**, pintar el **patinete eléctrico**, aplicar pegatinas ni modificar el **patinete eléctrico** de ninguna otra manera. **Augment** se reserva el derecho de cobrar al **cliente** el coste de devolver el **patinete eléctrico** a su estado original.
 
-Puede comprar el patinete eléctrico en cualquier momento durante el periodo del contrato pagando las cuotas mensuales restantes y una cuota de amortización de 29 euros.
+Se pueden instalar accesorios normales, como un soporte para teléfono móvil, en el **patinete eléctrico**, siempre que dichos accesorios se puedan quitar sin dejar marcas en el **patinete eléctrico**. El **cliente** será responsable de la instalación, retiro y eliminación de cualquier accesorio y marcas dejadas por los accesorios.
 
-## Artículo 5 - Servicio de Sustitución Augment Express
+## Duración del contrato y uso del patinete eléctrico
 
-Si la reparación del problema reportado requiere el reemplazo del patinete eléctrico, le enviaremos desde nuestro centro de reparación más cercano un patinete eléctrico de reemplazo el siguiente día hábil, antes de devolvernos su patinete eléctrico. El plazo de entrega de los patinetes eléctricos de sustitución es normalmente de 3 a 5 días laborables. El servicio de sustitución express cubre también los elementos consumibles, es decir, las pastillas de freno, las cámaras de aire y los neumáticos.
+### Duración del contrato
 
-1. Póngase en contacto con el servicio de atención al cliente de Augment para solicitar el servicio de sustitución express.
-2. Tras recibir el patinete eléctrico de sustitución, devuelva su patinete original en un plazo de 10 días laborables. Utilice el embalaje del patinete eléctrico de sustitución.
+La **duración mínima fija** del **contrato** es de 24 meses. Durante los primeros 24 meses de vigencia del **contrato**, el mismo no podrá rescindirse (**duración mínima del contrato**). Una vez finalizado el plazo mínimo, el **contrato** permanecerá en vigor hasta nuevo aviso y podrá rescindirse con un preaviso de 30 días, a menos que el cliente haya actualizado el **patinete eléctrico** por uno nuevo de acuerdo con el procedimiento mencionado más adelante.
 
-Por favor, devuelva el patinete eléctrico sin la batería, el cargador y los puños del manillar, si el servicio de atención al cliente de Augment no le indica lo contrario.
+### Uso del patinete eléctrico
 
-Los patinetes eléctricos de reemplazo completan un riguroso proceso de reacondicionamiento que incluye pruebas completas que cumplen con los mismos estándares funcionales que los nuevos productos de Augment, sin embargo, en los patinetes eléctricos de reemplazo puede haber signos de uso.
+De acuerdo con la **normativa española de circulación de la DGT**, el **patinete eléctrico** es un "vehículo de movilidad personal (VMP)" y está destinado a su uso en España en conformidad con el código de circulación vigente. El **cliente** se asegurará de que el **cliente** y otros usuarios del **patinete eléctrico** estén familiarizados con las normas de tráfico relacionadas con el uso del **patinete eléctrico** y puedan manejar el **patinete eléctrico** en todas las circunstancias sin causar peligro a ellos mismos ni a otras personas en la carretera.
 
-El usuario se compromete sin reservas, a respetar este programa de mantenimiento por su propia seguridad.
+El **cliente** es responsable de garantizar que el **patinete eléctrico** esté en buen estado de funcionamiento y que se utilice de acuerdo con los requisitos legales. El **patinete eléctrico** no se utilizará en condiciones climáticas inadecuadas para un uso seguro.
 
-## Artículo 6 - Servicio de batería
+El **patinete eléctrico** no está diseñado para carreras, uso todoterreno o trucos. Los trucos incluyen, pero no se limitan a, derrapar, bloquear deliberadamente los frenos, saltar y rebotar u otras acrobacias. **Augment** tiene derecho a cobrar al **cliente** cualquier costo incurrido debido al uso del **patinete eléctrico** de cualquier manera contraria a este **contrato** o al manual del usuario.
 
-Su batería está diseñada para conservar hasta el 70% de su capacidad original, con aproximadamente 500 ciclos de carga completos. El servicio de sustitución Augment Express incluye la cobertura de servicio para una batería defectuosa. Tenga en cuenta que la autonomía puede variar por muchas razones (por ejemplo, la temperatura, el terreno, el conductor, la presión de los neumáticos), que no están directamente relacionadas con el estado de la batería.
+### Avería del patinete eléctrico
 
-## Artículo 7 - Daños
+Cualquier **defecto técnico** o **daño** al **patinete eléctrico** debe informarse a través del chat en vivo del **servicio de atención al cliente**. Una vez informado, se pedirá al **cliente** que adjunte fotografías y/o videos para poder comprobar la falla y el estado general del **patinete eléctrico** antes de proceder con el pedido de algún reemplazo. Luego, **Augment** enviará al **cliente** un **patinete eléctrico de reemplazo** sin cargo el siguiente día hábil. El plazo de entrega del **patinete eléctrico** suele ser de 3 a 5 días laborables a partir de la fecha de envío.
 
-Si el patinete eléctrico ha sufrido daños imprevistos causados por el usuario, Augment.eco reparará los daños.
+El **cliente** también puede reparar el **patinete eléctrico** por sí mismo. En este caso, **Augment** proporciona al **cliente** los repuestos necesarios para la reparación de forma gratuita.
 
-Tenga en cuenta que el número de reparaciones gratuitas de daños incluidas en el contrato está limitado a un máximo de dos por año.
+El **servicio** cubre:
 
-En caso de que se produzcan más daños, cobraremos una tarifa de reparación de acuerdo con nuestra lista de precios actual.
+- Todos los **defectos**, incluido el desgaste y rasgaduras de **piezas de desgaste** como neumáticos, frenos, motor y batería.
+- **Daños** inesperados, por ejemplo, rotura del patinete por colisión o caída. Durante la vigencia del **contrato**, el número de **daños** a indemnizar se limita a un máximo de dos casos por año.
 
-Nuestro servicio no cubre la indemnización por daños intencionales, incluidos los causados por terceros.
+El **servicio** no cubre:
 
-## Artículo 8 - Obligaciones del usuario
+- Arañazos, desgaste o marcas en la pintura que no afecten al uso del **patinete eléctrico**.
+- **Defectos** causados intencionalmente o por negligencia grave, en cuyo caso **Augment** tiene derecho a cobrar el coste de la reparación al **cliente**.
 
-Artículo 8.1. No puede alquilar el patinete a terceros. Si usted planea utilizar el e-scooter profesionalmente para, por ejemplo, servicios de entrega, por favor, póngase en contacto con el servicio de atención al cliente de Augment por adelantado. No está permitido transferir este contrato a terceros.
+**Augment** no es responsable ante el **cliente** ni ante terceros de ningún **daño** a personas, propiedad o bienes muebles o inmuebles causado por el **patinete eléctrico** o su uso. Es responsabilidad del **cliente** asegurarse de tener una póliza de seguro válida que cubra dichos **daños**, accidentes y responsabilidad civil.
 
-Artículo 8.2. Durante el periodo de alquiler, el usuario está obligado a cumplir con las distintas obligaciones derivadas del Código de la Carretera y el Manual del Usuario proporcionado. El uso del casco es muy recomendable y obligatorio para los usuarios menores de 18 años, si sus padres conocen y son responsables del uso del patinete eléctrico.
+### Devolución del patinete y partes defectuosas
 
-- El patinete eléctrico no puede utilizarse para transportar pasajeros.
-- Asegúrese de no superar el peso máximo de conducción (100 kg) para el patinete eléctrico.
-- El patinete eléctrico Augment.eco no es apto para carreras todo-terreno ni para acrobacias. Las acrobacias incluyen la aceleración o el frenado, los derrapes, el caballito y el salto.
-- No conduzca su patinete eléctrico en charcos profundos y no sumerja el motor o la batería de su patinete eléctrico en el agua. Circule únicamente por las zonas autorizadas y a la velocidad máxima autorizada.
-- Es peligroso utilizar el teléfono móvil mientras se conduce un patinete eléctrico.
-- Está prohibido el uso del patinete eléctrico en estado de embriaguez.
-- Por favor, aparque su patinete eléctrico sólo en las zonas autorizadas.
-- Asegúrese de que el patinete eléctrico esté correctamente equipado con un dispositivo antirrobo cuando no se encuentra en las inmediaciones del patinete.
-- El patinete eléctrico no debe dejarse al aire libre durante la noche o bajo la lluvia.
-- Puede guardar el patinete eléctrico plegado de forma segura en el interior.
-- Si la batería de su patinete eléctrico se ha agotado, puede utilizar su patinete eléctrico como uno de patada.
-- Tenga en cuenta que a medida que el nivel de carga de la batería disminuye, el rendimiento del patinete eléctrico disminuye.
-- Si la batería de su patinete eléctrico se calienta de forma inusual durante la carga o el uso, póngase en contacto con nuestro servicio de atención al cliente.
-- Si presta su patinete eléctrico a un tercero, asegúrese de que tiene los conocimientos y habilidades suficientes para utilizar su patinete eléctrico.
+Después de recibir un **patinete eléctrico de reemplazo** o de alguna de sus partes, el **patinete eléctrico** y/o las **partes** defectuosas se devolverán a **Augment** en el plazo de una semana tras la recepción de las partes o del **patinete eléctrico de reemplazo** de acuerdo con las instrucciones proporcionadas por el **servicio de atención al cliente**. La devolución de un **patinete eléctrico** y/o las partes defectuosas es gratuita, pero se requiere que imprima las etiquetas necesarias para la entrega.
 
-Artículo 8.3. Durante cualquier periodo de no utilización del patinete eléctrico, el usuario se compromete a sujetar sistemáticamente el chasis de su patinete a un soporte fijo (como una barra, etc.) con un dispositivo especial antirrobo. El usuario se compromete, si el patinete eléctrico no se utiliza durante un largo periodo de tiempo durante el contrato de alquiler, a recargar completamente la batería al menos cada 3 meses. Este principio garantiza una duración óptima de la batería. En caso de incumplimiento de éste y la devolución de una batería fuera de servicio, el usuario será responsable de la sustitución de la batería.
+**Augment** se reserva el derecho de cobrar un recargo de 12,50€ por cada semana posterior si no se devuelve el **patinete eléctrico** defectuoso, y/o restringir el **servicio** hasta que el **cliente** regularice su situación.
 
-## Artículo 9 - Pago
+### Batería y carga del patinete eléctrico
 
-Las cuotas de suscripción se cobrarán por adelantado, según su elección, cuando haya realizado su suscripción.
+El **cliente** deberá cumplir con el manual de usuario del **patinete eléctrico** para las instrucciones de carga y almacenamiento de la batería. El **cliente** deberá cargar la batería al menos cada 2 meses. El **cliente** no deberá cargar ni utilizar la batería si está físicamente dañada, se calienta más de lo habitual, hace un ruido extraño o tiene fugas.
 
-Las opciones de pago son mensuales o trimestrales. O puede comprar el patinete eléctrico usted mismo, incluyendo 24 meses de servicio de sustitución express gratuito.
+**Augment** reemplazará la batería sin cargo si la capacidad máxima de la batería cae por debajo del 70% de la capacidad de la batería nueva. Si la batería no se ha almacenado o cargado según las instrucciones, **Augment** no está obligado a reemplazarla.
 
-La fecha de caducidad de la cuota mensual viene determinada por la fecha de la suscripción.
+### Pérdida del patinete eléctrico por robo, vandalismo u otra pérdida
 
-Asegúrese de tener fondos suficientes en su tarjeta de crédito o débito o cuenta bancaria para cubrir los pagos.
+Si el **patinete eléctrico** es robado, perdido o es objeto de vandalismo, el **cliente** deberá notificar a la Policía y a **Augment** dentro de las **48 horas** posteriores a la ocurrencia de dicho evento. **Augment** cobrará 250€ sin batería, 350€ con una batería de 360Wh y 450€ con una batería más grande, por un **patinete eléctrico** robado. Una vez recibido el pago, se entregará al **cliente** un **patinete eléctrico de reemplazo**. Este **contrato** no se cancela por robo, pérdida o vandalismo.
 
-Los importes debidos en virtud del contrato de servicios se han comprometido a favor de _Collector Bank AB_ como Acreedor con Garantía Real y el Acreedor con Garantía Real es el único que puede hacer cambios en las instrucciones de pago
+### Accidentes de tráfico
 
-## Artículo 10 - Conservación de los datos de pago
+Cualquier accidente de tráfico que involucre a un tercero debe ser reportado a la Policía y a **Augment** dentro de las 48 horas posteriores al accidente.
 
-Si sus datos de pago cambian, por ejemplo, si recibe una nueva tarjeta de crédito para reemplazar una tarjeta caducada, actualice su cuenta inmediatamente (en el área de clientes en nuestro sitio web) con las informaciones correspondientes inmediatamente antes de la fecha de vencimiento de la cuota mensual.
+### Actualizar el patinete eléctrico a uno nuevo
 
-## Artículo 11 - Derecho de Augment.eco a limitar el servicio
+El **patinete eléctrico** podrá actualizarse a un **patinete eléctrico** nuevo transcurridos 12 meses desde el inicio del **contrato** por un coste de 125€, o de forma gratuita 18 meses después del inicio del **contrato**. Una nueva **duración mínima del contrato** de 24 meses comienza cuando se actualiza un **patinete eléctrico**.
 
-Augment.eco tiene derecho a restringir o bloquear el uso del servicio si usted, como usuario, o una autoridad competente, como la policía o la compañía de seguros, así lo solicitase.
+El **patinete eléctrico** antiguo debe devolverse a **Augment** según las instrucciones del **servicio de atención al cliente,** una vez que llegue el **patinete eléctrico** nuevo. Si el antiguo **patinete eléctrico** no se devuelve en el plazo de una semana tras la recepción del nuevo **patinete eléctrico**, **Augment** tendrá derecho a cobrar un recargo por el retraso de 12,50€ por semana de retraso y/o restringir el servicio hasta que regularice su situación.
 
-El bloqueo del patinete eléctrico implica el bloqueo de todos los servicios disponibles en el contrato de servicio. Restringir el uso del patinete eléctrico significa impedir el uso de uno o varios de los servicios disponibles a través del contrato de servicios.
+## Finalización del contrato
 
-El uso del patinete eléctrico puede, por ejemplo, limitarse de forma que el usuario sólo pueda circular a una determinada velocidad y no sea posible cambiarla. Augment.eco también puede evitar que el patinete eléctrico se utilice en zonas de riesgo o restringidas (por ejemplo, zona militar/nuclear, etc.).
+El **cliente** tendrá derecho a rescindir el **contrato** al vencimiento de la **duración mínima del contrato** mediante notificación por escrito a **Augment** a través del chat en vivo de **Augment** o por correo electrónico antes de que expire la **duración mínima del contrato**.
 
-Augment.eco también tiene el derecho a restringir el uso del patinete eléctrico si éste ha sido robado, perdido o utilizado sin autorización, o si está en posesión ilegal de otra persona.
+Una vez transcurrida la **duración mínima**, **Augment** tendrá derecho a rescindir el **contrato** con un preaviso de 30 días.
 
-Augment.eco puede bloquear el servicio o restringir su uso si:
+### Adquisición del patinete eléctrico
 
-- La cuota de servicio está vencida;
-- no se ha aportado el anticipo o la garantía exigida en el momento de la celebración del contrato;
-- en caso de quiebra o insolvencia declarada por un organismo gubernamental y si no proporciona la garantía adecuada requerida;
-- no cumple con otras obligaciones de pago previstas en el contrato, aunque se le haya requerido.
+El **cliente** podrá adquirir el **patinete eléctrico** pagando el precio de canje de 29€, una vez transcurrida la **duración mínima del contrato**. Antes de que finalice la **duración mínima**, el **cliente** podrá adquirir el **patinete eléctrico** pagando las cuotas restantes de la **duración mínima** y el precio de canje de 29€. Una vez que **Augment** haya recibido el pago de adquisición, el **contrato** finalizará automáticamente.
 
-Augment.eco no excluye ni limita el uso del servicio en caso de impago si puede demostrar que el impago se debe a una enfermedad imprevista o a un caso de fuerza mayor y que usted dispone del recibo de pago; o, en el plazo de un (1) mes tras el envío del pago, o si ha presentado una objeción relativa a una factura y el importe en cuestión ha sido pagado dentro del plazo establecido.
+### Terminación del contrato antes de que finalice la duración mínima del contrato
 
-## Artículo 12 - Impagos
+El **cliente** tiene derecho a rescindir el **contrato** después de un período mínimo de 11 meses después del inicio del **contrato** notificándolo al **servicio de atención al cliente** y pagando 195€. Una vez que **Augment** haya recibido el pago, la propiedad del **patinete eléctrico** se transferirá al **cliente** y el **contrato** finalizará automáticamente.
 
-En caso de impago en la fecha de vencimiento, se activará el procedimiento de recordatorio (2 recordatorios y una notificación formal).
+### Devolución del patinete eléctrico después de la finalización del contrato
 
-A falta de reacción tras el envío de una carta de emplazamiento, las facturas impagadas se remitirán a nuestra agencia de cobros.
+Si el **cliente** no desea adquirir el **patinete eléctrico** al final del **plazo del contrato**, el **patinete eléctrico** deberá devolverse a **Augment** de acuerdo con las instrucciones del **servicio de atención al cliente.**
 
-**Se le cobrarán los costes por el cobro de la deuda y los gastos relacionados con el funcionario judicial.**
+### Derecho de desistimiento de la venta a distancia
 
-## Artículo 13 - Duración
+De acuerdo con la **Ley de Protección al Consumidor**, el **cliente** tiene derecho a rescindir el **contrato** dentro de los 14 días siguientes a la celebración del **contrato**. La cancelación del **contrato** deberá notificarse a **Augment** devolviendo al **servicio de atención al cliente** el **formulario de cancelación de venta a distancia** adjunto debidamente cumplimentado.
 
-El periodo mínimo de suscripción comienza en la fecha del pedido y termina 24 meses (730 días) después de la fecha del pedido.
+El **cliente** puede abrir el paquete que contiene el **patinete eléctrico** para permitir la inspección del contenido. En caso de cancelación del **contrato** por parte del **cliente**, el **patinete eléctrico** deberá devolverse a **Augment** en su estado original, siguiendo las instrucciones del **servicio de atención al cliente**, en el plazo de una semana desde la cancelación del **contrato**.
 
-La rescisión del contrato de alquiler sólo se permite por las siguientes razones y la presentación de un justificativo:
+Si el **patinete eléctrico** se ha utilizado durante el período de desistimiento y el **contrato** se cancela, **Augment** tiene derecho a cobrar al **cliente** la reducción del valor del **patinete eléctrico**. **Augment** tiene derecho a cobrar al **cliente** el valor total del **patinete eléctrico** si el **patinete eléctrico** devuelto no se puede vender.
 
-- Periodo de desistimiento de 14 días
-- Larga enfermedad
-- Deceso
+## Tarifas de servicio y mantenimiento de datos de contacto
 
-Si quiere terminar el contrato después de 24 meses de contrato mínimo:
+### Tarifas de servicio
 
-- Póngase en contacto con el servicio de atención al cliente de Augment
-- Devuelve el patinete eléctrico alquilado en buen estado de funcionamiento en un plazo de 2 semanas desde la finalización del contrato o compre el patinete eléctrico tal y como se define en el artículo "Posibilidad de comprar el patinete eléctrico".
+Las **tarifas de servicio** se cobran por adelantado según el intervalo de pago preseleccionado (2 semanas, 1 mes, 3 meses o 24 meses). El **cliente** deberá asegurarse de que la tarjeta de pago o cuenta bancaria tenga fondos suficientes para cubrir las tarifas de servicio aplicables.
 
-En caso de que no concluya el contrato después de 24 meses, éste continúa automáticamente con un (1) mes de preaviso.
+La fecha de vencimiento de la **tarifa de servicio** está determinada por la fecha en la que se realiza el pedido. La fecha de vencimiento se puede cambiar contactando con el **servicio de atención al cliente**. Pueden aplicarse cargos prorrateados por los días de extensión del intervalo de pago. La fecha de vencimiento de los cargos mensuales puede variar unos días entre meses, ya que la duración de los meses calendario varía.
 
-Al finalizar el contrato de alquiler, el usuario se compromete a devolver el patinete eléctrico alquilado y sus accesorios en buen estado de funcionamiento en un plazo de 2 semanas desde la finalización del contrato. En caso de retraso, se aplicará la tarifa vigente para compensar el retraso en la devolución del patinete eléctrico. El Arrendador podrá facturar los días de retraso hasta la devolución del patinete eléctrico y sus accesorios, y podrá iniciar cualquier procedimiento judicial en caso de no devolución del patinete eléctrico en el plazo previsto.
+Los pagos en virtud del **contrato** están garantizados a favor de Danske Bank A/S, sucursal finlandesa, en calidad de **acreedor prendario**. Nadie más que el **acreedor prendario** podrá realizar cambios en las instrucciones de pago.
 
-## Artículo 14 - Robo o extravío
+### Mantener la información de pago
 
-En caso de robo, el usuario debe presentar una denuncia ante la policía, ponerse en contacto con su compañía de seguros y notificar a Augment.eco sin demora presentando la denuncia original.
+Si los detalles de la tarjeta de pago/cuenta bancaria cambian, se deben actualizar los nuevos detalles a través del sitio web de autoservicio de **Augment** antes de que venza la próxima **tarifa de servicio**.
 
-## Artículo 15 - Accidentes
+Los procesadores de pago que utiliza **Augment** (actualmente Adyen / Stripe) almacenan los datos necesarios de la tarjeta de pago y otros instrumentos de pago de forma fuertemente cifrada en sus propias bases de datos.
 
-Augment.eco no se responsabiliza ante el usuario o terceros de los daños causados por el patinete eléctrico o su uso. Asegúrese de tener un seguro válido y adecuado. En caso de accidente, póngase en contacto con la policía inmediatamente y, a continuación, en un plazo máximo de una semana, informe a Augment.eco a través del servicio de chat o contactando el servicio de atención al cliente por correo electrónico.
+### Mantener datos de contacto
 
-## Artículo 16 - Notas sobre el contrato y derecho de desistimiento
+El **cliente** deberá asegurarse de que **Augment** tenga su información de contacto actualizada.
 
-Por favor, asegúrese de que Augment.eco tenga los últimos datos de contacto tanto suyos como de quien usted ha puesto a disposición el patinete eléctrico. Augment.eco enviará avisos relativos al contrato, a los retrasos en los pagos o a las modificaciones del servicio a la dirección de correo electrónico que ha proporcionado a Augment.eco
+**Augment** utilizará la dirección de correo electrónico o el número de teléfono móvil proporcionado para enviar avisos relacionados con el **servicio** y el **contrato**, como cambios en el servicio o información sobre pagos atrasados.
 
-## Artículo 17 - Características del producto
+## Otros términos y condiciones
 
-Los productos ofrecidos se describen y presentan con la mayor precisión posible. Sin embargo, en caso de que se produzcan errores u omisiones en relación con esta presentación, Augment Mobility Oy no será responsable. Las fotografías no son contractuales, sino que tienen carácter ilustrativo.
+### Terminación y limitación de uso del servicio
 
-## Artículo 18 - Derecho de desistimiento en las ventas a distancia
+A petición del **cliente** o de una compañía de seguros o de una autoridad competente como la Policía, **Augment** cerrará, restringirá o suspenderá el uso del **servicio**.
 
-Se considera que el derecho de desistimiento se ha aplicado correctamente si se cumplen plenamente las siguientes condiciones:
+**Augment** tiene derecho a suspender y/o restringir el uso del **servicio** en las circunstancias mencionadas a continuación. Suspensión significa la congelación de todos los **servicios** disponibles bajo este **contrato**. Restringir significa limitar el uso de uno o más de los **servicios** (o una parte de los mismos) disponibles a través de este **contrato**.
 
-Si ha celebrado un contrato en línea o por teléfono, tiene derecho a cancelar la venta a distancia en un plazo de 14 días. Después de ponerse en contacto con el servicio de atención al cliente, tiene catorce (14) días para devolver su patinete eléctrico en las mismas condiciones en las que lo recibió. Todos los plazos están expresados en días naturales.
+Si el **cliente** tiene cargos de servicio pendientes de pago, o si el **patinete eléctrico** ha sido robado, perdido, malversado o está en posesión ilegal de otra persona, **Augment** tiene derecho a restringir el uso del **patinete eléctrico**. Restringir el uso del **patinete eléctrico** puede implicar reducir su velocidad o restringir el área en la que se utiliza.
 
-Si ha decidido rescindir el contrato, deberá notificarlo en un plazo de 14 días a partir del inicio del contrato y devolver el patinete eléctrico dentro del límite de tiempo especificado. En cualquier caso, es posible abrir la caja que contiene el patinete eléctrico y conocer su contenido antes de devolverlo, si lo desea.
+**Augment** tiene derecho a suspender o suspender parcialmente el **servicio** si:
 
-## Artículo 19 - Rescisión del contrato antes de la finalización del período contractual
+- El pago adeudado no se ha pagado dentro de las dos (2) semanas posteriores al envío del recordatorio de pago,
+- Esto es necesario para prevenir abusos o **daños**,
+- El **cliente** ha sido declarado en quiebra o declarado insolvente por una autoridad pública,
+- A pesar de la solicitud de **Augment**, el **cliente** no ha cumplido con sus obligaciones contractuales distintas de las relativas al pago.
 
-Tras el periodo de desistimiento de 14 días, puede rescindir el contrato después de 8 meses pagando 195 euros o devolviendo su patinete eléctrico a Augment.
+**Augment** no suspenderá ni limitará el uso del **servicio** por falta de pago si se demuestra que la falta de pago se debe a una enfermedad inesperada u otra causa comparable fuera del control del **cliente**, y el pago adeudado se realiza dentro de un (1) mes del recordatorio de pago que se envía, o si el **cliente** ha impugnado la factura con motivos justificados y la parte indiscutible del pago se paga en la fecha de vencimiento.
 
-También puede decidir comprar el patinete eléctrico en uso en cualquier momento durante el periodo contractual definido en la sección "Posibilidad de adquirir el patinete eléctrico".
+### Cambios en el servicio o en los términos y condiciones
 
-## Artículo 20 - Derechos inmateriales
+El **servicio** y sus características o los términos y condiciones aplicables, pueden cambiar. El **cliente** tiene derecho a rescindir el **contrato** dentro de un mes de haber sido notificado de un cambio material en el **servicio**.
 
-Los derechos intangibles de los servicios y productos de Augment.eco, tales como derechos de autor, marcas y patentes, pertenecen a Augment.eco o a terceros.
+**Augment** informará al **cliente** sobre cambios materiales en el contenido del **servicio** al menos un mes antes del cambio, en la dirección de correo electrónico proporcionada por el **cliente**. Los nuevos términos y condiciones serán aplicables al **servicio** a partir de la fecha de su entrada en vigor.
 
-Durante la vigencia del contrato, Augment.eco le concede un derecho limitado a utilizar el servicio incluido en el ámbito del contrato, las versiones en lenguaje de máquina y los documentos de software proporcionados de acuerdo con el contrato.
+Si el cambio se basa en un cambio en la ley o en una decisión de una autoridad, **Augment** tendrá derecho a implementar el cambio a partir de la fecha en que el cambio en la ley o la decisión de una autoridad entre en vigor.
 
-El Servicio y el hardware con licencia, el software, los documentos y todos los demás materiales sólo pueden ser utilizados de acuerdo con las instrucciones de Augment.eco o de un tercero, como el propietario del software, y sólo de acuerdo con los fines acordados.
+### Derechos de propiedad intelectual
 
-Dependiendo de su derecho de uso, Augment.eco puede exigirle que devuelva o destruya los manuales, documentos o programas informáticos de éste equipo.
+Los derechos de propiedad intelectual, como derechos de autor, marcas comerciales y patentes relacionadas con los **servicios de Augment**, los **patinetes eléctricos** y otros productos de **Augment**, pertenecen a **Augment** o a un tercero. **Augment** otorga una licencia limitada durante la vigencia del **contrato** para el **servicio** en virtud del **contrato** y para las versiones en lenguaje de máquina y la documentación del software entregado en virtud del **contrato** únicamente para su uso de conformidad con este **contrato**.
 
-## Artículo 21 - Fuerza mayor
+El **servicio** y el hardware, software, documentos y otro material licenciado en relación con el mismo deben usarse de acuerdo con las instrucciones de **Augment** o de un tercero, como el propietario del software, y solo para el propósito acordado.
 
-Augment.eco no se hace responsable de sus obligaciones contractuales ni de los daños y perjuicios en caso de que el incumplimiento se deba a un caso de fuerza mayor.
+Tras la terminación del **contrato**, **Augment** puede solicitar al **cliente** que devuelva o destruya los manuales, otros documentos o software.
 
-La fuerza mayor se refiere a una circunstancia sobre la que Augment.eco no tiene control en el contexto contractual y que es independiente de Augment.eco. Las circunstancias incluyen, pero no se limitan a: condiciones meteorológicas excepcionales, emergencias nacionales, conflictos laborales, desastres naturales, interrupciones energéticas, leyes, ordenanzas o decisiones gubernamentales, daños causados por excavaciones o equipos, daños de terceros o del contratista o los errores de entrega del contratista debidos a los factores mencionados.
+### Fuerza mayor
 
-Si el cumplimiento del contrato se ve impedido o retrasado por causas de fuerza mayor, el plazo de cumplimiento de la obligación se amplía en la medida en que lo consideren oportuno las circunstancias del caso. No se le podrá considerar responsable del cumplimiento de las obligaciones contractuales en caso de fuerza mayor, siempre que el cumplimiento del contrato se vea impedido por causas de fuerza mayor como: emergencia nacional, catástrofes naturales, suspensión de las operaciones de pago o decisión oficial.
+Ninguna de las partes será responsable de sus obligaciones contractuales ni de compensación en la medida en que la ejecución del **contrato** se limite, suspenda o retrase por fuerza mayor.
 
-## Artículo 22 - Disposiciones finales
+Fuerza mayor significa una circunstancia que las partes no podrían haber previsto razonablemente en el momento de la celebración del **contrato** y que está fuera del control de las partes. Tales circunstancias pueden incluir, por ejemplo, circunstancias resultantes de condiciones climáticas severas excepcionales, un estado de emergencia nacional, desastre natural, interrupción del suministro de energía, interrupción del tráfico de pago, disposición legal u orden o decisión oficial, excavación, **daños** al equipo o **daños** similares causados por un tercero y errores de entrega por parte del subcontratista o proveedor de **Augment** resultantes de las circunstancias antes mencionadas.
 
-22.1. No hemos suscrito ningún acuerdo de garantía con usted, ya sea escrito, oral o implícito.
+Si la ejecución del **contrato** se suspende o retrasa por causa de fuerza mayor, el plazo para el cumplimiento de la obligación se ampliará en la medida razonable según las circunstancias dadas.
 
-22.2. Podemos modificar unilateralmente estos términos y condiciones en cualquier momento por razones técnicas, comerciales o legales con efecto para el futuro. En caso de modificación de estas condiciones, se lo notificaremos por escrito y con al menos 1 mes de antelación antes de que la modificación entre en vigor. Usted puede aceptar la modificación u oponerse a ella antes de que entre en vigor; sin embargo, su consentimiento se considerará otorgado si no se opone a la modificación antes de que entre en vigor. Esta condición se indicará expresamente en nuestra notificación de modificación. Nos reservamos el derecho a rescindir su contrato si se opone a una modificación de estas condiciones. Si la modificación da lugar a una prestación que difiere sustancialmente de la original, usted, como consumidor, tendrá derecho a rescindir el contrato a partir de la fecha en que entren en vigor las condiciones modificadas.
+### Procesamiento de datos personales, cookies
 
-No se le permitirá rescindir el contrato debido a un cambio de precio, a menos que el cambio se produzca en los tres meses siguientes a la celebración del contrato y usted sea un consumidor.
+**Augment** procesa datos personales de acuerdo con la legislación de protección de datos aplicable. Para obtener más información sobre el procesamiento de datos personales y cookies, consulte la Política de privacidad de **Augment**, que se puede encontrar en el sitio web de **Augment**.
 
-22.3. En caso de que una disposición de cualquier parte de este contrato sea o se convierta en nula, anulable, inválida, impracticable o inaplicable en su totalidad, la validez y aplicabilidad de las restantes disposiciones de este contrato no se verán afectadas. La validez y aplicabilidad de las restantes disposiciones de estas Condiciones Generales no se verán afectadas. Si usted es un consumidor, nosotros y usted estaremos obligados a acordar una disposición que sustituya a la disposición defectuosa y que sea lo más parecida posible a lo que nosotros y usted habríamos acordado sabiendo que la disposición era defectuosa, teniendo en cuenta el espíritu y la finalidad de este contrato y dentro de lo legalmente posible. Lo mismo se aplica a cualquier laguna en las disposiciones de estas condiciones.
+### Limitación de responsabilidad
 
-22.4. Su contrato y estos términos y condiciones, así como todos los derechos que surjan de o en relación con ellos, estarán sujetos exclusivamente a las leyes de España, excluyendo sus normas de conflicto de leyes. Queda excluida la aplicación de la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías (CISG).
+**Augment** no será responsable de ninguna pérdida o daño indirecto o consecuente causado por **Augment**, a menos que **Augment** haya causado dicha pérdida o daño intencionalmente o por negligencia grave.
 
-22.5. El lugar de jurisdicción y ejecución es exclusivamente Barcelona. Los tribunales competentes de Barcelona tendrán jurisdicción exclusiva sobre las disputas entre nosotros y usted en relación con su Suscripción y estos términos y condiciones, excepto en la medida en que otro tribunal tenga jurisdicción en virtud de cualquier disposición legal obligatoria. Si usted es un consumidor en el sentido de la Ley General para la Defensa de los Consumidores y Usuarios, el lugar de jurisdicción es su residencia como consumidor.
+### Lenguaje Contractual
 
-## Artículo 23 - Validez del contrato
+El idioma principal de este **contrato** es el español. En caso de discrepancia entre las diferentes versiones lingüísticas, prevalecerá la versión española.
 
-Estos términos y condiciones se aplicarán a partir del 23 de febrero de 2022 hasta nuevo aviso. Las condiciones están disponibles de forma gratuita en Augment.eco.
+### Ley aplicable y disputas
+
+Las disputas se resolverán principalmente mediante negociación entre las **partes**. El **contrato** se regirá e interpretará de conformidad con la ley española si el domicilio o residencia habitual del **cliente** se encuentra en España. Para todas las disputas, el Tribunal Español tendrá jurisdicción exclusiva.
+
+La aplicación de los Derechos del Consumidor, está desarrollado en el Real Decreto Legislativo 1/2007, por el que se aprueba el texto refundido de la Ley General para la Defensa de Consumidores y Usuarios y otras leyes complementarias (B.O.E. núm. 287, de 30 de noviembre). El **cliente** puede consultar estas disposiciones en cualquier momento en el sitio oficial:
+
+<https://www.consumo.gob.es/es/consumo/derechos-del-consumidor>
+
+<https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555>
+
+Las quejas deben ser presentadas por el **cliente** mediante chat en vivo al **servicio de atención al cliente de Augment**, por escrito mediante carta certificada con acuse de recibo o por correo simple dentro de los 45 días siguientes a la ocurrencia del evento. Las reclamaciones relativas a perjuicios de carácter excepcional y general de complejidad técnica deberán ser confirmadas mediante carta certificada con acuse de recibo dentro de los 45 días siguientes a la finalización del perjuicio.
+
+**Augment** examinará la queja y brindará al cliente una respuesta dentro de los 45 días posteriores a la recepción. Para todo tipo de quejas presentadas por escrito, **Augment** proporcionará una respuesta por escrito dentro del plazo antes mencionado.
+
+En el caso de reclamaciones por hechos especialmente complejos, que no permitan una respuesta exhaustiva en los plazos antes mencionados, **Augment** informará al **cliente** dentro de los plazos máximos antes mencionados sobre la evolución del caso. Las reclamaciones relativas a los importes facturados también deberán ser presentadas por el **cliente**, por escrito, dentro de los 45 días siguientes a la fecha de la factura, con indicación de los conceptos e importes impugnados debidamente documentados mediante una declaración adecuada, también presentada electrónicamente. Si la reclamación se considera bien fundada, **Augment** reembolsará los importes no adeudados mediante compensación de la primera factura posterior o, a elección del cliente, mediante un pago específico. Se entiende que, incluso en caso de reclamación, las cantidades en disputa deberán ser pagadas en su totalidad dentro del plazo indicado en la factura en disputa.
+
+Para las controversias identificadas con las medidas de implementación de la autoridad competente, no se podrá recurrir a los tribunales hasta que se haya realizado el preceptivo intento de conciliación.
+
+La presentación del intento de conciliación obligatoria suspende el plazo para emprender acciones judiciales. Este plazo comenzará a correr nuevamente una vez vencido el plazo para la conclusión del procedimiento de conciliación, el cual no podrá exceder de 30 días a partir de la presentación de la petición.
+
+### Validez de los términos del contrato
+
+Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hasta nuevo aviso. Las condiciones están disponibles de forma gratuita en Augment.eco.
+
+<div class="page"/>
+
+### Definiciones (las palabras están escritas en negrita en el lenguaje de contrato cuando se hace referencia a una definición)
+
+- **Servicios Adicionales** - Servicios proporcionados por separado de este contrato y que requieren la validez de este contrato.
+- **Contrato** – Este contrato.
+- **Augment** - Augment Mobility Ab, dirección registrada Upankatu 1, 60100 Seinäjoki y empresas pertenecientes al mismo grupo que Augment Mobility Ab
+- **Ley de Protección al Consumidor** – Ley General para la Defensa de Consumidores y Usuarios y otras leyes complementarias (B.O.E. núm. 287)
+- **Cliente** – Un cliente que celebra un Contrato de Servicio con Augment. Como parte de este Contrato, usted es responsable del patinete eléctrico, incluido de las tarifas de servicio y del uso.
+- **Servicio de atención al cliente** – Servicio de atención al cliente de Augment
+- **Daño** - Una falla inesperada del patinete eléctrico causada por el usuario o circunstancias ajenas al uso normal, por ejemplo, una caída o una colisión.
+- **Defecto** - Un problema inesperado con el patinete eléctrico durante el uso normal que impide o limita el uso del patinete eléctrico.
+- **Patinete eléctrico** - Patinete eléctrico de Augment incluido en el servicio.
+- **Duración mínima del contrato** - El período de tiempo durante el cual el contrato está vigente por un período fijo, después del cual el contrato continúa indefinidamente a menos que el cliente lo rescinda de acuerdo con los términos del contrato antes del final del período fijo.
+- **Normativa española de circulación de la DGT** - Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal. <https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-987>
+- **Acreedor prendario** - Danske Bank [*A/S, Finnish branch*], ID de empresa: [*add correct entity*]
+- **Patinete eléctrico de reemplazo** - El patinete eléctrico de reemplazo es equivalente al que ha utilizado el cliente. Augment ha reparado y verificado los patinetes eléctricos de reemplazo. Los patinetes eléctricos de reemplazo pueden mostrar signos de uso y desgaste, estos incluyen rayones y saltaduras de pintura.
+- **Derecho de desistimiento** - Derecho legal a rescindir este Contrato dentro de los 14 días posteriores al pedido, en conformidad con las disposiciones de la Ley de Protección al Consumidor en materia de venta a distancia.
+- **Servicio** – Servicio del patinete eléctrico de Augment proporcionado de acuerdo con este contrato.
+- **Tarifa de servicio** - Cargos de uso relacionados con este contrato, cobrados en intervalos de 2 semanas, 1 mes, 3 meses o 24 meses.
+- **Términos del servicio** – Términos de este contrato.
+- **Piezas de desgaste** - Piezas que normalmente se desgastan cuando se utiliza el patinete eléctrico, como neumáticos, frenos, motor y batería.
+
+<div class="page"/>
+
+## Formulario de Cancelación de Venta a Distancia
+
+Complete el formulario y adjúntelo en el paquete de devolución para que se pueda procesar su cancelación y devolución, teniendo especial cuidado en completar las secciones del acuerdo.
+
+Nombre: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Dirección de correo electrónico utilizada para el pedido: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Dirección: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Teléfono: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Fecha de cancelación: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Compré el producto a devolver: En línea/ Pedí por teléfono/ Recibí una llamada
+
+Razón de devolución:
+
+El producto/servicio no cumplió con mis expectativas porque
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+El producto/servicio no cumplió con mis expectativas según lo acordado con el vendedor porque
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+No tengo uso para el producto/servicio porque
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+El producto/servicio no se pudo implementar exitosamente porque
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Otra razón: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
