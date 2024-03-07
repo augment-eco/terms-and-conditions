@@ -9,8 +9,8 @@ El objetivo del **contrato** es definir los derechos y obligaciones de las parte
 - Entrada en vigor del **contrato** (página 1)
 - Uso del **patinete eléctrico** y duración del **contrato** (página 2)
 - Finalización del **contrato** (página 4)
-- **Tarifas de servicio** y mantenimiento de datos de contacto (página 5)
-- Otros términos y condiciones (página 6)
+- **Tarifas de servicio** y mantenimiento de datos de contacto (página 4)
+- Otros términos y condiciones (página 5)
 
 ### Entrada en vigor del contrato
 
