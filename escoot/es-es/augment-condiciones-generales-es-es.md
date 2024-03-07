@@ -60,7 +60,7 @@ El **servicio** no cubre:
 
 ### Devolución del patinete y partes defectuosas
 
-Después de recibir un **patinete eléctrico de reemplazo** o de alguna de sus partes, el **patinete eléctrico** y/o las partes** defectuosas se devolverán a **Augment** en el plazo de una semana tras la recepción de las partes o del **patinete eléctrico de reemplazo** de acuerdo con las instrucciones proporcionadas por el **servicio de atención al cliente**. La devolución de un **patinete eléctrico\*\* y/o las partes defectuosas es gratuita, pero se requiere que imprima las etiquetas necesarias para la entrega.
+Después de recibir un **patinete eléctrico de reemplazo** o de alguna de sus partes, el **patinete eléctrico** y/o las **partes** defectuosas se devolverán a **Augment** en el plazo de una semana tras la recepción de las partes o del **patinete eléctrico de reemplazo** de acuerdo con las instrucciones proporcionadas por el **servicio de atención al cliente**. La devolución de un **patinete eléctrico** y/o las partes defectuosas es gratuita, pero se requiere que imprima las etiquetas necesarias para la entrega.
 
 **Augment** se reserva el derecho de cobrar un recargo de 12,50€ por cada semana posterior si no se devuelve el **patinete eléctrico** defectuoso, y/o restringir el **servicio** hasta que el **cliente** regularice su situación.
 
@@ -193,9 +193,9 @@ Las disputas se resolverán principalmente mediante negociación entre las **par
 
 La aplicación de los Derechos del Consumidor, está desarrollado en el Real Decreto Legislativo 1/2007, por el que se aprueba el texto refundido de la Ley General para la Defensa de Consumidores y Usuarios y otras leyes complementarias (B.O.E. núm. 287, de 30 de noviembre). El **cliente** puede consultar estas disposiciones en cualquier momento en el sitio oficial:
 
-<https://www.consumo.gob.es/es/consumo/derechos-del-consumidor>
+https://www.consumo.gob.es/es/consumo/derechos-del-consumidor
 
-[https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555#](https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555)
+https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555
 
 Las quejas deben ser presentadas por el **cliente** mediante chat en vivo al **servicio de atención al cliente de Augment**, por escrito mediante carta certificada con acuse de recibo o por correo simple dentro de los 45 días siguientes a la ocurrencia del evento. Las reclamaciones relativas a perjuicios de carácter excepcional y general de complejidad técnica deberán ser confirmadas mediante carta certificada con acuse de recibo dentro de los 45 días siguientes a la finalización del perjuicio.
 
@@ -209,9 +209,9 @@ La presentación del intento de conciliación obligatoria suspende el plazo para
 
 ### Validez de los términos del contrato
 
-Estos términos y condiciones generales de **Augment** entrarán en vigor en España desde el 2.2024 hasta nuevo aviso.
-
 Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hasta nuevo aviso. Las condiciones están disponibles de forma gratuita en Augment.eco.
+
+<div class="page"/>
 
 ### Definiciones (las palabras están escritas en negrita en el lenguaje de contrato cuando se hace referencia a una definición)
 
@@ -225,7 +225,7 @@ Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hast
 - **Defecto** - Un problema inesperado con el patinete eléctrico durante el uso normal que impide o limita el uso del patinete eléctrico.
 - **Patinete eléctrico** - Patinete eléctrico de Augment incluido en el servicio.
 - **Duración mínima del contrato** - El período de tiempo durante el cual el contrato está vigente por un período fijo, después del cual el contrato continúa indefinidamente a menos que el cliente lo rescinda de acuerdo con los términos del contrato antes del final del período fijo.
-- **Normativa española de circulación de la DGT** - Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal. https://www.boe.es/diario\_boe/txt.php?id=BOE-A-2022-987
+- **Normativa española de circulación de la DGT** - Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal. https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-987
 - **Acreedor prendario** - Danske Bank [*A/S, Finnish branch*], ID de empresa: [*add correct entity*]
 - **Patinete eléctrico de reemplazo** - El patinete eléctrico de reemplazo es equivalente al que ha utilizado el cliente. Augment ha reparado y verificado los patinetes eléctricos de reemplazo. Los patinetes eléctricos de reemplazo pueden mostrar signos de uso y desgaste, estos incluyen rayones y saltaduras de pintura.
 - **Derecho de desistimiento** - Derecho legal a rescindir este **Contrato** dentro de los 14 días posteriores al pedido, en conformidad con las disposiciones de la Ley de Protección al Consumidor en materia de venta a distancia.
@@ -233,6 +233,8 @@ Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hast
 - **Tarifa de servicio** - Cargos de uso relacionados con este contrato, cobrados en intervalos de 2 semanas, 1 mes, 3 meses o 24 meses.
 - **Términos del servicio** – Términos de este contrato.
 - **Piezas de desgaste** - Piezas que normalmente se desgastan cuando se utiliza el patinete eléctrico, como neumáticos, frenos, motor y batería.
+
+<div class="page"/>
 
 ## Formulario de Cancelación de Venta a Distancia
 
