@@ -71,6 +71,6 @@ Augment queda liberado de sus obligaciones contractuales y de responsabilidad po
 
 ## Vigencia de los términos y condiciones
 
-Estos términos y condiciones son válidos desde el 7 de marzo de 2024 hasta nuevo aviso.
+Estos términos y condiciones son válidos desde el 11 de marzo de 2024 hasta nuevo aviso.
 
 El soporte técnico es proporcionado por Augment.Eco Live Chat y comienza con la validación y aceptación de su contrato.
