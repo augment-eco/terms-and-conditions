@@ -62,6 +62,8 @@ Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee
 
 **Augment** lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai palvelumuutoksista asiakkaan sähköisesti ilmoittamaan sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
 
+<div class="page"/>
+
 ## Ylivoimainen este
 
 **Augment** vapautuu sopimusvelvoitteistaan ja vahingonkorvausvelvollisuudestaan siltä osin kuin sen sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi. Ylivoimaisella esteellä tarkoitetaan olosuhteita, joita **Augment** ei voinut ennakoida sopimusta tehdessään ja jotka ovat sen vaikutusmahdollisuuksien ulkopuolella.
@@ -90,4 +92,4 @@ Erimielisyydet tulee ensisijaisesti pyrkiä ratkaisemaan osapuolten välisin neu
 
 ## Ehtojen voimassaolo
 
-Nämä ehdot ovat voimassa 1.6.2024 alkaen toistaiseksi
+Nämä ehdot ovat voimassa 30.5.2024 alkaen toistaiseksi
