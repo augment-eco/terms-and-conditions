@@ -1,71 +1,95 @@
 # Augment Varkausturva
 
-Lue tämä palvelusopimus varmistaaksesi, että ymmärrät miten Augment Varkausturva toimii varkauden tai katoamisen sattuessa.
+Näitä ehtoja sovelletaan **Augmentin** yksityishenkilölle (**asiakas**) **Augment-skuuteille** tarjoamaan **Varkausturva-palveluun**. **Sopimuksen** saa solmia ainoastaan täysivaltainen 18 vuotta täyttänyt luonnollinen henkilö, joka ei ole holhouksen alainen. **Palvelu** on tarkoitettu käytettäväksi yhdessä kotitaloudessa.
 
-Jos sähköpotkulautasi varastetaan tai katoaa, Augment tilauksesi jatkuu normaalisti ja sähköpotkulautasi korvataan Augment Vaihtolaitteella. Augment Vaihtolaite on kunnostettu sähköpotkulauta, ja siinä voi näkyä jälkiä käytöstä.
+## Sopimuksen alkaminen
 
-On tärkeää noudattaa alla olevia turvallisuusehtoja, muuten varkautta/katoamista ei välttämättä korvata.
+**Sopimus** laaditaan sähköisesti. **Sopimus** alkaa **Augmentin** hyväksyttyä **asiakkaan** tilauksen. **Sopimus** on ladattavissa sähköisessä muodossa **Augmentin** verkkosivuilta.
 
-## Sähköpotkulaudan lukitseminen
+## Skuutin säilytys
 
-Sinun täytyy aina lukita sähköpotkulautasi Augment Scooters -sovelluksen avulla.
+**Sopimuksen** kattava **skuutti** tulee säilyttää lukitussa ja suljetussa tilassa joko kotona tai kodin yhteydessä olevassa yksityisessä varastossa tai autotallissa. Jos **skuutti** säilytetään jaetussa tilassa, kuten taloyhtiön pyörävarastossa, se tulee lukita asianmukaisesti.
 
-On tärkeää, että lukitset sähköpotkulaudan rungon läpi kiinteään esineeseen Augment vaijerilukon tai muun käyttötarkoitukseen sopivan sähköpotkulaudan, pyörän tai moottoripyörän lukon avulla.
+## Skuutin asianmukainen lukitseminen
 
-Jos sinulla ei ole Augment Akkulukkoa, säilytä akku aina irtonaisena lukitussa tilassa esimerkiksi kotonasi, kun jätät sähköpotkulautasi ilman valvontaa tai julkiseen tilaan.
+**Skuutti** on aina lukittava Augment-mobiilisovelluksella, kun sillä ei ajeta. Jos skuutti jätetään ilman valvontaa suoran näköyhteyden ulkopuolelle julkiseen tai jaettuun tilaan, se on lukittava Augment-vaijerilukolla tai vastaavalla asianmukaisella lukolla kiinteään rakenteeseen kuten pyörätelineeseen. Lukko tulee kiinnittää skuutin rungosta tai takahaarukan läpi. Ellei akkua ole lukittu **skuuttiin** Augment-akkulukolla, tulee se irrottaa **skuutista** ja kuljettaa **asiakkaan** mukana tai säilyttää kotona tai vastaavassa lukitussa tilassa.
 
-## Kotona
+## Varkaudet
 
-- Kun säilytät sähköpotkulautaa kotonasi, ovet ja ikkunat on oltava lukittuna, kun kotonasi ei ole asukkaita tai kun olet nukkumassa.
-- Jos jätät sähköpotkulautasi julkisella paikalla, esimerkiksi parkkihalliin tai julkisen rakennuksen eteiseen, sähköpotkulautasi on lukittava Augment Scooters -sovelluksella ja on myös oltava lukittuna kiinteään esineeseen rungon läpi.
-- Kun sähköpotkulautaa säilytetään autotallissasi tai ulkorakennuksessa, ovet ja ikkunat on oltava lukittu. Rakennuksen ovien on oltava lukittuna riippulukolla tai ovessa olevalla kiinteällä lukolla.
-- Jos sähköpotkulautasi jätetään puu- tai metallivajaan, on se sijaittava kotisi pihalla, johon ulkopuolisilla henkilöillä ei ole pääsyä ja sähköpotkulauta on lukittava Augment Scooters -sovelluksella.
+Varkauksista tulee ilmoittaa 5 arkipäivän kuluessa poliisille ja lähettää kopio tehdystä rikosilmoituksesta lisätietoineen **Augmentille** Live Chatin, mobiilisovelluksen tai sähköpostin välityksellä.
 
-## Poissa kodistasi
+Mikäli tämän sopimuksen piiriin kuuluva skuutti varastetaan, se korvataan vastaavalla **Augment-vaihtoskuutilla** omavastuun maksamisen jälkeen. Augment-vaihtoskuutit ovat **Augmentin** kunnostamia **skuutteja**, ja niissä voi näkyä jälkiä käytöstä. Mikäli **asiakkaalla** on voimassa oleva Augment-palvelusopimus ja siihen sisältyvä **skuutti** varastetaan, palvelusopimus jatkuu normaalisti.
 
-- Jos jätät sähköpotkulautasi valvomatta ollessasi poissa kodistasi tai tilapäisestä asunnostasi, sähköpotkulauta on lukittava Augment Scooters -sovelluksella ja se on lukittava turvallisesti rungon kautta kiinteään esineeseen siihen tarkoitetulla lukolla.
-- Valvomatta tarkoittaa, että sähköpotkulautasi on poissa sinun suorasta näköyhteydestäsi tai yli viiden (5) metrin päässä sinusta. Emme maksa hylkäämisestä johtuvia vaatimuksia.
+Augment Varkausturva ei korvaa **skuutin** tai sen akun varkautta/katoamista jos,
 
-## Sähköpotkulaudan kuljettaminen ajoneuvossa
-
-Kun kuljetat sähköpotkulautaasi ajoneuvossa/perävaunussa, pidä sähköpotkulauta aina lukittuna Augment Scooters -sovelluksella ja pidä ajoneuvon/perävaunun ovet lukittuna.
-
-<div class="page"/>
-
-## Varkauden sattuessa
-
-Tee 5 arkipäivän kuluessa tapahtumasta ilmoitus poliisille ja lähetä kopio tehdystä ilmoituksesta lisätietoineen Augmentille. Voit ottaa yhteyttä Augmentin asiakaspalveluun Augment.eco LiveChatin kautta.
+- **Asiakas** ei toimita kopiota poliisille toimitetusta rikosilmoituksesta, joka sisältää tiedot varkaudesta ja rikoksen kirjausnumeron.
+- **Asiakkaalla** erääntyneitä maksamattomia palvelumaksuja Augmentille.
+- **Asiakkaalla** on palauttamattomia Augment-vaihtolaitteita.
+- **Skuutti** on varastettu **asiakkaan** kodista tai ajoneuvosta ja murtautumisesta ei ole jälkiä.
+- **Skuutti** ei ole ollut lukittu mobiilisovelluksella varkaushetkellä.
+- **Skuutti** ei ole ollut lukittu asianmukaisesti kohtien ”Skuutin säilytys” ja ”Skuutin lukitseminen” mukaisesti.
+- **Skuutti** on lainattu toiselle henkilölle tai sitä on käytetty vuokraukseen, palkkioiden saamiseen tai kuriiripalveluihin.
+- **Skuutin** on varastanut vuokralainen tai samassa taloudessa asuva henkilö.
+- Virkavalta tai muu viranomainen on ottanut **skuutin** haltuunsa
 
 ## Omavastuu
 
-Sähköpotkulaudan omavastuu ilman akkua on 100 € ja akun kanssa 150 €. Pelkän akun omavastuu on 125 €. Omavastuu laskutetaan, kun varkaus/häviö on ilmoitettu Augmentille.
+**Skuutin** omavastuu ilman akkua on 100 € ja akun kanssa 150 €. Pelkän akun omavastuu on 125 €. Omavastuu laskutetaan, kun varkaus / häviö on ilmoitettu **Augmentille**.
 
 ## Sopimuksen vähimmäisaika
 
-Sopimuksen vähimmäisaika on 12 kuukautta. Vähimmäisajan päätyttyä, voit irtisanoa "Augment Varkausturva" -palvelun 30 päivän irtisanomisajalla.
+**Sopimuksen vähimmäisaika** on 12 kuukautta. Vähimmäisajan päätyttyä, tämän sopimuksen voi irtisanoa 30 päivän irtisanomisajalla.
 
-## Palvelun maksu
+Tämä **sopimus** päättyy **asiakkaan** palauttaessa kaikki Augment-skuuttipalvelusopimuksiin sisältyvät skuutit Augmentille skuuttipalvelusopimuksien päättyessä.
 
-Augment Varkausturva laskutetaan kuukausittain suoraa teidän antamaltasi pankki-/luottokortilta.
+## Palvelumaksu
 
-Jos et maksa erääntyneitä laskujasi maksumuistutuksesta huolimatta, Augmentilla on oikeus irtisanoa Varkausturva-palvelusi ja periä sinulta kohtuullinen korvaus tämän sopimuksen ennenaikaisen irtisanomisen aiheuttamista vahingoista.
+Augment Varkausturva veloitetaan etukäteen valitun maksuvälin (1kk, 3kk tai 24kk) mukaisesti. **Asiakkaan** tulee varmistaa, että käytettävällä maksukortilla tai pankkitilillä on riittävästi katetta maksujen suorittamiseen.
 
-## Poikkeukset ja erityisehdot
+Eräpäivä määräytyy tilauspäivän mukaan. Eräpäivää voi siirtää olemalla yhteydessä asiakaspalveluun. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
 
-Augment Varkausturva ei korvaa sähköpotkulautasi tai akun varkautta/katoamista jos,
+Maksun viivästyessä peritään viivästyskorkona **asiakkaalta** korkolain mukainen kulloinkin voimassa oleva viivästyskorko. **Augmentilla** on viivästyskoron lisäksi oikeus periä kohtuulliset perintäkulut. Jos erääntyneitä laskuja ei makseta maksumuistutuksesta huolimatta, **Augmentilla** on oikeus irtisanoa Varkausturva-palvelu ja periä **asiakkaalta** vähimmäisajan maksattomat maksut vahingonkorvauksena.
 
-- Et voi toimittaa meille poliisiraporttia, joka sisältää tiedot varkaudesta ja rikoksen tapaturma numeron.
-- Sähköpotkulautasi on varastettu kodistasi, poissa kodistasi tai ajoneuvosta ja murtautumisesta ei ole jälkiä, etkä ole noudattanut kohdissa ”Kotona” tai ”Poissa kodistasi” esitettyjä ehtoja.
-- Jätät sähköpotkulautasi valvomatta kotisi ulkopuolella yli 18 tunniksi riippumatta siitä, miten sähköpotkulauta on lukittuna.
-- Sähköpotkulauta varastetaan kotisi pihaltasi tai muusta ei lukitusta tilasta omalta pihaltasi.
-- Sähköpotkulauta on lainattu toiselle henkilölle tai sitä on käytetty vuokraukseen, palkkioiden saamiseen tai kuriiripalveluihin.
-- Sähköpotkulaudan on varastanut vuokralainen tai samassa taloudessa asuva henkilö.
-- Virkavalta tai muu viranomainen ottaa sähköpotkulaudan haltuunsa
+## Maksutietojen ylläpitäminen
+
+Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee päivittää **Augmentin** itsepalvelusivuston kautta ennen seuraavan palvelumaksun erääntymistä.
+
+**Augmentin** käyttämät maksuvälittäjät (tällä hetkellä Adyen / Stripe) tallentavat tarvittavat maksukortti- ja muut maksuvälinetiedot vahvasti salattuina omiin tietokantoihinsa.
+
+## Yhteystietojen ylläpitäminen
+
+**Asiakkaan** tulee huolehtia siitä, että **Augmentilla** on hänen kulloinkin ajan tasalla olevat yhteystietonsa.
+
+**Augment** lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai palvelumuutoksista asiakkaan sähköisesti ilmoittamaan sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
+
+<div class="page"/>
 
 ## Ylivoimainen este
 
-Augment vapautuu sopimusvelvoitteistaan ja vahingonkorvausvelvollisuudestaan siltä osin kuin sen sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi. Ylivoimaisella esteellä tarkoitetaan olosuhteita, joita Augment ei voinut ennakoida sopimusta tehdessään ja jotka ovat sen vaikutusmahdollisuuksien ulkopuolella.
+**Augment** vapautuu sopimusvelvoitteistaan ja vahingonkorvausvelvollisuudestaan siltä osin kuin sen sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi. Ylivoimaisella esteellä tarkoitetaan olosuhteita, joita **Augment** ei voinut ennakoida sopimusta tehdessään ja jotka ovat sen vaikutusmahdollisuuksien ulkopuolella.
+
+## Henkilötietojen ja telematiikkatietojen käsittely, evästeet
+
+**Augment** käsittelee henkilötietoja soveltuvan tietosuojalainsäädännön mukaisesti. Tarkemmat tiedot henkilötietojen käsittelystä ja evästeistä on **Augmentin** tietosuojasopimuksessa, joka löytyy **Augmentin** nettisivuilta.
+
+**Augment** voi kerätä palveluun sisältävistä **skuuteista** ja muista laitteista telematiikkatietoa. Tämä on esimerkiksi tietoa skuutin sijainnista, liikkeistä, lämpötiloista ja laitteen käytöstä yleensä. Telematiikkatieto ei sisällä henkilötietoa.
+
+## Vastuunrajoitus
+
+**Augment** ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuorasta vahingosta, ellei **Augment** ole aiheuttanut sitä tahallisesti tai törkeän tuottamuksellisesti.
+
+## Sopimuskieli
+
+Tämän **sopimuksen** ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
+
+## Sovellettava laki ja erimielisyydet
+
+Tähän sopimukseen sovelletaan Suomen lakia.
+
+Erimielisyydet tulee ensisijaisesti pyrkiä ratkaisemaan osapuolten välisin neuvotteluin. **Asiakkaalla** on oikeus nostaa kanne Augmentia vastaan asiakkaan Suomessa sijaitsevan kotipaikan tai vakituisen asuinpaikan käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta Suomessa, kummallakin osapuolella on oikeus saattaa sopimusta koskevat riitaisuudet käsiteltäväksi Etelä-Pohjanmaan käräjäoikeudessa.
+
+**Asiakkaalla** on oikeus saattaa sopimusta koskeva erimielisyys käsiteltäväksi Kuluttajariitalautakuntaan, joka voi antaa suosituksen erimielisyyden ratkaisemiseksi. Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn asiakkaan tulee olla yhteydessä kuluttajaneuvontaan.
 
 ## Ehtojen voimassaolo
 
-Nämä ehdot ovat voimassa 27.10.2022 alkaen toistaiseksi.
+Nämä ehdot ovat voimassa 30.5.2024 alkaen toistaiseksi
