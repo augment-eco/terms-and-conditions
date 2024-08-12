@@ -9,7 +9,7 @@ Sopimuksen tarkoituksena on määritellä osapuolten oikeudet ja velvollisuudet 
 - Sopimuksen alkamiseen liittyvät ehdot (sivu 1)
 - Circular-skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot (sivu 1)
 - Sopimuksen päättämiseen liittyvät ehdot (sivu 4)
-- Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot (sivu 3)
+- Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot (sivu 4)
 - Muut ehdot (sivu 4)
 
 ## Sopimuksen alkamiseen liittyvät ehdot
@@ -73,7 +73,7 @@ Liikenneonnettomuudet, joissa on osallisena 3. osapuolia, tulee ilmoittaa poliis
 
 ### Sopimuksen voimassaoloaika
 
-Sopimusaika on vähintään 3, 6 tai 12 kuukautta sopimuksen alkamisesta. Ensimmäiset 3, 6 tai 12 kk sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (jäljempänä minimisopimuskausi). Tämän jälkeen sopimus jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
+Sopimusaika on vähintään 3, 6, 12 tai 24 kuukautta sopimuksen alkamisesta. Ensimmäiset 3, 6, 12 tai 24 kk sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (jäljempänä minimisopimuskausi). Tämän jälkeen sopimus jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
 
 ## Sopimuksen päättämiseen liittyvät ehdot
 
@@ -184,7 +184,7 @@ Asiakkaalla on oikeus saattaa sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 26.3.2024 alkaen toistaiseksi.
+Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 12.8.2024 alkaen toistaiseksi.
 
 <div class="page"/>
 
