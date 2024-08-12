@@ -55,7 +55,8 @@ Vad tjänsten inkluderar:
 
 Vad tjänsten ej inkluderar:
 
-- Repor, slitage eller märken på lacken som inte påverkar användningen av elsparkcykeln. Defekter orsakade av uppsåt eller grov vårdslöshet. I dessa fall har Augment rätt att debitera kunden för kostnaden av reparation.
+- Repor, slitage eller märken på lacken som inte påverkar användningen av elsparkcykeln.
+- Defekter orsakade av uppsåt eller grov vårdslöshet. I dessa fall har Augment rätt att debitera kunden för kostnaden av reparation.
 
 Augment har inget ansvar gentemot kund eller tredje part för skador på personer, fastigheter eller mobila/fasta egendomar som orsakas av elsparkcykeln eller dess användning. Det är kundens ansvar att se till att den har en giltig försäkring som täcker sådana skador, olyckor och tredje part.
 
