@@ -4,13 +4,11 @@ Vilkår og betingelser i denne aftale gælder for den el-løbehjul-service, som 
 
 Formålet med aftalen er at definere parternes rettigheder og forpligtelser vedrørende servicen og elløbehjulet, skitseret som følger:
 
-Aftalens ikrafttræden (side 1)
-
-Brug af el-løbehjulet og aftalens løbetid (side 2)
-
-Opsigelse af aftalen (side 3)
-
-Servicegebyrer og vedligeholdelse af kontaktoplysninger (side 4) Andre vilkår og betingelser (side 5)
+- Aftalens ikrafttræden (side 1)
+- Brug af el-løbehjulet og aftalens løbetid (side 2)
+- Opsigelse af aftalen (side 3)
+- Servicegebyrer og vedligeholdelse af kontaktoplysninger (side 4)
+- Andre vilkår og betingelser (side 5)
 
 ### Aftalens ikrafttræden
 
@@ -52,15 +50,13 @@ Kunden kan også selv reparere el-løbehjulet. I dette tilfælde giver Augment k
 
 Tjenesten dækker:
 
-Alle defekter inklusive slitage på sliddele som dæk, bremser, motor og batteri.
-
-Uventede skader, f.eks. brækkede el-løbehjul på grund af kollision eller væltning. I løbet af aftalens løbetid er antallet af skader, der skal erstattes, begrænset til maksimalt to sager om året.
+- Alle defekter inklusive slitage på sliddele som dæk, bremser, motor og batteri.
+- Uventede skader, f.eks. brækkede el-løbehjul på grund af kollision eller væltning. I løbet af aftalens løbetid er antallet af skader, der skal erstattes, begrænset til maksimalt to sager om året.
 
 Tjenesten dækker ikke:
 
-Ridser, slid eller mærker på lakken, der ikke påvirker brugen af el-løbehjulet.
-
-Fejl forårsaget af forsæt eller grov uagtsomhed, i hvilket tilfælde Augment har ret til at opkræve omkostningerne til reparation fra kunden.
+- Ridser, slid eller mærker på lakken, der ikke påvirker brugen af el-løbehjulet.
+- Fejl forårsaget af forsæt eller grov uagtsomhed, i hvilket tilfælde Augment har ret til at opkræve omkostningerne til reparation fra kunden.
 
 Augment er ikke ansvarlig over for kunden eller tredjeparter for skader på personer, ejendom eller løsøre eller fast ejendom forårsaget af el-løbehjulet eller dets brug. Det er kundens ansvar at sikre, at hun/han har en gyldig forsikring, der dækker sådanne skader, ulykker og tredjepartsansvar.
 
@@ -144,11 +140,9 @@ Hvis kunden har udestående ubetalte servicegebyrer, eller hvis el-løbehjulet e
 
 Augment har ret til at suspendere eller delvist suspendere tjenesten, hvis:
 
-Den forfaldne betaling er ikke betalt inden for to (2) uger efter afsendelsen af betalingspåmindelsen,
-
-Dette er nødvendigt for at forhindre misbrug eller skade,
-
-På trods af anmodningen fra Augment kunden har undladt at overholde sine kontraktlige forpligtelser ud over dem, der vedrører betaling.
+- Den forfaldne betaling er ikke betalt inden for to (2) uger efter afsendelsen af betalingspåmindelsen,
+- Dette er nødvendigt for at forhindre misbrug eller skade,
+- På trods af anmodningen fra Augment kunden har undladt at overholde sine kontraktlige forpligtelser ud over dem, der vedrører betaling.
 
 Augment vil ikke suspendere eller begrænse brugen af tjenesten for manglende betaling, hvis den manglende betaling er bevist at skyldes uventet sygdom eller anden sammenlignelig årsag uden for kundens kontrol, og den skyldige betaling sker inden for en (1) måned efter betalingspåmindelsen, der sendes, eller hvis kunden har bestridt fakturaen med begrundet grundlag, og den ubestridte del af betalingen er betalt til forfaldsdatoen.
 
@@ -210,37 +204,21 @@ Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 4.
 
 ## Definitioner (ordene er skrevet med fed skrift i aftalesprog, når der henvises til en definition)
 
-Yderligere tjenester - Tjenester, der leveres separat i henhold til denne aftale, og som kræver denne aftales gyldighed
-
-Aftale - denne aftale
-
-Augment - Augment Mobility Ab, registreret adresse Upankatu 1, 60100 Seinäjoki (virksomheds-ID:
-
-2700974-2) og virksomheder, der tilhører samme koncern som Augment Mobility Ab
-
-Forbrugerbeskyttelsesloven – Dansk Forbrugerbeskyttelseslov, som ændret fra tid til anden Kunde - en kunde, der indgår en Serviceaftale med Augment. Som part i denne aftale er du ansvarlig for det inkluderede el-løbehjul, servicegebyrer og brug.
-
-Kundeservice - Augment kundeservice
-
-Skader - En uventet fejl på el-løbehjulet forårsaget af brugeren eller omstændigheder uden for normal brug, f.eks. et fald eller kollision
-
-Defekt - Et uventet problem med el-løbehjulet under normal brug, som forhindrer eller begrænser brugen af el-løbehjulet.
-
-El-løbehjul - Augments el-løbehjul inkluderet i servicen
-
-Minimum aftaleperiode - Det tidsrum, som aftalen er gældende for en tidsbegrænset periode, hvorefter aftalen fortsætter på ubestemt tid, medmindre den opsiges af kunden i overensstemmelse med aftalevilkårene inden udløbet af den tidsbegrænsede periode. Færdselslov – finsk vejtrafiklov (729/2018), som ændret fra tid til anden
-
-Pantsætter - Danske Bank A/S, finsk filial, forretnings-ID: 1078693-2
-
-Erstatningsløbehjul - Erstatningsløbehjul, der svarer til den, kunden har brugt. Erstatningsløbehjul er blevet repareret og verificeret af Augment. Erstatningsløbehjul kan vise tegn på slid. Disse omfatter ridser og malingsafslag.
-
-Fortrydelsesret - Lovbestemt ret til at opsige denne aftale inden for 14 dage efter bestillingen i overensstemmelse med bestemmelserne i forbrugerbeskyttelsesloven vedrørende fjernsalg Service – Augments elektriske løbehjulservice leveret i overensstemmelse med denne aftale
-
-Servicegebyr - Brugsgebyrer relateret til denne aftale, opkrævet med 1 måneds, 3 måneders eller 24 måneders intervaller
-
-Servicevilkår - Vilkår for denne aftale
-
-Sliddele - Dele som normalt slides, når el-løbehjulet bruges, såsom dæk, bremser, motor og batteri
+- Yderligere tjenester - Tjenester, der leveres separat i henhold til denne aftale, og som kræver denne aftales gyldighed
+- Aftale - denne aftale
+- Augment - Augment Mobility Ab, registreret adresse Upankatu 1, 60100 Seinäjoki (virksomheds-ID: 2700974-2) og virksomheder, der tilhører samme koncern som Augment Mobility Ab
+- Forbrugerbeskyttelsesloven – Dansk Forbrugerbeskyttelseslov, som ændret fra tid til anden Kunde - en kunde, der indgår en Serviceaftale med Augment. Som part i denne aftale er du ansvarlig for det inkluderede el-løbehjul, servicegebyrer og brug.
+- Kundeservice - Augment kundeservice
+- Skader - En uventet fejl på el-løbehjulet forårsaget af brugeren eller omstændigheder uden for normal brug, f.eks. et fald eller kollision
+- Defekt - Et uventet problem med el-løbehjulet under normal brug, som forhindrer eller begrænser brugen af el-løbehjulet.
+- El-løbehjul - Augments el-løbehjul inkluderet i servicen
+- Minimum aftaleperiode - Det tidsrum, som aftalen er gældende for en tidsbegrænset periode, hvorefter aftalen fortsætter på ubestemt tid, medmindre den opsiges af kunden i overensstemmelse med aftalevilkårene inden udløbet af den tidsbegrænsede periode. Færdselslov – finsk vejtrafiklov (729/2018), som ændret fra tid til anden
+- Pantsætter - Danske Bank A/S, finsk filial, forretnings-ID: 1078693-2
+- Erstatningsløbehjul - Erstatningsløbehjul, der svarer til den, kunden har brugt. Erstatningsløbehjul er blevet repareret og verificeret af Augment. Erstatningsløbehjul kan vise tegn på slid. Disse omfatter ridser og malingsafslag.
+- Fortrydelsesret - Lovbestemt ret til at opsige denne aftale inden for 14 dage efter bestillingen i overensstemmelse med bestemmelserne i forbrugerbeskyttelsesloven vedrørende fjernsalg Service – Augments elektriske løbehjulservice leveret i overensstemmelse med denne aftale
+- Servicegebyr - Brugsgebyrer relateret til denne aftale, opkrævet med 1 måneds, 3 måneders eller 24 måneders intervaller
+- Servicevilkår - Vilkår for denne aftale
+- Sliddele - Dele som normalt slides, når el-løbehjulet bruges, såsom dæk, bremser, motor og batteri
 
 ## Fortrydelsesformular for fjernsalg
 
