@@ -4,13 +4,10 @@ Villkoren i detta avtal gäller för den elsparkcykeltjänst som tillhandahålls
 
 Syftet med avtalet är att för att definiera parternas rättigheter och skyldigheter avseende tjänsten och elsparkcykeln, enligt följande:
 
-Avtalets ikraftträdande (sida 1)
-
-Användning av elsparkcykel och avtalsperioden (sida 1)
-
-Uppsägning av avtalet (sida 3)
-
-Serviceavgifter och hantering av kontaktuppgifter (sida 4) Övriga villkor (sida 5)
+- Avtalets ikraftträdande (sida 1)
+- Användning av elsparkcykel och avtalsperioden (sida 1)
+- Uppsägning av avtalet (sida 3)
+- Serviceavgifter och hantering av kontaktuppgifter (sida 4) Övriga villkor (sida 5)
 
 ## Avtalets ikraftträdande
 
@@ -52,13 +49,12 @@ Kunden kan även reparera elsparkcykeln själv. I dessa fall förser Augment kun
 
 Vad tjänsten inkluderar:
 
-Alla defekter, inklusive slitage på delar så som däck, bromsar, motor och batteri.
-
-Oväntade skador, till exempel att skotern går sönder på grund av en kollision eller att den välter omkull. Under avtalstiden är antalet skador som ersätts begränsat till högst två ärenden per år.
+- Alla defekter, inklusive slitage på delar så som däck, bromsar, motor och batteri.
+- Oväntade skador, till exempel att skotern går sönder på grund av en kollision eller att den välter omkull. Under avtalstiden är antalet skador som ersätts begränsat till högst två ärenden per år.
 
 Vad tjänsten ej inkluderar:
 
-Repor, slitage eller märken på lacken som inte påverkar användningen av elsparkcykeln. Defekter orsakade av uppsåt eller grov vårdslöshet. I dessa fall har Augment rätt att debitera kunden för kostnaden av reparation.
+- Repor, slitage eller märken på lacken som inte påverkar användningen av elsparkcykeln. Defekter orsakade av uppsåt eller grov vårdslöshet. I dessa fall har Augment rätt att debitera kunden för kostnaden av reparation.
 
 Augment har inget ansvar gentemot kund eller tredje part för skador på personer, fastigheter eller mobila/fasta egendomar som orsakas av elsparkcykeln eller dess användning. Det är kundens ansvar att se till att den har en giltig försäkring som täcker sådana skador, olyckor och tredje part.
 
@@ -138,11 +134,9 @@ Om kunden har utestående obetalda serviceavgifter, eller om elsparkcykeln har b
 
 Augment har rätt att avsluta eller delvis stänga av tjänsten om:
 
-Den förfallna betalningen ej har betalats inom två (2) veckor efter det att betalningspåminnelsen har skickats,
-
-Detta är nödvändigt för att förhindra missbruk eller skada,
-
-Trots begäran från Augment så har kunden underlåtit att uppfylla sina avtalsförpliktelser utöver de som avser betalning.
+- Den förfallna betalningen ej har betalats inom två (2) veckor efter det att betalningspåminnelsen har skickats,
+- Detta är nödvändigt för att förhindra missbruk eller skada,
+- Trots begäran från Augment så har kunden underlåtit att uppfylla sina avtalsförpliktelser utöver de som avser betalning.
 
 Augment kommer inte att avbryta eller begränsa användningen av tjänsten för utebliven betalning om den uteblivna betalningen visar sig bero på oväntad sjukdom eller annan jämförbar orsak utanför kundens kontroll samt om betalningen sker inom en (1) månad efter att betalningspåminnelsen har skickats ut, eller om kunden har bestridit fakturan med befogad grund och den obestridda delen av betalningen betalas senast förfallodagen.
 
@@ -204,49 +198,28 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 Giltigheten av avtalets villkor
 
-Dessa allmänna villkor för Augment gäller i Sverige från 4.8.2024 tills vidare.
+Dessa allmänna villkor för Augment gäller i Sverige från 12.8.2024 tills vidare.
 
 ## Definitioner (orden är skrivna i fetstil i överensstämmelsespråk när de hänvisar till en definition)
 
-Tilläggstjänster - Tjänster som tillhandahålls separat till detta avtal och som kräver detta avtals giltighet
-
-Avtal - detta avtal
-
-Augment - Augment Mobility AB, registrerad adress Upankatu 1, 60100 Seinäjoki företags-ID:
-
-2700974-2; och företag som tillhör samma koncern som Augment Mobility AB
-
-Konsumentskyddslagen – Finlands konsumentskyddslag (38/1978), som kan ändras
-
-Kund – en kund som ingår ett Serviceavtal med Augment. Som part i detta avtal är du ansvarig för den inkluderade elsparkcykeln, serviceavgifter och dess användning.
-
-Kundtjänst – Augments kundtjänst
-
-Skador - Ett oväntat fel på elsparkcykeln orsakat av användaren eller omständigheter utanför normal användning, t.ex. fall eller kollision
-
-Defekt - Ett oväntat problem med elsparkcykeln under normal användning som förhindrar eller begränsar användningen av elsparkcykeln
-
-Elsparkcykel – Augments elsparkcykel som ingår i tjänsten
-
-Minsta avtalsperiod - Den tidsperiod under vilken avtalet gäller på viss tid, varefter avtalet löper på obestämd tid om det inte sägs upp av kunden i enlighet med villkoren i avtalet före utgången av avtalsperioden
-
-Vägtrafiklagen – Finlands vägtrafiklag (729/2018) som kan komma att ändras
-
-Pantsättare - Danske Bank [A/S, finsk filial], företags-ID: 1078693-2
-
-Ersättnings-elsparkcykel – Den elektriska ersättningsskotern som motsvarar den som kunden har
-
-använt. Ersättnings-elsparkcyklar har reparerats och verifierats av Augment. Ersättningselsparkcyklar kan visa tecken på slitage. Dessa inkluderar repor och färgsprickor.
-
-Ångerrätt - Lagstadgad rätt att säga upp detta avtal inom 14 dagar från beställningen i enlighet med bestämmelserna i konsumentskyddslagen om distansförsäljning.
-
-Tjänst – Augments elsparkcykeltjänst tillhandahålls i enlighet med detta avtal
-
-Serviceavgift - Användningsavgifter relaterade till detta avtal, debiteras med 1 månads, 3 månaders eller 24 månaders intervall
-
-Användarvillkor - Villkor för detta avtal
-
-Slitage på delar - Delar som normalt slits ut när elsparkcykeln används, såsom däck, bromsar, motor och batteri
+- Tilläggstjänster - Tjänster som tillhandahålls separat till detta avtal och som kräver detta avtals giltighet
+- Avtal - detta avtal
+- Augment - Augment Mobility AB, registrerad adress Upankatu 1, 60100 Seinäjoki företags-ID: 2700974-2; och företag som tillhör samma koncern som Augment Mobility AB
+- Konsumentskyddslagen – Finlands konsumentskyddslag (38/1978), som kan ändras
+- Kund – en kund som ingår ett Serviceavtal med Augment. Som part i detta avtal är du ansvarig för den inkluderade elsparkcykeln, serviceavgifter och dess användning.
+- Kundtjänst – Augments kundtjänst
+- Skador - Ett oväntat fel på elsparkcykeln orsakat av användaren eller omständigheter utanför normal användning, t.ex. fall eller kollision
+- Defekt - Ett oväntat problem med elsparkcykeln under normal användning som förhindrar eller begränsar användningen av elsparkcykeln
+- Elsparkcykel – Augments elsparkcykel som ingår i tjänsten
+- Minsta avtalsperiod - Den tidsperiod under vilken avtalet gäller på viss tid, varefter avtalet löper på obestämd tid om det inte sägs upp av kunden i enlighet med villkoren i avtalet före utgången av avtalsperioden
+- Vägtrafiklagen – Finlands vägtrafiklag (729/2018) som kan komma att ändras
+- Pantsättare - Danske Bank [A/S, finsk filial], företags-ID: 1078693-2
+- Ersättnings-elsparkcykel – Den elektriska ersättningsskotern som motsvarar den som kunden har använt. Ersättnings-elsparkcyklar har reparerats och verifierats av Augment. Ersättningselsparkcyklar kan visa tecken på slitage. Dessa inkluderar repor och färgsprickor.
+- Ångerrätt - Lagstadgad rätt att säga upp detta avtal inom 14 dagar från beställningen i enlighet med bestämmelserna i konsumentskyddslagen om distansförsäljning.
+- Tjänst – Augments elsparkcykeltjänst tillhandahålls i enlighet med detta avtal
+- Serviceavgift - Användningsavgifter relaterade till detta avtal, debiteras med 1 månads, 3 månaders eller 24 månaders intervall
+- Användarvillkor - Villkor för detta avtal
+- Slitage på delar - Delar som normalt slits ut när elsparkcykeln används, såsom däck, bromsar, motor och batteri
 
 ## Uppsägningsformuläret för distansförsäljning
 
