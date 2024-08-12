@@ -7,7 +7,8 @@ Syftet med avtalet är att för att definiera parternas rättigheter och skyldig
 - Avtalets ikraftträdande (sida 1)
 - Användning av elsparkcykel och avtalsperioden (sida 1)
 - Uppsägning av avtalet (sida 3)
-- Serviceavgifter och hantering av kontaktuppgifter (sida 4) Övriga villkor (sida 5)
+- Serviceavgifter och hantering av kontaktuppgifter (sida 4)
+- Övriga villkor (sida 5)
 
 ## Avtalets ikraftträdande
 
@@ -199,6 +200,8 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 Giltigheten av avtalets villkor
 
 Dessa allmänna villkor för Augment gäller i Sverige från 12.8.2024 tills vidare.
+
+<div class="page"/>
 
 ## Definitioner (orden är skrivna i fetstil i överensstämmelsespråk när de hänvisar till en definition)
 
