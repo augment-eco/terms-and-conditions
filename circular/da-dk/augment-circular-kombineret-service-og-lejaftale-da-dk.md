@@ -200,7 +200,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 ### Aftalens gyldighed
 
-Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 4.8.2024 indtil videre.
+Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 12.8.2024 indtil videre.
 
 <div class="page"/>
 
