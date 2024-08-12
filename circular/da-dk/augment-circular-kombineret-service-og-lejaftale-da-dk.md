@@ -5,10 +5,10 @@ Vilkår og betingelser i denne aftale gælder for den el-løbehjul-service, som 
 Formålet med aftalen er at definere parternes rettigheder og forpligtelser vedrørende servicen og elløbehjulet, skitseret som følger:
 
 - Aftalens ikrafttræden (side 1)
-- Brug af el-løbehjulet og aftalens løbetid (side 2)
+- Brug af el-løbehjulet og aftalens løbetid (side 1)
 - Opsigelse af aftalen (side 3)
 - Servicegebyrer og vedligeholdelse af kontaktoplysninger (side 4)
-- Andre vilkår og betingelser (side 5)
+- Andre vilkår og betingelser (side 4)
 
 ### Aftalens ikrafttræden
 
@@ -201,6 +201,8 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 ### Aftalens gyldighed
 
 Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 4.8.2024 indtil videre.
+
+<div class="page"/>
 
 ## Definitioner (ordene er skrevet med fed skrift i aftalesprog, når der henvises til en definition)
 
