@@ -6,7 +6,7 @@ Le contrat a pour objet de définir les droits et obligations des parties concer
 
 - Entrée en vigueur de l'**accord** (page 1)
 - Utilisation de la **trottinette** électrique Circular et durée du contrat (page 2)
-- Résiliation du contrat (page 4)
+- Résiliation du contrat (page 3)
 - **Frais de service** et maintien des coordonnées (page 4)
 - Autres termes et conditions (page 5)
 
@@ -23,8 +23,6 @@ Avant d'accepter une commande, **Augment** se reserve le droit de vérifier l’
 Le service comprend la location d'une **trottinette** personnelle. Au début de la durée minimale du contrat, **Augment** fournit une **trottinette** électrique Circular reconditionnée. La **trottinette** électrique Circular appartient à **Augment** pour la durée de l'**accord**.Aucune modification technique ou autre n'est autorisée. Le client n'est pas autorisé à retirer les logos **Augment**, à peindre la **trottinette** électrique Circular, à appliquer des autocollants ou à modifier la **trottinette** électrique Circular de toute autre manière. **Augment** se réserve le droit de facturer au client les frais de retour de la **trottinette** électrique Circular dans son état d'origine.
 
 Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique Circular à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique Circular. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
-
-<div class="page"/>
 
 ## Durée de l'accord et l'utilisation de la trottinette électrique Circular
 
@@ -60,6 +58,8 @@ La prestation ne couvre pas :
 
 **Augment** n'est pas responsable vis-à-vis du **client** ou de tiers des **dommages** aux personnes, aux biens ou aux biens mobiliers ou immobiliers causés par la **trottinette** électrique ou son utilisation. Il est de la responsabilité du **client** de s'assurer qu'il dispose d'une police d'assurance valide couvrant ces **dommages**, accidents et responsabilité civile.
 
+<div class="page"/>
+
 ### Retourner la trottinette électrique Circular défectueuse
 
 Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique Circular défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
@@ -91,6 +91,8 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 A la fin de la durée du contrat, la **trottinette** électrique Circular doit être retournée à **Augment** conformément aux instructions du **service client**.
 
 Le **client** est tenu d'indemniser les dommages, la destruction, la perte ou le non retour de la **trottinette**.
+
+<div class="page"/>
 
 ### Droit de rétractation de la vente à distance
 
@@ -135,8 +137,6 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 **Augment** a le droit de suspendre et/ou de restreindre l'utilisation du **service** dans les circonstances mentionnées ci-dessous. La suspension signifie le gel de tous les services disponibles dans le cadre du présent **accord**. Restreindre signifie limiter l'utilisation d'un ou plusieurs des services (ou d'une partie de ceux-ci) disponibles dans le cadre de cet **accord**.
 
 Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique Circular a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique Circular. Restreindre l’utilisation de la **trottinette** électrique Circular peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
-
-<div class="page"/>
 
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
@@ -183,6 +183,8 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 **Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
 **Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
+
+<div class="page"/>
 
 ### Limitation de responsabilité
 
