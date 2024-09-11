@@ -148,7 +148,7 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 
 **Augment** a le droit de suspendre et/ou de restreindre l'utilisation du **service** dans les circonstances mentionnées ci-dessous. La suspension signifie le gel de tous les services disponibles dans le cadre du présent **accord**. Restreindre signifie limiter l'utilisation d'un ou plusieurs des services (ou d'une partie de ceux-ci) disponibles dans le cadre de cet **accord**.
 
-Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volé, perdu, détourné ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
+Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
 <div class="page"/>
 
@@ -196,7 +196,7 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 
 **Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
-**Augment** peut collecter des données télématiques de la **trottinette** et d'autresdispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
+**Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
 
 ### Limitation de responsabilité
 
@@ -212,7 +212,7 @@ L'**accord** sera régi et interprété conformément aux lois françaises.
 
 Les différends seront principalement réglés par voie de négociation entre les parties. Le **client** a le droit d'intenter une action contre **Augment** devant le tribunal de grande instance de son lieu de domicile ou de résidence habituelle en France.
 
-Les présentes Conditions Générales d'Achat sont soumises à la loi française. En cas de litige, le Client s'adressera à Recommerce Solutions pour obtenir une solution amiable.
+Les présentes Conditions Générales de location sont soumises à la loi française. En cas de litige, le Client s'adressera à Recommerce Solutions pour obtenir une solution amiable.
 
 Conformément aux dispositions du Code de la consommation relatives au règlement amiable des litiges, **La médiation du e-commerce** est membre du **service** de médiation du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie - 75008 - Paris : https://www.mediateurfevad.fr
 
@@ -269,7 +269,7 @@ Mobile:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Date d'annulation :<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-J'ai acheté le produit à retourner :  En ligne  J’ai commandé par téléphone  J’ai reçu un appel
+J'ai loué le produit à retourner :  En ligne  J’ai commandé par téléphone  J’ai reçu un appel
 
 Raison du retour:
 
