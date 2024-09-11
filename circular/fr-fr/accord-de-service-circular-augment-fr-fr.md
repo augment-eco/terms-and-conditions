@@ -1,12 +1,12 @@
-# ACCORD DE SERVICE ET DE LOCATION COMBINÉS AUGMENT
+# ACCORD DE SERVICE CIRCULAR AUGMENT
 
-Les termes et conditions du présent **accord** s'appliquent au **service trottinette** électrique fourni par **Augment** aux particuliers, le **client**, **Augment** et le **client** collectivement, les **parties**. Le **client** doit être une personne physique [pleinement autorisée] âgée de plus de 18 ans et non un pupille d'un tribunal. Le **service** et la **trottinette** électrique sont destinés à l'usage d'un seul ménage. Le **service** ou la **trottinette** électrique ne peut être utilisé à des fins commerciales ou pour générer des revenus.
+Les termes et conditions du présent **accord** s'appliquent au **service trottinette** électrique Circular fourni par **Augment** aux particuliers, le **client**, **Augment** et le **client** collectivement, les **parties**. Le **client** doit être une personne physique [pleinement autorisée] âgée de plus de 18 ans et non un pupille d'un tribunal. Le **service** et la **trottinette** électrique Circular sont destinés à l'usage d'un seul ménage. Le **service** ou la **trottinette** électrique Circular ne peut être utilisé à des fins commerciales ou pour générer des revenus.
 
 Le contrat a pour objet de définir les droits et obligations des parties concernant le **service** et la **trottinette** électrique, définis comme suit :
 
 - Entrée en vigueur de l'**accord** (page 1)
-- Utilisation de la **trottinette** électrique et durée du contrat (page 2)
-- Résiliation du contrat (page 4)
+- Utilisation de la **trottinette** électrique Circular et durée du contrat (page 2)
+- Résiliation du contrat (page 3)
 - **Frais de service** et maintien des coordonnées (page 4)
 - Autres termes et conditions (page 5)
 
@@ -18,35 +18,33 @@ Le contrat est conclu par voie électronique. Le contrat entre en vigueur lorsqu
 
 Avant d'accepter une commande, **Augment** se reserve le droit de vérifier l’identité et de demander des justificatifs d’égilibilités au **client**.
 
-## Trottinette électrique
+## Trottinette électrique Circular
 
-Le service comprend la location d'une **trottinette** personnelle. Au début de la durée minimale du contrat, **Augment** fournit une nouvelle **trottinette** électrique. La **trottinette** électrique appartient à **Augment** pour la durée de l'**accord**. La **trottinette** électrique doit être conservée dans son état d'origine. Aucune modification technique ou autre n'est autorisée. Le client n'est pas autorisé à retirer les logos **Augment**, à peindre la **trottinette** électrique, à appliquer des autocollants ou à modifier la **trottinette** électrique de toute autre manière. **Augment** se réserve le droit de facturer au client les frais de retour de la **trottinette** électrique dans son état d'origine.
+Le service comprend la location d'une **trottinette** personnelle. Au début de la durée minimale du contrat, **Augment** fournit une **trottinette** électrique Circular reconditionnée. La **trottinette** électrique Circular appartient à **Augment** pour la durée de l'**accord**.Aucune modification technique ou autre n'est autorisée. Le client n'est pas autorisé à retirer les logos **Augment**, à peindre la **trottinette** électrique Circular, à appliquer des autocollants ou à modifier la **trottinette** électrique Circular de toute autre manière. **Augment** se réserve le droit de facturer au client les frais de retour de la **trottinette** électrique Circular dans son état d'origine.
 
-Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
+Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique Circular à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique Circular. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
 
-<div class="page"/>
-
-## Durée de l'accord et l'utilisation de la trottinette électrique
+## Durée de l'accord et l'utilisation de la trottinette électrique Circular
 
 ### Durée de l'accord
 
-La **durée minimale** ferme du contrat est de 24 mois. Pendant les 24 premiers mois du contrat, le contrat ne peut pas être résilié (**durée minimale** du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le **client** a mis à niveau la **trottinette** électrique vers un nouvel **accord** conformément à la procédure mentionnée ci-dessous.
+La **durée minimale** ferme du contrat est de 6, 12 ou 24 mois. Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours.
 
-### Utilisation de la trottinette électrique
+### Utilisation de la trottinette électrique Circular
 
-Selon le code de la route Français, la **trottinette** électrique est un "véhicule électrique léger" et est destinée à être utilisée en France conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique et sont capables de manipuler la **trottinette** électrique en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
+Selon le code de la route Français, la **trottinette** électrique Circular est un "véhicule électrique léger" et est destinée à être utilisée en France conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique Circular sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique Circular et sont capables de manipuler la **trottinette** électrique Circular en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
 
-Le **client** est responsable de s'assurer que la **trottinette** électrique est en bon état de fonctionnement et qu'elle est utilisée conformément aux exigences légales. La **trottinette** électrique ne doit pas être utilisée dans des conditions météorologiques inadaptées à une utilisation en toute sécurité.
+Le **client** est responsable de s'assurer que la **trottinette** électrique Circular est en bon état de fonctionnement et qu'elle est utilisée conformément aux exigences légales. La **trottinette** électrique Circular ne doit pas être utilisée dans des conditions météorologiques inadaptées à une utilisation en toute sécurité.
 
-La **trottinette** électrique n'est pas destinée à la course, au tout-terrain ou à l’acrobatie. La conduite acrobatique comprend, mais sans s'y limiter, le dérapage, le blocage délibéré des freins, la rotation, le saut et le rebond.
+La **trottinette** électrique Circular n'est pas destinée à la course, au tout-terrain ou à l’acrobatie. La conduite acrobatique comprend, mais sans s'y limiter, le dérapage, le blocage délibéré des freins, la rotation, le saut et le rebond.
 
-**Augment** a le droit de facturer au **client** tous les frais encourus en raison de l'utilisation de la **trottinette** électrique d'une manière contraire à cet **accord** ou au manuel d'utilisation.
+**Augment** a le droit de facturer au **client** tous les frais encourus en raison de l'utilisation de la **trottinette** électrique Circular d'une manière contraire à cet **accord** ou au manuel d'utilisation.
 
-### Panne de la trottinette électrique
+### Panne de la trottinette électrique Circular
 
-Tout **défaut** technique ou dommage à la **trottinette** électrique doit être signalé via le chat du **service client**. Une fois signalé, **Augment** enverra gratuitement au **client** une **trottinette électrique de remplacement** le jour ouvrable suivant. Le délai de livraison de la **trottinette** électrique est normalement de 3 à 5 jours ouvrables à compter de la date d'expédition.
+Tout **défaut** technique ou dommage à la **trottinette** électrique Circular doit être signalé via le chat du **service client**. Une fois signalé, **Augment** enverra gratuitement au **client** une **trottinette électrique de remplacement** le jour ouvrable suivant. Le délai de livraison de la **trottinette** électrique Circular est normalement de 3 à 5 jours ouvrables à compter de la date d'expédition.
 
-Le **client** peut également réparer lui-même la **trottinette** électrique. Dans ce cas, **Augment** fournit gratuitement au **client** les pièces de rechange nécessaires à la réparation.
+Le **client** peut également réparer lui-même la **trottinette** électrique Circular. Dans ce cas, **Augment** fournit gratuitement au **client** les pièces de rechange nécessaires à la réparation.
 
 La prestation couvre :
 
@@ -60,31 +58,27 @@ La prestation ne couvre pas :
 
 **Augment** n'est pas responsable vis-à-vis du **client** ou de tiers des **dommages** aux personnes, aux biens ou aux biens mobiliers ou immobiliers causés par la **trottinette** électrique ou son utilisation. Il est de la responsabilité du **client** de s'assurer qu'il dispose d'une police d'assurance valide couvrant ces **dommages**, accidents et responsabilité civile.
 
-### Retourner la trottinette électrique défectueuse
+<div class="page"/>
 
-Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
+### Retourner la trottinette électrique Circular défectueuse
+
+Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique Circular défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
 
 **Augment** se réserve le droit de facturer des frais de retard de 12,50 € pour chaque semaine suivante si la **trottinette** électrique défectueuse n'est pas retournée.
 
 ### Batterie et charge de la trottinette électrique
 
-Le **client** doit se conformer au manuel d'utilisation de la **trottinette** électrique pour les instructions de chargement et de stockage de la batterie. Le **client** doit charger la batterie au moins tous les 2 mois. Le **client** ne doit pas charger ou utiliser la batterie si elle est physiquement endommagée, chauffe plus que d'habitude, fait un bruit étrange ou fuit.
+Le **client** doit se conformer au manuel d'utilisation de la **trottinette** électrique Circular pour les instructions de chargement et de stockage de la batterie. Le **client** doit charger la batterie au moins tous les 2 mois. Le **client** ne doit pas charger ou utiliser la batterie si elle est physiquement endommagée, chauffe plus que d'habitude, fait un bruit étrange ou fuit.
 
 **Augment** remplacera la batterie gratuitement si la capacité maximale de la batterie tombe en dessous de 70 % de la capacité de la nouvelle batterie. Si la batterie n'a pas été stockée ou chargée conformément aux instructions, **Augment** n'est pas obligé de remplacer la batterie.
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique Circular est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique Circular volée. Dès réception du paiement, une **trottinette électrique Circular de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
 Tout accident de la **circulation** impliquant un tiers doit être signalé à la Police et à **Augment** dans les 48 heures suivant l'accident.
-
-### Mise à jour de la trottinette électrique
-
-La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de 125 €, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
-
-L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de 12,50 € par semaine de retard.
 
 ## Résiliation de l'accord
 
@@ -92,33 +86,27 @@ Le **client** a le droit de résilier le contrat à l'expiration de la **durée 
 
 Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
 
-### Rachat de la trottinette électrique
+### Restitution de la trottinette électrique Circular après la résiliation du contrat
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+A la fin de la durée du contrat, la **trottinette** électrique Circular doit être retournée à **Augment** conformément aux instructions du **service client**.
 
-### Résiliation du contrat avant la fin de la durée minimale du contrat
+Le **client** est tenu d'indemniser les dommages, la destruction, la perte ou le non retour de la **trottinette**.
 
-Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
-
-### Restitution de la trottinette électrique après la résiliation du contrat
-
-Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
-
-Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+<div class="page"/>
 
 ### Droit de rétractation de la vente à distance
 
 Conformément à la loi sur la protection du consommateur, le **client** a le droit de résilier le contrat dans les 14 jours suivant la conclusion du contrat. La résiliation du contrat doit être notifiée à **Augment** en renvoyant le formulaire de résiliation de vente à distance ci-joint dûment complété au **service client**.
 
-Le colis contenant la **trottinette** électrique peut être ouvert par le **client** pour permettre l'inspection du contenu. En cas d'annulation de l'**accord** par le **client**, la **trottinette** électrique doit être retourné à **Augment** dans son état d'origine, en suivant les instructions du **service client**, dans un délai d'une semaine à compter de l'annulation de l'**accord**.
+Le colis contenant la **trottinette** électrique Circular peut être ouvert par le **client** pour permettre l'inspection du contenu. En cas d'annulation de l'**accord** par le **client**, la **trottinette** électrique Circular doit être retournée à **Augment** dans son état d'origine, en suivant les instructions du **service client**, dans un délai d'une semaine à compter de l'annulation de l'**accord**.
 
-Si la **trottinette** électrique a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique. **Augment** a le droit de facturer au **client** la valeur totale de la **trottinette** électrique si la **trottinette** électrique retournée est invendable.
+Si la **trottinette** électrique Circular a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique Circular.
 
 ## Frais de service et maintien des coordonnées
 
 ### Frais de service
 
-Les frais de **service** sont facturés à l'avance selon l'intervalle de paiement présélectionné (1 mois, 3 mois ou 24 mois). Le **client** doit s'assurer que la carte de paiement ou le compte bancaire dispose de fonds suffisants pour couvrir les **frais de service** applicables.
+Les frais de **service** sont facturés à l'avance selon sur une base mensuelle. Le **client** doit s'assurer que la carte de paiement ou le compte bancaire dispose de fonds suffisants pour couvrir les **frais de service** applicables.
 
 La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
 
@@ -148,9 +136,7 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 
 **Augment** a le droit de suspendre et/ou de restreindre l'utilisation du **service** dans les circonstances mentionnées ci-dessous. La suspension signifie le gel de tous les services disponibles dans le cadre du présent **accord**. Restreindre signifie limiter l'utilisation d'un ou plusieurs des services (ou d'une partie de ceux-ci) disponibles dans le cadre de cet **accord**.
 
-Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
-
-<div class="page"/>
+Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique Circular a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique Circular. Restreindre l’utilisation de la **trottinette** électrique Circular peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
@@ -178,7 +164,7 @@ Si la modification est fondée sur une modification de la loi ou sur une décisi
 
 ### Droits de propriété intellectuelle
 
-Les droits de propriété intellectuelle tels que les droits d'auteur, les marques et les brevets relatifs aux services, de la trottinettes électriques et autres produits d'**Augment** appartiennent à **Augment** ou à un tiers. **Augment** accorde une licence limitée pour la durée du contrat au **service** en vertu du contrat et aux versions en langage machine et à la documentation du logiciel livré en vertu du contrat uniquement pour une utilisation conforme au présent contrat.
+Les droits de propriété intellectuelle tels que les droits d'auteur, les marques et les brevets relatifs aux services, de la trottinettes électriques Circular et autres produits d'**Augment** appartiennent à **Augment** ou à un tiers. **Augment** accorde une licence limitée pour la durée du contrat au **service** en vertu du contrat et aux versions en langage machine et à la documentation du logiciel livré en vertu du contrat uniquement pour une utilisation conforme au présent contrat.
 
 Le **service** et le matériel, les logiciels, les documents et tout autre matériel sous licence en rapport avec celui-ci doivent être utilisés conformément aux instructions d'**Augment** ou d'un tiers, tel que le propriétaire du logiciel, et uniquement aux fins convenues.
 
@@ -197,6 +183,8 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 **Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
 **Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
+
+<div class="page"/>
 
 ### Limitation de responsabilité
 
@@ -228,7 +216,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 11.09.2024 jusqu'à nouvel ordre.
 
 <div class="page"/>
 
