@@ -8,7 +8,7 @@ Lo scopo del **contratto** è quello di definire i diritti e gli obblighi delle 
 
 - Entrata in vigore del **contratto** (pagina 1)
 - Uso del **monopattino elettrico** e durata del **contratto** (pagina 1)
-- Risoluzione del **contratto** (pagina 3)
+- Risoluzione del **contratto** (pagina 4)
 - **Commissioni di servizio** e dati di contatto (pagina 4)
 - Altri termini e condizioni (pagina 5)
 
@@ -118,6 +118,18 @@ La data di scadenza della **tassa di servizio** è determinata dalla data in cui
 
 I pagamenti previsti dal **contratto** sono impegnati a favore di Danske Bank A/S, filiale Finlandese in **pegno**. Nessun altro che il **pegno** può apportare modifiche alle istruzioni di pagamento.
 
+### Diritto di recesso della vendita a distanza
+
+In conformità con la legge sulla tutela dei consumatori, il **cliente** ha il diritto di recedere dal contratto entro 14 giorni dalla conclusione del contratto. La risoluzione del contratto deve essere notificato ad **Augment** tramite il modulo diritto di recesso dalla vendita a distanza allegato debitamente compilato al **servizio clienti**.
+
+Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto.
+
+Il pacco contenente il **monopattino elettrico** può essere aperto dal **cliente** per consentire l'ispezione del contenuto.
+
+In caso di annullamento dell'**accordo** dal **cliente**, il **monopattino elettrico** deve essere restituito ad **Augment** nel suo stato originale, seguendo le istruzioni del **servizio clienti** entro una settimana dalla cancellazione dell'**accordo**.
+
+Se è stato utilizzato il **monopattino elettrico** durante il periodo di recesso e dopo che il contratto è annullato, **Augment** ha il diritto di addebitare al **cliente** la riduzione del valore del **monopattino elettrico**.
+
 ### Mantenimento dei dettagli di pagamento
 
 Se i dettagli della carta di pagamento/conto bancario cambiano, i nuovi dati devono essere aggiornati tramite il sito Web self-service di **Augment** prima che la **rata successiva** sia dovuto.
@@ -157,8 +169,6 @@ Il **servizio** e le sue caratteristiche o termini e condizioni applicabili poss
 
 Se la modifica si basa su una modifica della legge o su una decisione di un'autorità, **Augment** ha il diritto di attuare la modifica a partire dalla data di entrata in vigore della legge o della decisione di un'autorità.
 
-<div class="page"/>
-
 ### Diritti di proprietà intellettuale
 
 I diritti di proprietà intellettuale come copyright, marchi e brevetti relativi ai **servizi di Augment**, **monopattini elettrici** e altri prodotti appartengono ad **Augment** o a terzi. **Augment** concede una licenza limitata per la durata del **contratto** al **servizio** ai sensi del **contratto** e alle versioni in lingua macchina e la documentazione del software consegnato ai sensi del **contratto** esclusivamente per l'uso in conformità con il presente **accordo**.
@@ -187,8 +197,6 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 La lingua principale di questo **accordo** è l'italiano. In caso di discrepanza tra le diverse versioni linguistiche, prevale la versione italiana.
 
-<div class="page"/>
-
 ### Legge applicabile e controversie
 
 Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il **contratto** è regolato e interpretato secondo la **legge italiana** se il domicilio o la residenza abituale del **cliente** è in Italia.
@@ -211,7 +219,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 19.2.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 26.09.2024 fino a nuovo avviso.
 
 <div class="page"/>
 
@@ -220,14 +228,14 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Servizi aggiuntivi** - Servizi forniti separatamente al presente accordo e che richiedono la validità del presente accordo
 - **Contratto** - questo contratto
 - **Augment** - Augment Mobility Ab, indirizzo registrato Upankatu 1, 60100 Seinäjoki e aziende appartenenti allo stesso gruppo di Augment Mobility Ab
-- **Legge sulla protezione dei consumatori** - Legge finlandese sulla protezione dei consumatori (38/1978), modificata di volta in volta
+- **Legge sulla protezione dei consumatori** - Legge italiana sulla protezione dei consumatori (38/1978), modificata di volta in volta
 - **Cliente** - un cliente che stipula un Contratto di Servizio con Augment. Come parte del presente Contratto, sei responsabile per l'e-scooter incluso, le spese di servizio e l'utilizzo.
 - **Servizio clienti** – Il servizio clienti Augment
 - **Danni** - Un guasto imprevisto del monopattino elettrico causato dall'utente o circostanze al di fuori del normale utilizzo, ad es. un ribaltamento o collisione
 - **Difetto** - Un problema imprevisto con il monopattino elettrico durante l'uso normale che impedisce o limita l'uso del monopattino elettrico.
 - **Monopattino elettrico** - monopattino elettrico di Augment incluso nel servizio
 - **Periodo minimo di contratto** - Il periodo di tempo per il quale il contratto è in vigore per un periodo determinato, dopo il quale il contratto continua a tempo indeterminato, a meno che non sia risolto dal cliente in conformità con i termini del contratto prima della fine del termine fisso
-- **Legge sul traffico stradale** - Legge finlandese sul traffico stradale (729/2018), modificata di volta in volta
+- **Legge sul traffico stradale** - Legge italiana sul traffico stradale (729/2018), modificata di volta in volta
 - **Pegno** - Danske Bank [A/S, filiale finlandese], business ID: [aggiungere entità corretta]
 - **Monopattino elettrico di sostituzione** - Lo scooter elettrico di sostituzione che è equivalente a quello che il cliente ha usato. I monopattini elettrici sostitutivi sono stati riparati e verificati da Augment. I monopattini elettrici possono mostrare segni di usura. Questi includono graffi e trucioli di vernice.
 - **Servizio** - Servizio di monopattino elettrico Augment fornito in conformità con il presente accordo
@@ -237,7 +245,7 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 
 <div class="page"/>
 
-## Diritto di recesso dalla vendita a distanza Modulo
+## Modulo diritto di recesso dalla vendita a distanza
 
 Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto
 
