@@ -2,9 +2,9 @@
 
 ## Terzi e scopo del contratto
 
-I termini e le condizioni del presente **contratto** si applicano al **servizio** monopattini elettrici fornito da **Augment** a privati, al **cliente**, Augment e al cliente collettivamente, i **terzi**. Il cliente deve essere una persona fisica [pienamente autorizzata] di età superiore ai 18 anni e non un tribunale. Il **servizio** e il monopattino elettrico Circular è per l'uso di una famiglia. Il **servizio** o **monopattino elettrico Circular** non possono essere utilizzati per scopi commerciali o per la generazione di qualsiasi reddito.
+I termini e le condizioni del presente **contratto** si applicano al **servizio** monopattini elettrici CIRCULAR fornito da **Augment** a privati, al **cliente**, Augment e al cliente collettivamente, i **terzi**. Il cliente deve essere una persona fisica [pienamente autorizzata] di età superiore ai 18 anni e non un tribunale. Il **servizio** e il monopattino elettrico è per l'uso di una famiglia. Il **servizio** o **monopattino elettrico** non possono essere utilizzati per scopi commerciali o per la generazione di qualsiasi reddito.
 
-Lo scopo del **contratto** è quello di definire i diritti e gli obblighi delle parti per quanto riguarda il **servizio** e il **monopattino elettrico Circular**, delineato come segue:
+Lo scopo del **contratto** è quello di definire i diritti e gli obblighi delle parti per quanto riguarda il **servizio** e il **monopattino elettrico CIRCULAR**, delineato come segue:
 
 - Entrata in vigore del **contratto** (pagina 1)
 - Uso del **monopattino elettrico** e durata del **contratto** (pagina 1)
@@ -22,9 +22,9 @@ Prima di accettare un ordine, **Augment** ha il diritto di verificare l’affida
 
 ### Monopattino elettrico
 
-All'entrata in vigore del **contratto**, **Augment** fornirà al cliente un **monopattino elettrico** rigenerato, quindi non nuovo. Il **monopattino elettrico Circular** è di proprietà di **Augment** per la completa durata del **contratto** (24 mesi). Il **monopattino elettrico Circular** deve essere conservato nella sua condizione originale. Non sono ammesse modifiche tecniche o di altro tipo. Il **cliente** non è autorizzato a rimuovere i loghi **Augment**, dipingere il **monopattino elettrico**, applicare adesivi o modificare il **monopattino elettrico** in qualsiasi altro modo. **Augment** si riserva il diritto di addebitare al **cliente** il costo della rigenerazione del **monopattino elettrico** alla sua condizione originale.
+All'entrata in vigore del **contratto CIRCULAR**, **Augment** fornirà al cliente un **monopattino elettrico** rigenerato quindi usato. Il **monopattino elettrico** è di proprietà di **Augment** per la completa durata del **contratto** (6, 12 o 24 mesi.). Il **monopattino elettrico** deve essere conservato nella sua condizione originale. Non sono ammesse modifiche tecniche o di altro tipo. Il **cliente** non è autorizzato a rimuovere i loghi **Augment**, dipingere il **monopattino elettrico**, applicare adesivi o modificare il **monopattino elettrico** in qualsiasi altro modo. **Augment** si riserva il diritto di addebitare al **cliente** il costo della rigenerazione del **monopattino elettrico** alla sua condizione originale.
 
-Gli accessori normali quali un supporto del cellulare possono essere installati sul **monopattino elettrico Circular** a condizione che tali accessori possano essere rimossi senza lasciare alcuni segni sul **monopattino elettrico**. Il **cliente** è responsabile dell'installazione, rimozione e smaltimento di eventuali accessori e marchi lasciati dagli accessori.
+Gli accessori normali quali un supporto del cellulare possono essere installati sul **monopattino elettrico** a condizione che tali accessori possano essere rimossi senza lasciare alcuni segni sul **monopattino elettrico**. Il **cliente** è responsabile dell'installazione, rimozione e smaltimento di eventuali accessori e marchi lasciati dagli accessori.
 
 <div class="page"/>
 
@@ -32,23 +32,23 @@ Gli accessori normali quali un supporto del cellulare possono essere installati 
 
 ### Durata del contratto
 
-La **durata minima** del **contratto** è di 24 mesi. Durante il primo periodo di 24 mesi del **contratto** , il **contratto** non può essere risolto (**periodo minimo dell'accordo**). Dopo la fine del periodo minimo, il **contratto** rimane in vigore fino a nuovo avviso e può essere risolto con un periodo di preavviso di 30 giorni, a meno che il **cliente** non abbia aggiornato il **monopattino elettrico Circular** a uno nuovo secondo la procedura di seguito indicata.
+La **durata minima** del **contratto** è di 6, 12 o 24 mesi. Dopo la fine del periodo minimo, il **contratto** rimane in vigore fino a nuovo avviso e può essere risolto con un periodo di preavviso di 30 giorni.
 
 ### Uso del monopattini elettrico
 
 Secondo la **Legge Sulla Circolazione Stradale** Italiana, il **monopattino elettrico** è un "veicolo elettrico leggero" ed è destinato all'uso in Italia in conformità con **la Legge Sulla Circolazione Stradale**. Il **cliente** deve garantire che egli stesso e gli altri utenti del **monopattino elettrico** abbiano familiarità con le regole del traffico relative all'uso del **monopattino** **elettrico** e siano in grado di gestire il **monopattino elettrico** in ogni circostanza senza causare pericoli a se stessi o ad altri utenti della strada.
 
-Il **cliente** è responsabile di garantire che il **monopattino elettrico Circular** sia in buone condizioni e funzionante e che venga utilizzato in conformità con i requisiti di legge. Il **monopattino elettrico Circular** non deve essere utilizzato in condizioni meteorologiche inadatte per un uso sicuro.
+Il **cliente** è responsabile di garantire che il **monopattino elettrico** sia in buone condizioni e funzionante e che venga utilizzato in conformità con i requisiti di legge. Il **monopattino elettrico** non deve essere utilizzato in condizioni meteorologiche inadatte per un uso sicuro.
 
-Il **monopattino elettrico Circular** non è destinato per la corsa, strada sterrata, o acrobazie. Acrobazie includono, ma non sono limitate a, slittata, bloccaggio dei freni deliberato, impennata e salti.
+Il **monopattino elettrico** non è destinato per la corsa, strada sterrata, o acrobazie. Acrobazie includono, ma non sono limitate a, slittata, bloccaggio dei freni deliberato, impennata e salti.
 
 **Augment** ha il diritto di addebitare al **cliente** eventuali costi sostenuti a causa dell'uso del **monopattino elettrico** in qualsiasi modo contrario al presente **accordo** o al manuale utente.
 
 ### Rottura del monopattini elettrico
 
-Eventuali **difetti tecnici** o **danni** al **monopattino elettrico Circular** devono essere segnalati tramite la live chat del **servizio clienti**. Una volta segnalato, **Augment** invierà al **cliente** un **monopattino elettrico** sostitutivo gratuitamente il giorno lavorativo successivo. La consegna del **monopattino elettrico** è normalmente 3-5 giorni lavorativi dalla data della spedizione.
+Eventuali **difetti tecnici** o **danni** al **monopattino elettrico** devono essere segnalati tramite la live chat del **servizio clienti**. Una volta segnalato, **Augment** invierà al **cliente** un **monopattino elettrico** sostitutivo gratuitamente il giorno lavorativo successivo. La consegna del **monopattino elettrico** è normalmente 3-5 giorni lavorativi dalla data della spedizione.
 
-Il **cliente** può anche riparare il **monopattino elettrico Circular** da se’. In questo caso, **Augment** fornisce al **cliente** i pezzi di ricambio necessari per la riparazione.
+Il **cliente** può anche riparare il **monopattino elettrico** da se’. In questo caso, **Augment** fornisce al **cliente** i pezzi di ricambio necessari per la riparazione.
 
 Il **servizio** copre:
 
@@ -57,10 +57,10 @@ Il **servizio** copre:
 
 Il **servizio** non comprende:
 
-- Graffi, usura o segni sulla verniciatura che non influenzano l'uso del **monopattino elettrico Circular**
+- Graffi, usura o segni sulla verniciatura che non influenzano l'uso del **monopattino elettrico**
 - **Difetti** causati da dolo o colpa grave, nel qual caso **Augment** ha il diritto di addebitare il costo della riparazione al **cliente**
 
-**Augment** non è responsabile nei confronti del **cliente** o di terzi per eventuali **danni** a persone, beni o beni mobili o immobili causati dal **monopattino elettrico Circular** o dal suo uso. E' responsabilità del **cliente** di garantire che lei/lui abbia una polizza assicurativa valida che copre tali **danni**, incidenti, e responsabilità di terzi.
+**Augment** non è responsabile nei confronti del **cliente** o di terzi per eventuali **danni** a persone, beni o beni mobili o immobili causati dal **monopattino elettrico** o dal suo uso. E' responsabilità del **cliente** di garantire che lei/lui abbia una polizza assicurativa valida che copre tali **danni**, incidenti, e responsabilità di terzi.
 
 ### Riconsegna del monopattino elettrico difettoso
 
@@ -70,25 +70,17 @@ Dopo aver ricevuto una sostituzione, il difettoso deve essere restituito ad **Au
 
 ### Batteria del monopattini elettrico e ricarica
 
-Il **cliente** deve rispettare il manuale utente del **monopattino elettrico Circular** per la ricarica della batteria e le istruzioni di conservazione. Il **cliente** deve caricare la batteria almeno ogni 2 mesi. Il **cliente** non deve caricare o utilizzare la batteria se è fisicamente danneggiata, riscalda più del solito, fa un rumore strano o ha perdite.
+Il **cliente** deve rispettare il manuale utente del **monopattino elettrico** per la ricarica della batteria e le istruzioni di conservazione. Il **cliente** deve caricare la batteria almeno ogni 2 mesi. Il **cliente** non deve caricare o utilizzare la batteria se è fisicamente danneggiata, riscalda più del solito, fa un rumore strano o ha perdite.
 
 **Augment** sostituirà la batteria gratuitamente se la capacità massima della batteria scende al di sotto del 70% della capacità della nuova batteria. Se la batteria non è stata conservata o caricata secondo le istruzioni, **Augment** non è obbligato a sostituire la batteria.
 
 ### Perdita del monopattino elettrico dovuta a furto, vandalismo o altra perdita.
 
-Se il **monopattino elettrico Circular** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà EUR250 senza batteria, EUR350 con una batteria 360Wh e EUR450 con una batteria più grande per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo Circular** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
+Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà EUR250 senza batteria, EUR350 con una batteria 360Wh e EUR450 con una batteria più grande per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
 
 ### Incidenti stradali
 
 Qualsiasi incidente stradale che coinvolga un terzo deve essere segnalato alla Polizia e ad **Augment** entro 48 ore dall'incidente.
-
-### Aggiornamento del monopattino elettrico con uno nuovo
-
-Il **monopattino elettrico Circular può** essere aggiornato ad un nuovo **monopattino elettrico Circular** dopo 12 mesi dall'inizio del **contratto** al costo di EUR125, o gratuitamente 18 mesi dopo l'inizio del **contratto**. Una nuova **durata minima del contratto** di 24 mesi inizia quando un **monopattino elettrico** viene aggiornato.
-
-Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico Circular** è arrivato. Se il **monopattino elettrico Circular** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino elettrico Circular**, **Augment** avrà il diritto di addebitare una tassa tardiva di EUR12,50 a settimana di ritardo.
-
-<div class="page"/>
 
 ## Risoluzione del contratto
 
@@ -96,27 +88,33 @@ Il **cliente** ha il diritto di risolvere il **contratto** alla scadenza della *
 
 Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere il **contratto** con un preavviso di 30 giorni.
 
-### Riscatto del monopattini elettrico
-
-Il **cliente** può riscattare il **monopattino elettrico Circular** pagando il prezzo di redenzione di EUR49 dopo la **scadenza minima del contratto**. Prima della fine del **periodo minimo**, il **cliente** può riscattare il **monopattino elettrico Circular** pagando le rate rimanenti per il **periodo minimo** e il prezzo di riscatto di EUR49. Una volta che il prezzo di riscatto è stato ricevuto da **Augment**, il **contratto** terminerà automaticamente.
-
-### Conclusione del contratto prima della fine del period minimo di contratto
-
-Il **cliente** ha il diritto di risolvere il **contratto** 11 mesi dopo l'inizio del **contratto** al più presto notificando il **servizio clienti** e pagando EUR195. Una volta ricevuto il pagamento ad **Augment**, la proprietà del **monopattino elettrico Circular** verrà trasferita al **cliente** e il **contratto** terminerà automaticamente.
-
 ### Riconsegna del monopattini elettrico dopo la fine del contratto
 
-Se il **cliente** non desidera riscattare lo scooter al **termine del contratto**, il **monopattino elettrico Circular** deve essere restituito ad **Augment** in conformità con le istruzioni del **servizio clienti**.
+Se il **cliente** non desidera riscattare lo scooter al **termine del contratto**, il **monopattino elettrico** deve essere restituito ad **Augment** in conformità con le istruzioni del **servizio clienti**.
+
+<div class="page"/>
 
 ## Commissioni di servizio e mantenimento dei dettagli di contatto
 
 ### Commissioni di servizio
 
-Le **commissioni di servizio** sono addebitate in anticipo in base all'intervallo di pagamento preselezionato (1 mese, 3 mesi o 24 mesi). Il **cliente** garantisce che la carta di pagamento o il conto bancario dispongano di fondi sufficienti per coprire le spese di servizio applicabili.
+Le **commissioni di servizio** sono addebitate in anticipo in base all'intervallo di pagamento preselezionato (1 mese). Il **cliente** garantisce che la carta di pagamento o il conto bancario dispongano di fondi sufficienti per coprire le spese di servizio applicabili.
 
 La data di scadenza della **tassa di servizio** è determinata dalla data in cui viene effettuato l'ordine. La data di scadenza può essere modificata contattando il **servizio clienti**. La data di scadenza per le spese mensili può variare di alcuni giorni tra i mesi, come la durata dei mesi di calendario varia.
 
 I pagamenti previsti dal **contratto** sono impegnati a favore di Danske Bank A/S, filiale Finlandese in **pegno**. Nessun altro che il **pegno** può apportare modifiche alle istruzioni di pagamento.
+
+### Diritto di recesso della vendita a distanza
+
+In conformità con la legge sulla tutela dei consumatori, il **cliente** ha il diritto di recedere dal contratto entro 14 giorni dalla conclusione del contratto. La risoluzione del contratto deve essere notificato ad **Augment** tramite il modulo diritto di recesso dalla vendita a distanza allegato debitamente compilato al **servizio clienti**.
+
+Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto.
+
+Il pacco contenente il **monopattino elettrico** può essere aperto dal **cliente** per consentire l'ispezione del contenuto.
+
+In caso di annullamento dell'**accordo** dal **cliente**, il **monopattino elettrico** deve essere restituito ad **Augment** nel suo stato originale, seguendo le istruzioni del **servizio clienti** entro una settimana dalla cancellazione dell'**accordo**.
+
+Se è stato utilizzato il **monopattino elettrico** durante il periodo di recesso e dopo che il contratto è annullato, **Augment** ha il diritto di addebitare al **cliente** la riduzione del valore del **monopattino elettrico**.
 
 ### Mantenimento dei dettagli di pagamento
 
@@ -138,7 +136,7 @@ Su richiesta del **cliente** o di una compagnia di assicurazioni o di un'autorit
 
 **Augment** ha il diritto di sospendere e/o limitare l'uso del **servizio** nelle circostanze di seguito indicate. Sospensione significa il congelamento di tutti i **servizi** disponibili ai sensi del presente accordo. Limitare significa limitare l'uso di uno o più dei **servizi** (o parte di essi) disponibili attraverso il presente **accordo**.
 
-Se il **cliente** ha spese di servizio non pagate in sospeso, o se il **monopattino elettrico Circular** è stato rubato, perso, sottratto o è in possesso illegale di un'altra persona, **Augment** ha il diritto di limitare l'uso del **monopattino elettrico Circular**. Limitare l'uso del **monopattino elettrico** può comportare la riduzione della sua velocità o limitare l'area in cui viene utilizzato.
+Se il **cliente** ha spese di servizio non pagate in sospeso, o se il **monopattino elettrico** è stato rubato, perso, sottratto o è in possesso illegale di un'altra persona, **Augment** ha il diritto di limitare l'uso del **monopattino elettrico**. Limitare l'uso del **monopattino elettrico** può comportare la riduzione della sua velocità o limitare l'area in cui viene utilizzato.
 
 **Augment** ha il diritto di sospendere totalmente o sospendere parzialmente il **servizio** se:
 
@@ -156,8 +154,6 @@ Il **servizio** e le sue caratteristiche o termini e condizioni applicabili poss
 **Augment** informerà il **cliente** in merito a modifiche sostanziali del contenuto del **servizio** almeno un mese prima della modifica all'indirizzo e-mail fornito dal cliente. I nuovi termini e condizioni saranno applicabili al **servizio** a partire dalla data della loro entrata in vigore.
 
 Se la modifica si basa su una modifica della legge o su una decisione di un'autorità, **Augment** ha il diritto di attuare la modifica a partire dalla data di entrata in vigore della legge o della decisione di un'autorità.
-
-<div class="page"/>
 
 ### Diritti di proprietà intellettuale
 
@@ -187,8 +183,6 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 La lingua principale di questo **accordo** è l'italiano. In caso di discrepanza tra le diverse versioni linguistiche, prevale la versione italiana.
 
-<div class="page"/>
-
 ### Legge applicabile e controversie
 
 Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il **contratto** è regolato e interpretato secondo la **legge italiana** se il domicilio o la residenza abituale del **cliente** è in Italia.
@@ -211,7 +205,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 20.9.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 26.09.2024 fino a nuovo avviso.
 
 <div class="page"/>
 
@@ -220,24 +214,24 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Servizi aggiuntivi** - Servizi forniti separatamente al presente accordo e che richiedono la validità del presente accordo
 - **Contratto** - questo contratto
 - **Augment** - Augment Mobility Ab, indirizzo registrato Upankatu 1, 60100 Seinäjoki e aziende appartenenti allo stesso gruppo di Augment Mobility Ab
-- **Legge sulla protezione dei consumatori** - Legge finlandese sulla protezione dei consumatori (38/1978), modificata di volta in volta
+- **Legge sulla protezione dei consumatori** - Legge italiana sulla protezione dei consumatori (38/1978), modificata di volta in volta
 - **Cliente** - un cliente che stipula un Contratto di Servizio con Augment. Come parte del presente Contratto, sei responsabile per l'e-scooter incluso, le spese di servizio e l'utilizzo.
 - **Servizio clienti** – Il servizio clienti Augment
 - **Danni** - Un guasto imprevisto del monopattino elettrico causato dall'utente o circostanze al di fuori del normale utilizzo, ad es. un ribaltamento o collisione
 - **Difetto** - Un problema imprevisto con il monopattino elettrico durante l'uso normale che impedisce o limita l'uso del monopattino elettrico.
 - **Monopattino elettrico** - monopattino elettrico di Augment incluso nel servizio
 - **Periodo minimo di contratto** - Il periodo di tempo per il quale il contratto è in vigore per un periodo determinato, dopo il quale il contratto continua a tempo indeterminato, a meno che non sia risolto dal cliente in conformità con i termini del contratto prima della fine del termine fisso
-- **Legge sul traffico stradale** - Legge finlandese sul traffico stradale (729/2018), modificata di volta in volta
+- **Legge sul traffico stradale** - Legge italiana sul traffico stradale (729/2018), modificata di volta in volta
 - **Pegno** - Danske Bank [A/S, filiale finlandese], business ID: [aggiungere entità corretta]
 - **Monopattino elettrico di sostituzione** - Lo scooter elettrico di sostituzione che è equivalente a quello che il cliente ha usato. I monopattini elettrici sostitutivi sono stati riparati e verificati da Augment. I monopattini elettrici possono mostrare segni di usura. Questi includono graffi e trucioli di vernice.
 - **Servizio** - Servizio di monopattino elettrico Augment fornito in conformità con il presente accordo
-- **Spesa di servizio** - Spese di utilizzo relative al presente accordo, addebitate a intervalli di 1 mese, 3 mesi o 24 mesi
+- **Spesa di servizio** - Spese di utilizzo relative al presente accordo, addebitate a intervalli di 1 mese
 - **Termini di servizio** - Termini di questo contratto
 - **Parti soggette a usura** - Parti che normalmente si usurano quando si utilizza il monopattino elettrico, come pneumatici, freni, motore e batteria
 
 <div class="page"/>
 
-## Diritto di recesso dalla vendita a distanza Modulo
+## Modulo diritto di recesso dalla vendita a distanza
 
 Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto
 
