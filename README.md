@@ -7,7 +7,7 @@ This repository contains draft versions of the terms and conditions for the [aug
 ## How to Edit
 
 1. Choose the file you want to edit (e.g. [escoot/fi-fi/augment-sopimusehdot-fi-fi.md](./escoot/fi-fi/augment-sopimusehdot-fi-fi.md)).
-2. Use a markdown editor of your choice, such as [StackEdit](https://stackedit.io/), to make changes.
+2. Use a markdown editor of your choice, such as [Dillinger](https://dillinger.io) or [StackEdit](https://stackedit.io), to make changes.
 3. Submit your updated file to the repository.
 
 ## Generating PDF Documents
