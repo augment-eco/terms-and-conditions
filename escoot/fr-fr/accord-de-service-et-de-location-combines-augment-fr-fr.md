@@ -92,19 +92,13 @@ Le **client** a le droit de résilier le contrat à l'expiration de la **durée 
 
 Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
 
-### Rachat de la trottinette électrique
+### Option d'achat de la trottinette
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+En souscrivant à l'option d'achat pour un supplément de **3 € par mois**, le client aura la possibilité d'acquérir la trottinette pour **149 €** à la fin de la période minimale du contrat. Après le paiement de cette somme, le contrat se terminera automatiquement.
 
-### Résiliation du contrat avant la fin de la durée minimale du contrat
+### Retour de la trottinette à la fin du contrat
 
-Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
-
-### Restitution de la trottinette électrique après la résiliation du contrat
-
-Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
-
-Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+Si le **client** n'a pas souscrit à l'option d'achat et ne souhaite pas acheter la trottinette à la fin du contrat,  la trottinette **doit être retournée à Augment** conformément aux instructions fournies par le service client.
 
 ### Droit de rétractation de la vente à distance
 
@@ -226,10 +220,9 @@ Le Client peut consulter à tout moment ces dispositions sur le site http://www.
 
 A défaut, tout litige né de la formation, de l'interprétation ou de l'exécution du présent Contrat sera de la compétence exclusive des tribunaux français compétents.
 
-### Validité des termes de l'accord
+### Validité des conditions de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
-
+Ces conditions générales d'Augment sont en vigueur en France à partir du 04.10.2024 jusqu'à nouvel ordre.
 <div class="page"/>
 
 ### Définitions (les mots sont écrits en gras dans la langue de l'accord lorsqu'ils font référence à une définition)
