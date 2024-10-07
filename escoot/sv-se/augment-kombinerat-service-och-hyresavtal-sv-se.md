@@ -92,21 +92,14 @@ Den gamla **elsparkcykeln** måste returneras till **Augment** enligt instruktio
 
 Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** med 30 dagars uppsägningstid.
 
-### Utköp av elsparkcykel
+### Möjlighet att köpa elscootern
 
-**Kunden** kan köpa ut **elsparkcykeln** genom att betala utköpspriset på 490 SEK när **avtalets** **minimiperiod** har löpt ut. Önskar man köpa ut **elsparkcykeln** innan den avtalade **minimiperioden** så kan kunden göra så genom att betala de återstående månaderna för **minimiperioden** plus utköpspriset på 490 SEK. När betalning har mottagits av **Augment** kommer **avtalet** att upphöra automatiskt.
-
+Om kunden har lagt till vår tilläggstjänst för att köpa ut elscootern för en extra kostnad av **35 kr/månad** så kan elscootern köpas ut efter bindningstiden för **1590 kr**. När utköpssumman betalats så kommer kontraktet upphöra automatiskt.
 <div class="page"/>
 
-### Uppsägning av avtalet före avtalad minimiperiod
+### Retur av elscooter vid uppsägning av kontrakt
 
-**Kunden** har rätt att säga upp **avtalet** tidigast 11 månader efter **avtalets** början genom att kontakta **kundtjänst** och betala en summa på 1950 SEK. När betalningen har mottagits av **Augment** kommer äganderätten av elsparkcykeln att överföras till **kunden** och **avtalet** upphör automatiskt.
-
-### Retur av elsparkcykel efter uppsägning av avtal
-
-Om **kunden** väljer att inte köpa ut **elsparkcykeln** vid utlöp av **avtalsperioden** så skall **elsparkcykeln** returneras till **Augment** enligt instruktioner från **kundtjänst**.
-
-**Kunden** är skyldig att ersätta förstörd, förlorad eller på annat sätt ej återlämnad **elsparkcykel** till dess nya inköpspris.
+Om kunden inte lagt till vår tilläggstjänst för möjligheten att köpa ut elscootern eller inte längre vill köpa ut elscootern i slutet av kontraktet, så skall den returneras till Augment enligt instruktioner från kundtjänst.
 
 ### Ångerrätt vid distansförsäljning
 
@@ -216,10 +209,9 @@ Tvisten kan även prövas av Allmänna reklamationsnämnden (P O Box 174, 101 23
 
 Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden för fakturering av tjänster.
 
-### Giltigheten av avtalets villkor
+### Giltighet av avtalets villkor
 
-Dessa allmänna villkor för **Augment** gäller i Sverige från 13.3.2023 tills vidare.
-
+Dessa villkor för Augment gäller i Sverige från 04.10.2024 och tills vidare.
 <div class="page"/>
 
 ### Definitioner (orden är skrivna i fetstil i överensstämmelsespråk när de hänvisar till en definition)
@@ -249,26 +241,26 @@ Dessa allmänna villkor för **Augment** gäller i Sverige från 13.3.2023 tills
 
 Fyll i formuläret och bifoga det i returpaketet så att din uppsägning och retur kan behandlas. Vänligen var noga med att fylla i avtalsdelarna.
 
-Namn:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Namn: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-E-postadress som användes vid beställningen:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-postadress som användes vid beställningen: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Adress:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adress: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Mobil:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Mobil: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Datum för uppsägning:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Datum för uppsägning: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Jag köpte produkten som ska returneras:  Online  Jag beställde via telefon  Jag fick ett samtal
 
 Anledning för returen:
 
- Produkten/tjänsten motsvarade inte mina förväntningar eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Produkten/tjänsten motsvarade inte mina förväntningar eftersom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Jag har ingen användning för produkten/tjänsten eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Jag har ingen användning för produkten/tjänsten eftersom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Produkten/tjänsten kunde inte användas på grund av att<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Produkten/tjänsten kunde inte användas på grund av att \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Annan orsak:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Annan orsak: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
