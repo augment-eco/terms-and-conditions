@@ -60,7 +60,6 @@ jobs:
           body: |
             <!-- Contract Preview -->
             ### Preview for contract changes
-            ${{ steps.build.outputs.build-log }}
             _Generated for commit `${{ github.sha }}`_
           edit-mode: replace
 
