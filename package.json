@@ -2,7 +2,8 @@
   "name": "@augment-eco/terms-and-conditions",
   "version": "1.0.0",
   "description": "This repository contains draft versions of the terms and conditions for the [augment.eco](https://augment.eco) service, operated by Augment Mobility Ab.",
-  "main": "index.js",
+  "type": "module",
+  "main": "generate.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/augment-eco/terms-and-conditions.git"
@@ -14,9 +15,10 @@
   },
   "homepage": "https://github.com/augment-eco/terms-and-conditions#readme",
   "scripts": {
-    "generate": "node index.js"
+    "generate": "node generate.js"
   },
   "dependencies": {
-    "mdpdf": "^3.0.4"
+    "mdpdf": "^3.0.4",
+    "pdf-watermark": "^1.0.4"
   }
 }
