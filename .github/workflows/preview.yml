@@ -44,5 +44,24 @@ jobs:
             npm run generate "$file" "$new_filename" true
           done
 
+      - uses: peter-evans/find-comment@v3
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: '<!-- Contract Preview -->'
+
+      - uses: peter-evans/create-or-update-comment@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            <!-- Contract Preview -->
+            ### Preview for contract changes
+            _Generated for commit ${GITHUB_SHA}_
+          edit-mode: replace
+
 
       
