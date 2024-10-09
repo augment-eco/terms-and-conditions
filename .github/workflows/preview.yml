@@ -44,6 +44,12 @@ jobs:
             npm run generate "$file" "$new_filename" true
           done
 
+      - uses: actions/upload-artifact@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        with:
+          name: pdf-previews
+          path: ./output/*.pdf
+
       - uses: peter-evans/find-comment@v3
         if: steps.changed-contract-files.outputs.any_changed == 'true'
         id: fc
@@ -59,6 +65,7 @@ jobs:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
             <!-- Contract Preview -->
-            ### Preview for contract changes
+            ### Preview PDFs
+            You can download the generated PDFs from the artifacts: [pdf-previews](https://github.com/${{ github.repository }}/actions/artifacts).
             _Generated for commit ${{ github.event.pull_request.head.sha }}_
           edit-mode: replace
