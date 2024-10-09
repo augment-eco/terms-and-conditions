@@ -1,0 +1,73 @@
+name: Preview PR changes
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  preview:
+    timeout-minutes: 5
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get all changed markdown files
+        id: changed-contract-files
+        uses: tj-actions/changed-files@v45
+        with:
+          # Avoid using single or double quotes for multiline patterns
+          files: "**.md"
+          files_ignore: |
+            README.md
+
+      # Run the following steps only if any contract files have changed
+
+      - uses: actions/setup-node@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+
+      - run: npm ci
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+
+      - name: Generate preview files
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        env:
+          CHANGED_FILES: ${{ steps.changed-contract-files.outputs.all_changed_files }}
+        run: |
+          current_date=$(date +"%d%m%Y")
+          for file in ${CHANGED_FILES}; do
+            filename=$(basename "$file")
+            base_filename="${filename%.md}"  # Remove .md extension
+            new_filename="${current_date}-${base_filename}-preview.pdf"  # Add .pdf extension
+            npm run generate "$file" "$new_filename" true
+          done
+
+      - uses: actions/upload-artifact@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        id: pdf-previews
+        with:
+          name: pdf-previews
+          path: ./output/*.pdf
+
+      - uses: peter-evans/find-comment@v3
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: "github-actions[bot]"
+          body-includes: "<!-- Contract Preview -->"
+
+      - uses: peter-evans/create-or-update-comment@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            <!-- Contract Preview -->
+            ### Preview PDFs
+            You can download the generated PDFs from the artifacts: [pdf-previews](${{ steps.pdf-previews.outputs.artifact-url }}).
+
+            _Generated for commit ${{ github.event.pull_request.head.sha }}_
+          edit-mode: replace

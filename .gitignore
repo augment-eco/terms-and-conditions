@@ -1,8 +1,3 @@
-.DS_Store
-*.pdf
-*.odt
-*.docx
-*.docx#
-*.zip
-*-old.md
-*_tmp.html
+node_modules
+output/**/*
+!output/.gitkeep
