@@ -37,7 +37,8 @@ jobs:
           CHANGED_FILES: ${{ steps.changed-contract-files.outputs.all_changed_files }}
         run: |
           for file in ${CHANGED_FILES}; do
-            npm run generate $file $file true
+            filename=$(basename "$file")
+            npm run generate "$file" "$filename" true
           done
 
       
