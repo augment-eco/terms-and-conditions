@@ -16,17 +16,17 @@ jobs:
         uses: tj-actions/changed-files@v45
         with:
           # Avoid using single or double quotes for multiline patterns
-          files: '**.md'
+          files: "**.md"
           files_ignore: |
             README.md
-      
+
       # Run the following steps only if any contract files have changed
 
       - uses: actions/setup-node@v4
         if: steps.changed-contract-files.outputs.any_changed == 'true'
         with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
+          node-version-file: ".nvmrc"
+          cache: "npm"
 
       - run: npm ci
         if: steps.changed-contract-files.outputs.any_changed == 'true'
@@ -49,8 +49,8 @@ jobs:
         id: fc
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          comment-author: 'github-actions[bot]'
-          body-includes: '<!-- Contract Preview -->'
+          comment-author: "github-actions[bot]"
+          body-includes: "<!-- Contract Preview -->"
 
       - uses: peter-evans/create-or-update-comment@v4
         if: steps.changed-contract-files.outputs.any_changed == 'true'
@@ -60,8 +60,5 @@ jobs:
           body: |
             <!-- Contract Preview -->
             ### Preview for contract changes
-            _Generated for commit `${{ github.sha }}`_
+            _Generated for commit `${{ github.event.pull_request.head.sha }}`_
           edit-mode: replace
-
-
-      
