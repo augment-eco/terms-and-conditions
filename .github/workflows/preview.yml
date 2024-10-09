@@ -36,9 +36,13 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-contract-files.outputs.all_changed_files }}
         run: |
+          current_date=$(date +"%d%m%Y")
           for file in ${CHANGED_FILES}; do
             filename=$(basename "$file")
-            npm run generate "$file" "$filename" true
+            base_filename="${filename%.md}"  # Remove .md extension
+            new_filename="${current_date}-${base_filename}.pdf"  # Add .pdf extension
+            npm run generate "$file" "$new_filename" true
           done
+
 
       
