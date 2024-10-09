@@ -99,7 +99,7 @@ Mikäli **sopimuksen** päättymisen jälkeen **asiakas** ei halua lunastaa **sk
 
 **Asiakkaalla** on oikeus päättää **sopimus** aikaisintaan 11 kuukauden kuluttua sen alkamisesta toimittamalla asiasta tieto **Augmentin asiakaspalvelulle** ja maksamalla 195 €. Maksun suorittamisen jälkeen **skuutti** siirtyy **asiakkaan** omaksi ja **sopimus** lakkaa olemasta voimassa.
 
-<div class="page"/>
+<div style="page-break-before:always;"></div>
 
 ### Etämyynnin peruutusoikeus
 
@@ -166,7 +166,7 @@ Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmi
 
 Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
 
-<div class="page"/>
+<div style="page-break-before:always;"></div>
 
 ### Ylivoimainen este
 
@@ -198,7 +198,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen toistaiseksi.
 
-<div class="page"/>
+<div style="page-break-before:always;"></div>
 
 ### Määritelmät
 
@@ -218,7 +218,7 @@ Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen to
 - Vika – Skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Skuutin käyttämistä tai rajoittaa sitä.
 - Vahinko – Käyttäjästä tai olosuhteista aiheutuva Skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
 
-<div class="page"/>
+<div style="page-break-before:always;"></div>
 
 ### Etämyynnin peruutuslomake
 
