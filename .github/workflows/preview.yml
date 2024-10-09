@@ -46,6 +46,7 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         if: steps.changed-contract-files.outputs.any_changed == 'true'
+        id: pdf-previews
         with:
           name: pdf-previews
           path: ./output/*.pdf
@@ -66,6 +67,7 @@ jobs:
           body: |
             <!-- Contract Preview -->
             ### Preview PDFs
-            You can download the generated PDFs from the artifacts: [pdf-previews](https://github.com/${{ github.repository }}/actions/artifacts).
+            You can download the generated PDFs from the artifacts: [pdf-previews](${{ steps.pdf-previews.outputs.artifact-url }}).
+
             _Generated for commit ${{ github.event.pull_request.head.sha }}_
           edit-mode: replace
