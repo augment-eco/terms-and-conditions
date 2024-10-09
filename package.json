@@ -1,0 +1,22 @@
+{
+  "name": "@augment-eco/terms-and-conditions",
+  "version": "1.0.0",
+  "description": "This repository contains draft versions of the terms and conditions for the [augment.eco](https://augment.eco) service, operated by Augment Mobility Ab.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augment-eco/terms-and-conditions.git"
+  },
+  "author": "Jouni Kananen, Jaakko Mustalahti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augment-eco/terms-and-conditions/issues"
+  },
+  "homepage": "https://github.com/augment-eco/terms-and-conditions#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mdpdf": "^3.0.4"
+  }
+}
