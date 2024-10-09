@@ -60,5 +60,5 @@ jobs:
           body: |
             <!-- Contract Preview -->
             ### Preview for contract changes
-            _Generated for commit `${{ github.event.pull_request.head.sha }}`_
+            _Generated for commit ${{ github.event.pull_request.head.sha }}_
           edit-mode: replace
