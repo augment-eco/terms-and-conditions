@@ -1,4 +1,4 @@
-﻿# AUGMENT CIRCULAR -PALVELUSOPIMUS
+# AUGMENT CIRCULAR -PALVELUSOPIMUS
 
 ## Sopimuksen osapuolet ja tarkoitus
 
@@ -95,7 +95,7 @@ Circular-skuutin pakkauksen saa avata tutustuakseen rauhassa sen sisältöön. S
 
 Mikäli Circular-skuutti on otettu käyttöön peruutusaikana ja Sopimus perutaan, Augmentilla on oikeus veloittaa Circular-skuutin arvon alentumisesta. Jos palautettu Circular-skuutti on myyntikelvoton, Augmentilla on oikeus veloittaa Asiakkaalta koko Circular-skuutin arvoa vastaava summa.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot
 
@@ -162,7 +162,7 @@ Ylivoimaisella esteellä tarkoitetaan seikkaa, jota osapuoli ei kohtuudella ole 
 
 Jos sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi, velvoitteen täyttämisaikaa jatketaan sen verran kuin olosuhteet huomioon ottaen on pidettävä kohtuullisena.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Henkilötietojen käsittely, evästeet
 
@@ -186,7 +186,7 @@ Asiakkaalla on oikeus saattaa sopimusta koskeva erimielisyys käsiteltäväksi K
 
 Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 12.8.2024 alkaen toistaiseksi.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Määritelmät
 
@@ -206,32 +206,52 @@ Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 12.8.2024 a
 - Vika – Circular-skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Circular-skuutin käyttämistä tai rajoittaa sitä.
 - Vahinko – Käyttäjästä tai olosuhteista aiheutuva Circular-skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Etämyynnin peruutuslomake
 
 Täytä lomake ja pakkaa mukaan palautuspakettiin, jotta peruutuksesi ja palautuksesi voidaan käsitellä. Täytä sopimusta koskevat kohdat erityisen huolellisesti.
 
-Nimi:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nimi:
 
-Tilauksen yhteydessä käytetty sähköpostiosoite:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Katuosoite:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Tilauksen yhteydessä käytetty sähköpostiosoite:
 
-Puhelinnumero:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Peruutuksen päivämäärä:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Katuosoite:
 
-Ostin palautettavan tuotteen:  Netistä  Tilasin puhelimitse  Minulle soitettiin
+<div class="underline"></div>
+
+Puhelinnumero:
+
+<div class="underline"></div>
+
+Peruutuksen päivämäärä:
+
+<div class="underline"></div>
+
+Ostin palautettavan tuotteen: ☐ Netistä ☐ Tilasin puhelimitse ☐ Minulle soitettiin
 
 Palautuksen syy:
 
- Tuote/palvelu ei vastannut odotuksiani, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Tuote/palvelu ei vastannut odotuksiani, koska
 
- Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Minulla ei ole käyttöä tuotteelle/palvelulle, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
 
- Tuotteen/palvelun käyttöönotto ei onnistunut, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Muu syy:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Minulla ei ole käyttöä tuotteelle/palvelulle, koska
+
+<div class="underline"></div>
+
+☐ Tuotteen/palvelun käyttöönotto ei onnistunut, koska
+
+<div class="underline"></div>
+
+☐ Muu syy:
+
+<div class="underline"></div>

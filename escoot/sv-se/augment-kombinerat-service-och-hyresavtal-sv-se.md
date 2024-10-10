@@ -64,7 +64,7 @@ Efter att man mottagit en **utbyteselsparkcykel**, skall den trasiga **elsparkcy
 
 Om den trasiga **elsparkcykeln** ej returneras så förbehåller sig **Augment** rätten att ta ut en förseningsavgift på 125 SEK per vecka tills retur är genomförd.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Elsparkcykelns batteri och laddning
 
@@ -96,7 +96,7 @@ Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** 
 
 **Kunden** kan köpa ut **elsparkcykeln** genom att betala utköpspriset på 490 SEK när **avtalets** **minimiperiod** har löpt ut. Önskar man köpa ut **elsparkcykeln** innan den avtalade **minimiperioden** så kan kunden göra så genom att betala de återstående månaderna för **minimiperioden** plus utköpspriset på 490 SEK. När betalning har mottagits av **Augment** kommer **avtalet** att upphöra automatiskt.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Uppsägning av avtalet före avtalad minimiperiod
 
@@ -128,7 +128,7 @@ Om **kunden** inte betalar serviceavgiften på förfallodagen kommer **kunden** 
 
 Betalningar enligt **avtalet** är pantsatta till förmån för Danske Bank A/S, finsk filial som **panthavare**. Ingen annan än **panthavaren** får göra ändringar i betalningsanvisningarna.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Upprätthålla betalningsinformation
 
@@ -220,7 +220,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 Dessa allmänna villkor för **Augment** gäller i Sverige från 13.3.2023 tills vidare.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definitioner (orden är skrivna i fetstil i överensstämmelsespråk när de hänvisar till en definition)
 
@@ -243,32 +243,52 @@ Dessa allmänna villkor för **Augment** gäller i Sverige från 13.3.2023 tills
 - **Användarvillkor** - Villkor för detta avtal
 - **Slitage på delar** - Delar som normalt slits ut när elsparkcykeln används, såsom däck, bromsar, motor och batteri
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Uppsägningsformuläret för distansförsäljning
 
 Fyll i formuläret och bifoga det i returpaketet så att din uppsägning och retur kan behandlas. Vänligen var noga med att fylla i avtalsdelarna.
 
-Namn:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Namn:
 
-E-postadress som användes vid beställningen:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adress:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-postadress som användes vid beställningen:
 
-Mobil:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Datum för uppsägning:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adress:
 
-Jag köpte produkten som ska returneras:  Online  Jag beställde via telefon  Jag fick ett samtal
+<div class="underline"></div>
+
+Mobil:
+
+<div class="underline"></div>
+
+Datum för uppsägning:
+
+<div class="underline"></div>
+
+Jag köpte produkten som ska returneras: ☐ Online ☐ Jag beställde via telefon ☐ Jag fick ett samtal
 
 Anledning för returen:
 
- Produkten/tjänsten motsvarade inte mina förväntningar eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produkten/tjänsten motsvarade inte mina förväntningar eftersom
 
- Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Jag har ingen användning för produkten/tjänsten eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom
 
- Produkten/tjänsten kunde inte användas på grund av att<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Annan orsak:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Jag har ingen användning för produkten/tjänsten eftersom
+
+<div class="underline"></div>
+
+☐ Produkten/tjänsten kunde inte användas på grund av att
+
+<div class="underline"></div>
+
+☐ Annan orsak:
+
+<div class="underline"></div>

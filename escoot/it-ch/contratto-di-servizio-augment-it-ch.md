@@ -1,4 +1,4 @@
-﻿# CONTRATTO DI SERVIZIO AUGMENT
+# CONTRATTO DI SERVIZIO AUGMENT
 
 ## Terzi e scopo del contratto
 
@@ -60,7 +60,7 @@ Il **servizio** non comprende:
 
 **Augment** non è responsabile nei confronti del **cliente** o di terzi per eventuali **danni** a persone, beni o beni mobili o immobili causati dal **monopattino elettrico** o dal suo uso. E' responsabilità del **cliente** di garantire che lei/lui ha una polizza assicurativa valida che copre tali **danni**, incidenti, e responsabilità di terzi.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Riconsegna del monopattino elettrico difettoso
 
@@ -211,7 +211,7 @@ Rue de Genève 17
 
 I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 29.8.2023 fino a nuovo avviso.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definizioni (le parole sono scritte in grassetto in linguaggio di accordo quando si riferiscono ad una definizione)
 

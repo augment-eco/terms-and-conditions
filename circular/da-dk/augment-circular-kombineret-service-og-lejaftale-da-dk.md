@@ -1,4 +1,4 @@
-﻿# AUGMENT CIRCULAR KOMBINERET SERVICE OG LEJEAFTALE
+# AUGMENT CIRCULAR KOMBINERET SERVICE OG LEJEAFTALE
 
 Vilkår og betingelser i denne aftale gælder for den el-løbehjul-service, som Augment leverer til privatpersoner, kunden, Augment og kunden i fællesskab, parterne. Kunden skal være en [fuldt autoriseret] fysisk person over 18 år og ikke en retsafdeling. Tjenesten og el-løbehjulet er til brug for én husstand. Tjenesten eller el-løbehjulet må ikke bruges til noget kommercielt formål eller til generering af nogen indkomst.
 
@@ -202,7 +202,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 12.8.2024 indtil videre.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Definitioner (ordene er skrevet med fed skrift i aftalesprog, når der henvises til en definition)
 
@@ -222,32 +222,52 @@ Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 12
 - Servicevilkår - Vilkår for denne aftale
 - Sliddele - Dele som normalt slides, når el-løbehjulet bruges, såsom dæk, bremser, motor og batteri
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Fortrydelsesformular for fjernsalg
 
 Udfyld venligst formularen og vedlæg den i returpakken, så din fortrydelse og returnering kan behandles, og vær særlig opmærksom på at udfylde aftalesektionerne
 
-Navn:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Navn:
 
-E-mailadresse brugt til ordren:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adresse:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-mailadresse brugt til ordren:
 
-Mobil:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Dato for annullering:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse:
 
-Jeg købte produktet, der skal returneres:  Online  Jeg bestilte via telefon  Jeg blev ringet op
+<div class="underline"></div>
+
+Mobil:
+
+<div class="underline"></div>
+
+Dato for annullering:
+
+<div class="underline"></div>
+
+Jeg købte produktet, der skal returneres: ☐ Online ☐ Jeg bestilte via telefon ☐ Jeg blev ringet op
 
 Årsag til returnering:
 
- Produktet/tjenesten levede ikke op til mine forventninger, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produktet/tjenesten levede ikke op til mine forventninger, fordi
 
- Produktet/ydelsen levede ikke op til mine forventninger som aftalt med sælger, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Jeg har ikke brug for produktet/tjenesten, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produktet/ydelsen levede ikke op til mine forventninger som aftalt med sælger, fordi
 
- Produktet/tjenesten kunne ikke implementeres, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Anden grund:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Jeg har ikke brug for produktet/tjenesten, fordi
+
+<div class="underline"></div>
+
+☐ Produktet/tjenesten kunne ikke implementeres, fordi
+
+<div class="underline"></div>
+
+☐ Anden grund:
+
+<div class="underline"></div>

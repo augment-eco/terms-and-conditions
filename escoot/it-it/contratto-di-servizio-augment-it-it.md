@@ -1,4 +1,4 @@
-﻿# CONTRATTO DI SERVIZIO AUGMENT
+# CONTRATTO DI SERVIZIO AUGMENT
 
 ## Terzi e scopo del contratto
 
@@ -26,7 +26,7 @@ All'entrata in vigore del **contratto**, **Augment** fornirà al cliente un nuov
 
 Gli accessori normali quali un supporto del cellulare possono essere installati sul **monopattino elettrico** a condizione che tali accessori possano essere rimossi senza lasciare alcuni segni sul **monopattino elettrico**. Il **cliente** è responsabile dell'installazione, rimozione e smaltimento di eventuali accessori e marchi lasciati dagli accessori.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Termini del contratto ed Uso del monopattini elettrico
 
@@ -88,7 +88,7 @@ Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino el
 
 Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di EUR12,50 a settimana di ritardo.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Risoluzione del contratto
 
@@ -221,7 +221,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 26.09.2024 fino a nuovo avviso.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definizioni (le parole sono scritte in grassetto in linguaggio di accordo quando si riferiscono ad una definizione)
 
@@ -243,32 +243,52 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Termini di servizio** - Termini di questo contratto
 - **Parti soggette a usura** - Parti che normalmente si usurano quando si utilizza il monopattino elettrico, come pneumatici, freni, motore e batteria
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Modulo diritto di recesso dalla vendita a distanza
 
 Si prega di compilare il modulo e allegarlo al pacchetto di ritorno in modo che la cancellazione e il ritorno possano essere elaborati, prestando particolare attenzione a completare le sezioni del contratto
 
-Nome:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nome:
 
-E-mail usata per l’ordine:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Indirizzo:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-mail usata per l’ordine:
 
-Cellulare:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Data di cancellazione:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Indirizzo:
 
-Ho acquistato il prodotto da restituire:  Online ho ordinato  Per telefono  Ho ricevuto una chiamata
+<div class="underline"></div>
+
+Cellulare:
+
+<div class="underline"></div>
+
+Data di cancellazione:
+
+<div class="underline"></div>
+
+Ho acquistato il prodotto da restituire: ☐ Online ho ordinato ☐ Per telefono ☐ Ho ricevuto una chiamata
 
 Motivo della restituzione:
 
- Il prodotto/ servizio non ha soddisfatto le mie aspettative perché<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Il prodotto/ servizio non ha soddisfatto le mie aspettative perché
 
- Il prodotto/ servizio non ha soddisfatto le mie aspettative come concordato con il venditore perché<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Non ho alcun uso per il prodotto/ servizio perché<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Il prodotto/ servizio non ha soddisfatto le mie aspettative come concordato con il venditore perché
 
- Il prodotto/ servizio non può essere distribuito correttamente perché<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Altri motivi:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Non ho alcun uso per il prodotto/ servizio perché
+
+<div class="underline"></div>
+
+☐ Il prodotto/ servizio non può essere distribuito correttamente perché
+
+<div class="underline"></div>
+
+☐ Altri motivi:
+
+<div class="underline"></div>

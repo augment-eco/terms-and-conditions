@@ -34,7 +34,7 @@ Vid transport av elscooter, ska den alltid vara låst via Augment appen samt:
 - Eller vara säkert fastlåst i fordonet;
 - Eller förvarad i en stängd släpkärra med låsanordning från utsidan.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Vid stöld
 

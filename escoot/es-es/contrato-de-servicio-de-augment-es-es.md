@@ -211,7 +211,7 @@ La presentación del intento de conciliación obligatoria suspende el plazo para
 
 Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hasta nuevo aviso. Las condiciones están disponibles de forma gratuita en Augment.eco.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definiciones (las palabras están escritas en negrita en el lenguaje de contrato cuando se hace referencia a una definición)
 
@@ -234,32 +234,52 @@ Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hast
 - **Términos del servicio** – Términos de este contrato.
 - **Piezas de desgaste** - Piezas que normalmente se desgastan cuando se utiliza el patinete eléctrico, como neumáticos, frenos, motor y batería.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Formulario de Cancelación de Venta a Distancia
 
 Complete el formulario y adjúntelo en el paquete de devolución para que se pueda procesar su cancelación y devolución, teniendo especial cuidado en completar las secciones del acuerdo.
 
-Nombre:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nombre:
 
-Dirección de correo electrónico utilizada para el pedido:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Dirección:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Dirección de correo electrónico utilizada para el pedido:
 
-Teléfono:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Fecha de cancelación:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Dirección:
 
-Compré el producto a devolver:  En línea  Pedí por teléfono  Recibí una llamada
+<div class="underline"></div>
+
+Teléfono:
+
+<div class="underline"></div>
+
+Fecha de cancelación:
+
+<div class="underline"></div>
+
+Compré el producto a devolver: ☐ En línea ☐ Pedí por teléfono ☐ Recibí una llamada
 
 Razón de devolución:
 
-El producto/servicio no cumplió con mis expectativas porque<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+El producto/servicio no cumplió con mis expectativas porque
 
-El producto/servicio no cumplió con mis expectativas según lo acordado con el vendedor porque<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-No tengo uso para el producto/servicio porque<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+El producto/servicio no cumplió con mis expectativas según lo acordado con el vendedor porque
 
-El producto/servicio no se pudo implementar exitosamente porque<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Otra razón:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+No tengo uso para el producto/servicio porque
+
+<div class="underline"></div>
+
+El producto/servicio no se pudo implementar exitosamente porque
+
+<div class="underline"></div>
+
+Otra razón:
+
+<div class="underline"></div>

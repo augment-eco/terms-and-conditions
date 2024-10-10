@@ -29,7 +29,7 @@ Il est recommandé d'acheter et d'utiliser un câble antivol pour trottinette Au
 
 Lorsqu'elle n'est pas à la maison, la trottinette électrique doit être verrouillée avec l'application Augment Scooters et en utilisant un verrou physique et un objet immobile à travers le cadre, lorsque laissé sans surveillance, hors de votre champ de vision direct ou à plus de cinq (5) mètres loin de vous. Au lieu de laisser la batterie montée sur la trottinette électrique, transportez-la avec vous ou stockez en toute sécurité séparément.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Transport de votre trottinette électrique avec votre véhicule
 
@@ -67,7 +67,7 @@ La « Couverture contre le vol Augment » est facturée mensuellement à l'avanc
 
 Si vous ne payez pas vos factures en souffrance alors que vous avez reçu un rappel de paiement, Augment a le droit de résilier votre service de couverture contre le vol et de percevoir de votre part une indemnisation raisonnable pour les dommages ou les frais occasionnés par la résiliation anticipée de cet accord de durée minimale de contrat.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Force majeure
 

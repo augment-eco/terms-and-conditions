@@ -28,7 +28,7 @@ Auslieferung eines E-Scooters an den Kunden zu Vertragsbeginn
 
 Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung, am **E-Scooter** ist erlaubt, sofern es sich spurlos wieder entfernen lässt. Das Anbringen und Entfernen von Zubehör sowie die Reparatur von Spuren, die das Zubehör hinterlässt, gehen auf Kosten des **Kunden**.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Bedingungen in Bezug auf die Vertragslaufzeit und die Nutzung des E-Scooters
 
@@ -57,7 +57,7 @@ Der **Service** umfasst:
 - Alle **Defekte** einschließlich **Verschleißteile**
 - Unerwartete **Schäden** durch normalen Gebrauch, z.B. Beschädigung des **E-Scooters** aufgrund eines Zusammenstoßes oder Umkippens. In diesen Fällen ist die Anzahl der zu deckenden **Schäden** auf maximal zwei Fälle pro Jahr ab **Vertragsbeginn** begrenzt.
 
-<div class="page"/>
+<div class="page"></div>
 
 Der **Service** umfasst nicht:
 
@@ -178,7 +178,7 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Immaterielle Rechte
 
@@ -206,7 +206,7 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Vertragssprache
 
@@ -224,7 +224,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 5.4.2023 bis auf weiteres gültig.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definitionen (ein Wort ist im Text des Vertrags fett gedruckt, wenn es sich auf eine Definition bezieht)
 
@@ -247,32 +247,52 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 5
 - **Ersatzscooter** - Ein E-Scooter, der ein Ersatz für den vorhandenen E-Scooter des Kunden ist, der von Augment repariert und überprüft wurde. Ersatzscooter werden von Augment repariert und inspiziert. Ersatzscooter können Gebrauchsspuren aufweisen.
 - **Defekt** - Ein unerwartetes Problem mit dem E-Scooter während des normalen Gebrauchs, das die Nutzung des E-Scooters verhindert oder einschränkt.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Widerrufsformular für den Fernabsatz
 
 Bitte füllen Sie das Formular aus und legen Sie es dem Rücksendepaket bei, damit Ihr Widerruf und die Erstattung bearbeitet werden können. Bitte füllen Sie die Vertragsabschnitte besonders sorgfältig aus.
 
-Name:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name:
 
-Für die Bestellung verwendete E-Mail Adresse:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adresse:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Für die Bestellung verwendete E-Mail Adresse:
 
-Telefonnummer:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Datum der Kündigung:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse:
 
-Wie habe ich dieses zu reklamierende Produkt gekauft:  Online  per Telefon  Ich habe einen Anruf erhalten
+<div class="underline"></div>
+
+Telefonnummer:
+
+<div class="underline"></div>
+
+Datum der Kündigung:
+
+<div class="underline"></div>
+
+Wie habe ich dieses zu reklamierende Produkt gekauft: ☐ Online ☐ per Telefon ☐ Ich habe einen Anruf erhalten
 
 Grund für die Rückgabe:
 
- Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil
 
- Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Ich habe keine Verwendung für das Produkt/den Service, weil<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil
 
- Das Produkt/Der Service konnte nicht eingesetzt werden, weil<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Sonstiger Grund:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Ich habe keine Verwendung für das Produkt/den Service, weil
+
+<div class="underline"></div>
+
+☐ Das Produkt/Der Service konnte nicht eingesetzt werden, weil
+
+<div class="underline"></div>
+
+☐ Sonstiger Grund:
+
+<div class="underline"></div>

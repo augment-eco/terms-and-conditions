@@ -24,7 +24,7 @@ Le service comprend la location d'une **trottinette** personnelle. Au début de 
 
 Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Durée de l'accord et l'utilisation de la trottinette électrique
 
@@ -150,7 +150,7 @@ Si le **client** a des **frais de service** impayés, ou si la **trottinette** �
 
 **Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Rupture d'accord
 
@@ -216,7 +216,7 @@ Rue de Genève 17
 
 Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 6.7.2023 jusqu'à nouvel ordre.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Définitions (les mots sont écrits en gras dans la langue de l'accord lorsqu'ils font référence à une définition)
 

@@ -99,6 +99,8 @@ Mikäli **sopimuksen** päättymisen jälkeen **asiakas** ei halua lunastaa **sk
 
 **Asiakkaalla** on oikeus päättää **sopimus** aikaisintaan 11 kuukauden kuluttua sen alkamisesta toimittamalla asiasta tieto **Augmentin asiakaspalvelulle** ja maksamalla 195 €. Maksun suorittamisen jälkeen **skuutti** siirtyy **asiakkaan** omaksi ja **sopimus** lakkaa olemasta voimassa.
 
+<div class="page"></div>
+
 ### Etämyynnin peruutusoikeus
 
 **Asiakkaalla** on kuluttajansuojalain mukainen oikeus peruuttaa etämyynnissä tehty sopimus viimeistään 14 päivän kuluessa Sopimuksen tekemisestä. **Sopimuksen** peruuttamisesta tulee ilmoittaa Augmentille toimittamalla liitteenä oleva **peruutuslomake** täytettynä **asiakaspalvelulle**.
@@ -122,8 +124,6 @@ Mikäli **skuutti** on otettu käyttöön peruutusaikana ja **sopimus** perutaan
 Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee päivittää **Augmentin** itsepalvelusivuston kautta ennen seuraavan **palvelumaksun** erääntymistä.
 
 Käyttämämme maksuvälittäjät (tällä hetkellä Adyen / Stripe) tallentavat tarvittavat maksukortti- ja muut maksuvälinetiedot vahvasti salattuina omiin tietokantoihinsa.
-
-<div class="page"></div>
 
 ### Yhteystietojen ylläpitäminen
 
@@ -158,8 +158,6 @@ Augment ei sulje tai rajoita **palvelun** käyttöä maksujen laiminlyönnin vuo
 
 Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, **Augmentilla** on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
 
-<div class="page"></div>
-
 ### Aineettomat oikeudet
 
 Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekijänoikeudet, tuotemerkit ja patentit kuuluvat Augmentille tai kolmannelle taholle. Augment myöntää rajoitetun käyttöoikeuden sopimuksen voimassaoloajaksi Sopimuksen mukaiseen Palveluun sekä Sopimuksen perusteella toimitettujen ohjelmistojen konekielisiin versioihin ja asiakirjoihin.
@@ -167,6 +165,8 @@ Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekij
 Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmistoja, asiakirjoja ja muuta aineistoa on käytettävä Augmentin tai kolmannen tahon, kuten ohjelmiston omistajan, antamien ohjeiden mukaisesti ja vain sovittuun tarkoitukseen.
 
 Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
+
+<div class="page"></div>
 
 ### Ylivoimainen este
 
@@ -187,8 +187,6 @@ Augment ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuoras
 ### Sopimuskieli
 
 Tämän Sopimuksen ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
-
-<div class="page"></div>
 
 ### Erimielisyydet
 
@@ -246,7 +244,7 @@ Peruutuksen päivämäärä:
 
 <div class="underline"></div>
 
-Ostin palautettavan tuotteen:  Netistä  Tilasin puhelimitse  Minulle soitettiin
+Ostin palautettavan tuotteen: ☐ Netistä ☐ Tilasin puhelimitse ☐ Minulle soitettiin
 
 Palautuksen syy:
 
