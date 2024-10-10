@@ -28,7 +28,7 @@ Auslieferung eines E-Scooters an den Kunden zu Vertragsbeginn
 
 Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung, am **E-Scooter** ist erlaubt, sofern es sich spurlos wieder entfernen lässt. Das Anbringen und Entfernen von Zubehör sowie die Reparatur von Spuren, die das Zubehör hinterlässt, gehen auf Kosten des **Kunden**.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Bedingungen in Bezug auf die Vertragslaufzeit und die Nutzung des E-Scooters
 
@@ -57,7 +57,7 @@ Der **Service** umfasst:
 - Alle **Defekte** einschließlich **Verschleißteile**
 - Unerwartete **Schäden** durch normalen Gebrauch, z.B. Beschädigung des **E-Scooters** aufgrund eines Zusammenstoßes oder Umkippens. In diesen Fällen ist die Anzahl der zu deckenden **Schäden** auf maximal zwei Fälle pro Jahr ab **Vertragsbeginn** begrenzt.
 
-<div class="page"/>
+<div class="page"></div>
 
 Der **Service** umfasst nicht:
 
@@ -178,7 +178,7 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Höhere Gewalt
 
@@ -210,7 +210,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 27.6.2023 bis auf weiteres gültig.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definitionen (ein Wort ist im Text des Vertrags fett gedruckt, wenn es sich auf eine Definition bezieht)
 

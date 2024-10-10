@@ -246,7 +246,7 @@ Peruutuksen päivämäärä:
 
 <div class="underline"></div>
 
-Ostin palautettavan tuotteen:  Netistä  Tilasin puhelimitse  Minulle soitettiin
+Ostin palautettavan tuotteen: ☐ Netistä ☐ Tilasin puhelimitse ☐ Minulle soitettiin
 
 Palautuksen syy:
 

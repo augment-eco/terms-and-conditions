@@ -29,7 +29,7 @@ Het wordt aanbevolen om een Augment stepslotkabel met de bovenbuisvergrendelings
 
 Wanneer je niet thuis bent, moet de elektrische step vergrendeld worden met de Augment Steps applicatie en met behulp van een fysiek slot en een vast object door het frame, wanneer de step onbeheerd wordt achtergelaten, buiten je directe gezichtsveld of meer dan vijf (5) meter van je vandaan. In plaats van de accu op de elektrische scooter te laten zitten, kunt je deze beter bij je dragen of apart opbergen.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Je elektrische step vervoeren met je voertuig
 
@@ -67,7 +67,7 @@ De “Verhoogde diefstaldekking” wordt maandelijks vooraf gefactureerd via de 
 
 Als je je uitstaande facturen niet betaalt nadat je een betalingsherinnering hebt ontvangen, heeft Augment het recht om je diefstaldekkingsdienst te beëindigen en een redelijke vergoeding van je te eisen voor schade of kosten die zijn opgelopen als gevolg van de vroegtijdige beëindiging van deze overeenkomst voor minimale duur.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Overmacht
 

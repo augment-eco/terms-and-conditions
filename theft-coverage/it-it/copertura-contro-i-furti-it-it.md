@@ -29,7 +29,7 @@ Si consiglia di acquistare e utilizzare un cavo di bloccaggio per monopattino Au
 
 Mentre non a casa, il monopattino elettrico deve essere bloccato con Augment Scooter App e utilizzando un blocco fisico e oggetto immobile attraverso il telaio, quando lasciato incustodito, fuori dalla vostra linea diretta di vista o più di cinque (5) metri di distanza da voi. Invece di lasciare la batteria montata sul monopattino elettrico, portarla con voi o conservare in modo sicuro separatamente.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Trasporto del tuo monopattino elettrico con il tuo veicolo
 

@@ -202,7 +202,7 @@ Giltigheten av avtalets villkor
 
 Dessa allmänna villkor för Augment gäller i Sverige från 12.8.2024 tills vidare.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Definitioner (orden är skrivna i fetstil i överensstämmelsespråk när de hänvisar till en definition)
 
@@ -225,32 +225,52 @@ Dessa allmänna villkor för Augment gäller i Sverige från 12.8.2024 tills vid
 - Användarvillkor - Villkor för detta avtal
 - Slitage på delar - Delar som normalt slits ut när elsparkcykeln används, såsom däck, bromsar, motor och batteri
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Uppsägningsformuläret för distansförsäljning
 
 Fyll i formuläret och bifoga det i returpaketet så att din uppsägning och retur kan behandlas. Vänligen var noga med att fylla i avtalsdelarna.
 
-Namn:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Namn:
 
-E-postadress som användes vid beställningen:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adress:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-postadress som användes vid beställningen:
 
-Mobil:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Datum för uppsägning:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adress:
 
-Jag köpte produkten som ska returneras:  Online  Jag beställde via telefon  Jag fick ett samtal
+<div class="underline"></div>
+
+Mobil:
+
+<div class="underline"></div>
+
+Datum för uppsägning:
+
+<div class="underline"></div>
+
+Jag köpte produkten som ska returneras: ☐ Online ☐ Jag beställde via telefon ☐ Jag fick ett samtal
 
 Anledning för returen:
 
- Produkten/tjänsten motsvarade inte mina förväntningar eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produkten/tjänsten motsvarade inte mina förväntningar eftersom
 
- Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Jag har ingen användning för produkten/tjänsten eftersom<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produkten/tjänsten motsvarade inte mina förväntningar enligt överenskommelse med säljaren eftersom
 
- Produkten/tjänsten kunde inte användas på grund av att<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Annan orsak:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Jag har ingen användning för produkten/tjänsten eftersom
+
+<div class="underline"></div>
+
+☐ Produkten/tjänsten kunde inte användas på grund av att
+
+<div class="underline"></div>
+
+☐ Annan orsak:
+
+<div class="underline"></div>

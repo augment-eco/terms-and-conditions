@@ -24,7 +24,7 @@ De **dienst** omvat de huur van een persoonlijke **e-step**. Aan het begin van d
 
 Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Duur van de overeenkomst en het gebruik van de e-step
 
@@ -114,7 +114,7 @@ De verpakking met de **e-step** mag door de **klant** worden geopend om de inhou
 
 Indien de **e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar is.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Vergoedingen voor diensten, en behoud van contactgegevens
 
@@ -174,7 +174,7 @@ De **dienst** en de functies ervan of de toepasselijke voorwaarden kunnen worden
 
 Indien de wijziging gebaseerd is op een wetswijziging of een besluit van een autoriteit, is **Augment** gerechtigd de wijziging door te voeren vanaf de datum waarop de wetswijziging of het besluit van een autoriteit van kracht wordt.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Intellectuele eigendomsrechten
 
@@ -202,7 +202,7 @@ Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vert
 
 **Augment is** niet aansprakelijk voor indirecte schade of gevolgschade, tenzij **Augment** deze schade opzettelijk of door grove nalatigheid heeft veroorzaakt.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Contractuele taal
 
@@ -212,7 +212,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 20.6.2023 tot nader order.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definities (bij verwijzing naar een definitie worden de woorden vetgedrukt in akkoordtaal)
 
@@ -235,32 +235,52 @@ Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 20.6.
 - **Servicevoorwaarden** - Voorwaarden van deze overeenkomst
 - **Slijtageonderdelen** - Onderdelen die normaal gesproken slijten wanneer de e-step wordt gebruikt, zoals banden, remmen, motor en accu.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Annuleringsformulier voor verkoop op afstand
 
 Vul het formulier in en voeg het bij het retourpakket, zodat uw annulering en retourzending kunnen worden verwerkt.
 
-Naam:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Naam:
 
-E-mail adres gebruikt voor de bestelling:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adres:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-mail adres gebruikt voor de bestelling:
 
-Mobiel:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Datum van annulering:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adres:
 
-Ik heb het product gekocht om terug te sturen:  Online  Ik bestelde per telefoon  Ik kreeg een telefoontje
+<div class="underline"></div>
+
+Mobiel:
+
+<div class="underline"></div>
+
+Datum van annulering:
+
+<div class="underline"></div>
+
+Ik heb het product gekocht om terug te sturen: ☐ Online ☐ Ik bestelde per telefoon ☐ Ik kreeg een telefoontje
 
 Reden voor terugkeer:
 
- Het product/de dienst voldeed niet aan mijn verwachtingen omdat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Het product/de dienst voldeed niet aan mijn verwachtingen omdat
 
- Het product/de dienst voldeed niet aan mijn verwachtingen zoals overeengekomen met de verkoper omdat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Ik heb het product/de dienst niet nodig omdat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Het product/de dienst voldeed niet aan mijn verwachtingen zoals overeengekomen met de verkoper omdat
 
- Het product/de dienst kon niet succesvol worden ingezet omdat<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Andere reden:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Ik heb het product/de dienst niet nodig omdat
+
+<div class="underline"></div>
+
+☐ Het product/de dienst kon niet succesvol worden ingezet omdat
+
+<div class="underline"></div>
+
+☐ Andere reden:
+
+<div class="underline"></div>

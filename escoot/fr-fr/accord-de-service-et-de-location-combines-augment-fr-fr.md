@@ -24,7 +24,7 @@ Le service comprend la location d'une **trottinette** personnelle. Au début de 
 
 Des accessoires normaux tels qu'un support de téléphone portable peuvent être installés sur la **trottinette** électrique à condition que ces accessoires puissent être retirés sans laisser de traces sur la **trottinette** électrique. Le **client** est responsable de l'installation, du retrait et de l'élimination de tous les accessoires et des marques laissées par les accessoires.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Durée de l'accord et l'utilisation de la trottinette électrique
 
@@ -150,7 +150,7 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 
 Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
-<div class="page"/>
+<div class="page"></div>
 
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
@@ -230,7 +230,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Définitions (les mots sont écrits en gras dans la langue de l'accord lorsqu'ils font référence à une définition)
 
@@ -253,32 +253,52 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 - **Conditions d'utilisation** - Conditions de cet **accord**
 - **Pièces d'usure** - Pièces qui s'usent normalement lorsque la **trottinette** électrique est utilisée, telles que les pneus, les freins, le moteur et la batterie
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Formulaire d'annulation de vente à distance
 
 Veuillez remplir le formulaire et le joindre au colis de retour afin que votre annulation et votre retour puissent être traités, en prenant particulièrement soin de remplir les sections de l'**accord**
 
-Nom:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nom:
 
-Adresse e-mail utilisée pour la commande :<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adresse:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse e-mail utilisée pour la commande :
 
-Mobile:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Date d'annulation :<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse:
 
-J'ai loué le produit à retourner :  En ligne  J’ai commandé par téléphone  J’ai reçu un appel
+<div class="underline"></div>
+
+Mobile:
+
+<div class="underline"></div>
+
+Date d'annulation :
+
+<div class="underline"></div>
+
+J'ai loué le produit à retourner : ☐ En ligne ☐ J’ai commandé par téléphone ☐ J’ai reçu un appel
 
 Raison du retour:
 
- Le produit/service n'a pas répondu à mes attentes car<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Le produit/service n'a pas répondu à mes attentes car
 
- Le produit/service n'a pas répondu à mes attentes comme convenu avec le vendeur car<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Je n'ai aucune utilité pour le produit/service parce que<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Le produit/service n'a pas répondu à mes attentes comme convenu avec le vendeur car
 
- Le produit/service n'a pas pu être déployé avec succès car<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Autre raison:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Je n'ai aucune utilité pour le produit/service parce que
+
+<div class="underline"></div>
+
+☐ Le produit/service n'a pas pu être déployé avec succès car
+
+<div class="underline"></div>
+
+☐ Autre raison:
+
+<div class="underline"></div>

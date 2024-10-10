@@ -64,7 +64,7 @@ Efter at have modtaget et **erstatningsløbehjul**, skal det defekte **el-løbeh
 
 **Augment** forbeholder sig retten til at opkræve et forsinkelsesgebyr på 89,50 DKK for hver uge derefter, hvis det defekte **el-løbehjul** ikke returneres.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### El-løbehjul batteri og opladning
 
@@ -96,7 +96,7 @@ Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftal
 
 **Kunden** kan indløse **el-løbehjulet** ved at betale indløsningsprisen på 365 DKK efter **aftalens minimumsperiode** er udløbet. Inden **minimumsperiodens** udløb kan **kunden** indløse **el-løbehjulet** ved at betale de resterende gebyrer for **minimumsperioden** og indløsningsprisen på 365 DKK. Når indløsningsprisen er modtaget af **Augment**, ophører **aftalen** automatisk.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Opsigelse af aftalen inden udløbet af minimumsaftaleperioden
 
@@ -190,7 +190,7 @@ Ved force majeure forstås en omstændighed, som parten ikke med rimelighed kunn
 
 Hvis opfyldelsen af **aftalen** suspenderes eller forsinkes på grund af force majeure, forlænges fristen for opfyldelse af forpligtelsen i det omfang, det er rimeligt under de givne omstændigheder.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Behandling af persondata, telematikdata og cookies
 
@@ -216,7 +216,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark** fra 4.12.2023 indtil videre.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definitioner (ordene er skrevet med fed skrift i aftalesprog, når der henvises til en definition)
 
@@ -239,32 +239,52 @@ Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark*
 - **Servicevilkår** - Vilkår for denne aftale
 - **Sliddele** - Dele som normalt slides, når el-løbehjulet bruges, såsom dæk, bremser, motor og batteri
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Fortrydelsesformular for fjernsalg
 
 Udfyld venligst formularen og vedlæg den i returpakken, så din fortrydelse og returnering kan behandles, og vær særlig opmærksom på at udfylde aftalesektionerne
 
-Navn:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Navn:
 
-E-mailadresse brugt til ordren:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adresse:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-mailadresse brugt til ordren:
 
-Mobil:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Dato for annullering:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse:
 
-Jeg købte produktet, der skal returneres:  Online  Jeg bestilte via telefon  Jeg blev ringet op
+<div class="underline"></div>
+
+Mobil:
+
+<div class="underline"></div>
+
+Dato for annullering:
+
+<div class="underline"></div>
+
+Jeg købte produktet, der skal returneres: ☐ Online ☐ Jeg bestilte via telefon ☐ Jeg blev ringet op
 
 Årsag til returnering:
 
- Produktet/tjenesten levede ikke op til mine forventninger, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produktet/tjenesten levede ikke op til mine forventninger, fordi
 
- Produktet/ydelsen levede ikke op til mine forventninger som aftalt med sælger, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Jeg har ikke brug for produktet/tjenesten, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Produktet/ydelsen levede ikke op til mine forventninger som aftalt med sælger, fordi
 
- Produktet/tjenesten kunne ikke implementeres, fordi<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Anden grund:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Jeg har ikke brug for produktet/tjenesten, fordi
+
+<div class="underline"></div>
+
+☐ Produktet/tjenesten kunne ikke implementeres, fordi
+
+<div class="underline"></div>
+
+☐ Anden grund:
+
+<div class="underline"></div>

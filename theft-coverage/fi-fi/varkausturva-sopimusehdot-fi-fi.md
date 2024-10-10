@@ -62,7 +62,7 @@ Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee
 
 **Augment** lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai palvelumuutoksista asiakkaan sähköisesti ilmoittamaan sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Ylivoimainen este
 
