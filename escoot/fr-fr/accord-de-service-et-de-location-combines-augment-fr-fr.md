@@ -74,7 +74,8 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie et 450 € avec batterie pour une **trottinette électrique volée**.
+. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
@@ -94,11 +95,11 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-En souscrivant à l'option d'achat, le client aura la possibilité d'acquérir la trottinette pour **149 €** à la fin de la période minimale du contrat. Après le paiement de cette somme, le contrat se terminera automatiquement.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **149 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Retour de la trottinette à la fin du contrat
 
-Si le **client** n'a pas souscrit à l'option d'achat et ne souhaite pas acheter la trottinette à la fin du contrat,  la trottinette **doit être retournée à Augment** conformément aux instructions fournies par le service client.
+Si le **client** n'a pas souscrit à l'option d'achat et ne souhaite pas acheter la trottinette à la fin du contrat, la trottinette **doit être retournée à Augment** conformément aux instructions fournies par le service client.
 
 ### Droit de rétractation de la vente à distance
 
