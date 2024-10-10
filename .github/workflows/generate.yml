@@ -116,5 +116,7 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin ${{ github.head_ref }}
+          git checkout ${{ github.head_ref }}
           git commit -m "Generate PDFs for changed markdown files"
           git push origin ${{ github.head_ref }}
