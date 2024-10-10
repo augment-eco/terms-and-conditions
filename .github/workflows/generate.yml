@@ -1,4 +1,4 @@
-name: Preview PR changes
+name: Generate PDFs
 
 on:
   pull_request:
@@ -72,6 +72,32 @@ jobs:
             _Generated for commit ${{ github.event.pull_request.head.sha }}_
           edit-mode: replace
 
+  commit:
+    timeout-minutes: 5
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get all changed markdown files
+        id: changed-contract-files
+        uses: tj-actions/changed-files@v45
+        with:
+          # Avoid using single or double quotes for multiline patterns
+          files: "**.md"
+          files_ignore: |
+            README.md
+
+      # Run the following steps only if any contract files have changed
+
+      - uses: actions/setup-node@v4
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+
+      - run: npm ci
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+
       - name: Generate real files
         if: steps.changed-contract-files.outputs.any_changed == 'true'
         env:
@@ -82,5 +108,5 @@ jobs:
             filename=$(basename "$file")
             base_filename="${filename%.md}"  # Remove .md extension
             new_filename="${current_date}-${base_filename}"
-            npm run generate "$file" "$new_filename" true
+            npm run generate "$file" "$new_filename"
           done
