@@ -74,7 +74,9 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie et 450 € avec batterie pour une **trottinette électrique volée**.
+
+Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
@@ -92,19 +94,13 @@ Le **client** a le droit de résilier le contrat à l'expiration de la **durée 
 
 Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
 
-### Rachat de la trottinette électrique
+### Option d'achat de la trottinette
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **149 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
-### Résiliation du contrat avant la fin de la durée minimale du contrat
+### Retour de la trottinette à la fin du contrat
 
-Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
-
-### Restitution de la trottinette électrique après la résiliation du contrat
-
-Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
-
-Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+Si le **client** n'a pas souscrit à l'option d'achat et ne souhaite pas acheter la trottinette à la fin du contrat, la trottinette **doit être retournée à Augment** conformément aux instructions fournies par le service client.
 
 ### Droit de rétractation de la vente à distance
 
@@ -149,8 +145,6 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 **Augment** a le droit de suspendre et/ou de restreindre l'utilisation du **service** dans les circonstances mentionnées ci-dessous. La suspension signifie le gel de tous les services disponibles dans le cadre du présent **accord**. Restreindre signifie limiter l'utilisation d'un ou plusieurs des services (ou d'une partie de ceux-ci) disponibles dans le cadre de cet **accord**.
 
 Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
-
-<div class="page"></div>
 
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
@@ -226,9 +220,9 @@ Le Client peut consulter à tout moment ces dispositions sur le site http://www.
 
 A défaut, tout litige né de la formation, de l'interprétation ou de l'exécution du présent Contrat sera de la compétence exclusive des tribunaux français compétents.
 
-### Validité des termes de l'accord
+### Validité des conditions de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 9.3.2023 jusqu'à nouvel ordre.
+Ces conditions générales d'Augment sont en vigueur en France à partir du 10.10.2024 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
