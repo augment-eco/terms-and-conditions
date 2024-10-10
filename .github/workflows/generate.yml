@@ -118,4 +118,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Generate PDFs for changed markdown files"
-          git push origin ${{ github.ref }}
+          git push origin ${{ github.head_ref }}
