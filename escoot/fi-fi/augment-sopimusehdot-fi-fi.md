@@ -156,6 +156,8 @@ Augment ei sulje tai rajoita **palvelun** käyttöä maksujen laiminlyönnin vuo
 
 Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, **Augmentilla** on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
 
+<div class="break"></div>
+
 ### Aineettomat oikeudet
 
 Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekijänoikeudet, tuotemerkit ja patentit kuuluvat Augmentille tai kolmannelle taholle. Augment myöntää rajoitetun käyttöoikeuden sopimuksen voimassaoloajaksi Sopimuksen mukaiseen Palveluun sekä Sopimuksen perusteella toimitettujen ohjelmistojen konekielisiin versioihin ja asiakirjoihin.
