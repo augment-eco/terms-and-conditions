@@ -91,7 +91,7 @@ pre.hljs code > div {
 	overflow: auto;
 }
 
-div.break {
+div.page {
   page-break-after: always;
 }
 

@@ -123,6 +123,8 @@ Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee
 
 Käyttämämme maksuvälittäjät (tällä hetkellä Adyen / Stripe) tallentavat tarvittavat maksukortti- ja muut maksuvälinetiedot vahvasti salattuina omiin tietokantoihinsa.
 
+<div class="page"></div>
+
 ### Yhteystietojen ylläpitäminen
 
 **Asiakkaan** tulee huolehtia siitä, että **Augmentilla** on hänen kulloinkin ajan tasalla olevat yhteystiedot.
@@ -156,7 +158,7 @@ Augment ei sulje tai rajoita **palvelun** käyttöä maksujen laiminlyönnin vuo
 
 Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, **Augmentilla** on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
 
-<div class="break"></div>
+<div class="page"></div>
 
 ### Aineettomat oikeudet
 
@@ -186,6 +188,8 @@ Augment ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuoras
 
 Tämän Sopimuksen ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
 
+<div class="page"></div>
+
 ### Erimielisyydet
 
 Erimielisyydet tulee pyrkiä ratkaisemaan osapuolten välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevan kotipaikkasi käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
@@ -196,7 +200,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen toistaiseksi.
 
-<div class="break"></div>
+<div class="page"></div>
 
 ### Määritelmät
 
@@ -216,7 +220,7 @@ Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen to
 - Vika – Skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Skuutin käyttämistä tai rajoittaa sitä.
 - Vahinko – Käyttäjästä tai olosuhteista aiheutuva Skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
 
-<div class="break"></div>
+<div class="page"></div>
 
 ### Etämyynnin peruutuslomake
 
