@@ -103,7 +103,6 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-contract-files.outputs.all_changed_files }}
         run: |
-          git checkout 
           current_date=$(date +"%d%m%Y")
           for file in ${CHANGED_FILES}; do
             filename=$(basename "$file")
