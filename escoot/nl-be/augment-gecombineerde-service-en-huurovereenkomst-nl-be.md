@@ -1,4 +1,4 @@
-﻿# AUGMENT GECOMBINEERDE SERVICE- EN HUUROVEREENKOMST
+# AUGMENT GECOMBINEERDE SERVICE- EN HUUROVEREENKOMST
 
 De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdienst** die **Augment** levert aan particulieren, de **klant**, Augment en de klant gezamenlijk, zijn de **partijen**. De klant is een [volledig bevoegde] natuurlijke persoon boven de 18 jaar en geen voogd. De **dienst** en de e-step is voor het gebruik van één huishouden. De **dienst** of **e-step** mag niet worden gebruikt voor commerciële doeleinden of voor het genereren van inkomsten.
 

@@ -1,4 +1,4 @@
-﻿# AUGMENT CIRCULAR KOMBINERET SERVICE OG LEJEAFTALE
+# AUGMENT CIRCULAR KOMBINERET SERVICE OG LEJEAFTALE
 
 Vilkår og betingelser i denne aftale gælder for den el-løbehjul-service, som Augment leverer til privatpersoner, kunden, Augment og kunden i fællesskab, parterne. Kunden skal være en [fuldt autoriseret] fysisk person over 18 år og ikke en retsafdeling. Tjenesten og el-løbehjulet er til brug for én husstand. Tjenesten eller el-løbehjulet må ikke bruges til noget kommercielt formål eller til generering af nogen indkomst.
 

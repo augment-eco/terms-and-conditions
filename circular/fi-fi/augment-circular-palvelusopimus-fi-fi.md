@@ -1,4 +1,4 @@
-﻿# AUGMENT CIRCULAR -PALVELUSOPIMUS
+# AUGMENT CIRCULAR -PALVELUSOPIMUS
 
 ## Sopimuksen osapuolet ja tarkoitus
 

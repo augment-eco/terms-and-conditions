@@ -1,4 +1,4 @@
-﻿# AUGMENT CIRCULAR KOMBINERAT SERVICE OCH HYRESAVTAL
+# AUGMENT CIRCULAR KOMBINERAT SERVICE OCH HYRESAVTAL
 
 Villkoren i detta avtal gäller för den elsparkcykeltjänst som tillhandahålls av Augment till privatpersoner, kunden, Augment och kunden tillsammans, parterna. Kunden ska vara en [fullständigt auktoriserad] fysisk person över 18 år utan god man eller förvaltare. Tjänsten och elsparkcykeln är till för användning av ett hushåll. Tjänsten eller elsparkcykeln får inte användas i något kommersiellt syfte eller för att generera någon inkomst.
 

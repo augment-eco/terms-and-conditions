@@ -1,4 +1,4 @@
-﻿# CONTRATTO DI SERVIZIO AUGMENT
+# CONTRATTO DI SERVIZIO AUGMENT
 
 ## Terzi e scopo del contratto
 
