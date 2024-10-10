@@ -246,22 +246,22 @@ Ostin palautettavan tuotteen:  Netistä  Tilasin puhelimitse  Minulle s
 
 Palautuksen syy:
 
- Tuote/palvelu ei vastannut odotuksiani, koska
+☐ Tuote/palvelu ei vastannut odotuksiani, koska
 
 <div class="underline"></div>
 
- Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
+☐ Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
 
 <div class="underline"></div>
 
- Minulla ei ole käyttöä tuotteelle/palvelulle, koska
+☐ Minulla ei ole käyttöä tuotteelle/palvelulle, koska
 
 <div class="underline"></div>
 
- Tuotteen/palvelun käyttöönotto ei onnistunut, koska
+☐ Tuotteen/palvelun käyttöönotto ei onnistunut, koska
 
 <div class="underline"></div>
 
- Muu syy:
+☐ Muu syy:
 
 <div class="underline"></div>
