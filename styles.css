@@ -91,7 +91,13 @@ pre.hljs code > div {
 	overflow: auto;
 }
 
+div.break {
+  page-break-after: always;
+}
+
 div.underline {
   width: 100%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
   border-bottom: 1px solid;
 }
