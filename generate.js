@@ -22,7 +22,7 @@ try {
 
   const pdfPath = await convert({
     source,
-    destination: join(__dirname, "output", outputFileName),
+    destination: join(__dirname, outputFileName),
     styles: join(__dirname, "styles.css"),
     pdf: {
       format: 'A4',
