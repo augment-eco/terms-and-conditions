@@ -99,8 +99,6 @@ Mikäli **sopimuksen** päättymisen jälkeen **asiakas** ei halua lunastaa **sk
 
 **Asiakkaalla** on oikeus päättää **sopimus** aikaisintaan 11 kuukauden kuluttua sen alkamisesta toimittamalla asiasta tieto **Augmentin asiakaspalvelulle** ja maksamalla 195 €. Maksun suorittamisen jälkeen **skuutti** siirtyy **asiakkaan** omaksi ja **sopimus** lakkaa olemasta voimassa.
 
-<div class="page"/>
-
 ### Etämyynnin peruutusoikeus
 
 **Asiakkaalla** on kuluttajansuojalain mukainen oikeus peruuttaa etämyynnissä tehty sopimus viimeistään 14 päivän kuluessa Sopimuksen tekemisestä. **Sopimuksen** peruuttamisesta tulee ilmoittaa Augmentille toimittamalla liitteenä oleva **peruutuslomake** täytettynä **asiakaspalvelulle**.
@@ -124,6 +122,8 @@ Mikäli **skuutti** on otettu käyttöön peruutusaikana ja **sopimus** perutaan
 Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee päivittää **Augmentin** itsepalvelusivuston kautta ennen seuraavan **palvelumaksun** erääntymistä.
 
 Käyttämämme maksuvälittäjät (tällä hetkellä Adyen / Stripe) tallentavat tarvittavat maksukortti- ja muut maksuvälinetiedot vahvasti salattuina omiin tietokantoihinsa.
+
+<div class="page"></div>
 
 ### Yhteystietojen ylläpitäminen
 
@@ -158,6 +158,8 @@ Augment ei sulje tai rajoita **palvelun** käyttöä maksujen laiminlyönnin vuo
 
 Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, **Augmentilla** on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
 
+<div class="page"></div>
+
 ### Aineettomat oikeudet
 
 Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekijänoikeudet, tuotemerkit ja patentit kuuluvat Augmentille tai kolmannelle taholle. Augment myöntää rajoitetun käyttöoikeuden sopimuksen voimassaoloajaksi Sopimuksen mukaiseen Palveluun sekä Sopimuksen perusteella toimitettujen ohjelmistojen konekielisiin versioihin ja asiakirjoihin.
@@ -165,8 +167,6 @@ Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekij
 Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmistoja, asiakirjoja ja muuta aineistoa on käytettävä Augmentin tai kolmannen tahon, kuten ohjelmiston omistajan, antamien ohjeiden mukaisesti ja vain sovittuun tarkoitukseen.
 
 Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
-
-<div class="page"/>
 
 ### Ylivoimainen este
 
@@ -188,6 +188,8 @@ Augment ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuoras
 
 Tämän Sopimuksen ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
 
+<div class="page"></div>
+
 ### Erimielisyydet
 
 Erimielisyydet tulee pyrkiä ratkaisemaan osapuolten välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevan kotipaikkasi käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
@@ -198,7 +200,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen toistaiseksi.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Määritelmät
 
@@ -218,32 +220,52 @@ Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen to
 - Vika – Skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Skuutin käyttämistä tai rajoittaa sitä.
 - Vahinko – Käyttäjästä tai olosuhteista aiheutuva Skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Etämyynnin peruutuslomake
 
 Täytä lomake ja pakkaa mukaan palautuspakettiin, jotta peruutuksesi ja palautuksesi voidaan käsitellä. Täytä sopimusta koskevat kohdat erityisen huolellisesti.
 
-Nimi:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Nimi:
 
-Tilauksen yhteydessä käytetty sähköpostiosoite:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Katuosoite:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Tilauksen yhteydessä käytetty sähköpostiosoite:
 
-Puhelinnumero:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Peruutuksen päivämäärä:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Katuosoite:
+
+<div class="underline"></div>
+
+Puhelinnumero:
+
+<div class="underline"></div>
+
+Peruutuksen päivämäärä:
+
+<div class="underline"></div>
 
 Ostin palautettavan tuotteen:  Netistä  Tilasin puhelimitse  Minulle soitettiin
 
 Palautuksen syy:
 
- Tuote/palvelu ei vastannut odotuksiani, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Tuote/palvelu ei vastannut odotuksiani, koska
 
- Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Minulla ei ole käyttöä tuotteelle/palvelulle, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
 
- Tuotteen/palvelun käyttöönotto ei onnistunut, koska<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Muu syy:<br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+☐ Minulla ei ole käyttöä tuotteelle/palvelulle, koska
+
+<div class="underline"></div>
+
+☐ Tuotteen/palvelun käyttöönotto ei onnistunut, koska
+
+<div class="underline"></div>
+
+☐ Muu syy:
+
+<div class="underline"></div>
