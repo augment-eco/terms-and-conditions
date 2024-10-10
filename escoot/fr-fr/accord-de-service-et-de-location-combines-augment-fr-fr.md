@@ -75,7 +75,8 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
 
 Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie et 450 € avec batterie pour une **trottinette électrique volée**.
-. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+
+Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
