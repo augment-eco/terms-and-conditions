@@ -103,6 +103,7 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed-contract-files.outputs.all_changed_files }}
         run: |
+          git checkout 
           current_date=$(date +"%d%m%Y")
           for file in ${CHANGED_FILES}; do
             filename=$(basename "$file")
@@ -117,4 +118,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Generate PDFs for changed markdown files"
-          git push
+          git push origin ${{ github.ref }}
