@@ -144,8 +144,6 @@ A la demande du **client** ou d'une compagnie d'assurance ou d'une autorité com
 
 Si le **client** a des **frais de service** impayés, ou si la **trottinette** électrique a été volée, perdue, détournée ou est en possession illégale d'une autre personne, **Augment** a le droit de restreindre l'utilisation de la **trottinette** électrique. Restreindre l’utilisation de la **trottinette** électrique peut impliquer de réduire sa vitesse ou de restreindre la zone dans laquelle elle est utilisée.
 
-<div class="page"></div>
-
 **Augment** a le droit de suspendre ou de suspendre partiellement le **service** si :
 
 - Le paiement dû n'a pas été payé dans les deux (2) semaines après l'envoi du rappel de paiement,
