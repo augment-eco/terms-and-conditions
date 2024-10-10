@@ -6,12 +6,17 @@ This repository contains draft versions of the terms and conditions for the [aug
 
 ## How to Edit
 
-1. Choose the file you want to edit (e.g. [escoot/fi-fi/augment-sopimusehdot-fi-fi.md](./escoot/fi-fi/augment-sopimusehdot-fi-fi.md)).
-2. Use a markdown editor of your choice, such as [Dillinger](https://dillinger.io) or [StackEdit](https://stackedit.io), to make changes.
-3. Submit your updated file to the repository.
+1. **Choose the file you want to edit** (e.g. [escoot/fi-fi/augment-sopimusehdot-fi-fi.md](./escoot/fi-fi/augment-sopimusehdot-fi-fi.md)).
+2. **Use a markdown editor** of your choice, such as [Dillinger](https://dillinger.io) or [StackEdit](https://stackedit.io), to make changes. Be sure to check the [Special Markup](#special-markup) section below for handling specific formatting requirements.
+3. **Submit the updated file** to the repository once your edits are complete.
 
-## Generating PDF Documents
+### Special Markup
 
-The `.md` files are processed into `.pdf` files using VS Code and it's extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf). To generate a .pdf file, right-click on .md file's contents and select "Markdown PDF: Export (pdf)".
+The following patterns are used in markdown files for specific formatting:
 
-Before uploading (or other use), the .pdf files are manually renamed using a naming convention `ddmmyyyy-filename-locale.pdf`, where `ddmmyyyy` represents the published date, `locale` represents language-country identifier (e.g. `de-ch`), and `filename` is the original .md file's name. Note that the date is typically mentioned in the document contents as well.
+- **Hard page break**: To force content to the next page in a PDF, use `<div class="page"></div>`.
+- **Full-width underline**: For a full-width underline, use `<div class="underline"></div>`.
+
+## Generating PDFs
+
+GitHub Actions will automatically generate and commit a PDF version for pull requests involving changes to markdown files. Additionally, a preview of the changes will be made available as a comment on the pull request.
