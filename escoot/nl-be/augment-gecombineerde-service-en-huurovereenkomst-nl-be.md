@@ -1,6 +1,6 @@
 # AUGMENT GECOMBINEERDE SERVICE- EN HUUROVEREENKOMST
 
-De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdienst** die **Augment** levert aan particulieren, de **klant**, Augment en de klant gezamenlijk, zijn de **partijen**. De klant is een [volledig bevoegde] natuurlijke persoon boven de 18 jaar en geen voogd. De **dienst** en de e-step is voor het gebruik van één huishouden. De **dienst** of **e-step** mag niet worden gebruikt voor commerciële doeleinden of voor het genereren van inkomsten.
+De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdienst** die **Augment** levert aan particulieren, de **klant**. Augment en de klant gezamenlijk, zijn de **partijen**. De klant is een [volledig bevoegde] natuurlijke persoon boven de 18 jaar en geen voogd. De **dienst** en de e-step is voor het gebruik van één huishoud. De **dienst** of **e-step** mag niet worden gebruikt voor commerciële doeleinden of voor het genereren van inkomsten.
 
 Het doel van de **overeenkomst** is de rechten en verplichtingen van de partijen met betrekking tot de **dienst** en de **e-step** als volgt vast te leggen:
 
@@ -38,13 +38,13 @@ Volgens de **Belgiese** **wegenverkeerswet** is de **e-step** een "licht elektri
 
 De **klant** is er verantwoordelijk voor dat de **e-step** in goede staat verkeert en in overeenstemming met de wettelijke voorschriften wordt gebruikt. De **e-step** mag niet worden gebruikt in weersomstandigheden die ongeschikt zijn voor veilig gebruik.
 
-De **e-step** is niet bedoeld voor racen, off-roaden of kustrijden. Kunstrijden omvat, maar is niet beperkt tot, slippen, opzettelijk de remmen blokkeren, wheelen, springen en stuiteren.
+De **e-step** is niet bedoeld voor racen, off-roaden of kunstrijden. Kunstrijden omvat, maar is niet beperkt tot, slippen, opzettelijk de remmen blokkeren, wheelen, springen en stuiteren.
 
 **Augment** heeft het recht om kosten die ontstaan door het gebruik van de **e-step** op een wijze die in strijd is met deze **overeenkomst** of de gebruikershandleiding aan de **klant** in rekening te brengen.
 
 ### Defecten of schade aan de e-step
 
-Eventuele technische **defecten** of **schade** aan de **e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **e-step** toesturen. De levertijd van de **e-step** is normaal gesproken 3-4 werkdagen vanaf de datum van verzending.
+Eventuele technische **defecten** of **schade** aan de **e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **e-step** toesturen. De levertijd van de **e-step** is normaal gesproken 4-5 werkdagen vanaf de datum van verzending.
 
 De **klant** kan de **e-step** ook zelf repareren. In dat geval stelt **Augment** de **klant** gratis reserveonderdelen ter beschikking die nodig zijn voor de reparatie.
 
@@ -58,7 +58,7 @@ De **dienst** dekt niet:
 - Krassen, slijtage of vlekken op het lakwerk die het gebruik van de **e-step** niet beïnvloeden.
 - **Gebreken** veroorzaakt door opzet of grove nalatigheid, in welk geval **Augment** het recht heeft de kosten van herstel bij de **klant** in rekening te brengen.
 
-**Augment** is niet aansprakelijk jegens de **klant** of derden voor **schade** aan personen, zaken of roerende of onroerende goederen veroorzaakt door de **e-step** of het gebruik ervan. Het is de verantwoordelijkheid van de **klant** om te zorgen voor een geldige verzekering die dergelijke **schade**, ongevallen en wettelijke aansprakelijkheid dekt.
+**Augment** is niet aansprakelijk wegens de **klant** of derden voor **schade** aan personen, zaken of roerende of onroerende goederen veroorzaakt door de **e-step** of het gebruik ervan. Het is de verantwoordelijkheid van de **klant** om te zorgen voor een geldige verzekering die dergelijke **schade**, ongevallen en wettelijke aansprakelijkheid dekt.
 
 ### De defecte e-step terugbrengen
 
@@ -74,7 +74,7 @@ De **klant** moet zich houden aan de gebruikershandleiding van **de e-step** voo
 
 ### Verlies van de e-step door diefstal, vandalisme of ander verlies.
 
-Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu, €350 met een 360Wh accu en €450 met een grotere accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
+Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
 
 ### Verkeersongevallen
 
@@ -86,6 +86,8 @@ De **e-step** kan na 12 maanden na aanvang van de **overeenkomst** worden opgewa
 
 De oude **e-step** dient na aankomst van de nieuwe **e-step** volgens de instructies van de **klantenservice** aan **Augment** te worden geretourneerd. Indien de oude **e-step** niet binnen een week na ontvangst van de nieuwe **e-step** wordt geretourneerd, is **Augment** gerechtigd een vertragingsvergoeding van € 12,50 per week vertraging in rekening te brengen.
 
+<div class="page"></div>
+
 ## Beëindiging van de overeenkomst
 
 De **klant** heeft het recht de **overeenkomst** na afloop van de **minimumduur** te beëindigen door **Augment** via **Augment** livechat of per e-mail voor het verstrijken van de **minimumduur** schriftelijk op te zeggen.
@@ -94,17 +96,11 @@ Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **ov
 
 ### Aflossing van de e-step
 
-De **klant** kan de **e-step** inwisselen door betaling van de inwisselprijs van 49 euro na afloop van de **minimumtermijn** van de **overeenkomst**. Voor het einde van de **minimumtermijn** kan de **klant** de **e-step** inwisselen door betaling van de resterende vergoedingen voor de **minimumtermijn** en de inwisselprijs van 49 euro. Zodra de afkoopsom door Augment is ontvangen, eindigt de **overeenkomst** automatisch.
+Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€149**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
 
-### Beëindiging van de overeenkomst vóór het einde van de minimumduur van de overeenkomst
+### e-Step retour na afloop van het contract
 
-De **klant** heeft het recht om ten vroegste 11 maanden na aanvang van de **overeenkomst** de **overeenkomst** te beëindigen door dit aan de **klantenservice** te melden en € 195 te betalen. Zodra de betaling door **Augment** is ontvangen, gaat het eigendom van de **e-step** over op de **klant** en eindigt de **overeenkomst** automatisch.
-
-### Inlevering van de e-step na beëindiging van de overeenkomst
-
-Indien de **klant** de scooter aan het einde van de **looptijd** van de **overeenkomst** niet wenst in te wisselen, wordt de **e-step** conform de instructies van de **klantenservice** aan **Augment** geretourneerd.
-
-De **klant** is verplicht om vernielde, verloren of anderszins niet teruggebrachte **e-scteps** tegen de nieuwe aankoopprijs te vergoeden.
+Als de klant de afkoopoptie niet heeft en de e-step aan het einde van het contract periode niet wil kopen, moet de e-sstep worden teruggestuurd naar Augment volgens de instructies van de klantenservice.
 
 ### Herroepingsrecht bij verkoop op afstand
 
@@ -112,7 +108,7 @@ Volgens de **wet op de consumentenbescherming** heeft de **klant** het recht de 
 
 De verpakking met de **e-step** mag door de **klant** worden geopend om de inhoud te controleren. In geval van annulering van de **overeenkomst** door de **klant**, dient de **e-step** binnen één week na de annulering van de **overeenkomst** in originele staat aan **Augment** te worden geretourneerd, volgens de instructies van de **klantenservice**.
 
-Indien de **e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar is.
+Indien de **e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar zijn.
 
 <div class="page"></div>
 
@@ -210,7 +206,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 20.6.2023 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 11.10.2024 tot nader order.
 
 <div class="page"></div>
 
