@@ -74,7 +74,7 @@ De **klant** moet zich houden aan de gebruikershandleiding van **de e-step** voo
 
 ### Verlies van de e-step door diefstal, vandalisme of ander verlies.
 
-Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu, €350 met een 360Wh accu en €450 met een grotere accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
+Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
 
 ### Verkeersongevallen
 
@@ -94,17 +94,11 @@ Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **ov
 
 ### Aflossing van de e-step
 
-De **klant** kan de **e-step** inwisselen door betaling van de inwisselprijs van 49 euro na afloop van de **minimumtermijn** van de **overeenkomst**. Voor het einde van de **minimumtermijn** kan de **klant** de **e-step** inwisselen door betaling van de resterende vergoedingen voor de **minimumtermijn** en de inwisselprijs van 49 euro. Zodra de afkoopsom door Augment is ontvangen, eindigt de **overeenkomst** automatisch.
+Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€149**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
 
-### Beëindiging van de overeenkomst vóór het einde van de minimumduur van de overeenkomst
+### e-Step retour na afloop van het contract
 
-De **klant** heeft het recht om ten vroegste 11 maanden na aanvang van de **overeenkomst** de **overeenkomst** te beëindigen door dit aan de **klantenservice** te melden en € 195 te betalen. Zodra de betaling door **Augment** is ontvangen, gaat het eigendom van de **e-step** over op de **klant** en eindigt de **overeenkomst** automatisch.
-
-### Inlevering van de e-step na beëindiging van de overeenkomst
-
-Indien de **klant** de scooter aan het einde van de **looptijd** van de **overeenkomst** niet wenst in te wisselen, wordt de **e-step** conform de instructies van de **klantenservice** aan **Augment** geretourneerd.
-
-De **klant** is verplicht om vernielde, verloren of anderszins niet teruggebrachte **e-scteps** tegen de nieuwe aankoopprijs te vergoeden.
+Als de klant de afkoopoptie niet heeft en de e-step aan het einde van het contract periode niet wil kopen, moet de e-sstep worden teruggestuurd naar Augment volgens de instructies van de klantenservice.
 
 ### Herroepingsrecht bij verkoop op afstand
 
@@ -210,7 +204,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 20.6.2023 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 11.10.2024 tot nader order.
 
 <div class="page"></div>
 
