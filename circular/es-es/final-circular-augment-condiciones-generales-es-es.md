@@ -26,6 +26,8 @@ Tras la entrada en vigor del **contrato**, **Augment** proporcionará al **clien
 
 Se pueden instalar accesorios normales, como un soporte para teléfono móvil, en el **patinete eléctrico**, siempre que dichos accesorios se puedan quitar sin dejar marcas en el **patinete eléctrico**. El **cliente** será responsable de la instalación, retiro y eliminación de cualquier accesorio y marcas dejadas por los accesorios.
 
+<div class="page"></div>
+
 ## Duración del contrato y uso del patinete eléctrico
 
 ### Duración del contrato
@@ -58,7 +60,6 @@ El **servicio** no cubre:
 
 **Augment** no es responsable ante el **cliente** ni ante terceros de ningún **daño** a personas, propiedad o bienes muebles o inmuebles causado por el **patinete eléctrico** o su uso. Es responsabilidad del **cliente** asegurarse de tener una póliza de seguro válida que cubra dichos **daños**, accidentes y responsabilidad civil.
 
-<div class="page"></div>
 
 ### Devolución del patinete y partes defectuosas
 
@@ -89,8 +90,6 @@ Una vez transcurrida la **duración mínima**, **Augment** tendrá derecho a res
 ### Devolución del patinete eléctrico al finalizar el contrato
 
 Al final del plazo del contrato, el patinete eléctrico deberá devolverse a Augment de acuerdo con las instrucciones del servicio de atención al cliente.
-
-<div class="page"></div>
 
 ### Derecho de desistimiento de la venta a distancia
 
