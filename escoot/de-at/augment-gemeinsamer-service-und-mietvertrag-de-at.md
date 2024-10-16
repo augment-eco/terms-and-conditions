@@ -216,11 +216,14 @@ Auf diese **Bedingungen** findet ausschließlich österreichisches Recht Anwendu
 
 Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Streitigkeiten zur Verfügung. Die Plattform ist abrufbar unter <http://ec.europa.eu/consumers/odr>.
 
+<div class="page"></div>
+
+
 ### Gültigkeit der Vertragsbedingungen
 
 Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 16.10.2024 bis auf weiteres gültig.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Definitionen (ein Wort ist im Text des Vertrags fett gedruckt, wenn es sich auf eine Definition bezieht)
 
