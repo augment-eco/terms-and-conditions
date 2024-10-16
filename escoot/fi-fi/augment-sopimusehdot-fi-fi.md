@@ -61,7 +61,7 @@ Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät **skuutin** käyttöohj
 
 Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista, **Augment** vaihtaa akun veloituksetta. **Augmentilla** ei ole velvollisuutta vaihtaa akkua, mikäli sitä ei ole säilytetty tai ladattu ohjeiden mukaisesti.
 
-### Varastettu skuutti, skuuttiin kohdistuva ilkivalta, skuutin muu menettäminen.
+### Varastettu skuutti, skuuttiin kohdistuva ilkivalta, skuutin muu menettäminen
 
 Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja **Augmentille asiakaspalvelun** live chat:n välityksellä. Veloitamme varastetusta **skuutista** 250 € ilman akkua, 360Wh akun kanssa 350 € ja isompien akkujen kanssa 450 €. Maksun suorittamisen jälkeen toimitamme **asiakkaalle** veloituksetta **vaihtoskuutin**. Varkaus, katoaminen tai ilkivalta ei päätä tätä **sopimusta**.
 

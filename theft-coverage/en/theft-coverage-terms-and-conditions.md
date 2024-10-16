@@ -4,7 +4,7 @@ Please read this Disclosure to ensure your understanding of how “Augment Theft
 
 One (1) Augment Theft Coverage subscription covers one (1) e-scooter. If you want to cover for more than one e-scooter, you will need a separate Augment Theft Coverage subscription for each of them.
 
-## In the event of a theft / loss of an e-scooter:
+## In the event of a theft / loss of an e-scooter
 
 If the scooter / battery is stolen, report the incident to the local police within 48 hours. Then report the incident to Augment as soon as possible via Augment's Live Chat. A copy of the police report will be requested.
 

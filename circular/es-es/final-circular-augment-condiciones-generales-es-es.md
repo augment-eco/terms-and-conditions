@@ -2,7 +2,7 @@
 
 ## Partes y objeto del contrato
 
-Los términos y condiciones de este **contrato** se aplican al **servicio** de patinete eléctrico **CIRCULAR** proporcionado por **Augment ** a particulares, el **cliente**, **Augment** y el **cliente** colectivamente, las **partes**. El cliente deberá ser una persona física [totalmente autorizada] mayor de 18 años y no estar bajo tutela judicial. El **servicio** y el patinete eléctrico son para uso de un solo hogar. El **servicio** o el **patinete eléctrico** no se pueden utilizar para ningún fin comercial ni para la generación de ingresos.
+Los términos y condiciones de este **contrato** se aplican al **servicio** de patinete eléctrico **CIRCULAR** proporcionado por **Augment** a particulares, el **cliente**, **Augment** y el **cliente** colectivamente, las **partes**. El cliente deberá ser una persona física [totalmente autorizada] mayor de 18 años y no estar bajo tutela judicial. El **servicio** y el patinete eléctrico son para uso de un solo hogar. El **servicio** o el **patinete eléctrico** no se pueden utilizar para ningún fin comercial ni para la generación de ingresos.
 
 El objetivo del **contrato** es definir los derechos y obligaciones de las partes con respecto al **servicio** y al **patinete eléctrico CIRCULAR**, que se describen a continuación:
 
@@ -59,7 +59,6 @@ El **servicio** no cubre:
 - **Defectos** causados intencionalmente o por negligencia grave, en cuyo caso **Augment** tiene derecho a cobrar el coste de la reparación al **cliente**.
 
 **Augment** no es responsable ante el **cliente** ni ante terceros de ningún **daño** a personas, propiedad o bienes muebles o inmuebles causado por el **patinete eléctrico** o su uso. Es responsabilidad del **cliente** asegurarse de tener una póliza de seguro válida que cubra dichos **daños**, accidentes y responsabilidad civil.
-
 
 ### Devolución del patinete y partes defectuosas
 
@@ -284,23 +283,23 @@ como neumáticos, frenos, motor y batería.
 Complete el formulario y adjúntelo en el paquete de devolución para que se pueda procesar su cancelación
 y devolución, teniendo especial cuidado en completar las secciones del acuerdo.
 
-Nombre: 
+Nombre:
 
 <div class="underline"></div>
 
-Dirección de correo electrónico utilizada para el pedido: 
+Dirección de correo electrónico utilizada para el pedido:
 
 <div class="underline"></div>
 
-Dirección: 
+Dirección:
 
 <div class="underline"></div>
 
-Teléfono: 
+Teléfono:
 
 <div class="underline"></div>
 
-Fecha de cancelación: 
+Fecha de cancelación:
 
 <div class="underline"></div>
 
@@ -309,7 +308,6 @@ Razón de devolución:
 El producto/servicio no cumplió con mis expectativas porque
 
 <div class="underline"></div>
-
 
 El producto/servicio no cumplió con mis expectativas según lo acordado con el vendedor porque
 
@@ -323,6 +321,6 @@ El producto/servicio no se pudo implementar exitosamente porque
 
 <div class="underline"></div>
 
-Otra razón: 
+Otra razón:
 
 <div class="underline"></div>

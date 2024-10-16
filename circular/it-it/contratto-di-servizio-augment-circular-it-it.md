@@ -74,7 +74,7 @@ Il **cliente** deve rispettare il manuale utente del **monopattino elettrico** p
 
 **Augment** sostituirà la batteria gratuitamente se la capacità massima della batteria scende al di sotto del 70% della capacità della nuova batteria. Se la batteria non è stata conservata o caricata secondo le istruzioni, **Augment** non è obbligato a sostituire la batteria.
 
-### Perdita del monopattino elettrico dovuta a furto, vandalismo o altra perdita.
+### Perdita del monopattino elettrico dovuta a furto, vandalismo o altra perdita
 
 Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà EUR250 senza batteria, EUR350 con una batteria 360Wh e EUR450 con una batteria più grande per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
 
