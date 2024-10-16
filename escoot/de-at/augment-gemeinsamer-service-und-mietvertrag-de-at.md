@@ -245,7 +245,7 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 1
 
 <div class="page"/>
 
-  ## Widerrufsformular für den Fernabsatz
+## Widerrufsformular für den Fernabsatz
 
 Bitte füllen Sie das Formular aus und legen Sie es dem Rücksendepaket bei, damit Ihr Widerruf und die Erstattung bearbeitet werden können. Bitte füllen Sie die Vertragsabschnitte besonders sorgfältig aus.
 
