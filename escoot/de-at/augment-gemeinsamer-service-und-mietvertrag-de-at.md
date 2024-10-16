@@ -28,7 +28,7 @@ Auslieferung eines E-Scooters an den Kunden zu Vertragsbeginn
 
 Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung, am **E-Scooter** ist erlaubt, sofern es sich spurlos wieder entfernen lässt. Das Anbringen und Entfernen von Zubehör sowie die Reparatur von Spuren, die das Zubehör hinterlässt, gehen auf Kosten des **Kunden**.
 
-<div class="page"></div>
+<div class="page"/>
 
 ## Bedingungen in Bezug auf die Vertragslaufzeit und die Nutzung des E-Scooters
 
@@ -57,7 +57,7 @@ Der **Service** umfasst:
 - Alle **Defekte** einschließlich **Verschleißteile**
 - Unerwartete **Schäden** durch normalen Gebrauch, z.B. Beschädigung des **E-Scooters** aufgrund eines Zusammenstoßes oder Umkippens. In diesen Fällen ist die Anzahl der zu deckenden **Schäden** auf maximal zwei Fälle pro Jahr ab **Vertragsbeginn** begrenzt.
 
-<div class="page"></div>
+<div class="page"/>
 
 Der **Service** umfasst nicht:
 
@@ -80,7 +80,7 @@ Wenn die maximale Kapazität des Akkus unter 70% der Kapazität des neuen Akkus 
 
 ### Gestohlener E-Scooter, Vandalismus am E-Scooter, sonstiger Verlust des E-Scooters
 
-Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 € ohne Akku, 350 € mit einem 360-Wh-Akku und 450 € mit einem größeren Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
+Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 € ohne Akku und 450 € inklusive Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
 
 ### Verkehrsunfälle
 
@@ -100,19 +100,13 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 **Augment** hat das Recht, den **Vertrag** nach Ablauf der **Mindestvertragslaufzeit** mit einer Frist von 30 Tagen zu kündigen.
 
-### Möglichkeit, den E-Scooter zu erwerben
+### Option zum Kauf des E-Scooters 
 
-Nach Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** gegen eine Zahlung von 29 € kaufen. Vor Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** kaufen, indem er die verbleibenden **Servicegebühren** für die **Mindestvertragslaufzeit** und den Ablösepreis von 29 € bezahlt. Sobald **Augment** die Zahlung des **Kunden** erhalten hat, läuft der **Vertrag** aus.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **149 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
-### Vertragskündigung vor Ablauf der Mindestvertragslaufzeit
+### E-Scooter Rückgabe bei Vertragsende
 
-Der **Kunde** hat das Recht, den **Vertrag** frühestens 11 Monate nach Vertragsbeginn zu kündigen, indem er den **Augment-Kundendienst** benachrichtigt und 195 € zahlt. Nach Eingang der Zahlung bei **Augment** geht der **E-Scooter** in das Eigentum des **Kunden** über und der **Vertrag** wird beendet.
-
-### Rückgabe des E-Scooters nach Vertragsende
-
-Wenn der **Kunde** den **E-Scooter** nach Ablauf des **Vertrags** nicht kaufen möchte, muss er ihn gemäß den Anweisungen des **Kundendienstes** an **Augment** zurückgeben.
-
-Der **Kunde** ist verpflichtet, den während der Vertragslaufzeit zerstörten, verlorenen oder anderweitig nicht zurückgegebenen **E-Scooter** zum Neupreis zu ersetzen.
+Wenn der Kunde nicht von der Kaufoption Gebrauch macht und den E-Scooter am Ende des Vertrages nicht kaufen möchte, muss der E-Scooter gemäß den Anweisungen des Kundendienstes an Augment zurückgegeben werden.
 
 ### Rücktrittsrecht im Fernabsatz
 
@@ -178,7 +172,7 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"></div>
+<div class="page"/>
 
 ### Immaterielle Rechte
 
@@ -206,7 +200,7 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"></div>
+<div class="page"/>
 
 ### Vertragssprache
 
@@ -222,9 +216,9 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 5.4.2023 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 16.10.2024 bis auf weiteres gültig.
 
-<div class="page"></div>
+<div class="page"/>
 
 ### Definitionen (ein Wort ist im Text des Vertrags fett gedruckt, wenn es sich auf eine Definition bezieht)
 
@@ -247,52 +241,32 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 5
 - **Ersatzscooter** - Ein E-Scooter, der ein Ersatz für den vorhandenen E-Scooter des Kunden ist, der von Augment repariert und überprüft wurde. Ersatzscooter werden von Augment repariert und inspiziert. Ersatzscooter können Gebrauchsspuren aufweisen.
 - **Defekt** - Ein unerwartetes Problem mit dem E-Scooter während des normalen Gebrauchs, das die Nutzung des E-Scooters verhindert oder einschränkt.
 
-<div class="page"></div>
+<div class="page"/>
 
 ## Widerrufsformular für den Fernabsatz
 
 Bitte füllen Sie das Formular aus und legen Sie es dem Rücksendepaket bei, damit Ihr Widerruf und die Erstattung bearbeitet werden können. Bitte füllen Sie die Vertragsabschnitte besonders sorgfältig aus.
 
-Name:
+Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<div class="underline"></div>
+Für die Bestellung verwendete E-Mail Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Für die Bestellung verwendete E-Mail Adresse:
+Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<div class="underline"></div>
+Telefonnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Adresse:
+Datum der Kündigung: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<div class="underline"></div>
-
-Telefonnummer:
-
-<div class="underline"></div>
-
-Datum der Kündigung:
-
-<div class="underline"></div>
-
-Wie habe ich dieses zu reklamierende Produkt gekauft: ☐ Online ☐ per Telefon ☐ Ich habe einen Anruf erhalten
+Wie habe ich dieses zu reklamierende Produkt gekauft:  Online  per Telefon  Ich habe einen Anruf erhalten
 
 Grund für die Rückgabe:
 
-☐ Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil
+ Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<div class="underline"></div>
+ Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-☐ Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil
+ Ich habe keine Verwendung für das Produkt/den Service, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<div class="underline"></div>
+ Das Produkt/Der Service konnte nicht eingesetzt werden, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-☐ Ich habe keine Verwendung für das Produkt/den Service, weil
-
-<div class="underline"></div>
-
-☐ Das Produkt/Der Service konnte nicht eingesetzt werden, weil
-
-<div class="underline"></div>
-
-☐ Sonstiger Grund:
-
-<div class="underline"></div>
+ Sonstiger Grund: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
