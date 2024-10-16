@@ -182,6 +182,8 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
+<div class="page"/>
+
 ### Höhere Gewalt
 
 Keine der Parteien haftet für ihre vertraglichen Verpflichtungen oder für Schadenersatz, soweit die Erfüllung des Vertrags durch höhere Gewalt eingeschränkt, verhindert oder verzögert wird.
@@ -243,7 +245,7 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 1
 
 <div class="page"/>
 
-## Widerrufsformular für den Fernabsatz
+  ## Widerrufsformular für den Fernabsatz
 
 Bitte füllen Sie das Formular aus und legen Sie es dem Rücksendepaket bei, damit Ihr Widerruf und die Erstattung bearbeitet werden können. Bitte füllen Sie die Vertragsabschnitte besonders sorgfältig aus.
 
