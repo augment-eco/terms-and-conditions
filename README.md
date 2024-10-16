@@ -20,3 +20,15 @@ The following patterns are used in markdown files for specific formatting:
 ## Generating PDFs
 
 GitHub Actions will automatically generate and commit a PDF version for pull requests involving changes to markdown files. Additionally, a preview of the changes will be made available as a comment on the pull request.
+
+## Linting
+
+All markdown files are being linted while running Continous Integration (CI). The generate of PDFs will fail, in case linting errors are found. The linting is done using [markdownlint](https://github.com/DavidAnson/markdownlint-cli2). The configuration can be found in the [.markdownlint-cli2.jsonc](./.markdownlint-cli2.jsonc) file.
+
+You can also lint the markdown files locally by running the following command:
+
+```bash
+npm run lint
+```
+
+Also, in the case you are using VSCode, you can install the [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) to lint the markdown files while editing.
