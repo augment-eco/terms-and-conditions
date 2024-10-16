@@ -182,7 +182,7 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Höhere Gewalt
 
@@ -243,7 +243,7 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 1
 - **Ersatzscooter** - Ein E-Scooter, der ein Ersatz für den vorhandenen E-Scooter des Kunden ist, der von Augment repariert und überprüft wurde. Ersatzscooter werden von Augment repariert und inspiziert. Ersatzscooter können Gebrauchsspuren aufweisen.
 - **Defekt** - Ein unerwartetes Problem mit dem E-Scooter während des normalen Gebrauchs, das die Nutzung des E-Scooters verhindert oder einschränkt.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Widerrufsformular für den Fernabsatz
 
