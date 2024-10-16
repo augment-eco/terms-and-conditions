@@ -31,6 +31,9 @@ jobs:
       - run: npm ci
         if: steps.changed-contract-files.outputs.any_changed == 'true'
 
+      - run: npm run lint
+        if: steps.changed-contract-files.outputs.any_changed == 'true'
+
       - name: Generate preview files
         if: steps.changed-contract-files.outputs.any_changed == 'true'
         env:
