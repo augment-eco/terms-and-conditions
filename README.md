@@ -21,6 +21,16 @@ The following patterns are used in markdown files for specific formatting:
 
 GitHub Actions will automatically generate and commit a PDF version for pull requests involving changes to markdown files. Additionally, a preview of the changes will be made available as a comment on the pull request.
 
+### Local testing
+
+If we want to preview the PDF locally before submitting a pull request, to check our page breaks, for example, we can do so by running the following command:
+
+```bash
+npm run generate "<path-to-file>.md" "test-preview.pdf" true
+```
+
+It will generate the PDF file from the specified Markdown file. Do not upload this test file.
+
 ## Linting
 
 All markdown files are being linted while running Continous Integration (CI). The generate of PDFs will fail, in case linting errors are found. The linting is done using [markdownlint](https://github.com/DavidAnson/markdownlint-cli2). The configuration can be found in the [.markdownlint-cli2.jsonc](./.markdownlint-cli2.jsonc) file.
