@@ -221,7 +221,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 16.10.2024 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 17.10.2024 bis auf weiteres gültig.
 
 <div class="page"></div>
 
