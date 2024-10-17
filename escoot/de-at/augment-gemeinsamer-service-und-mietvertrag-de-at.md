@@ -251,26 +251,46 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 1
 
 Bitte füllen Sie das Formular aus und legen Sie es dem Rücksendepaket bei, damit Ihr Widerruf und die Erstattung bearbeitet werden können. Bitte füllen Sie die Vertragsabschnitte besonders sorgfältig aus.
 
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name:
 
-Für die Bestellung verwendete E-Mail Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Adresse: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Für die Bestellung verwendete E-Mail Adresse:
 
-Telefonnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
-Datum der Kündigung: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Adresse:
+
+<div class="underline"></div>
+
+Telefonnummer:
+
+<div class="underline"></div>
+
+Datum der Kündigung:
+
+<div class="underline"></div>
 
 Wie habe ich dieses zu reklamierende Produkt gekauft:  Online  per Telefon  Ich habe einen Anruf erhalten
 
 Grund für die Rückgabe:
 
- Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil
 
- Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Ich habe keine Verwendung für das Produkt/den Service, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil
 
- Das Produkt/Der Service konnte nicht eingesetzt werden, weil \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+<div class="underline"></div>
 
- Sonstiger Grund: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ Ich habe keine Verwendung für das Produkt/den Service, weil
+
+<div class="underline"></div>
+
+ Das Produkt/Der Service konnte nicht eingesetzt werden, weil
+
+<div class="underline"></div>
+
+ Sonstiger Grund:
+
+<div class="underline"></div>
