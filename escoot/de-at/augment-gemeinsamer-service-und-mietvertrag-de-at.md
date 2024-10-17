@@ -80,7 +80,7 @@ Wenn die maximale Kapazität des Akkus unter 70% der Kapazität des neuen Akkus 
 
 ### Gestohlener E-Scooter, Vandalismus am E-Scooter, sonstiger Verlust des E-Scooters
 
-Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 € ohne Akku, 350 € mit einem 360-Wh-Akku und 450 € mit einem größeren Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
+Wenn Ihr **E-Scooter** gestohlen wird, verloren geht oder mutwillig beschädigt wird, müssen Sie dies innerhalb von 48 Stunden der Polizei und **Augment** **Kundendienst** über den Live-Chat-Service melden. **Augment** berechnet dem **Kunden** 250 € ohne Akku und 450 € inklusive Akku für einen gestohlenen **E-Scooter**. Nach der Zahlung liefert **Augment** kostenlos einen **Ersatzscooter** an den **Kunden**. Diebstahl, Verlust oder Vandalismus führen nicht zur Kündigung dieses **Vertrags**.
 
 ### Verkehrsunfälle
 
@@ -100,19 +100,13 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 **Augment** hat das Recht, den **Vertrag** nach Ablauf der **Mindestvertragslaufzeit** mit einer Frist von 30 Tagen zu kündigen.
 
-### Möglichkeit, den E-Scooter zu erwerben
+### Option zum Kauf des E-Scooters
 
-Nach Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** gegen eine Zahlung von 29 € kaufen. Vor Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** kaufen, indem er die verbleibenden **Servicegebühren** für die **Mindestvertragslaufzeit** und den Ablösepreis von 29 € bezahlt. Sobald **Augment** die Zahlung des **Kunden** erhalten hat, läuft der **Vertrag** aus.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **149 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
-### Vertragskündigung vor Ablauf der Mindestvertragslaufzeit
+### E-Scooter Rückgabe bei Vertragsende
 
-Der **Kunde** hat das Recht, den **Vertrag** frühestens 11 Monate nach Vertragsbeginn zu kündigen, indem er den **Augment-Kundendienst** benachrichtigt und 195 € zahlt. Nach Eingang der Zahlung bei **Augment** geht der **E-Scooter** in das Eigentum des **Kunden** über und der **Vertrag** wird beendet.
-
-### Rückgabe des E-Scooters nach Vertragsende
-
-Wenn der **Kunde** den **E-Scooter** nach Ablauf des **Vertrags** nicht kaufen möchte, muss er ihn gemäß den Anweisungen des **Kundendienstes** an **Augment** zurückgeben.
-
-Der **Kunde** ist verpflichtet, den während der Vertragslaufzeit zerstörten, verlorenen oder anderweitig nicht zurückgegebenen **E-Scooter** zum Neupreis zu ersetzen.
+Wenn der Kunde nicht von der Kaufoption Gebrauch macht und den E-Scooter am Ende des Vertrages nicht kaufen möchte, muss der E-Scooter gemäß den Anweisungen des Kundendienstes an Augment zurückgegeben werden.
 
 ### Rücktrittsrecht im Fernabsatz
 
@@ -121,6 +115,8 @@ Der **Kunde** hat gemäß dem **Konsumentenschutzgesetzt** das Recht, innerhalb 
 Die Verpackung des **E-Scooters** darf geöffnet werden, um den Inhalt zu betrachten. Nach der Stornierung des **Vertrags** muss der **E-Scooter** innerhalb einer Woche in seinem ursprünglichen, neuwertigen Zustand an Augment zurückgeschickt werden, wobei die Anweisungen des **Kundendienstes** zu befolgen sind.
 
 Wenn der **E-Scooter** während der Widerrufsfrist benutzt wurde und der **Vertrag** storniert wird, ist **Augment** berechtigt, dem Kunden die Wertminderung des **E-Scooters** zu berechnen. Wenn der zurückgegebene **E-Scooter** unverkäuflich ist, hat **Augment** das Recht, dem Kunden einen Betrag zu berechnen, der dem vollen Wert des **E-Scooters** entspricht.
+
+<div class="page"></div>
 
 ## Bedingungen für Servicegebühren und Kontaktinformationen
 
@@ -222,7 +218,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 5.4.2023 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 17.10.2024 bis auf weiteres gültig.
 
 <div class="page"></div>
 
