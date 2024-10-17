@@ -100,7 +100,7 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 **Augment** hat das Recht, den **Vertrag** nach Ablauf der **Mindestvertragslaufzeit** mit einer Frist von 30 Tagen zu kündigen.
 
-### Option zum Kauf des E-Scooters 
+### Option zum Kauf des E-Scooters
 
 Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **149 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
@@ -217,7 +217,6 @@ Auf diese **Bedingungen** findet ausschließlich österreichisches Recht Anwendu
 Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Streitigkeiten zur Verfügung. Die Plattform ist abrufbar unter <http://ec.europa.eu/consumers/odr>.
 
 <div class="page"></div>
-
 
 ### Gültigkeit der Vertragsbedingungen
 
