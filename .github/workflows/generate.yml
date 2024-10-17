@@ -11,6 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+
+      - run: npm ci
+      - run: npm run lint
+
       - name: Get all changed markdown files
         id: changed-contract-files
         uses: tj-actions/changed-files@v45
@@ -21,15 +29,6 @@ jobs:
             README.md
 
       # Run the following steps only if any contract files have changed
-
-      - uses: actions/setup-node@v4
-        if: steps.changed-contract-files.outputs.any_changed == 'true'
-        with:
-          node-version-file: ".nvmrc"
-          cache: "npm"
-
-      - run: npm ci
-        if: steps.changed-contract-files.outputs.any_changed == 'true'
 
       - name: Generate preview files
         if: steps.changed-contract-files.outputs.any_changed == 'true'

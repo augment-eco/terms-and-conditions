@@ -15,10 +15,14 @@
   },
   "homepage": "https://github.com/augment-eco/terms-and-conditions#readme",
   "scripts": {
+    "lint": "npx markdownlint-cli2 markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#output\"",
     "generate": "node generate.js"
   },
   "dependencies": {
     "mdpdf": "^3.0.4",
     "pdf-watermark": "^1.0.4"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.14.0"
   }
 }

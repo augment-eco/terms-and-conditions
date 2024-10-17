@@ -4,7 +4,7 @@ Por favor, lea esta información para asegurarse de que entiende el funcionamien
 
 Una (1) suscripción de Augment Cobertura contra Robo cubre un (1) patinete eléctrico. Si desea cubrir más de un patinete eléctrico, necesitará una suscripción separada de Augment Cobertura contra Robo para cada uno de ellos.
 
-## En caso de robo/pérdida de un patinete eléctrico:
+## En caso de robo/pérdida de un patinete eléctrico
 
 Si le roban el patinete / la batería, informe el incidente a la policía local dentro de las 48 horas. Luego avise del incidente a Augment lo antes posible a través del chat en vivo de Augment. Se le solicitará una copia del informe policial.
 

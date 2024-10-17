@@ -72,7 +72,7 @@ De **klant** moet zich houden aan de gebruikershandleiding van **de e-step** voo
 
 **Augment** zal de accu kosteloos vervangen als de maximale capaciteit van de accu minder dan 70% van de capaciteit van de nieuwe accu bedraagt. Indien de accu niet volgens de instructies is opgeslagen of opgeladen, is **Augment** niet verplicht de accu te vervangen.
 
-### Verlies van de e-step door diefstal, vandalisme of ander verlies.
+### Verlies van de e-step door diefstal, vandalisme of ander verlies
 
 Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
 
