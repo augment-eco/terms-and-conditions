@@ -172,7 +172,7 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Immaterielle Rechte
 
