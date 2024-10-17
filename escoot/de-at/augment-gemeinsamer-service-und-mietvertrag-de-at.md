@@ -57,7 +57,7 @@ Der **Service** umfasst:
 - Alle **Defekte** einschließlich **Verschleißteile**
 - Unerwartete **Schäden** durch normalen Gebrauch, z.B. Beschädigung des **E-Scooters** aufgrund eines Zusammenstoßes oder Umkippens. In diesen Fällen ist die Anzahl der zu deckenden **Schäden** auf maximal zwei Fälle pro Jahr ab **Vertragsbeginn** begrenzt.
 
-<div class="page"/>
+<div class="page"></div>
 
 Der **Service** umfasst nicht:
 
