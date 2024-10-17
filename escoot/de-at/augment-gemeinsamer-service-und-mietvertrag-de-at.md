@@ -271,26 +271,26 @@ Datum der Kündigung:
 
 <div class="underline"></div>
 
-Wie habe ich dieses zu reklamierende Produkt gekauft:  Online  per Telefon  Ich habe einen Anruf erhalten
+Wie habe ich dieses zu reklamierende Produkt gekauft: ☐ Online ☐ per Telefon ☐ Ich habe einen Anruf erhalten
 
 Grund für die Rückgabe:
 
- Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil
+☐ Das Produkt/Der Service hat meine Erwartungen nicht erfüllt, weil
 
 <div class="underline"></div>
 
- Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil
+☐ Das Produkt/Der Service entsprach nicht dem, was mit dem Verkäufer vereinbart wurde, weil
 
 <div class="underline"></div>
 
- Ich habe keine Verwendung für das Produkt/den Service, weil
+☐ Ich habe keine Verwendung für das Produkt/den Service, weil
 
 <div class="underline"></div>
 
- Das Produkt/Der Service konnte nicht eingesetzt werden, weil
+☐ Das Produkt/Der Service konnte nicht eingesetzt werden, weil
 
 <div class="underline"></div>
 
- Sonstiger Grund:
+☐ Sonstiger Grund:
 
 <div class="underline"></div>
