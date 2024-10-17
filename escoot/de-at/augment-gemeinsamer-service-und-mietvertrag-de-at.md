@@ -202,7 +202,7 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"/>
+<div class="page"></div>
 
 ### Vertragssprache
 
