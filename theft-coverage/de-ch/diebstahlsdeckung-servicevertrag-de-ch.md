@@ -4,7 +4,7 @@ Bitte lesen Sie diese Erklärung, um sicherzustellen, dass Sie verstehen, wie di
 
 Ein (1) Augment Diebstahlabdeckung Abonnement deckt einen (1) E-Scooter ab. Wenn Sie mehr als einen E-Scooter abdecken möchten, benötigen Sie für jeden ein separates Augment Diebstahlabdeckung Abonnement für jeden dieser E-Scooter.
 
-## Im Falle eines Diebstahls / Verlusts eines E-Scooters:
+## Im Falle eines Diebstahls / Verlusts eines E-Scooters
 
 Wenn der Roller / Akku gestohlen wird, melden Sie den Vorfall der örtlichen Polizei innerhalb von 48 Stunden. Melden Sie den Vorfall dann so schnell wie möglich bei Augment über den Augment's Live Chat. Eine Kopie des Polizeiberichts wird angefordert.
 

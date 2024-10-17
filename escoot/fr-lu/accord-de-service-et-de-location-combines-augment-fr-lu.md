@@ -72,7 +72,7 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 **Augment** remplacera la batterie gratuitement si la capacité maximale de la batterie tombe en dessous de 70 % de la capacité de la nouvelle batterie. Si la batterie n'a pas été stockée ou chargée conformément aux instructions, **Augment** n'est pas obligé de remplacer la batterie.
 
-### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte.
+### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte
 
 Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 

@@ -1,0 +1,11 @@
+{
+  "config": {
+    // Find docs for all rules: https://github.com/DavidAnson/markdownlint?tab=readme-ov-file#rules--aliases
+    "default": true,
+    "MD013": false,
+    "MD033": false,
+    "MD034": false,
+    "MD001": false, // TODO remove and enforce the rule
+    "MD036": false // TODO remove and enforce the rule
+  }
+}

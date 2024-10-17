@@ -4,7 +4,7 @@ Si prega di leggere questa Informativa per garantire la comprensione di "Augment
 
 Un (1) abbonamento Copertura Furto Augment copre un (1) monopattino elettrico. Se si desidera coprire per più di un monopattino elettrico, è necessario un abbonamento separato Copertura Furto Augment per ciascuno di essi.
 
-## In caso di furto/ perdita di un monopattino elettrico:
+## In caso di furto/ perdita di un monopattino elettrico
 
 Se il monopattino/ batteria viene rubato, segnalare l'incidente alla polizia locale entro 48 ore. Quindi segnala l'incidente ad Augment il prima possibile tramite la Live Chat di Augment. Verrà richiesta una copia del rapporto della polizia.
 
