@@ -28,7 +28,7 @@ Auslieferung eines E-Scooters an den Kunden zu Vertragsbeginn
 
 Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung, am **E-Scooter** ist erlaubt, sofern es sich spurlos wieder entfernen lässt. Das Anbringen und Entfernen von Zubehör sowie die Reparatur von Spuren, die das Zubehör hinterlässt, gehen auf Kosten des **Kunden**.
 
-<div class="page"/>
+<div class="page"></div>
 
 ## Bedingungen in Bezug auf die Vertragslaufzeit und die Nutzung des E-Scooters
 
