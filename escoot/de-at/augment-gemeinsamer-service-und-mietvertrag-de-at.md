@@ -116,6 +116,8 @@ Die Verpackung des **E-Scooters** darf geöffnet werden, um den Inhalt zu betrac
 
 Wenn der **E-Scooter** während der Widerrufsfrist benutzt wurde und der **Vertrag** storniert wird, ist **Augment** berechtigt, dem Kunden die Wertminderung des **E-Scooters** zu berechnen. Wenn der zurückgegebene **E-Scooter** unverkäuflich ist, hat **Augment** das Recht, dem Kunden einen Betrag zu berechnen, der dem vollen Wert des **E-Scooters** entspricht.
 
+<div class="page"></div>
+
 ## Bedingungen für Servicegebühren und Kontaktinformationen
 
 ### Servicegebühren
@@ -172,6 +174,8 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
+<div class="page"></div>
+
 ### Immaterielle Rechte
 
 Immaterielle Eigentumsrechte wie Urheberrechte, Marken und Patente, die sich auf den Service, den **E-Scooter** und andere Produkte von **Augment** beziehen, gehören **Augment** oder einer dritten Partei. **Augment** gewährt für die Dauer des **Vertrags** eine eingeschränkte Lizenz für den **Service** im Rahmen des **Vertrags** und für die maschinensprachlichen Versionen und die Dokumentation der im Rahmen des **Vertrags** gelieferten Software.
@@ -197,6 +201,8 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 ### Haftungsbeschränkung
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
+
+<div class="page"></div>
 
 ### Vertragssprache
 
