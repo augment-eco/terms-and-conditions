@@ -172,8 +172,6 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"></div>
-
 ### Immaterielle Rechte
 
 Immaterielle Eigentumsrechte wie Urheberrechte, Marken und Patente, die sich auf den Service, den **E-Scooter** und andere Produkte von **Augment** beziehen, gehören **Augment** oder einer dritten Partei. **Augment** gewährt für die Dauer des **Vertrags** eine eingeschränkte Lizenz für den **Service** im Rahmen des **Vertrags** und für die maschinensprachlichen Versionen und die Dokumentation der im Rahmen des **Vertrags** gelieferten Software.
@@ -182,7 +180,6 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
-<div class="page"></div>
 
 ### Höhere Gewalt
 
@@ -202,8 +199,6 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"></div>
-
 ### Vertragssprache
 
 Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs zwischen den verschiedenen Sprachversionen ist die deutsche Version maßgebend.
@@ -215,8 +210,6 @@ Auf diese **Bedingungen** findet ausschließlich österreichisches Recht Anwendu
 **Augment** ist nicht zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle bereit und ist zur Teilnahme auch nicht verpflichtet. **Augment** zieht es vor, Anliegen im direkten Austausch mit dem Kunden zu klären.
 
 Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Streitigkeiten zur Verfügung. Die Plattform ist abrufbar unter <http://ec.europa.eu/consumers/odr>.
-
-<div class="page"></div>
 
 ### Gültigkeit der Vertragsbedingungen
 
