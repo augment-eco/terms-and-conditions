@@ -66,7 +66,7 @@ Il **servizio** non comprende:
 
 Dopo aver ricevuto una sostituzione, il difettoso deve essere restituito ad **Augment** entro una settimana dal ricevimento del sostitutivo in conformità con le istruzioni fornite dal **servizio clienti**. La restituzione del difettoso è gratuita.
 
-**Augment** si riserva il diritto di addebitare una penale di EUR12,50 per ogni settimana di ritardo in cui il difettoso non viene restituito.
+**Augment** si riserva il diritto di addebitare una penale di 12,50€ per ogni settimana di ritardo in cui il difettoso non viene restituito.
 
 ### Batteria del monopattini elettrico e ricarica
 
@@ -76,7 +76,7 @@ Il **cliente** deve rispettare il manuale utente del **monopattino elettrico** p
 
 ### Perdita del monopattino elettrico dovuta a furto, vandalismo o altra perdita
 
-Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà EUR250 senza batteria e EUR450 con una batteria per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
+Se il **monopattino elettrico** viene rubato, smarrito o vandalizzato, il **cliente** deve informare la Polizia e **Augment** entro 48 ore dal verificarsi di tale evento. **Augment** addebiterà 250€ senza batteria e 450€ con una batteria per un **monopattino elettrico** rubato. Al ricevimento del pagamento, un **monopattino sostitutivo** sarà consegnato al cliente. Questo **contratto** non viene annullato da furto, perdita o vandalismo.
 
 ### Incidenti stradali
 
@@ -84,9 +84,9 @@ Qualsiasi incidente stradale che coinvolga un terzo deve essere segnalato alla P
 
 ### Aggiornamento del monopattino elettrico con uno nuovo
 
-Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino elettrico** dopo 12 mesi dall'inizio del **contratto** al costo di EUR125, o gratuitamente 18 mesi dopo l'inizio del **contratto**. Una nuova **durata minima del contratto** di 24 mesi inizia quando un **monopattino elettrico** viene aggiornato.
+Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino elettrico** dopo 12 mesi dall'inizio del **contratto** al costo di 125€, o gratuitamente 18 mesi dopo l'inizio del **contratto**. Una nuova **durata minima del contratto** di 24 mesi inizia quando un **monopattino elettrico** viene aggiornato.
 
-Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di EUR12,50 a settimana di ritardo.
+Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di 12,50€ a settimana di ritardo.
 
 <div class="page"></div>
 
@@ -98,7 +98,7 @@ Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere 
 
 ## Opzione di acquisto del monopattino elettrico.
 
-Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di EUR3,00 / mese alla creazione del contratto , può acquistare il monopattino elettrico per EUR149 dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente. 
+Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di 3€/mese alla creazione del contratto , può acquistare il monopattino elettrico per 149€ dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente. 
 
 ### Restituire il monopattino elettrico alla risoluzione del contratto
 
