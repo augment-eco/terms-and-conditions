@@ -187,7 +187,6 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 <div class="page"></div>
 
-
 ### Limitazione della responsabilità
 
 **Augment** non sarà responsabile per qualsiasi perdita o danno indiretto o consequenziale causato da **Augment** a meno che **Augment** non abbia causato tale perdita o danno intenzionalmente o per negligenza grave.
