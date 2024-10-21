@@ -185,6 +185,9 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 **Augment** tratta i dati personali in conformità con la legislazione applicabile in materia di protezione dei dati. Per maggiori informazioni sul trattamento dei dati personali e dei cookie, si prega di fare riferimento all'Informativa sulla privacy di **Augment**, disponibile sul sito web di **Augment**.
 
+<div class="page"></div>
+
+
 ### Limitazione della responsabilità
 
 **Augment** non sarà responsabile per qualsiasi perdita o danno indiretto o consequenziale causato da **Augment** a meno che **Augment** non abbia causato tale perdita o danno intenzionalmente o per negligenza grave.
