@@ -96,7 +96,7 @@ Il **cliente** ha il diritto di risolvere il **contratto** alla scadenza della *
 
 Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere il **contratto** con un preavviso di 30 giorni.
 
-### Opzione di acquisto del monopattino elettrico.
+### Opzione di acquisto del monopattino elettrico
 
 Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di  3 €/mese alla creazione del contratto , può acquistare il monopattino elettrico per 149 € dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
 
