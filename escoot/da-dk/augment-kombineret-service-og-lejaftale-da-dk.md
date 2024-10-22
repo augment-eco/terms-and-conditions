@@ -92,6 +92,8 @@ Det gamle **el-løbehjul** skal returneres til **Augment** i henhold til **kunde
 
 Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftalen** med 30 dages varsel.
 
+<div class="page"></div>
+
 ### Mulighed for at købe el-løbehjulet
 
 Hvis kunden har valgt købsmuligheden mod et ekstra gebyr på 27 DKK/måned, kan de købe el-løbehjulet for 1157 DKK efter kontraktens bindingsperiode. Når købsprisen er betalt, ophører denne kontrakt automatisk.
