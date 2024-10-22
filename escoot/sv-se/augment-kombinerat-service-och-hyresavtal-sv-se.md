@@ -74,7 +74,7 @@ Om den trasiga **elsparkcykeln** ej returneras så förbehåller sig **Augment**
 
 ### Förlust av elsparkcykel vid stöld, skadegörelse eller annan förlust
 
-Om **elsparkcykeln** blir stulen, försvinner eller vandaliseras måste **kunden** kontakta polis och **Augment** inom 48 timmar från händelsen. **Augment** kommer ta ut en avgift på 2500 SEK utan batteri och 4500 SEK med batteriet för en stulen **elsparkcykel**. Vid mottagande av betalning kommer en **ersättnings-elsparkcykel** att skickas till **kunden**. **Avtalet** sägs inte upp på grund av stöld, förlust eller skadegörelse.
+Om **elsparkcykeln** blir stulen, försvinner eller vandaliseras måste **kunden** kontakta polis och **Augment** inom 48 timmar från händelsen. **Augment** kommer ta ut en avgift på 2500 SEK utan batteri och 4500 SEK med batteriet för en stulen **elscooter**. Vid mottagande av betalning kommer en **ersättnings-elsparkcykel** att skickas till **kunden**. **Avtalet** sägs inte upp på grund av stöld, förlust eller skadegörelse.
 
 ### Trafikolyckor
 
