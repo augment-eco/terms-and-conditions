@@ -120,8 +120,6 @@ Om **kunden** inte betalar serviceavgiften på förfallodagen kommer **kunden** 
 
 Betalningar enligt **avtalet** är pantsatta till förmån för Danske Bank A/S, finsk filial som **panthavare**. Ingen annan än **panthavaren** får göra ändringar i betalningsanvisningarna.
 
-<div class="page"></div>
-
 ### Upprätthålla betalningsinformation
 
 Om betalkort/bankkontouppgifter ändras måste nya uppgifter uppdateras via **Augments** självbetjäningswebbplats innan nästa **serviceavgift** förfaller.
