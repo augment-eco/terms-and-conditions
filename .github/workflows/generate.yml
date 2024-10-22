@@ -108,17 +108,14 @@ jobs:
             dirname=$(dirname "$file")
 
             # Remove all existing PDFs from the directory
-            find "$dirname" -name '*.pdf' -type f -exec rm -f {} +
-
-            ls "$dirname"
+            git rm "$dirname"/*.pdf
 
             # Generate new PDF
             base_filename="${filename%.md}"
             new_filename="${dirname}/${current_date}-${base_filename}.pdf"
             npm run generate "$file" "$new_filename"
 
-            # Stage changes
-            git status
+            # Stage new changes
             git add "$dirname"/*.pdf
           done
 
