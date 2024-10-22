@@ -24,6 +24,8 @@ Formålet med **aftalen** er at definere parternes rettigheder og forpligtelser 
 
 Normalt tilbehør såsom en mobiltelefonholder kan monteres på **el-løbehjulet**, forudsat at sådant tilbehør kan fjernes uden at efterlade mærker på **el-løbehjulet**. **Kunden** er ansvarlig for installation, fjernelse og bortskaffelse af alt tilbehør og mærker efter tilbehøret.
 
+<div class="page"></div>
+
 ## Aftalens varighed og Brugen af el-løbehjulet
 
 ### Aftalens varighed
@@ -64,8 +66,6 @@ Efter at have modtaget et **erstatningsløbehjul**, skal det defekte **el-løbeh
 
 **Augment** forbeholder sig retten til at opkræve et forsinkelsesgebyr på 89,50 DKK for hver uge derefter, hvis det defekte **el-løbehjul** ikke returneres.
 
-<div class="page"></div>
-
 ### El-løbehjul batteri og opladning
 
 **Kunden** skal overholde **el-løbehjulets** brugermanual for instruktioner om batteriopladning og opbevaring. **Kunden** skal oplade batteriet mindst hver 2. måned. **Kunden** må ikke oplade eller bruge batteriet, hvis det er fysisk beskadiget, opvarmes mere end normalt, laver en mærkelig lyd eller lækker.
@@ -95,8 +95,6 @@ Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftal
 ### Mulighed for at købe el-løbehjulet
 
 Hvis kunden har valgt købsmuligheden mod et ekstra gebyr på 27 DKK/måned, kan de købe el-løbehjulet for 1157 DKK efter kontraktens bindingsperiode. Når købsprisen er betalt, ophører denne kontrakt automatisk.
-
-<div class="page"></div>
 
 ### Opsigelse af aftalen inden udløbet af minimumsaftaleperioden
 
