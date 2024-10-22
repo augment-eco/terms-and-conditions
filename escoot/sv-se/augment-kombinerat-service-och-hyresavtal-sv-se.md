@@ -94,7 +94,7 @@ Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** 
 
 ### Möjlighet att köpa elsparkcykeln
 
-**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **35 SEK /månad** så kan elscootern köpas ut efter bindningstiden för **1858 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
+**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **35 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **1858 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
 
 <div class="page"></div>
 
