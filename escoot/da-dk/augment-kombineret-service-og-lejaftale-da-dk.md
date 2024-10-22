@@ -92,9 +92,9 @@ Det gamle **el-løbehjul** skal returneres til **Augment** i henhold til **kunde
 
 Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftalen** med 30 dages varsel.
 
-### Indløsning af el-løbehjul
+### Mulighed for at købe el-løbehjulet
 
-**Kunden** kan indløse **el-løbehjulet** ved at betale indløsningsprisen på 365 DKK efter **aftalens minimumsperiode** er udløbet. Inden **minimumsperiodens** udløb kan **kunden** indløse **el-løbehjulet** ved at betale de resterende gebyrer for **minimumsperioden** og indløsningsprisen på 365 DKK. Når indløsningsprisen er modtaget af **Augment**, ophører **aftalen** automatisk.
+Hvis kunden har valgt købsmuligheden mod et ekstra gebyr på 27 DKK/måned, kan de købe el-løbehjulet for 1157 DKK efter kontraktens bindingsperiode. Når købsprisen er betalt, ophører denne kontrakt automatisk.
 
 <div class="page"></div>
 
