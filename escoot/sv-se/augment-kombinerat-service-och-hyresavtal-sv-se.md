@@ -100,7 +100,7 @@ Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** 
 
 ### Retur av elsparkcykel vid uppsägning av kontrakt
 
-Om kunden inte lagt till vår tilläggstjänst för möjligheten att köpa ut elscootern eller inte längre vill köpa ut elsparkcykeln i slutet av kontraktet, så skall den **returneras till Augment** enligt **instruktioner från kundtjänst**.
+Om kunden inte lagt till vår tilläggstjänst för möjligheten att köpa ut elsparkcykeln eller inte längre vill köpa ut elsparkcykeln i slutet av kontraktet, så skall den **returneras till Augment** enligt **instruktioner från kundtjänst**.
 
 ### Ångerrätt vid distansförsäljning
 
