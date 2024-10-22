@@ -64,8 +64,6 @@ Efter att man mottagit en **utbyteselsparkcykel**, skall den trasiga **elsparkcy
 
 Om den trasiga **elsparkcykeln** ej returneras så förbehåller sig **Augment** rätten att ta ut en förseningsavgift på 125 SEK per vecka tills retur är genomförd.
 
-<div class="page"></div>
-
 ### Elsparkcykelns batteri och laddning
 
 **Kunden** måste följa **elsparkcykelns** användarmanual för instruktioner om batteriladdning och förvaring. **Kunden** skall ladda batteriet minst en gång varannan månad. **Kunden** får ej ladda eller använda batteriet om det är skadat, känns varmare än vanligt, avger ovanligt ljud eller läcker någon vätska.
