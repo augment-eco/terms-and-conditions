@@ -126,6 +126,8 @@ Om betalkort/bankkontouppgifter ändras måste nya uppgifter uppdateras via **Au
 
 De betalningsprocessorer **Augment** använder (för närvarande Adyen/Stripe) lagrar nödvändiga betalkorts- och annan betalningsdata i säkerställd krypterad form i deras egna databaser.
 
+<div class="page"></div>
+
 ### Upprätthålla kontaktuppgifter
 
 **Kunden** måste se till att **Augment** har uppdaterade kontaktinformation.
