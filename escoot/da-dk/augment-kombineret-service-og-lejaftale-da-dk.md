@@ -74,7 +74,7 @@ Efter at have modtaget et **erstatningsløbehjul**, skal det defekte **el-løbeh
 
 ### Tab af el-løbehjul på grund af tyveri, hærværk eller andet tab
 
-Hvis **el-løbehjulet** bliver stjålet, går tabt eller udsat for hærværk, skal **kunden** underrette politiet og **Augment** inden for 48 timer efter hændelsen. **Augment** vil opkræve 1850 DKK uden batteri, 2600 DKK med et 360Wh batteri og 3355 DKK med et større batteri for et stjålet **el-løbehjul**. Ved modtagelse af betaling vil et **erstatningsløbehjul** blive leveret til kunden. Denne **aftale** opsiges ikke ved tyveri, tab eller hærværk.
+Hvis **el-løbehjulet** bliver stjålet, går tabt eller udsat for hærværk, skal **kunden** underrette politiet og **Augment** inden for 48 timer efter hændelsen. **Augment** vil opkræve 1850 DKK uden batteri og 3355 DKK med et batteri for et stjålet **el-løbehjul**. Ved modtagelse af betaling vil et **erstatningsløbehjul** blive leveret til kunden. Denne **aftale** opsiges ikke ved tyveri, tab eller hærværk.
 
 ### Trafikulykker
 
@@ -102,11 +102,9 @@ Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftal
 
 **Kunden** har ret til tidligst at opsige **aftalen** 6 måneder efter **aftalens** ikrafttræden ved at meddele dette til **kundeservice** og betale 2400 DKK. Når betalingen er modtaget af **Augment**, vil ejendomsretten til **el-løbehjulet** blive overdraget til kunden, og **aftalen** ophører automatisk.
 
-### Returnering af el-løbehjul efter opsigelse af aftalen
+### El-løbehjul returneres ved kontraktopsigelse
 
-Hvis **kunden** ikke ønsker at indløse el-løbehjulet ved udløbet af **aftaleperioden**, skal el-løbehjulet returneres til **Augment** i overensstemmelse med **kundeserviceanvisningerne**.
-
-**Kunden** er forpligtet til at erstatte ødelagt, bortkommet eller på anden måde ikke returneret **el-løbehjul** til sin nye købspris.
+Hvis **kunden** ikke har valgt købsmuligheden og ikke ønsker at købe el-løbehjulet ved kontraktens udløb, skal el-løbehjulet **returneres til Augment** i henhold til **instruktionerne fra kundeservice**.
 
 ### Fortrydelsesret for fjernsalg
 
@@ -120,7 +118,7 @@ Såfremt **el-løbehjulet** har været brugt i fortrydelsesperioden, og **aftale
 
 ### Servicegebyrer
 
-**Servicegebyrer** opkræves forud i henhold til det forudvalgte betalingsinterval (1 måned, 3 måneder eller 24 måneder). **Kunden** skal sikre, at betalingskortet eller bankkontoen har tilstrækkelige midler til at dække de gældende servicegebyrer.
+**Servicegebyrer** opkræves forud i henhold til det forudvalgte betalingsinterval. **Kunden** skal sikre, at betalingskortet eller bankkontoen har tilstrækkelige midler til at dække de gældende servicegebyrer.
 
 Forfaldsdatoen for **servicegebyret** bestemmes af den dato, hvor ordren er afgivet. Forfaldsdatoen kan ændres ved henvendelse til **kundeservice**. Forfaldsdatoen for månedlige opkrævninger kan variere med et par dage mellem måneder, da længden af kalendermåneder varierer.
 
@@ -212,9 +210,9 @@ Tvister vil primært blive afgjort ved forhandling mellem parterne. **Aftalen** 
 
 Endvidere kan tvister indbringes for de almindelige danske domstole af hver af parterne i overensstemmelse med gældende regler.
 
-### Aftalens gyldighed
+### Gyldigheden af ​​aftalens vilkår
 
-Disse generelle vilkår og betingelser for **Augment** er gældende i **Danmark** fra 4.12.2023 indtil videre.
+Disse vilkår og betingelser for Augment er gældende i Danmark **fra 22.10.2024** indtil videre.
 
 <div class="page"></div>
 
