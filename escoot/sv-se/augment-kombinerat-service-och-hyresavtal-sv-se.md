@@ -64,8 +64,6 @@ Efter att man mottagit en **utbyteselsparkcykel**, skall den trasiga **elsparkcy
 
 Om den trasiga **elsparkcykeln** ej returneras så förbehåller sig **Augment** rätten att ta ut en förseningsavgift på 125 SEK per vecka tills retur är genomförd.
 
-<div class="page"></div>
-
 ### Elsparkcykelns batteri och laddning
 
 **Kunden** måste följa **elsparkcykelns** användarmanual för instruktioner om batteriladdning och förvaring. **Kunden** skall ladda batteriet minst en gång varannan månad. **Kunden** får ej ladda eller använda batteriet om det är skadat, känns varmare än vanligt, avger ovanligt ljud eller läcker någon vätska.
@@ -74,7 +72,7 @@ Om den trasiga **elsparkcykeln** ej returneras så förbehåller sig **Augment**
 
 ### Förlust av elsparkcykel vid stöld, skadegörelse eller annan förlust
 
-Om **elsparkcykeln** blir stulen, försvinner eller vandaliseras måste **kunden** kontakta polis och **Augment** inom 48 timmar från händelsen. **Augment** kommer ta ut en avgift på 2500 SEK utan batteri, 3500 SEK med ett 360Wh-batteri och 4500 SEK med det större batteriet för en stulen **elsparkcykel**. Vid mottagande av betalning kommer en **ersättnings-elsparkcykel** att skickas till **kunden**. **Avtalet** sägs inte upp på grund av stöld, förlust eller skadegörelse.
+Om **elsparkcykeln** blir stulen, försvinner eller vandaliseras måste **kunden** kontakta polis och **Augment** inom 48 timmar från händelsen. **Augment** kommer ta ut en avgift på 2500 SEK utan batteri och 4500 SEK med batteriet för en stulen **elsparkcykel**. Vid mottagande av betalning kommer en **ersättnings-elsparkcykel** att skickas till **kunden**. **Avtalet** sägs inte upp på grund av stöld, förlust eller skadegörelse.
 
 ### Trafikolyckor
 
@@ -92,21 +90,15 @@ Den gamla **elsparkcykeln** måste returneras till **Augment** enligt instruktio
 
 Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** med 30 dagars uppsägningstid.
 
-### Utköp av elsparkcykel
+### Möjlighet att köpa elsparkcykeln
 
-**Kunden** kan köpa ut **elsparkcykeln** genom att betala utköpspriset på 490 SEK när **avtalets** **minimiperiod** har löpt ut. Önskar man köpa ut **elsparkcykeln** innan den avtalade **minimiperioden** så kan kunden göra så genom att betala de återstående månaderna för **minimiperioden** plus utköpspriset på 490 SEK. När betalning har mottagits av **Augment** kommer **avtalet** att upphöra automatiskt.
+**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **35 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **1858 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
 
 <div class="page"></div>
 
-### Uppsägning av avtalet före avtalad minimiperiod
+### Retur av elsparkcykel vid uppsägning av kontrakt
 
-**Kunden** har rätt att säga upp **avtalet** tidigast 11 månader efter **avtalets** början genom att kontakta **kundtjänst** och betala en summa på 1950 SEK. När betalningen har mottagits av **Augment** kommer äganderätten av elsparkcykeln att överföras till **kunden** och **avtalet** upphör automatiskt.
-
-### Retur av elsparkcykel efter uppsägning av avtal
-
-Om **kunden** väljer att inte köpa ut **elsparkcykeln** vid utlöp av **avtalsperioden** så skall **elsparkcykeln** returneras till **Augment** enligt instruktioner från **kundtjänst**.
-
-**Kunden** är skyldig att ersätta förstörd, förlorad eller på annat sätt ej återlämnad **elsparkcykel** till dess nya inköpspris.
+Om kunden inte lagt till vår tilläggstjänst för möjligheten att köpa ut elsparkcykeln eller inte längre vill köpa ut elsparkcykeln i slutet av kontraktet, så skall den **returneras till Augment** enligt **instruktioner från kundtjänst**.
 
 ### Ångerrätt vid distansförsäljning
 
@@ -120,7 +112,7 @@ Om **elsparkcykeln** har använts under ångerrätten och **avtalet** hävs så 
 
 ### Serviceavgifter
 
-**Serviceavgifter** debiteras i förskott enligt förvald betalningsintervall (1 månad, 3 månader eller 24 månader). **Kunden** har ansvar att säkerställa att betalkortet eller bankkontot har tillräckligt belopp för att täcka gällande serviceavgifter.
+**Serviceavgifter** debiteras i förskott enligt förvald betalningsintervall. **Kunden** har ansvar att säkerställa att betalkortet eller bankkontot har tillräckligt belopp för att täcka gällande serviceavgifter.
 
 Förfallodagen för **serviceavgiften** bestäms av det datum då beställningen görs. Förfallodatum kan ändras genom att kontakta **kundtjänst**. Förfallodatumet för månadsavgifter kan variera med några dagar mellan de olika månaderna då längden på kalendermånader varierar.
 
@@ -128,13 +120,13 @@ Om **kunden** inte betalar serviceavgiften på förfallodagen kommer **kunden** 
 
 Betalningar enligt **avtalet** är pantsatta till förmån för Danske Bank A/S, finsk filial som **panthavare**. Ingen annan än **panthavaren** får göra ändringar i betalningsanvisningarna.
 
-<div class="page"></div>
-
 ### Upprätthålla betalningsinformation
 
 Om betalkort/bankkontouppgifter ändras måste nya uppgifter uppdateras via **Augments** självbetjäningswebbplats innan nästa **serviceavgift** förfaller.
 
 De betalningsprocessorer **Augment** använder (för närvarande Adyen/Stripe) lagrar nödvändiga betalkorts- och annan betalningsdata i säkerställd krypterad form i deras egna databaser.
+
+<div class="page"></div>
 
 ### Upprätthålla kontaktuppgifter
 
@@ -216,9 +208,9 @@ Tvisten kan även prövas av Allmänna reklamationsnämnden (P O Box 174, 101 23
 
 Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden för fakturering av tjänster.
 
-### Giltigheten av avtalets villkor
+### Giltighet av avtalets villkor
 
-Dessa allmänna villkor för **Augment** gäller i Sverige från 13.3.2023 tills vidare.
+Dessa villkor för Augment gäller i Sverige från 23.10.2024 och tills vidare.
 
 <div class="page"></div>
 
