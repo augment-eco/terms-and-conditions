@@ -63,11 +63,14 @@ Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteeti
 
 ### Varastettu skuutti, skuuttiin kohdistuva ilkivalta, skuutin muu menettäminen
 
-Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja **Augmentille asiakaspalvelun** live chat:n välityksellä. Veloitamme varastetusta **skuutista** 250 € ilman akkua, 360Wh akun kanssa 350 € ja isompien akkujen kanssa 450 €. Maksun suorittamisen jälkeen toimitamme **asiakkaalle** veloituksetta **vaihtoskuutin**. Varkaus, katoaminen tai ilkivalta ei päätä tätä **sopimusta**.
+Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja **Augmentille asiakaspalvelun** live chat:n välityksellä. Veloitamme varastetusta **skuutista** 250 € ilman akkua ja 450 € akun kanssa. Maksun suorittamisen jälkeen toimitamme **asiakkaalle** veloituksetta **vaihtoskuutin**. Varkaus, katoaminen tai ilkivalta ei päätä tätä **sopimusta**.
+
+<div class="page"></div>
 
 ### Liikenneonnettomuudet
 
-Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja **Augmentille** 48 tunnin sisällä.
+Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä.
+Augment on liikennevakuuttanut sopimuksen piiriin kuuluvat skuutit **Lähi-Tapiolassa**. Vakuutus kattaa liikenteessä tapahtuvat omaisuus- ja henkilövahingot liikennevakuutuslain mukaisesti.
 
 ### Skuutin päivittäminen uuteen
 
@@ -87,19 +90,13 @@ Sopimusaika on vähintään 24 kuukautta **sopimuksen** alkamisesta. Ensimmäise
 
 **Augmentilla** on **minimisopimuskauden** jälkeen oikeus irtisanoa **sopimus** 30 päivän irtisanomisajalla
 
-### Skuutin palauttaminen sopimuksen irtisanomisen jälkeen
-
-Mikäli **sopimuksen** päättymisen jälkeen **asiakas** ei halua lunastaa **skuuttia**, se tulee palauttaa **Augmentille asiakaspalvelun** ohjeita noudattaen.
-
 ### Mahdollisuus lunastaa Skuutti omaksi
 
-**Minimisopimuskauden** jälkeen käytössä olevan **skuutin** voi lunastaa omaksi maksamalla 49 euron **lunastushinnan**. Ennen **minimisopimuskauden** päättymistä **skuutin** voi lunastaa maksamalla jäljellä olevat **minimisopimuskauden palvelumaksut** ja 49 euron **lunastushinnan**. **Lunastushinnan** maksamisen jälkeen **sopimus** lakkaa olemasta voimassa.
+Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **3 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 149 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
 
-### Sopimuksen päättäminen ennen minimisopimuskauden päättymistä
+### Skuutin palautus sopimuksen päättyessä
 
-**Asiakkaalla** on oikeus päättää **sopimus** aikaisintaan 11 kuukauden kuluttua sen alkamisesta toimittamalla asiasta tieto **Augmentin asiakaspalvelulle** ja maksamalla 195 €. Maksun suorittamisen jälkeen **skuutti** siirtyy **asiakkaan** omaksi ja **sopimus** lakkaa olemasta voimassa.
-
-<div class="page"></div>
+Jos asiakkaalla **ei ole** lunastusoptio-lisäpalvelua ja hän **ei halua lunastaa skuuttia** sopimuksen päättyessä, skuutti **tulee palauttaa Augmentille** asiakaspalvelun antamien ohjeiden mukaisesti.
 
 ### Etämyynnin peruutusoikeus
 
@@ -166,8 +163,6 @@ Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmi
 
 Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
 
-<div class="page"></div>
-
 ### Ylivoimainen este
 
 Kumpikaan osapuoli ei vastaa sopimus- tai korvausvelvoitteestaan siltä osin kuin Sopimuksen noudattamista rajoittaa, estää tai viivästyttää ylivoimainen este.
@@ -196,7 +191,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä Augmentin yleiset sopimusehdot ovat voimassa Suomessa 31.1.2023 alkaen toistaiseksi.
+Nämä sopimusehdot ovat voimassa Suomessa 24.10.2024 alkaen toistaiseksi
 
 <div class="page"></div>
 
