@@ -62,7 +62,7 @@ La prestation ne couvre pas :
 
 ### Retourner la trottinette électrique défectueuse
 
-Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
+Après réception d'une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
 
 **Augment** se réserve le droit de facturer des frais de retard de 12,50 € pour chaque semaine suivante si la **trottinette** électrique défectueuse n'est pas retournée.
 
@@ -74,7 +74,7 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera 250 € sans batterie, 350 € avec une batterie de 360 ​​Wh et 450 € avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera **250 € sans batterie** et **450 € avec une batterie** pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
@@ -92,19 +92,13 @@ Le **client** a le droit de résilier le contrat à l'expiration de la **durée 
 
 Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
 
-### Rachat de la trottinette électrique
+### Option d'achat de la trottinette
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de 49 € après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de 49 €. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **149 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
-### Résiliation du contrat avant la fin de la durée minimale du contrat
+### Retour de la trottinette à la fin du contrat
 
-Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant 195 €. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
-
-### Restitution de la trottinette électrique après la résiliation du contrat
-
-Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
-
-Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+Si le **client** n'a pas souscrit à l'option d'achat et ne souhaite pas acheter la trottinette à la fin du contrat, la trottinette **doit être retournée à Augment** conformément aux instructions fournies par le service client.
 
 ### Droit de rétractation de la vente à distance
 
@@ -218,7 +212,7 @@ En cas de litige, le client peut toujours s'adresser à la plateforme européenn
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 28.6.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 24.10.2024 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
