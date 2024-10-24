@@ -67,7 +67,7 @@ Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, a
 
 ### Liikenneonnettomuudet
 
-Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä. 
+Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä.
 Augment on liikennevakuuttanut sopimuksen piiriin kuuluvat skuutit **Lähi-Tapiolassa**. Vakuutus kattaa liikenteessä tapahtuvat omaisuus- ja henkilövahingot liikennevakuutuslain mukaisesti.
 
 ### Skuutin päivittäminen uuteen
