@@ -98,8 +98,6 @@ Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun 
 
 Jos asiakkaalla **ei ole** lunastusoptio-lisäpalvelua ja hän **ei halua lunastaa skuuttia** sopimuksen päättyessä, skuutti **tulee palauttaa Augmentille** asiakaspalvelun antamien ohjeiden mukaisesti.
 
-<div class="page"></div>
-
 ### Etämyynnin peruutusoikeus
 
 **Asiakkaalla** on kuluttajansuojalain mukainen oikeus peruuttaa etämyynnissä tehty sopimus viimeistään 14 päivän kuluessa Sopimuksen tekemisestä. **Sopimuksen** peruuttamisesta tulee ilmoittaa Augmentille toimittamalla liitteenä oleva **peruutuslomake** täytettynä **asiakaspalvelulle**.
