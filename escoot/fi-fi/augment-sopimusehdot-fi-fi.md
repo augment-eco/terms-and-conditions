@@ -65,6 +65,8 @@ Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteeti
 
 Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja **Augmentille asiakaspalvelun** live chat:n välityksellä. Veloitamme varastetusta **skuutista** 250 € ilman akkua ja 450 € akun kanssa. Maksun suorittamisen jälkeen toimitamme **asiakkaalle** veloituksetta **vaihtoskuutin**. Varkaus, katoaminen tai ilkivalta ei päätä tätä **sopimusta**.
 
+<div class="page"></div>
+
 ### Liikenneonnettomuudet
 
 Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä.
