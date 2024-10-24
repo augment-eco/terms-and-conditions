@@ -163,8 +163,6 @@ Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmi
 
 Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
 
-<div class="page"></div>
-
 ### Ylivoimainen este
 
 Kumpikaan osapuoli ei vastaa sopimus- tai korvausvelvoitteestaan siltä osin kuin Sopimuksen noudattamista rajoittaa, estää tai viivästyttää ylivoimainen este.
