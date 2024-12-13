@@ -118,7 +118,7 @@ Si le **client** ne paie pas les frais de service à la date d'échéance, le **
 
 **Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
 
-Les paiements au titre de l'**accord** sont gagés en faveur de Danske Bank A/S, succursale finlandaise en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
+Les paiements au titre de l'**accord** sont gagés en faveur de Norion Bank AB en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
 
 ### Gestion des informations de paiement
 
@@ -214,7 +214,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 6.7.2023 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
@@ -231,7 +231,7 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 - **Trottinette électrique** -La **trottinette électrique** d'**Augment** inclus dans le **service**
 - **Durée minimale de l'accord** - La période pendant laquelle l'**accord** est en vigueur pour une durée déterminée, après laquelle l'**accord** se poursuit indéfiniment à moins qu'il ne soit résilié par le **client** conformément aux termes de l'**accord** avant la fin de la durée déterminée
 - **Loi sur la circulation routière** - Loi Suisse sur la **circulation routière** (art. 18), let. b de l’ordonnance concernant les exigences techniques requises pour les véhicules routiers (OETV)
-- **Gage** - Danske Bank [A/S, succursale finlandaise], ID d'entreprise : [1078693-2]
+- **Gage** - Norion Bank AB, ID d'entreprise : 556597-0513
 - **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
 - **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
 - **Frais de service** - Frais d'utilisation liés à cet **accord**, facturés à des intervalles de 1 mois, 3 mois ou 24 mois

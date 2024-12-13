@@ -128,7 +128,7 @@ Das Fälligkeitsdatum der **Servicegebühr** wird durch das Datum der Bestellung
 
 Im Falle eines Zahlungsverzugs werden dem **Kunden** Verzugszinsen in Höhe des im Zinsgesetz vorgesehenen Satzes berechnet. Zusätzlich zu den Verzugszinsen ist **Augment** berechtigt, angemessene Inkassokosten zu berechnen. Wenn der **Kunde** den **E-Scooter** nicht zurückgibt, ist **Augment** berechtigt, die vollen Kosten für die Suche und Abholung des **E-Scooters** sowie die Kosten eines Gerichtsverfahrens zu berechnen. Die Nichtrückgabe des **E-Scooters** führt zu einer Strafanzeige gegen den Kunden.
 
-Die Forderungen aus dem Vertrag sind zugunsten der finnischen Niederlassung der Danske Bank A/S, dem **Pfandnehmer**, verpfändet. Niemand außer dem **Pfandnehmer** darf Änderungen an den Zahlungsanweisungen vornehmen.
+Die Forderungen aus dem Vertrag sind zugunsten der finnischen Niederlassung der Norion Bank AB, dem **Pfandnehmer**, verpfändet. Niemand außer dem **Pfandnehmer** darf Änderungen an den Zahlungsanweisungen vornehmen.
 
 ### Verwaltung von Zahlungsinformationen
 
@@ -218,7 +218,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 17.10.2024 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 13.12.2024 bis auf weiteres gültig.
 
 <div class="page"></div>
 
@@ -234,7 +234,7 @@ Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 1
 - **Service** - Der E-Scooter Service unter diesem Vertrag
 - **Servicebedingungen** - Bedingungen dieses Vertrages
 - **Servicegebühr** - Nutzungsgebühren im Zusammenhang mit diesem Vertrag, die in Abständen von 1 Monat, 3 Monaten oder 24 Monaten erhoben werden
-- **Pfandnehmer** - Danske Bank A/S Finland Branch, Geschäftsnummer 1078693-2
+- **Pfandnehmer** - Norion Bank AB, Geschäftsnummer 556597-0513
 - **Widerrufsrecht** - Gesetzliches Recht, diesen Vertrag gemäß den Bestimmungen des Konsumentenschutzgesetzes über den Fernabsatz innerhalb von 14 Tagen nach der Bestellung zu widerrufen
 - **E-Scooter** - Im Service enthaltener Augment E-Scooter
 - **Vertrag** - Dieser Vertrag
