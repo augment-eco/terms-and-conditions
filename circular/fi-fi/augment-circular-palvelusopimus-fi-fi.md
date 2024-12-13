@@ -105,7 +105,7 @@ Sopimuksen mukaiset Palvelumaksut veloitetaan etukäteen kuukausittain. Asiakkaa
 
 Palvelumaksun eräpäivä määräytyy tilauspäivän mukaan. Eräpäivää voi siirtää olemalla yhteydessä asiakaspalveluun. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
 
-Tämän Sopimuksen alaiset saatavat on pantattu Danske Bank AB:n (myöhemmin pantinsaaja) hyväksi. Kukaan muu kuin pantinsaaja ei saa tehdä muutoksia maksuohjeisiin.
+Tämän Sopimuksen alaiset saatavat on pantattu Norion Bank AB:n (myöhemmin pantinsaaja) hyväksi. Kukaan muu kuin pantinsaaja ei saa tehdä muutoksia maksuohjeisiin.
 
 ### Maksutietojen ylläpitäminen
 
@@ -184,7 +184,7 @@ Asiakkaalla on oikeus saattaa sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 12.8.2024 alkaen toistaiseksi.
+Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 13.12.2024 alkaen toistaiseksi.
 
 <div class="page"></div>
 
@@ -199,7 +199,7 @@ Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 12.8.2024 a
 - Asiakas – asiakas, joka solmii palvelusopimuksen Augmentin kanssa. Tämän Sopimuksen osapuolena olet vastuussa Skuutista, Palvelumaksuista ja Käytöstä.
 - Asiakaspalvelu – Augmentin asiakaspalvelu
 - Circular-vaihtoskuutti – Sinulla käytössä ollutta Circular-skuuttia olennaisilta ominaisuuksiltaan vastaava Augmentin korjaama ja tarkistama vaihtolaite. Circular-vaihtoskuuteissa voi olla käytön jälkiä.
-- Pantinsaaja – Danske Bank AB
+- Pantinsaaja – Norion Bank AB
 - Peruutusoikeus – Lakisääteinen oikeus irtisanoa tämä sopimus kuluttajansuojalain (38/1978) etämyyntiä koskevien säännösten mukaisesti 14 päivän sisällä tilauksesta
 - Lisäpalvelut – Tähän sopimukseen erikseen tarjottavat palvelut, jotka edellyttävät tämän Sopimuksen voimassaoloa
 - Kuluvat osat – Circular-skuutin käytön yhteydessä normaalisti kuluvat osat kuten renkaat ja jarrupalat
