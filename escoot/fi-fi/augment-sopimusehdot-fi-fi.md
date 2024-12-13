@@ -114,7 +114,7 @@ Mikäli **skuutti** on otettu käyttöön peruutusaikana ja **sopimus** perutaan
 
 **Palvelumaksun** eräpäivä määräytyy tilauspäivän mukaan. Eräpäivää voi siirtää olemalla yhteydessä **asiakaspalveluun**. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
 
-**Sopimuksen** alaiset saatavat on pantattu Danske Bank AB:n hyväksi. Kukaan muu kuin **pantinsaaja** ei saa tehdä muutoksia maksuohjeisiin.
+**Sopimuksen** alaiset saatavat on pantattu Norion Bank AB:n hyväksi. Kukaan muu kuin **pantinsaaja** ei saa tehdä muutoksia maksuohjeisiin.
 
 ### Maksutietojen ylläpitäminen
 
@@ -191,7 +191,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä sopimusehdot ovat voimassa Suomessa 24.10.2024 alkaen toistaiseksi
+Nämä sopimusehdot ovat voimassa Suomessa 13.12.2024 alkaen toistaiseksi
 
 <div class="page"></div>
 
@@ -206,7 +206,7 @@ Nämä sopimusehdot ovat voimassa Suomessa 24.10.2024 alkaen toistaiseksi
 - Asiakas – asiakas, joka solmii palvelusopimuksen Augmentin kanssa. Tämän Sopimuksen osapuolena olet vastuussa Skuutista, Palvelumaksuista ja Käytöstä.
 - Asiakaspalvelu – Augmentin asiakaspalvelu
 - Vaihtoskuutti – Sinulla käytössä ollut Skuuttia vastaava Augmentin korjaama ja tarkistama vaihtolaite. Vaihtoskuutit ovat Augmentin korjaamia ja tarkastamia. Vaihtoskuuteissa voi olla käytön jälkiä.
-- Pantinsaaja – Danske Bank AB
+- Pantinsaaja – Norion Bank AB
 - Peruutusoikeus – Lakisääteinen oikeus irtisanoa tämä Sopimus kuluttajansuojalain (38/1978) etämyyntiä koskevien säännösten mukaisesti 14 päivän sisällä tilauksesta
 - Lisäpalvelut – Tähän Sopimukseen erikseen tarjottavat palvelut, jotka edellyttävät tämän Sopimuksen voimassaoloa
 - Kuluvat osat – Skuutin käytön yhteydessä normaalisti kuluvat osat kuten renkaat ja jarrupalat
