@@ -124,7 +124,7 @@ Forfaldsdatoen for **servicegebyret** bestemmes af den dato, hvor ordren er afgi
 
 Hvis **kunden** undlader at betale servicegebyret på forfaldsdatoen, vil **kunden** blive opkrævet morarenter i henhold til gældende lov. Ud over de forfaldne renter er **Augment** berettiget til at opkræve rimelige inkassoomkostninger. Hvis **kunden** undlader at returnere **el-løbehjulet**, er **Augment** berettiget til at opkræve **kunden** for de fulde omkostninger til **Augments** eftersøgnings- og afhentningsomkostninger og relaterede sagsomkostninger. **Augment** vil indgive strafferetlige anklager, hvis **el-løbehjulet** ikke returneres, hvis det anmodes om det.
 
-Betalinger i henhold til **aftalen** er pantsat til fordel for Danske Bank A/S, finsk filial som **panthaver**. Ingen andre end **panthaveren** må foretage ændringer i betalingsinstruksen.
+Betalinger i henhold til **aftalen** er pantsat til fordel for Norion Bank AB, finsk filial som **panthaver**. Ingen andre end **panthaveren** må foretage ændringer i betalingsinstruksen.
 
 ### Vedligeholdelse af betalingsoplysninger
 
@@ -212,7 +212,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 ### Gyldigheden af ​​aftalens vilkår
 
-Disse vilkår og betingelser for Augment er gældende i Danmark **fra 22.10.2024** indtil videre.
+Disse vilkår og betingelser for Augment er gældende i Danmark **fra 13.12.2024** indtil videre.
 
 <div class="page"></div>
 
@@ -229,7 +229,7 @@ Disse vilkår og betingelser for Augment er gældende i Danmark **fra 22.10.2024
 - **El-løbehjul** - Augments el-løbehjul inkluderet i servicen
 - **Minimum aftaleperiode** - Det tidsrum, som aftalen er gældende for en tidsbegrænset periode, hvorefter aftalen fortsætter på ubestemt tid, medmindre den opsiges af kunden i overensstemmelse med aftalevilkårene inden udløbet af den tidsbegrænsede periode.
 - **Færdselslov** – finsk vejtrafiklov (729/2018), som ændret fra tid til anden
-- **Pantsætter** - Danske Bank A/S, finsk filial, forretnings-ID: 1078693-2
+- **Pantsætter** - Norion Bank AB,forretnings-ID: 556597-0513
 - **Erstatningsløbehjul** - Erstatningsløbehjul, der svarer til den, kunden har brugt. Erstatningsløbehjul er blevet repareret og verificeret af Augment. Erstatningsløbehjul kan vise tegn på slid. Disse omfatter ridser og malingsafslag.
 - **Fortrydelsesret** - Lovbestemt ret til at opsige denne aftale inden for 14 dage efter bestillingen i overensstemmelse med bestemmelserne i forbrugerbeskyttelsesloven vedrørende fjernsalg
 - **Service** – Augments elektriske løbehjulservice leveret i overensstemmelse med denne aftale
