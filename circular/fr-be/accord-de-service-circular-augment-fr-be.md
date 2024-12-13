@@ -32,7 +32,7 @@ La **durée minimale** ferme du contrat est de 6, 12 ou 24 mois. Après la fin d
 
 ### Utilisation de la trottinette électrique Circular
 
-Selon le code de la route Français, la **trottinette** électrique Circular est un "véhicule électrique léger" et est destinée à être utilisée en France conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique Circular sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique Circular et sont capables de manipuler la **trottinette** électrique Circular en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
+Selon le code de la route Belge, la **trottinette** électrique Circular est un "véhicule électrique léger" et est destinée à être utilisée en Belgique conformément au code de la route. Le **client** doit s'assurer que le **client** et les autres utilisateurs de la **trottinette** électrique Circular sont familiarisés avec les règles de **circulation** relatives à l'utilisation de la **trottinette** électrique Circular et sont capables de manipuler la **trottinette** électrique Circular en toutes circonstances sans causer de danger pour eux-mêmes ou pour les autres usagers de la route.
 
 Le **client** est responsable de s'assurer que la **trottinette** électrique Circular est en bon état de fonctionnement et qu'elle est utilisée conformément aux exigences légales. La **trottinette** électrique Circular ne doit pas être utilisée dans des conditions météorologiques inadaptées à une utilisation en toute sécurité.
 
@@ -196,27 +196,21 @@ La langue principale de cet accord est le français. En cas de divergence entre 
 
 ### Droit applicable et litiges
 
-L'**accord** sera régi et interprété conformément aux lois françaises.
+L'accord sera régi et interprété conformément aux lois Belges.
 
-Les différends seront principalement réglés par voie de négociation entre les parties. Le **client** a le droit d'intenter une action contre **Augment** devant le tribunal de grande instance de son lieu de domicile ou de résidence habituelle en France.
+Les présentes Conditions Générales sont soumises à la loi Belge. En cas de litige, le Client contactera le Service de médiation de la consommation pour obtenir une solution amiable.
 
-Les présentes Conditions Générales de location sont soumises à la loi française. En cas de litige, le Client s'adressera à Recommerce Solutions pour obtenir une solution amiable.
+Conformément aux dispositions du droit de la consommation concernant le règlement amiable des litiges, le Service de médiation de la consommation une entité qualifiée et reconnue a été faite par le FOD Economie le 28/05/2015, dont les coordonnées sont les suivants : Boulevard du Roi Albert II 8 Boîte 1 - 1000 Bruxelles : https://consumentenombudsdienst.be
 
-Conformément aux dispositions du Code de la consommation relatives au règlement amiable des litiges, **La médiation du e-commerce** est membre du **service** de médiation du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie - 75008 - Paris : https://www.mediateurfevad.fr
+Après demande écrite préalable du consommateur à La médiation du e-commerce, le service du médiateur peut être saisi pour tout litige de consommation non réglé.
 
-Après demande écrite préalable du consommateur à **La médiation du e-commerce**, le **service** du médiateur peut être saisi pour tout litige de consommation non réglé.
+Pour savoir comment contacter le médiateur : https://consumentenombudsdienst.be/nl/info/info#procedure
 
-Pour savoir comment contacter le médiateur : https://www.mediateurfevad.fr/index.php/espace-consommateur/
-
-**La médiation du e-commerce** s'engage à appliquer le Code de déontologie du e-commerce et de la vente à distance de la FEVAD.
-
-Le Client peut consulter à tout moment ces dispositions sur le site http://www.fevad.com
-
-A défaut, tout litige né de la formation, de l'interprétation ou de l'exécution du présent Contrat sera de la compétence exclusive des tribunaux français compétents.
+A défaut, toute contestation sur la formation, l'interprétation ou l'exécution du présent contrat sous la juridiction exclusive des juridictions belges compétentes.
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 13.12.2024 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
@@ -225,15 +219,15 @@ Les présentes conditions générales d'**Augment** sont en vigueur en France à
 - **Services supplémentaires** - Services fournis séparément de cet **accord** et qui nécessitent la validité de cet **accord**]
 - **Accord** - cet **accord**
 - **Augment** - **Augment** Mobility Ab, siège social Upankatu 1, 60100 Seinäjoki , enregistré sous le numéro : 2700974-2 et sociétés appartenant au même groupe qu'**Augment** Mobility Ab
-- **Loi sur la protection des consommateurs** – Loi française sur la protection des consommateurs (2011/83/EU), telle que modifiée de temps à autre
+- **Loi sur la protection des consommateurs** - Les missions du Service de médiation pour les consommateurs sont définies dans le Livre XVI de la Loi économique et ont été précisées dans l'arrêté royal du 16 février 2015.
 - **Client** - un **client** qui conclut un contrat de service avec **Augment**. En tant que partie au présent accord, vous êtes responsable de la **trottinette** électrique inclus, des **frais de service** et de l'utilisation.
 - **Service client** - **Service client Augment**
 - **Dommages** - Une panne inattendue de la **trottinette** électrique causée par l'utilisateur ou des circonstances en dehors de l'utilisation normale, par ex. un chute ou une collision
 - **Défaut** - Un problème inattendu avec la **trottinette** électrique lors d'une utilisation normale qui empêche ou limite l'utilisation de la **trottinette** électrique.
 - **Trottinette électrique** -La **trottinette électrique** d'**Augment** inclus dans le **service**
 - **Durée minimale de l'accord** - La période pendant laquelle l'**accord** est en vigueur pour une durée déterminée, après laquelle l'**accord** se poursuit indéfiniment à moins qu'il ne soit résilié par le **client** conformément aux termes de l'**accord** avant la fin de la durée déterminée
-- **Loi sur la circulation routière** - Loi française sur la **circulation routière** (R412-43-1), telle que modifiée de temps à autre
-- **Gage** - Norion Bank AB, ID d'entreprise :  556597-0513
+- **Loi sur la circulation routière** - <https://www.politie.be/5415/vragen/verkeer/welke-regels-gelden-voor-de-trottinette>
+- **Gage** - Norion Bank AB, ID d'entreprise : 556597-0513
 - **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
 - **Droit de rétractation** - Droit légal de résilier le présent Contrat dans les 14 jours suivant la commande conformément aux dispositions de la loi sur la protection du consommateur concernant la vente à distance
 - **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
