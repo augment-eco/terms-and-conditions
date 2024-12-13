@@ -118,7 +118,7 @@ Las **tarifas de servicio** se cobran por adelantado según el intervalo de pago
 
 La fecha de vencimiento de la **tarifa de servicio** está determinada por la fecha en la que se realiza el pedido. La fecha de vencimiento se puede cambiar contactando con el **servicio de atención al cliente**. Pueden aplicarse cargos prorrateados por los días de extensión del intervalo de pago. La fecha de vencimiento de los cargos mensuales puede variar unos días entre meses, ya que la duración de los meses calendario varía.
 
-Los pagos en virtud del **contrato** están garantizados a favor de Danske Bank A/S, sucursal finlandesa, en calidad de **acreedor prendario**. Nadie más que el **acreedor prendario** podrá realizar cambios en las instrucciones de pago.
+Los pagos en virtud del **contrato** están garantizados a favor de Norion Bank AB, en calidad de **acreedor prendario**. Nadie más que el **acreedor prendario** podrá realizar cambios en las instrucciones de pago.
 
 ### Mantener la información de pago
 
@@ -226,7 +226,7 @@ Estos términos y condiciones se aplicarán a partir del 7 de marzo de 2024 hast
 - **Patinete eléctrico** - Patinete eléctrico de Augment incluido en el servicio.
 - **Duración mínima del contrato** - El período de tiempo durante el cual el contrato está vigente por un período fijo, después del cual el contrato continúa indefinidamente a menos que el cliente lo rescinda de acuerdo con los términos del contrato antes del final del período fijo.
 - **Normativa española de circulación de la DGT** - Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad personal. <https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-987>
-- **Acreedor prendario** - Danske Bank [*A/S, Finnish branch*], ID de empresa: [*add correct entity*]
+- **Acreedor prendario** - Norion Bank AB, ID de empresa: 556597-0513
 - **Patinete eléctrico de reemplazo** - El patinete eléctrico de reemplazo es equivalente al que ha utilizado el cliente. Augment ha reparado y verificado los patinetes eléctricos de reemplazo. Los patinetes eléctricos de reemplazo pueden mostrar signos de uso y desgaste, estos incluyen rayones y saltaduras de pintura.
 - **Derecho de desistimiento** - Derecho legal a rescindir este Contrato dentro de los 14 días posteriores al pedido, en conformidad con las disposiciones de la Ley de Protección al Consumidor en materia de venta a distancia.
 - **Servicio** – Servicio del patinete eléctrico de Augment proporcionado de acuerdo con este contrato.

@@ -122,7 +122,7 @@ Si le **client** ne paie pas les frais de service à la date d'échéance, le **
 
 **Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
 
-Les paiements au titre de l'**accord** sont gagés en faveur de Danske Bank A/S, succursale finlandaise en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
+Les paiements au titre de l'**accord** sont gagés en faveur de Norion Bank AB en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
 
 ### Gestion des informations de paiement
 
@@ -222,7 +222,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 ### Validité des conditions de l'accord
 
-Ces conditions générales d'Augment sont en vigueur en France à partir du 10.10.2024 jusqu'à nouvel ordre.
+Ces conditions générales d'Augment sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
@@ -239,7 +239,7 @@ Ces conditions générales d'Augment sont en vigueur en France à partir du 10.1
 - **Trottinette électrique** -La **trottinette électrique** d'**Augment** inclus dans le **service**
 - **Durée minimale de l'accord** - La période pendant laquelle l'**accord** est en vigueur pour une durée déterminée, après laquelle l'**accord** se poursuit indéfiniment à moins qu'il ne soit résilié par le **client** conformément aux termes de l'**accord** avant la fin de la durée déterminée
 - **Loi sur la circulation routière** - Loi française sur la **circulation routière** (R412-43-1), telle que modifiée de temps à autre
-- **Gage** - Danske Bank [A/S, succursale finlandaise], ID d'entreprise : [1078693-2]
+- **Gage** - Norion Bank AB, ID d'entreprise : 556597-0513
 - **Trottinette électrique de remplacement** - La **trottinette électrique de remplacement** équivalente à celle que le **client** a utilisé. Les trottinettes électriques de remplacement ont été réparés et vérifiés par **Augment**. Les trottinettes électriques de remplacement peuvent présenter des signes d'usure. Ceux-ci incluent les rayures et les éclats de peinture.
 - **Droit de rétractation** - Droit légal de résilier le présent Contrat dans les 14 jours suivant la commande conformément aux dispositions de la loi sur la protection du consommateur concernant la vente à distance
 - **Service - Service** de la **trottinette** électrique d'**Augment** fourni conformément à cet accord
