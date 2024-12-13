@@ -112,7 +112,7 @@ Le **commissioni di servizio** sono addebitate in anticipo in base all'intervall
 
 La data di scadenza della **tassa di servizio** è determinata dalla data in cui viene effettuato l'ordine. La data di scadenza può essere modificata contattando il **servizio clienti**. La data di scadenza per le spese mensili può variare di alcuni giorni tra i mesi, come la durata dei mesi di calendario varia.
 
-I pagamenti previsti dal **contratto** sono impegnati a favore di Danske Bank A/S, filiale Finlandese in **pegno**. Nessun altro che il **pegno** può apportare modifiche alle istruzioni di pagamento.
+I pagamenti previsti dal **contratto** sono impegnati a favore di Norion Bank AB in **pegno**. Nessun altro che il **pegno** può apportare modifiche alle istruzioni di pagamento.
 
 ### Diritto di recesso della vendita a distanza
 
@@ -217,7 +217,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 21.10.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 13.12.2024 fino a nuovo avviso.
 
 <div class="page"></div>
 
@@ -234,7 +234,7 @@ I presenti termini e condizioni generali di **Augment** sono validi in Italia da
 - **Monopattino elettrico** - monopattino elettrico di Augment incluso nel servizio
 - **Periodo minimo di contratto** - Il periodo di tempo per il quale il contratto è in vigore per un periodo determinato, dopo il quale il contratto continua a tempo indeterminato, a meno che non sia risolto dal cliente in conformità con i termini del contratto prima della fine del termine fisso
 - **Legge sul traffico stradale** - Legge italiana sul traffico stradale (729/2018), modificata di volta in volta
-- **Pegno** - Danske Bank [A/S, filiale finlandese], business ID: [aggiungere entità corretta]
+- **Pegno** - Norion Bank AB, business ID: 556597-0513
 - **Monopattino elettrico di sostituzione** - Lo scooter elettrico di sostituzione che è equivalente a quello che il cliente ha usato. I monopattini elettrici sostitutivi sono stati riparati e verificati da Augment. I monopattini elettrici possono mostrare segni di usura. Questi includono graffi e trucioli di vernice.
 - **Servizio** - Servizio di monopattino elettrico Augment fornito in conformità con il presente accordo
 - **Spesa di servizio** - Spese di utilizzo relative al presente accordo, addebitate a intervalli di 1 mese, 3 mesi o 24 mesi
