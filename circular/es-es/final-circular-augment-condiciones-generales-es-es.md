@@ -106,7 +106,7 @@ Las **tarifas de servicio** se cobran por adelantado según el intervalo de pago
 
 La fecha de vencimiento de la **tarifa de servicio** está determinada por la fecha en la que se realiza el pedido. La fecha de vencimiento se puede cambiar contactando con el **servicio de atención al cliente**. Pueden aplicarse cargos prorrateados por los días de extensión del intervalo de pago. La fecha de vencimiento de los cargos mensuales puede variar unos días entre meses, ya que la duración de los meses calendario varía.
 
-Los pagos en virtud del **contrato** están garantizados a favor de Danske Bank A/S, sucursal finlandesa, en calidad de **acreedor prendario**. Nadie más que el **acreedor prendario** podrá realizar cambios en las instrucciones de pago.
+Los pagos en virtud del **contrato** están garantizados a favor de Norion Bank AB en calidad de **acreedor prendario**. Nadie más que el **acreedor prendario** podrá realizar cambios en las instrucciones de pago.
 
 ### Mantener la información de pago
 
@@ -217,7 +217,7 @@ petición.
 
 ### Validez de los términos del acuerdo
 
-Estos términos y condiciones de Augment entran en vigencia en España desde el 15.10.2024 hasta nuevo aviso.
+Estos términos y condiciones de Augment entran en vigencia en España desde el 13.12.2024 hasta nuevo aviso.
 
 <div class="page"></div>
 
@@ -255,7 +255,7 @@ de acuerdo con los términos del contrato antes del final del período fijo.
 General de Tráfico, por la que se aprueba el Manual de características de los vehículos de movilidad
 personal. https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-987
 
-**Acreedor prendario** - Danske Bank [A/S, Finnish branch], ID de empresa: [add correct entity]
+**Acreedor prendario** - Norion Bank AB, ID de empresa: 556597-0513
 
 **Patinete eléctrico de reemplazo** - El patinete eléctrico de reemplazo es equivalente al que ha
 utilizado el cliente. Augment ha reparado y verificado los patinetes eléctricos de reemplazo. Los
