@@ -122,7 +122,7 @@ De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de be
 
 Indien de **klant** de servicevergoeding niet op de vervaldag betaalt, wordt de **klant** een vertragingsrente volgens het toepasselijke recht in rekening gebracht. Naast de vertragingsrente is **Augment** gerechtigd redelijke incassokosten in rekening te brengen. Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
 
-De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Danske Bank A/S, Fins bijkantoor, als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
+De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
 ### Betalingsinformatie bijhouden
 
@@ -206,7 +206,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 11.10.2024 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 13.12.2024 tot nader order.
 
 <div class="page"></div>
 
@@ -223,7 +223,7 @@ Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 11.10
 - **E-step** - Augment's elektrische scooter inbegrepen in de dienst
 - **Minimumduur van de overeenkomst** - De periode gedurende welke de overeenkomst voor bepaalde tijd van kracht is, waarna de overeenkomst voor onbepaalde tijd doorloopt, tenzij de klant de overeenkomst voor het einde van de bepaalde tijd overeenkomstig de voorwaarden van de overeenkomst opzegt.
 - **Wegenverkeerswet** - <https://www.politie.be/5415/vragen/verkeer/welke-regels-gelden-voor-de-e-step>
-- **Pledgee** - Danske Bank [*A/S, Fins filiaal*], business ID: 1078693-2
+- **Pledgee** - Norion Bank AB, business ID: 556597-0513
 - **Vervangende e-step** - De vervangende elektrische scooter die gelijkwaardig is aan de scooter die de klant heeft gebruikt. Vervangende e-steps zijn gerepareerd en gecontroleerd door Augment. Vervangende e-steps kunnen tekenen van slijtage vertonen. Deze omvatten krassen en verfschilfers.
 - **Herroepingsrecht** - Wettelijk recht om deze overeenkomst op te zeggen binnen 14 dagen na de bestelling overeenkomstig de bepalingen van de wet op de consumentenbescherming betreffende verkoop op afstand.
 - **Dienst** - de elektrische scooterdienst van Augment die overeenkomstig deze overeenkomst wordt geleverd.
