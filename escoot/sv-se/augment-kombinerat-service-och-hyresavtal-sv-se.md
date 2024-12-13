@@ -118,7 +118,7 @@ Förfallodagen för **serviceavgiften** bestäms av det datum då beställningen
 
 Om **kunden** inte betalar serviceavgiften på förfallodagen kommer **kunden** att debiteras dröjsmålsränta enligt gällande lag. Utöver dröjsmålsräntan har **Augment** rätt att ta ut skäliga inkassokostnader. Om **kunden** inte lämnar tillbaka elsparkcykeln så har Augment rätt att debitera kunden kostnaden för **Augments** sök- och insamling samt relaterade rättegångskostnader. **Augment** kommer att väcka åtal om elsparkcykeln inte returneras på begäran.
 
-Betalningar enligt **avtalet** är pantsatta till förmån för Danske Bank A/S, finsk filial som **panthavare**. Ingen annan än **panthavaren** får göra ändringar i betalningsanvisningarna.
+Betalningar enligt **avtalet** är pantsatta till förmån för Norion Bank AB som **panthavare**. Ingen annan än **panthavaren** får göra ändringar i betalningsanvisningarna.
 
 ### Upprätthålla betalningsinformation
 
@@ -210,7 +210,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 ### Giltighet av avtalets villkor
 
-Dessa villkor för Augment gäller i Sverige från 23.10.2024 och tills vidare.
+Dessa villkor för Augment gäller i Sverige från 13.12.2024 och tills vidare.
 
 <div class="page"></div>
 
@@ -227,7 +227,7 @@ Dessa villkor för Augment gäller i Sverige från 23.10.2024 och tills vidare.
 - **Elsparkcykel** – Augments elsparkcykel som ingår i tjänsten
 - **Minsta avtalsperiod** - Den tidsperiod under vilken avtalet gäller på viss tid, varefter avtalet löper på obestämd tid om det inte sägs upp av kunden i enlighet med villkoren i avtalet före utgången av avtalsperioden
 - **Vägtrafiklagen** – Finlands vägtrafiklag (729/2018) som kan komma att ändras
-- **Pantsättare** - Danske Bank [A/S, finsk filial], företags-ID: 1078693-2
+- **Pantsättare** - Norion Bank AB, företags-ID: 556597-0513
 - **Ersättnings-elsparkcykel** – Den elektriska ersättningsskotern som motsvarar den som kunden har använt. Ersättnings-elsparkcyklar har reparerats och verifierats av Augment. Ersättning-selsparkcyklar kan visa tecken på slitage. Dessa inkluderar repor och färgsprickor.
 - **Ångerrätt** - Lagstadgad rätt att säga upp detta avtal inom 14 dagar från beställningen i enlighet med bestämmelserna i konsumentskyddslagen om distansförsäljning.
 - **Tjänst** – Augments elsparkcykeltjänst tillhandahålls i enlighet med detta avtal
