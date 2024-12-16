@@ -176,6 +176,8 @@ Onder overmacht wordt verstaan een omstandigheid die de partij ten tijde van het
 
 Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vertraagd, wordt de termijn voor de nakoming van de verplichting verlengd in de mate die onder de gegeven omstandigheden redelijk is.
 
+<div class="page"></div>
+
 ### Verwerking van persoonsgegevens, telematicagegevens en cookies
 
 **Augment** verwerkt persoonsgegevens in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming. Voor meer informatie over de verwerking van persoonsgegevens en cookies wordt verwezen naar het privacybeleid van **Augment**, dat te vinden is op de website van **Augment**.
