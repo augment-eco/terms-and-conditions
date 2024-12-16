@@ -160,8 +160,6 @@ De **dienst** en de functies ervan of de toepasselijke voorwaarden kunnen worden
 
 Indien de wijziging gebaseerd is op een wetswijziging of een besluit van een autoriteit, is **Augment** gerechtigd de wijziging door te voeren vanaf de datum waarop de wetswijziging of het besluit van een autoriteit van kracht wordt.
 
-<div class="page"></div>
-
 ### Intellectuele eigendomsrechten
 
 Intellectuele eigendomsrechten zoals auteursrechten, merken en octrooien met betrekking tot de **diensten, e-step** en andere producten van **Augment** behoren toe aan **Augment** of een derde. **Augment** verleent voor de duur van de **overeenkomst** een beperkte licentie op de onder de **overeenkomst** vallende **dienst** en op de onder de **overeenkomst** geleverde machinetaalversies en documentatie van de software, uitsluitend voor gebruik in overeenstemming met deze **overeenkomst**.
