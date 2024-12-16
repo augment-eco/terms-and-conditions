@@ -18,7 +18,7 @@ De **overeenkomst** wordt elektronisch gesloten. De **overeenkomst** komt tot st
 
 Alvorens een bestelling te aanvaarden, heeft **Augment** het recht de kredietwaardigheid van de **klant** te verifiëren.
 
-### Circular E-Step 
+### Circular E-Step
 
 Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **Circular e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **Circular e-step** te schilderen, stickers aan te brengen of de **Circular e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **Circular e-step** in de oorspronkelijke staat in rekening te brengen.
 
@@ -32,7 +32,7 @@ Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Cir
 
 De **minimale vaste looptijd** van de **overeenkomst** is 6,12 or 24 maanden. Na afloop van de minimumtermijn blijft het contract tot nader order van kracht. De contract kan worden beëindigd met een opzegtermijn van 30 dagen.
 
-### Gebruik van de Circular e-step 
+### Gebruik van de Circular e-step
 
 Volgens de **Belgiese** **wegenverkeerswet** is de **Circular e-step** een "licht elektrisch voertuig" en is deze bestemd voor gebruik in Belgie overeenkomstig de **wegenverkeerswet**. De **klant** dient ervoor te zorgen dat de **klant** en andere gebruikers van de **Circular** vertrouwd zijn met de verkeersregels betreffende het gebruik van de **e-step** en in staat zijn de **e-step** onder alle omstandigheden te besturen zonder gevaar voor zichzelf of andere weggebruikers te veroorzaken.
 
