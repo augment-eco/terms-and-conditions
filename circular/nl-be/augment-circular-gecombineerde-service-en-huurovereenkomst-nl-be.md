@@ -100,8 +100,6 @@ De verpakking met de **Circular e-step** mag door de **klant** worden geopend om
 
 Indien de **Circular e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **Circular e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **Circular e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar zijn.
 
-<div class="page"></div>
-
 ## Vergoedingen voor diensten, en behoud van contactgegevens
 
 ### Servicekosten
