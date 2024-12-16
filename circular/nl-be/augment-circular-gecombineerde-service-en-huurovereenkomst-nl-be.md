@@ -30,7 +30,7 @@ Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Cir
 
 ### Duur van de overeenkomst
 
-De **minimale vaste looptijd** van de **overeenkomst** is 6,12 or 24 maanden. Na afloop van de minimumtermijn blijft het contract tot nader order van kracht. De contract kan worden beëindigd met een opzegtermijn van 30 dagen.
+De **minimale vaste looptijd** van de **overeenkomst** is 6,12 of 24 maanden. Na afloop van de minimumtermijn blijft het contract tot nader order van kracht. De contract kan worden beëindigd met een opzegtermijn van 30 dagen.
 
 ### Gebruik van de Circular e-step
 
