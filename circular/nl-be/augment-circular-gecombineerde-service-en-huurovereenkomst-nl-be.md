@@ -20,13 +20,13 @@ Alvorens een bestelling te aanvaarden, heeft **Augment** het recht de kredietwaa
 
 ### Circular E-Step 
 
-Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **e-step** te schilderen, stickers aan te brengen of de **e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **e-step** in de oorspronkelijke staat in rekening te brengen.
+Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **Circular e-step** te schilderen, stickers aan te brengen of de **Circular e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **Circular e-step** in de oorspronkelijke staat in rekening te brengen.
 
 Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Circular e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
 
 <div class="page"></div>
 
-## Duur van de overeenkomst en het gebruik van de e-step
+## Duur van de overeenkomst en het gebruik van de Circular e-step
 
 ### Duur van de overeenkomst
 
