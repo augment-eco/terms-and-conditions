@@ -186,8 +186,6 @@ Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vert
 
 **Augment is** niet aansprakelijk voor indirecte schade of gevolgschade, tenzij **Augment** deze schade opzettelijk of door grove nalatigheid heeft veroorzaakt.
 
-<div class="page"></div>
-
 ### Contractuele taal
 
 De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdigheid tussen de verschillende taalversies is de Vlaamse versie doorslaggevend.
