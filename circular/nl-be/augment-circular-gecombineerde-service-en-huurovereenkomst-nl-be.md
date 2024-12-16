@@ -80,8 +80,6 @@ Bij diefstal, verlies of vandalisme van de **Circular e-step** dient de **klant*
 
 Elk verkeersongeval waarbij een derde betrokken is, moet binnen 48 uur na het ongeval aan de politie en aan **Augment** worden gemeld.
 
-<div class="page"></div>
-
 ## Beëindiging van de overeenkomst
 
 De **klant** heeft het recht de **overeenkomst** na afloop van de **minimumduur** te beëindigen door **Augment** via **Augment** livechat of per e-mail voor het verstrijken van de **minimumduur** schriftelijk op te zeggen.
