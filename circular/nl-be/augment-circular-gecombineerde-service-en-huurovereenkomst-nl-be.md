@@ -1,6 +1,6 @@
-# AUGMENT GECOMBINEERDE SERVICE- EN HUUROVEREENKOMST
+# AUGMENT CIRCULAR SERVICE- EN HUUROVEREENKOMST
 
-De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdienst** die **Augment** levert aan particulieren, de **klant**. Augment en de klant gezamenlijk, zijn de **partijen**. De klant is een [volledig bevoegde] natuurlijke persoon boven de 18 jaar en geen voogd. De **dienst** en de e-step is voor het gebruik van één huishoud. De **dienst** of **e-step** mag niet worden gebruikt voor commerciële doeleinden of voor het genereren van inkomsten.
+De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdienst** die **Augment** levert aan particulieren, de **klant**. Augment en de klant gezamenlijk, zijn de **partijen**. De klant is een [volledig bevoegde] natuurlijke persoon boven de 18 jaar en geen voogd. De **dienst** en de e-step is voor het gebruik van één huishoud. De **dienst** of **Circular e-step** mag niet worden gebruikt voor commerciële doeleinden of voor het genereren van inkomsten.
 
 Het doel van de **overeenkomst** is de rechten en verplichtingen van de partijen met betrekking tot de **dienst** en de **e-step** als volgt vast te leggen:
 
@@ -18,11 +18,11 @@ De **overeenkomst** wordt elektronisch gesloten. De **overeenkomst** komt tot st
 
 Alvorens een bestelling te aanvaarden, heeft **Augment** het recht de kredietwaardigheid van de **klant** te verifiëren.
 
-### E-Step
+### Circular E-Step 
 
-De **dienst** omvat de huur van een persoonlijke **e-step**. Aan het begin van de **minimale contractperiode** stelt **Augment** een nieuwe, ongebruikte **e-step** ter beschikking. De **e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **e-step** te schilderen, stickers aan te brengen of de **e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **e-step** in de oorspronkelijke staat in rekening te brengen.
+Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **e-step** te schilderen, stickers aan te brengen of de **e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **e-step** in de oorspronkelijke staat in rekening te brengen.
 
-Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
+Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Circular e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
 
 <div class="page"></div>
 
@@ -30,23 +30,23 @@ Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **e-s
 
 ### Duur van de overeenkomst
 
-De **minimale vaste looptijd** van de **overeenkomst** is 24 maanden. Gedurende de eerste periode van 24 maanden van de **overeenkomst** kan de **overeenkomst** niet worden opgezegd (**minimale looptijd van de overeenkomst**). Na afloop van de minimumtermijn blijft de **overeenkomst** tot nader order van kracht en kan deze worden opgezegd met een opzegtermijn van 30 dagen, tenzij de **klant** de **e-scooter** heeft opgewaardeerd tot een nieuwe volgens onderstaande procedure.
+De **minimale vaste looptijd** van de **overeenkomst** is 6,12 or 24 maanden. Na afloop van de minimumtermijn blijft het contract tot nader order van kracht. De contract kan worden beëindigd met een opzegtermijn van 30 dagen.
 
-### Gebruik van de e-step
+### Gebruik van de Circular e-step 
 
-Volgens de **Belgiese** **wegenverkeerswet** is de **e-step** een "licht elektrisch voertuig" en is deze bestemd voor gebruik in Belgie overeenkomstig de **wegenverkeerswet**. De **klant** dient ervoor te zorgen dat de **klant** en andere gebruikers van de **e-step** vertrouwd zijn met de verkeersregels betreffende het gebruik van de **e-step** en in staat zijn de **e-step** onder alle omstandigheden te besturen zonder gevaar voor zichzelf of andere weggebruikers te veroorzaken.
+Volgens de **Belgiese** **wegenverkeerswet** is de **Circular e-step** een "licht elektrisch voertuig" en is deze bestemd voor gebruik in Belgie overeenkomstig de **wegenverkeerswet**. De **klant** dient ervoor te zorgen dat de **klant** en andere gebruikers van de **Circular e-step** vertrouwd zijn met de verkeersregels betreffende het gebruik van de **e-step** en in staat zijn de **e-step** onder alle omstandigheden te besturen zonder gevaar voor zichzelf of andere weggebruikers te veroorzaken.
 
-De **klant** is er verantwoordelijk voor dat de **e-step** in goede staat verkeert en in overeenstemming met de wettelijke voorschriften wordt gebruikt. De **e-step** mag niet worden gebruikt in weersomstandigheden die ongeschikt zijn voor veilig gebruik.
+De **klant** is er verantwoordelijk voor dat de **Circular e-step** in goede staat verkeert en in overeenstemming met de wettelijke voorschriften wordt gebruikt. De **e-step** mag niet worden gebruikt in weersomstandigheden die ongeschikt zijn voor veilig gebruik.
 
-De **e-step** is niet bedoeld voor racen, off-roaden of kunstrijden. Kunstrijden omvat, maar is niet beperkt tot, slippen, opzettelijk de remmen blokkeren, wheelen, springen en stuiteren.
+De **Circular e-step** is niet bedoeld voor racen, off-roaden of kunstrijden. Kunstrijden omvat, maar is niet beperkt tot, slippen, opzettelijk de remmen blokkeren, wheelen, springen en stuiteren.
 
-**Augment** heeft het recht om kosten die ontstaan door het gebruik van de **e-step** op een wijze die in strijd is met deze **overeenkomst** of de gebruikershandleiding aan de **klant** in rekening te brengen.
+**Augment** heeft het recht om kosten die ontstaan door het gebruik van de **Circular e-step** op een wijze die in strijd is met deze **overeenkomst** of de gebruikershandleiding aan de **klant** in rekening te brengen.
 
-### Defecten of schade aan de e-step
+### Defecten of schade aan de Circular e-step
 
-Eventuele technische **defecten** of **schade** aan de **e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **e-step** toesturen. De levertijd van de **e-step** is normaal gesproken 4-5 werkdagen vanaf de datum van verzending.
+Eventuele technische **defecten** of **schade** aan de **Circular e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **e-step** toesturen. De levertijd van de **Circular e-step** is normaal gesproken 4-5 werkdagen vanaf de datum van verzending.
 
-De **klant** kan de **e-step** ook zelf repareren. In dat geval stelt **Augment** de **klant** gratis reserveonderdelen ter beschikking die nodig zijn voor de reparatie.
+De **klant** kan de **Circular e-step** ook zelf repareren. In dat geval stelt **Augment** de **klant** gratis reserveonderdelen ter beschikking die nodig zijn voor de reparatie.
 
 De **dienst** omvat:
 
@@ -68,23 +68,17 @@ Na ontvangst van een **vervangende e-step** dient de defecte **e-step** binnen e
 
 ### E-step batterij en opladen
 
-De **klant** moet zich houden aan de gebruikershandleiding van **de e-step** voor instructies voor het opladen en opslaan van de batterij. De **klant** laadt de accu ten minste om de 2 maanden op. De **klant** mag de accu niet opladen of gebruiken als deze fysiek beschadigd is, meer dan normaal warm wordt, een vreemd geluid maakt of lekt.
+De **klant** moet zich houden aan de gebruikershandleiding van **de Circular e-step** voor instructies voor het opladen en opslaan van de batterij. De **klant** laadt de accu ten minste om de 2 maanden op. De **klant** mag de accu niet opladen of gebruiken als deze fysiek beschadigd is, meer dan normaal warm wordt, een vreemd geluid maakt of lekt.
 
 **Augment** zal de accu kosteloos vervangen als de maximale capaciteit van de accu minder dan 70% van de capaciteit van de nieuwe accu bedraagt. Indien de accu niet volgens de instructies is opgeslagen of opgeladen, is **Augment** niet verplicht de accu te vervangen.
 
 ### Verlies van de e-step door diefstal, vandalisme of ander verlies
 
-Bij diefstal, verlies of vandalisme van de **e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
+Bij diefstal, verlies of vandalisme van de **Circular e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **Circular e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
 
 ### Verkeersongevallen
 
 Elk verkeersongeval waarbij een derde betrokken is, moet binnen 48 uur na het ongeval aan de politie en aan **Augment** worden gemeld.
-
-### De e-step updaten naar een nieuwe
-
-De **e-step** kan na 12 maanden na aanvang van de **overeenkomst** worden opgewaardeerd naar een nieuwe **e-step** tegen een vergoeding van € 125, of gratis 18 maanden na aanvang van de **overeenkomst**. Bij opwaardering van een **e-step** begint een nieuwe **minimum looptijd** van de **overeenkomst** van 24 maanden.
-
-De oude **e-step** dient na aankomst van de nieuwe **e-step** volgens de instructies van de **klantenservice** aan **Augment** te worden geretourneerd. Indien de oude **e-step** niet binnen een week na ontvangst van de nieuwe **e-step** wordt geretourneerd, is **Augment** gerechtigd een vertragingsvergoeding van € 12,50 per week vertraging in rekening te brengen.
 
 <div class="page"></div>
 
@@ -94,13 +88,11 @@ De **klant** heeft het recht de **overeenkomst** na afloop van de **minimumduur*
 
 Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **overeenkomst** op te zeggen met een opzegtermijn van 30 dagen.
 
-### Aflossing van de e-step
-
-Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€149**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
-
 ### e-Step retour na afloop van het contract
 
-Als de klant de afkoopoptie niet heeft en de e-step aan het einde van het contract periode niet wil kopen, moet de e-sstep worden teruggestuurd naar Augment volgens de instructies van de klantenservice.
+Aan het einde van de contracttermijn moet de Circular e-step volgens de instructies van de klantenservice aan Augment worden geretourneerd.
+
+De klant is verplicht schade, vernieling, verlies of niet-terugzending van de step te vergoeden.
 
 ### Herroepingsrecht bij verkoop op afstand
 
@@ -144,7 +136,7 @@ Op verzoek van de **klant**, een verzekeringsmaatschappij of een bevoegde instan
 
 **Augment** is gerechtigd het gebruik van de **dienst** op te schorten en/of te beperken onder de hierna genoemde omstandigheden. Onder opschorting wordt verstaan het bevriezen van alle in het kader van deze **overeenkomst** beschikbare **diensten**. Beperken betekent het beperken van het gebruik van één of meer van de **diensten** (of een deel daarvan) die op grond van deze **overeenkomst** beschikbaar zijn.
 
-Indien de **klant** openstaande onbetaalde servicekosten heeft, of indien de **e-step** is gestolen, verloren, verduisterd of in het onrechtmatige bezit van een ander is, heeft **Augment** het recht het gebruik van de **e-step** te beperken. Het beperken van het gebruik van de **e-step** kan inhouden dat de snelheid wordt verminderd, of dat het gebied waarin de step wordt gebruikt wordt beperkt.
+Indien de **klant** openstaande onbetaalde servicekosten heeft, of indien de **Circular e-step** is gestolen, verloren, verduisterd of in het onrechtmatige bezit van een ander is, heeft **Augment** het recht het gebruik van de **Circular e-step** te beperken. Het beperken van het gebruik van de **Circular e-step** kan inhouden dat de snelheid wordt verminderd, of dat het gebied waarin de step wordt gebruikt wordt beperkt.
 
 **Augment** heeft het recht de **dienst** geheel of gedeeltelijk op te schorten indien:
 
@@ -156,7 +148,7 @@ Indien de **klant** openstaande onbetaalde servicekosten heeft, of indien de **e
 
 ### Schending van de overeenkomst
 
-Indien de **klant** de verschuldigde servicekosten niet betaalt of anderszins wezenlijk in strijd handelt met de voorwaarden van de **overeenkomst**, heeft **Augment** het recht de **overeenkomst** onmiddellijk te beëindigen en de **e-step** zonder overleg met de **klant** terug te nemen.
+Indien de **klant** de verschuldigde servicekosten niet betaalt of anderszins wezenlijk in strijd handelt met de voorwaarden van de **overeenkomst**, heeft **Augment** het recht de **overeenkomst** onmiddellijk te beëindigen en de **Circular e-step** zonder overleg met de **klant** terug te nemen.
 
 **Augment** heeft een soortgelijk recht indien het gedrag of de financiële omstandigheden van de **klant** zodanig zijn dat er ernstige redenen zijn om aan te nemen dat de **klant** niet zal betalen of anderszins de **overeenkomst** wezenlijk zal schenden.
 
@@ -192,7 +184,7 @@ Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vert
 
 **Augment** verwerkt persoonsgegevens in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming. Voor meer informatie over de verwerking van persoonsgegevens en cookies wordt verwezen naar het privacybeleid van **Augment**, dat te vinden is op de website van **Augment**.
 
-**Augment** kan telematicagegevens verzamelen van de **e-step** en andere apparaten, zoals informatie over de locatie van de **e-step**, de bewegingen, de temperatuur en het algemene gebruik van het apparaat. Telematicagegevens omvatten geen persoonsgegevens.
+**Augment** kan telematicagegevens verzamelen van de **Circular e-step** en andere apparaten, zoals informatie over de locatie van de **Circular e-step**, de bewegingen, de temperatuur en het algemene gebruik van het apparaat. Telematicagegevens omvatten geen persoonsgegevens.
 
 ### Beperking van de aansprakelijkheid
 
