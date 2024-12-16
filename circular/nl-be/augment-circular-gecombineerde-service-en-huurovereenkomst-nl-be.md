@@ -5,7 +5,7 @@ De voorwaarden van deze **overeenkomst** zijn van toepassing op de **e-stepdiens
 Het doel van de **overeenkomst** is de rechten en verplichtingen van de partijen met betrekking tot de **dienst** en de **e-step** als volgt vast te leggen:
 
 - Inwerkingtreding van de **overeenkomst** (bladzijde 1)
-- Gebruik van de **e-step** en de duur van de **overeenkomst** (blz. 2)
+- Gebruik van de **Circular e-step** en de duur van de **overeenkomst** (blz. 2)
 - Beëindiging van de **overeenkomst** (blz. 4)
 - **Vergoedingen voor diensten** en behoud van contactgegevens (blz. 5)
 - Overige voorwaarden (blz. 5)
@@ -20,9 +20,9 @@ Alvorens een bestelling te aanvaarden, heeft **Augment** het recht de kredietwaa
 
 ### Circular E-Step 
 
-Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **Circular e-step** te schilderen, stickers aan te brengen of de **Circular e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **Circular e-step** in de oorspronkelijke staat in rekening te brengen.
+Aan het begin van de **minimale contractperiode** biedt **Augment** een volledig gereviseerde **e-step** aan. De **Circular e-step** is voor de duur van de **overeenkomst** eigendom van **Augment**. De **Circular e-step** dient in originele staat te worden gehouden. Technische of andere wijzigingen zijn niet toegestaan. Het is de **klant** niet toegestaan **Augment**-logo's te verwijderen, de **Circular e-step** te schilderen, stickers aan te brengen of de **Circular e-step** op andere wijze te wijzigen. **Augment** behoudt zich het recht voor de **klant** de kosten voor het terugbrengen van de **Circular e-step** in de oorspronkelijke staat in rekening te brengen.
 
-Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Circular e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
+Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **Circular e-step** worden gemonteerd, mits deze accessoires kunnen worden verwijderd zonder sporen achter te laten op de **Circular e-step**. De **klant** is verantwoordelijk voor het installeren, verwijderen en afvoeren van alle accessoires en sporen die de accessoires achterlaten.
 
 <div class="page"></div>
 
@@ -34,7 +34,7 @@ De **minimale vaste looptijd** van de **overeenkomst** is 6,12 or 24 maanden. Na
 
 ### Gebruik van de Circular e-step 
 
-Volgens de **Belgiese** **wegenverkeerswet** is de **Circular e-step** een "licht elektrisch voertuig" en is deze bestemd voor gebruik in Belgie overeenkomstig de **wegenverkeerswet**. De **klant** dient ervoor te zorgen dat de **klant** en andere gebruikers van de **Circular e-step** vertrouwd zijn met de verkeersregels betreffende het gebruik van de **e-step** en in staat zijn de **e-step** onder alle omstandigheden te besturen zonder gevaar voor zichzelf of andere weggebruikers te veroorzaken.
+Volgens de **Belgiese** **wegenverkeerswet** is de **Circular e-step** een "licht elektrisch voertuig" en is deze bestemd voor gebruik in Belgie overeenkomstig de **wegenverkeerswet**. De **klant** dient ervoor te zorgen dat de **klant** en andere gebruikers van de **Circular** vertrouwd zijn met de verkeersregels betreffende het gebruik van de **e-step** en in staat zijn de **e-step** onder alle omstandigheden te besturen zonder gevaar voor zichzelf of andere weggebruikers te veroorzaken.
 
 De **klant** is er verantwoordelijk voor dat de **Circular e-step** in goede staat verkeert en in overeenstemming met de wettelijke voorschriften wordt gebruikt. De **e-step** mag niet worden gebruikt in weersomstandigheden die ongeschikt zijn voor veilig gebruik.
 
@@ -44,7 +44,7 @@ De **Circular e-step** is niet bedoeld voor racen, off-roaden of kunstrijden. Ku
 
 ### Defecten of schade aan de Circular e-step
 
-Eventuele technische **defecten** of **schade** aan de **Circular e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **e-step** toesturen. De levertijd van de **Circular e-step** is normaal gesproken 4-5 werkdagen vanaf de datum van verzending.
+Eventuele technische **defecten** of **schade** aan de **Circular e-step** moeten worden gemeld via de live chat van de **klantenservice**. Na melding zal **Augment** de **klant** de volgende werkdag gratis een vervangende **Circular e-step** toesturen. De levertijd van de **Circular e-step** is normaal gesproken 4-5 werkdagen vanaf de datum van verzending.
 
 De **klant** kan de **Circular e-step** ook zelf repareren. In dat geval stelt **Augment** de **klant** gratis reserveonderdelen ter beschikking die nodig zijn voor de reparatie.
 
@@ -55,18 +55,18 @@ De **dienst** omvat:
 
 De **dienst** dekt niet:
 
-- Krassen, slijtage of vlekken op het lakwerk die het gebruik van de **e-step** niet beïnvloeden.
+- Krassen, slijtage of vlekken op het lakwerk die het gebruik van de **Circular e-step** niet beïnvloeden.
 - **Gebreken** veroorzaakt door opzet of grove nalatigheid, in welk geval **Augment** het recht heeft de kosten van herstel bij de **klant** in rekening te brengen.
 
-**Augment** is niet aansprakelijk wegens de **klant** of derden voor **schade** aan personen, zaken of roerende of onroerende goederen veroorzaakt door de **e-step** of het gebruik ervan. Het is de verantwoordelijkheid van de **klant** om te zorgen voor een geldige verzekering die dergelijke **schade**, ongevallen en wettelijke aansprakelijkheid dekt.
+**Augment** is niet aansprakelijk wegens de **klant** of derden voor **schade** aan personen, zaken of roerende of onroerende goederen veroorzaakt door de **Circular e-step** of het gebruik ervan. Het is de verantwoordelijkheid van de **klant** om te zorgen voor een geldige verzekering die dergelijke **schade**, ongevallen en wettelijke aansprakelijkheid dekt.
 
-### De defecte e-step terugbrengen
+### De defecte Circular e-step terugbrengen
 
-Na ontvangst van een **vervangende e-step** dient de defecte **e-step** binnen een week na ontvangst van de **vervangende e-step** aan **Augment** te worden bezorcht volgens de door de **klantenservice** verstrekte instructies. Het retourneren van een defecte **e-step** is gratis.
+Na ontvangst van een **vervangende e-step** dient de defecte **Circular e-step** binnen een week na ontvangst van de **vervangende e-step** aan **Augment** te worden bezorcht volgens de door de **klantenservice** verstrekte instructies. Het retourneren van een defecte **Circular e-step** is gratis.
 
-**Augment** behoudt zich het recht voor om € 12,50 per week in rekening te brengen als de defecte **e-step** niet wordt terugbezorcht.
+**Augment** behoudt zich het recht voor om € 12,50 per week in rekening te brengen als de defecte **Circular e-step** niet wordt terugbezorcht.
 
-### E-step batterij en opladen
+### Circular E-step batterij en opladen
 
 De **klant** moet zich houden aan de gebruikershandleiding van **de Circular e-step** voor instructies voor het opladen en opslaan van de batterij. De **klant** laadt de accu ten minste om de 2 maanden op. De **klant** mag de accu niet opladen of gebruiken als deze fysiek beschadigd is, meer dan normaal warm wordt, een vreemd geluid maakt of lekt.
 
@@ -74,7 +74,7 @@ De **klant** moet zich houden aan de gebruikershandleiding van **de Circular e-s
 
 ### Verlies van de e-step door diefstal, vandalisme of ander verlies
 
-Bij diefstal, verlies of vandalisme van de **Circular e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **Circular e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
+Bij diefstal, verlies of vandalisme van de **Circular e-step** dient de **klant** de politie en **Augment** binnen 48 uur na het voorval op de hoogte te stellen. **Augment** brengt voor een gestolen **Circular e-step** €250 zonder accu en €450 met een accu in rekening. Na ontvangst van de betaling wordt een vervangende **Circular e-step** aan de **klant** geleverd. Deze **overeenkomst** vervalt niet door diefstal, verlies of vandalisme.
 
 ### Verkeersongevallen
 
@@ -88,7 +88,7 @@ De **klant** heeft het recht de **overeenkomst** na afloop van de **minimumduur*
 
 Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **overeenkomst** op te zeggen met een opzegtermijn van 30 dagen.
 
-### e-Step retour na afloop van het contract
+### Circular e-step retour na afloop van het contract
 
 Aan het einde van de contracttermijn moet de Circular e-step volgens de instructies van de klantenservice aan Augment worden geretourneerd.
 
@@ -98,9 +98,9 @@ De klant is verplicht schade, vernieling, verlies of niet-terugzending van de st
 
 Volgens de **wet op de consumentenbescherming** heeft de **klant** het recht de **overeenkomst** binnen 14 dagen na het sluiten van de **overeenkomst** te herroepen. Annulering van de **overeenkomst** dient aan **Augment** te worden gemeld door het bijgevoegde **formulier voor annulering van de verkoop op afstand** volledig ingevuld te retourneren aan de **klantenservice**.
 
-De verpakking met de **e-step** mag door de **klant** worden geopend om de inhoud te controleren. In geval van annulering van de **overeenkomst** door de **klant**, dient de **e-step** binnen één week na de annulering van de **overeenkomst** in originele staat aan **Augment** te worden geretourneerd, volgens de instructies van de **klantenservice**.
+De verpakking met de **Circular e-step** mag door de **klant** worden geopend om de inhoud te controleren. In geval van annulering van de **overeenkomst** door de **klant**, dient de **Circular e-step** binnen één week na de annulering van de **overeenkomst** in originele staat aan **Augment** te worden geretourneerd, volgens de instructies van de **klantenservice**.
 
-Indien de **e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar zijn.
+Indien de **Circular e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **Circular e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **Circular e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar zijn.
 
 <div class="page"></div>
 
