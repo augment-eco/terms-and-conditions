@@ -86,6 +86,8 @@ Wenn Ihr **Circular E-scooter** gestohlen wird, verloren geht oder mutwillig bes
 
 Verkehrsunfälle, an denen Dritte beteiligt sind, müssen der Polizei und **Augment** innerhalb von 48 Stunden nach dem Unfall gemeldet werden.
 
+<div class="page"></div>
+
 ## Bedingungen für die Kündigung des Vertrages
 
 ### Kündigung des Vertrages
