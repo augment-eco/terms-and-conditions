@@ -173,6 +173,8 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
+<div class="page"></div>
+
 ### Höhere Gewalt
 
 Keine der Parteien haftet für ihre vertraglichen Verpflichtungen oder für Schadenersatz, soweit die Erfüllung des Vertrags durch höhere Gewalt eingeschränkt, verhindert oder verzögert wird.
