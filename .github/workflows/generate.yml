@@ -107,8 +107,10 @@ jobs:
             filename=$(basename "$file")
             dirname=$(dirname "$file")
 
-            # Remove all existing PDFs from the directory
-            git rm "$dirname"/*.pdf
+            # Check if there are any existing PDFs in the directory before removing
+            if ls "$dirname"/*.pdf 1> /dev/null 2>&1; then
+              git rm "$dirname"/*.pdf
+            fi
 
             # Generate new PDF
             base_filename="${filename%.md}"
