@@ -34,7 +34,7 @@ Das Anbringen von normalem **Circular E-scooter**-Zubehör, wie z.B. einer Handy
 
 ### Vertragslaufzeit
 
-Die Mindestvertragslaufzeit beträgt 6, 12 oder Monate ab **Vertragsbeginn**. Nach Ablauf der Mindestlaufzeit bleibt der Vertrag bis auf Weiteres in Kraft und kann mit einer Frist von 30 Tagen gekündigt werden.
+Die Mindestvertragslaufzeit beträgt 6, 12 oder 24 Monate ab **Vertragsbeginn**. Nach Ablauf der Mindestlaufzeit bleibt der Vertrag bis auf Weiteres in Kraft und kann mit einer Frist von 30 Tagen gekündigt werden.
 
 ### Benutzung des Circular E-scooters
 
