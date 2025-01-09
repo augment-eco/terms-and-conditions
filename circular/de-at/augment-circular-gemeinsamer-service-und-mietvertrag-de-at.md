@@ -165,8 +165,6 @@ Der **Service** und seine Merkmale oder die geltenden Vertragsbedingungen könne
 
 Basiert die Änderung auf einer Gesetzesänderung oder einer behördlichen Entscheidung, ist **Augment** berechtigt, die Änderung ab dem Datum des Inkrafttretens der Gesetzesänderung oder der behördlichen Entscheidung umzusetzen.
 
-<div class="page"></div>
-
 ### Immaterielle Rechte
 
 Immaterielle Eigentumsrechte wie Urheberrechte, Marken und Patente, die sich auf den Service, den **Circular E-scooter** und andere Produkte von **Augment** beziehen, gehören **Augment** oder einer dritten Partei. **Augment** gewährt für die Dauer des **Vertrags** eine eingeschränkte Lizenz für den **Service** im Rahmen des **Vertrags** und für die maschinensprachlichen Versionen und die Dokumentation der im Rahmen des **Vertrags** gelieferten Software.
