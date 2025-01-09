@@ -193,8 +193,6 @@ Wenn die Erfüllung des **Vertrags** durch höhere Gewalt verhindert oder verzö
 
 **Augment** haftet nicht für indirekte Schäden oder Folgeschäden, außer wenn **Augment** diese Schäden oder Folgeschäden absichtlich oder durch grobe Fahrlässigkeit verursacht hat.
 
-<div class="page"></div>
-
 ### Vertragssprache
 
 Die Hauptsprache dieses **Vertrages** ist Deutsch. Im Falle eines Widerspruchs zwischen den verschiedenen Sprachversionen ist die deutsche Version maßgebend.
