@@ -109,8 +109,6 @@ Die Verpackung des **Circular E-scooters** darf geöffnet werden, um den Inhalt 
 
 Wenn der **Circular E-scooter** während der Widerrufsfrist benutzt wurde und der **Vertrag** storniert wird, ist **Augment** berechtigt, dem Kunden die Wertminderung des **Circular E-scooters** zu berechnen. Wenn der zurückgegebene **Circular E-scooter** unverkäuflich ist, hat **Augment** das Recht, dem Kunden einen Betrag zu berechnen, der dem vollen Wert des **Circular E-scooters** entspricht.
 
-<div class="page"></div>
-
 ## Bedingungen für Servicegebühren und Kontaktinformationen
 
 ### Servicegebühren
