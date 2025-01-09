@@ -24,7 +24,7 @@ Der **Vertrag** wird online abgeschlossen. Der **Vertrag** beginnt, wenn **Augme
 
 Auslieferung eines Circular E-scooters an den Kunden zu Vertragsbeginn
 
-**Augment** liefert dem **Kunden** zu Beginn der Mindestvertragslaufzeit einen neuen, unbenutzten **Circular E-scooter** zur Miete als Teil des Services. Der **Circular E-scooter** ist für die **Vertragsdauer** das Eigentum von **Augment**. Der **Circular E-scooter** muss in seinem ursprünglichen Zustand belassen werden. Es dürfen keine technischen oder sonstigen Änderungen am Circular E-scooter vorgenommen werden. Es ist nicht gestattet, **Augment**-Logos zu entfernen, zu bemalen, Aufkleber anzubringen oder den **Circular E-scooter** anderweitig zu verändern. **Augment** behält sich das Recht vor, dem **Kunden** die Kosten für die Wiederherstellung des Originalzustands des **Circular E-scooters** zu berechnen.
+**Augment** liefert dem **Kunden** zu Beginn der Mindestvertragslaufzeit einen gebrauchten, generalüberholten **E-Scooter** zur Miete als Teil des Services. Der **Circular E-scooter** ist für die **Vertragsdauer** das Eigentum von **Augment**. Der **Circular E-scooter** muss in seinem ursprünglichen Zustand belassen werden. Es dürfen keine technischen oder sonstigen Änderungen am Circular E-scooter vorgenommen werden. Es ist nicht gestattet, **Augment**-Logos zu entfernen, zu bemalen, Aufkleber anzubringen oder den **Circular E-scooter** anderweitig zu verändern. **Augment** behält sich das Recht vor, dem **Kunden** die Kosten für die Wiederherstellung des Originalzustands des **Circular E-scooters** zu berechnen.
 
 Das Anbringen von normalem **Circular E-scooter**-Zubehör, wie z.B. einer Handyhalterung, am **Circular E-scooter** ist erlaubt, sofern es sich spurlos wieder entfernen lässt. Das Anbringen und Entfernen von Zubehör sowie die Reparatur von Spuren, die das Zubehör hinterlässt, gehen auf Kosten des **Kunden**.
 
@@ -34,7 +34,7 @@ Das Anbringen von normalem **Circular E-scooter**-Zubehör, wie z.B. einer Handy
 
 ### Vertragslaufzeit
 
-Die Vertragslaufzeit beträgt mindestens 24 Monate ab **Vertragsbeginn**. Danach läuft der **Vertrag** mit einer Kündigungsfrist von 30 Tagen auf unbestimmte Zeit weiter, außer der **Kunde** hat den Circular E-scooter wie unten beschrieben aufgerüstet, wodurch eine neue **Mindestvertragslaufzeit** beginnt.
+Die Mindestvertragslaufzeit beträgt 6, 12 oder Monate ab **Vertragsbeginn**. Nach Ablauf der Mindestlaufzeit bleibt der Vertrag bis auf Weiteres in Kraft und kann mit einer Frist von 30 Tagen gekündigt werden.
 
 ### Benutzung des Circular E-scooters
 
@@ -96,7 +96,8 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 ### Circular E-scooter Rückgabe bei Vertragsende
 
-Wenn der Kunde nicht von der Kaufoption Gebrauch macht und den Circular E-scooter am Ende des Vertrages nicht kaufen möchte, muss der Circular E-scooter gemäß den Anweisungen des Kundendienstes an Augment zurückgegeben werden.
+Am Ende der Vertragslaufzeit muss der Circular E-Scooter gemäß den Anweisungen des Kundendienstes an Augment zurückgegeben werden.
+Der Kunde ist verpflichtet, Schäden, Zerstörung, Verlust oder Nichtrückgabe des Scooters zu kompensieren.
 
 ### Rücktrittsrecht im Fernabsatz
 
