@@ -100,9 +100,9 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 **Augment** hat das Recht, den **Vertrag** nach Ablauf der **Mindestvertragslaufzeit** mit einer Frist von 30 Tagen zu kündigen.
 
-### Möglichkeit, den E-Scooter zu erwerben
+### Option zum Kauf des E-Scooters
 
-Nach Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** gegen eine Zahlung von 49 CHF kaufen. Vor Ablauf der **Mindestvertragslaufzeit** kann der **Kunde** den **E-Scooter** kaufen, indem er die verbleibenden **Servicegebühren** für die **Mindestvertragslaufzeit** und den Ablösepreis von 49 CHF bezahlt. Sobald **Augment** die Zahlung des **Kunden** erhalten hat, läuft der **Vertrag** aus.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von CHF 3/Monat gewählt hat, kann der EScooter nach der Mindestvertragslaufzeit für CHF 149 erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
 ### Vertragskündigung vor Ablauf der Mindestvertragslaufzeit
 
@@ -208,7 +208,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 13.12.2024 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 24.03.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
