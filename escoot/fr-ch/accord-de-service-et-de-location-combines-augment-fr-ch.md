@@ -30,7 +30,7 @@ Des accessoires normaux tels qu'un support de téléphone portable peuvent être
 
 ### Durée de l'accord
 
-La **durée minimale** ferme du contrat est de 24 mois. Pendant les 24 premiers mois du contrat, le contrat ne peut pas être résilié (**durée minimale** du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le **client** a mis à niveau la **trottinette** électrique vers un nouvel **accord** conformément à la procédure mentionnée ci-dessous.
+La **durée minimale** ferme du contrat est de **24 mois**. Pendant les 24 premiers mois du contrat, le contrat ne peut pas être résilié (durée minimale du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le client a mis à niveau la trottinette électrique vers un nouvel accord conformément à la procédure mentionnée ci-dessous.
 
 ### Utilisation de la trottinette électrique
 
@@ -74,7 +74,7 @@ Le **client** doit se conformer au manuel d'utilisation de la **trottinette** é
 
 ### Perte de la trottinette électrique suite à un vol, vandalisme ou autre perte
 
-Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera CHF 250 sans batterie, CHF 350 avec une batterie de 360 ​​Wh et CHF 450 avec une batterie plus grande pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
+Si la **trottinette** électrique est volée, perdue ou vandalisée, le **client** doit en informer la police et **Augment** dans les 48 heures suivant la survenance de cet événement. **Augment** facturera CHF 250 sans batterie et CHF 450 avec une batterie pour une **trottinette** électrique volée. Dès réception du paiement, une **trottinette électrique de remplacement** sera livrée au **client**. Cet **accord** n'est pas annulé par le vol, la perte ou le vandalisme.
 
 ### Accidents de la circulation
 
@@ -92,19 +92,19 @@ Le **client** a le droit de résilier le contrat à l'expiration de la **durée 
 
 Après l'expiration de la **durée minimale**, **Augment** aura le droit de résilier le contrat avec un préavis de 30 jours.
 
-### Rachat de la trottinette électrique
+### Option d'achat de la trottinette
 
-Le **client** peut racheter la **trottinette** électrique en payant le prix de rachat de CHF 49 après l'expiration de la **durée minimale** du contrat. Avant la fin de la **durée minimale**, le **client** peut racheter la **trottinette** électrique en payant les frais restants pour la **durée minimale** et le prix de rachat de CHF 49. Une fois le prix de rachat reçu par **Augment**, l'**accord** prendra fin automatiquement.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **CHF 3 par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour CHF 149  à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Résiliation du contrat avant la fin de la durée minimale du contrat
 
 Le **client** a le droit de résilier le contrat au plus tôt 11 mois après le début du contrat en le notifiant au **service client** et en payant CHF 195. Une fois le paiement reçu par **Augment**, la propriété de la **trottinette** électrique sera transférée au **client** et le contrat sera automatiquement résilié.
 
-### Restitution de la trottinette électrique après la résiliation du contrat
+### Retour de la trottinette à la fin du contrat
 
-Si le **client** ne souhaite pas racheter la **trottinette** à la fin de la durée du contrat, la **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client**.
+Si le client **n'a pas souscrit à l'option d'achat** et ne souhaite pas acheter la trottinette à la fin du contrat, la **trottinette doit être retournée à Augment** conformément aux instructions fournies par le service client.
 
-Le **client** est tenu d'indemniser les dommages, la déstruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
+Le **client** est tenu d'indemniser les dommages, la destruction, la perte ou le non retour de la **trottinette** à son prix d’achat.
 
 ## Frais de service et maintien des coordonnées
 
@@ -214,7 +214,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 24.03.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
