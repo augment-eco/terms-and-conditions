@@ -60,7 +60,7 @@ La prestation ne couvre pas :
 
 **Augment** n'est pas responsable vis-à-vis du **client** ou de tiers des **dommages** aux personnes, aux biens ou aux biens mobiliers ou immobiliers causés par la **trottinette** électrique ou son utilisation. Il est de la responsabilité du **client** de s'assurer qu'il dispose d'une police d'assurance valide couvrant ces **dommages**, accidents et responsabilité civile.
 
-### Retourner la trottinette électrique défectueuse
+### Retour de la trottinette électrique défectueuse
 
 Après avoir reçu une **trottinette électrique de remplacement**, la **trottinette** électrique défectueuse doit être retournée à **Augment** dans la semaine suivant la réception de la **trottinette électrique de remplacement** conformément aux instructions fournies par le **service client**. Le retour d'une **trottinette** électrique défectueuse est gratuit.
 
@@ -82,7 +82,7 @@ Tout accident de la **circulation** impliquant un tiers doit être signalé à l
 
 ### Mise à jour de la trottinette électrique
 
-La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de CHF 125, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
+La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de CHF 125, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mise à niveau.
 
 L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de CHF 12,50 par semaine de retard.
 
