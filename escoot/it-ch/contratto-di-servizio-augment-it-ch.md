@@ -1,4 +1,4 @@
-# CONTRATTO DI SERVIZIO AUGMENT
+<img width="1149" alt="image" src="https://github.com/user-attachments/assets/c2add6d0-b3bb-4fc6-83bc-7f54c734be61" /># CONTRATTO DI SERVIZIO AUGMENT
 
 ## Terzi e scopo del contratto
 
@@ -123,6 +123,8 @@ I pagamenti previsti dal **contratto** sono impegnati a favore di Norion Bank AB
 Se i dettagli della carta di pagamento/conto bancario cambiano, i nuovi dati devono essere aggiornati tramite il sito Web self-service di **Augment** prima che la **rata successiva** sia dovuto.
 
 I processori di pagamento utilizzati da **Augment** (attualmente Adyen / Stripe) memorizzano i dati necessari della carta di pagamento e di altri strumenti di pagamento in una forma fortemente crittografata nei propri database.
+
+<div class="page"></div>
 
 ### Mantenimento dei dettagli di contatto
 
