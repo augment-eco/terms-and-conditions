@@ -159,6 +159,8 @@ Il **servizio** e le sue caratteristiche o termini e condizioni applicabili poss
 
 Se la modifica si basa su una modifica della legge o su una decisione di un'autorità, **Augment** ha il diritto di attuare la modifica a partire dalla data di entrata in vigore della legge o della decisione di un'autorità.
 
+<div class="page"></div>
+
 ### Diritti di proprietà intellettuale
 
 I diritti di proprietà intellettuale come copyright, marchi e brevetti relativi ai **servizi di Augment**, **monopattini elettrici** e altri prodotti appartengono ad **Augment** o a terzi. **Augment** concede una licenza limitata per la durata del **contratto** al **servizio** ai sensi del **contratto** e alle versioni in lingua macchina e la documentazione del software consegnato ai sensi del **contratto** esclusivamente per l'uso in conformità con il presente **accordo**.
