@@ -88,6 +88,8 @@ Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino el
 
 Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di CHF 12,50 a settimana di ritardo.
 
+<div class="page"></div>
+
 ## Risoluzione del contratto
 
 Il **cliente** ha il diritto di risolvere il **contratto** alla scadenza della **durata minima del contratto** dandone comunicazione scritta ad Augment tramite live chat **Augment** o via e-mail prima della scadenza del **termine minimo**.
