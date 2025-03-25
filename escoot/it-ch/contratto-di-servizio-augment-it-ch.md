@@ -1,4 +1,4 @@
-<img width="1149" alt="image" src="https://github.com/user-attachments/assets/c2add6d0-b3bb-4fc6-83bc-7f54c734be61" /># CONTRATTO DI SERVIZIO AUGMENT
+# CONTRATTO DI SERVIZIO AUGMENT
 
 ## Terzi e scopo del contratto
 
