@@ -94,9 +94,9 @@ Il **cliente** ha il diritto di risolvere il **contratto** alla scadenza della *
 
 Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere il **contratto** con un preavviso di 30 giorni.
 
-### Riscatto del monopattini elettrico
+### Opzione di acquisto del monopattino elettrico
 
-Il **cliente** può riscattare il **monopattino elettrico** pagando il prezzo di redenzione di CHF 49 dopo la **scadenza minima del contratto**. Prima della fine del **periodo minimo**, il **cliente** può riscattare il **monopattino elettrico** pagando le rate rimanenti per il **periodo minimo** e il prezzo di riscatto di CHF 49. Una volta che il prezzo di riscatto è stato ricevuto da **Augment**, il **contratto** terminerà automaticamente.
+Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di CHF 3 /mese alla creazione del contratto , può acquistare il monopattino elettrico per CHF 149 dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
 
 ### Conclusione del contratto prima della fine del period minimo di contratto
 
@@ -209,7 +209,7 @@ Rue de Genève 17
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 13.12.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 25.03.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
