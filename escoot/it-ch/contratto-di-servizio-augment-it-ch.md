@@ -189,6 +189,8 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 La lingua principale di questo **accordo** è l'italiano. In caso di discrepanza tra le diverse versioni linguistiche, prevale la versione italiana.
 
+<div class="page"></div>
+
 ### Legge applicabile e controversie
 
 Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il **contratto** è regolato e interpretato secondo la **legge italiana** se il domicilio o la residenza abituale del **cliente** è in Svizzera.
