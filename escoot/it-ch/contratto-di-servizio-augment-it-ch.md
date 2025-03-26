@@ -88,15 +88,17 @@ Il **monopattino elettrico può** essere aggiornato ad un nuovo **monopattino el
 
 Il vecchio **monopattino elettrico** deve essere restituito ad **Augment** secondo le istruzioni del **servizio clienti** una volta che il nuovo **monopattino elettrico** è arrivato. Se il **monopattino** **elettrico** non viene restituito entro una settimana dalla ricezione del nuovo **monopattino** **elettrico**, **Augment** avrà il diritto di addebitare una tassa tardiva di CHF 12,50 a settimana di ritardo.
 
+<div class="page"></div>
+
 ## Risoluzione del contratto
 
 Il **cliente** ha il diritto di risolvere il **contratto** alla scadenza della **durata minima del contratto** dandone comunicazione scritta ad Augment tramite live chat **Augment** o via e-mail prima della scadenza del **termine minimo**.
 
 Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere il **contratto** con un preavviso di 30 giorni.
 
-### Riscatto del monopattini elettrico
+### Opzione di acquisto del monopattino elettrico
 
-Il **cliente** può riscattare il **monopattino elettrico** pagando il prezzo di redenzione di CHF 49 dopo la **scadenza minima del contratto**. Prima della fine del **periodo minimo**, il **cliente** può riscattare il **monopattino elettrico** pagando le rate rimanenti per il **periodo minimo** e il prezzo di riscatto di CHF 49. Una volta che il prezzo di riscatto è stato ricevuto da **Augment**, il **contratto** terminerà automaticamente.
+Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di CHF 3 /mese alla creazione del contratto , può acquistare il monopattino elettrico per CHF 149 dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
 
 ### Conclusione del contratto prima della fine del period minimo di contratto
 
@@ -121,6 +123,8 @@ I pagamenti previsti dal **contratto** sono impegnati a favore di Norion Bank AB
 Se i dettagli della carta di pagamento/conto bancario cambiano, i nuovi dati devono essere aggiornati tramite il sito Web self-service di **Augment** prima che la **rata successiva** sia dovuto.
 
 I processori di pagamento utilizzati da **Augment** (attualmente Adyen / Stripe) memorizzano i dati necessari della carta di pagamento e di altri strumenti di pagamento in una forma fortemente crittografata nei propri database.
+
+<div class="page"></div>
 
 ### Mantenimento dei dettagli di contatto
 
@@ -155,6 +159,8 @@ Il **servizio** e le sue caratteristiche o termini e condizioni applicabili poss
 
 Se la modifica si basa su una modifica della legge o su una decisione di un'autorità, **Augment** ha il diritto di attuare la modifica a partire dalla data di entrata in vigore della legge o della decisione di un'autorità.
 
+<div class="page"></div>
+
 ### Diritti di proprietà intellettuale
 
 I diritti di proprietà intellettuale come copyright, marchi e brevetti relativi ai **servizi di Augment**, **monopattini elettrici** e altri prodotti appartengono ad **Augment** o a terzi. **Augment** concede una licenza limitata per la durata del **contratto** al **servizio** ai sensi del **contratto** e alle versioni in lingua macchina e la documentazione del software consegnato ai sensi del **contratto** esclusivamente per l'uso in conformità con il presente **accordo**.
@@ -183,6 +189,8 @@ Se l'esecuzione del **contratto** è sospesa o ritardata a causa di forza maggio
 
 La lingua principale di questo **accordo** è l'italiano. In caso di discrepanza tra le diverse versioni linguistiche, prevale la versione italiana.
 
+<div class="page"></div>
+
 ### Legge applicabile e controversie
 
 Le controversie saranno risolte principalmente mediante negoziati tra le parti. Il **contratto** è regolato e interpretato secondo la **legge italiana** se il domicilio o la residenza abituale del **cliente** è in Svizzera.
@@ -209,7 +217,7 @@ Rue de Genève 17
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 13.12.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 25.03.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
