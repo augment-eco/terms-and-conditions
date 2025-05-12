@@ -225,7 +225,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 ### Validité des conditions de l'accord
 
-Ces conditions générales d'Augment sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
+Ces conditions générales d'Augment sont en vigueur en France à partir du 12.05.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
