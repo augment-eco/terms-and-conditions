@@ -209,7 +209,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 13.12.2024 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 12.05.2025  tot nader order.
 
 <div class="page"></div>
 
