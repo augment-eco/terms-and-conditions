@@ -203,6 +203,8 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 
 La langue principale de cet **accord** est le français. En cas de divergence entre les différentes versions linguistiques, la version française prévaudra.
 
+<div class="page"></div>
+
 ### Droit applicable et litiges
 
 L'**accord** sera régi et interprété conformément aux lois Belges.
