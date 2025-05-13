@@ -144,6 +144,9 @@ Si le **client** a des **frais de service** impayés, ou si la **trottinette** �
 - Cela est nécessaire pour éviter les abus ou les **dommages**,
 - Malgré la demande d'**Augment**, le **client** n'a pas respecté ses obligations contractuelles autres que celles relatives au paiement.
 
+En cas de manquement persistant du client à ses obligations contractuelles et/ou à ses paiements mensuels, et ce malgré des mises en demeure écrites, Augment se réserve le droit de :
+- Résilier le présent contrat et d’exiger du client le règlement des mensualités restant dues au titre de la durée minimale du contrat, en sus des paiements déjà exigibles.
+
 **Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
 
 ### Rupture d'accord
@@ -216,7 +219,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 13.12.2024 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 12.05.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
