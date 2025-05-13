@@ -86,6 +86,8 @@ El **cliente** tendrá derecho a rescindir el **contrato** al vencimiento de la 
 
 Una vez transcurrida la **duración mínima**, **Augment** tendrá derecho a rescindir el **contrato** con un preaviso de 30 días.
 
+<div class="page"></div>
+
 ### Devolución del patinete eléctrico al finalizar el contrato
 
 Al final del plazo del contrato, el patinete eléctrico deberá devolverse a Augment de acuerdo con las instrucciones del servicio de atención al cliente.
