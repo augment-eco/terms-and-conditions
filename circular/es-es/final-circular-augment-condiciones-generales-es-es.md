@@ -32,7 +32,7 @@ Se pueden instalar accesorios normales, como un soporte para teléfono móvil, e
 
 ### Duración del contrato
 
-La **duración mínima fija** del **contrato** puede ser de 6, 12 o 24 meses.  Durante el periodo de vigencia del contrato, el mismo no podrá rescindirse **(duración mínima del contrato)**. Una vez finalizado el plazo mínimo, el **contrato** permanecerá en vigor hasta nuevo aviso y podrá rescindirse con un preaviso de 30 días, a menos que el cliente haya actualizado el **patinete eléctrico** por uno nuevo de acuerdo con el procedimiento mencionado más adelante.
+La **duración mínima fija** del **contrato** puede ser de 6, 12 o 24 meses.  Durante el periodo de vigencia del contrato, el mismo no podrá rescindirse **(duración mínima del contrato)**. Una vez finalizado el plazo mínimo, el **contrato** permanecerá en vigor hasta nuevo aviso y podrá rescindirse con un preaviso de 30 días.
 
 ### Uso del patinete eléctrico
 
@@ -85,6 +85,8 @@ Cualquier accidente de tráfico que involucre a un tercero debe ser reportado a 
 El **cliente** tendrá derecho a rescindir el **contrato** al vencimiento de la **duración mínima del contrato** mediante notificación por escrito a **Augment** a través del chat en vivo de **Augment** o por correo electrónico antes de que expire la **duración mínima del contrato**.
 
 Una vez transcurrida la **duración mínima**, **Augment** tendrá derecho a rescindir el **contrato** con un preaviso de 30 días.
+
+<div class="page"></div>
 
 ### Devolución del patinete eléctrico al finalizar el contrato
 
@@ -217,7 +219,7 @@ petición.
 
 ### Validez de los términos del acuerdo
 
-Estos términos y condiciones de Augment entran en vigencia en España desde el 13.12.2024 hasta nuevo aviso.
+Estos términos y condiciones de Augment entran en vigencia en España desde el 13.05.2025 hasta nuevo aviso.
 
 <div class="page"></div>
 
