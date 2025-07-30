@@ -34,7 +34,7 @@ Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung
 
 ### Vertragslaufzeit
 
-Die Vertragslaufzeit beträgt mindestens 24 Monate ab **Vertragsbeginn**. Die ersten 24 Monate des **Vertrags** haben eine feste Laufzeit und können nicht gekündigt werden (**Mindestvertragslaufzeit**). Danach läuft der **Vertrag** mit einer Kündigungsfrist von 30 Tagen auf unbestimmte Zeit weiter, außer der **Kunde** hat den E-Scooter wie unten beschrieben aufgerüstet, wodurch eine neue **Mindestvertragslaufzeit** beginnt.
+Die Vertragslaufzeit beträgt mindestens 12/24/36 Monate ab **Vertragsbeginn**. Die ersten 12/24/36 Monate des **Vertrags** haben eine feste Laufzeit und können nicht gekündigt werden (**Mindestvertragslaufzeit**). Danach läuft der **Vertrag** mit einer Kündigungsfrist von 30 Tagen auf unbestimmte Zeit weiter, außer der **Kunde** hat den E-Scooter wie unten beschrieben aufgerüstet, wodurch eine neue **Mindestvertragslaufzeit** beginnt.
 
 ### Benutzung des E-Scooters
 
@@ -102,7 +102,7 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 ### Option zum Kauf des E-Scooters
 
-Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **149 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3,95 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **59 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
 ### E-Scooter Rückgabe bei Vertragsende
 
@@ -218,7 +218,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 13.12.2024 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 30.07.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
