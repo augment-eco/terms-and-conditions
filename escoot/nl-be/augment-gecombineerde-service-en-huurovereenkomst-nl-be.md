@@ -30,7 +30,7 @@ Normale accessoires zoals een houder voor een mobiele telefoon mogen op de **e-s
 
 ### Duur van de overeenkomst
 
-De **minimale vaste looptijd** van de **overeenkomst** is 24 maanden. Gedurende de eerste periode van 24 maanden van de **overeenkomst** kan de **overeenkomst** niet worden opgezegd (**minimale looptijd van de overeenkomst**). Na afloop van de minimumtermijn blijft de **overeenkomst** tot nader order van kracht en kan deze worden opgezegd met een opzegtermijn van 30 dagen, tenzij de **klant** de **e-scooter** heeft opgewaardeerd tot een nieuwe volgens onderstaande procedure.
+De **minimale vaste looptijd** van de **overeenkomst** is 12/24/36 maanden. Gedurende de eerste periode van 12/24/36 maanden van de **overeenkomst** kan de **overeenkomst** niet worden opgezegd (**minimale looptijd van de overeenkomst**). Na afloop van de minimumtermijn blijft de **overeenkomst** tot nader order van kracht en kan deze worden opgezegd met een opzegtermijn van 30 dagen, tenzij de **klant** de **e-scooter** heeft opgewaardeerd tot een nieuwe volgens onderstaande procedure.
 
 ### Gebruik van de e-step
 
@@ -82,7 +82,7 @@ Elk verkeersongeval waarbij een derde betrokken is, moet binnen 48 uur na het on
 
 ### De e-step updaten naar een nieuwe
 
-De **e-step** kan na 12 maanden na aanvang van de **overeenkomst** worden opgewaardeerd naar een nieuwe **e-step** tegen een vergoeding van € 125, of gratis 18 maanden na aanvang van de **overeenkomst**. Bij opwaardering van een **e-step** begint een nieuwe **minimum looptijd** van de **overeenkomst** van 24 maanden.
+De **e-step** kan na 12 maanden na aanvang van de **overeenkomst** worden opgewaardeerd naar een nieuwe **e-step** tegen een vergoeding van € 125, of gratis 18 maanden na aanvang van de **overeenkomst**. Bij opwaardering van een **e-step** begint een nieuwe **minimum looptijd** van de **overeenkomst** van 12/24/36 maanden.
 
 De oude **e-step** dient na aankomst van de nieuwe **e-step** volgens de instructies van de **klantenservice** aan **Augment** te worden geretourneerd. Indien de oude **e-step** niet binnen een week na ontvangst van de nieuwe **e-step** wordt geretourneerd, is **Augment** gerechtigd een vertragingsvergoeding van € 12,50 per week vertraging in rekening te brengen.
 
@@ -96,7 +96,7 @@ Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **ov
 
 ### Aflossing van de e-step
 
-Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€149**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
+Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3,95/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€59**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
 
 ### e-Step retour na afloop van het contract
 
@@ -209,7 +209,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 12.05.2025  tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 30.07.2025  tot nader order.
 
 <div class="page"></div>
 
