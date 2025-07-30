@@ -30,7 +30,7 @@ Des accessoires normaux tels qu'un support de téléphone portable peuvent être
 
 ### Durée de l'accord
 
-La **durée minimale** ferme du contrat est de 24 mois. Pendant les 24 premiers mois du contrat, le contrat ne peut pas être résilié (**durée minimale** du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le **client** a mis à niveau la **trottinette** électrique vers un nouvel **accord** conformément à la procédure mentionnée ci-dessous.
+La **durée minimale** ferme du contrat est de 12/24/36 mois. Pendant les 12/24/36 premiers mois du contrat, le contrat ne peut pas être résilié (**durée minimale** du contrat). Après la fin de la durée minimale, le contrat reste en vigueur jusqu'à nouvel ordre et peut être résilié avec un préavis de 30 jours, sauf si le **client** a mis à niveau la **trottinette** électrique vers un nouvel **accord** conformément à la procédure mentionnée ci-dessous.
 
 ### Utilisation de la trottinette électrique
 
@@ -84,7 +84,7 @@ Tout accident de la **circulation** impliquant un tiers doit être signalé à l
 
 ### Mise à jour de la trottinette électrique
 
-La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de 125 €, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 24 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
+La **trottinette** électrique peut être mise à niveau par une nouvelle **trottinette** électrique après 12 mois suivant le début du contrat pour un coût de 125 €, ou gratuitement 18 mois après le début du contrat. Une nouvelle **durée minimale** de l'**accord** de 12/24/36 mois commence lorsqu'une **trottinette** électrique est mis à niveau.
 
 L'ancienne **trottinette** électrique doit être retournée à **Augment** conformément aux instructions du **service client** une fois la nouvelle **trottinette** électrique livrée. Si l'ancienne **trottinette** électrique n'est pas restituée dans la semaine suivant la réception de la nouvelle **trottinette** électrique, **Augment** sera en droit de facturer des frais de retard de 12,50 € par semaine de retard.
 
@@ -96,7 +96,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **149 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3,95 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **59 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Retour de la trottinette à la fin du contrat
 
@@ -225,7 +225,7 @@ A défaut, tout litige né de la formation, de l'interprétation ou de l'exécut
 
 ### Validité des conditions de l'accord
 
-Ces conditions générales d'Augment sont en vigueur en France à partir du 12.05.2025 jusqu'à nouvel ordre.
+Ces conditions générales d'Augment sont en vigueur en France à partir du 30.07.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
