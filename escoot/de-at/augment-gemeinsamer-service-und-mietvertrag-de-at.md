@@ -88,7 +88,7 @@ Verkehrsunfälle, an denen Dritte beteiligt sind, müssen der Polizei und **Augm
 
 ### Upgrade des E-Scooters
 
-Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 € oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 24 Monaten.
+Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 € oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 12/24/36 Monaten.
 
 Bei Ankunft des neuen **E-Scooters** muss der alte **E-Scooter** gemäß den Anweisungen des **Kundendienstes** an **Augment** geschickt werden. Wenn der alte E-**Scooter** nicht innerhalb einer Woche nach Erhalt des neuen **E-Scooters** an **Augment** geschickt wurde, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 € für jede weitere Woche zu berechnen.
 
