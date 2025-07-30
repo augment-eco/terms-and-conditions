@@ -34,7 +34,7 @@ Das Anbringen von normalem **E-Scooter**-Zubehör, wie z.B. einer Handyhalterung
 
 ### Vertragslaufzeit
 
-Die Vertragslaufzeit beträgt mindestens 24 Monate ab **Vertragsbeginn**. Die ersten 24 Monate des **Vertrags** haben eine feste Laufzeit und können nicht gekündigt werden (**Mindestvertragslaufzeit**). Danach läuft der **Vertrag** mit einer Kündigungsfrist von 30 Tagen auf unbestimmte Zeit weiter, außer der **Kunde** hat den E-Scooter wie unten beschrieben aufgerüstet, wodurch eine neue **Mindestvertragslaufzeit** beginnt.
+Die Vertragslaufzeit beträgt mindestens 12/24/36 Monate ab **Vertragsbeginn**. Die ersten 12/24/36 Monate des **Vertrags** haben eine feste Laufzeit und können nicht gekündigt werden (**Mindestvertragslaufzeit**). Danach läuft der **Vertrag** mit einer Kündigungsfrist von 30 Tagen auf unbestimmte Zeit weiter, außer der **Kunde** hat den E-Scooter wie unten beschrieben aufgerüstet, wodurch eine neue **Mindestvertragslaufzeit** beginnt.
 
 ### Benutzung des E-Scooters
 
@@ -88,7 +88,7 @@ Verkehrsunfälle, an denen Dritte beteiligt sind, müssen der Polizei und **Augm
 
 ### Upgrade des E-Scooters
 
-Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 CHF oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 24 Monaten.
+Ein vorhandener **E-Scooter** kann 12 Monate nach **Vertragsbeginn** gegen eine Gebühr von 125 CHF oder 18 Monate nach **Vertragsbeginn** kostenlos auf ein neues Modell umgetauscht werden. Mit dem Upgrade eines **E-Scooters** beginnt eine neue **Mindestvertragslaufzeit** von 12/24/36 Monaten.
 
 Bei Ankunft des neuen **E-Scooters** muss der alte **E-Scooter** gemäß den Anweisungen des **Kundendienstes** an **Augment** geschickt werden. Wenn der alte E-**Scooter** nicht innerhalb einer Woche nach Erhalt des neuen **E-Scooters** an **Augment** geschickt wurde, ist **Augment** berechtigt, eine Verspätungsgebühr von 12,50 CHF für jede weitere Woche zu berechnen.
 
@@ -102,7 +102,7 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 ### Option zum Kauf des E-Scooters
 
-Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von CHF 3/Monat gewählt hat, kann der EScooter nach der Mindestvertragslaufzeit für CHF 149 erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von CHF 3.95/Monat gewählt hat, kann der EScooter nach der Mindestvertragslaufzeit für CHF 59 erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
 ### Vertragskündigung vor Ablauf der Mindestvertragslaufzeit
 
@@ -208,7 +208,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 24.03.2025 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 30.07.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
