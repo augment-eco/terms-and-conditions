@@ -153,6 +153,7 @@ Indien de **klant** openstaande onbetaalde servicekosten heeft, of indien de **e
 - Ondanks het verzoek van **Augment is** de **klant** zijn andere contractuele verplichtingen dan die tot betaling niet nagekomen.
 
 Indien de klant blijft tekortschieten in de nakoming van zijn contractuele verplichtingen en/of nalaat zijn maandelijkse betalingen te voldoen ondanks schriftelijke aanmaningen, heeft Augment het recht om:
+
 - deze overeenkomst te beëindigen; en de klant te verplichten om de maandelijkse betalingen voor de resterende minimale looptijd van de overeenkomst te voldoen, naast de reeds verschuldigde maandelijkse betalingen.
 
 **Augment** zal het gebruik van de **dienst** niet opschorten of beperken wegens wanbetaling indien de wanbetaling aantoonbaar te wijten is aan onverwachte ziekte of een andere vergelijkbare oorzaak buiten de wil van de **klant**, en de verschuldigde betaling binnen één (1) maand na verzending van de betalingsherinnering geschiedt, of indien de **klant** de factuur met gegronde redenen heeft betwist en het onbetwiste gedeelte van de betaling op de vervaldag is voldaan.
