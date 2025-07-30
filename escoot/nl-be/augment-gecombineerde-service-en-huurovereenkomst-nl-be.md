@@ -110,7 +110,6 @@ De verpakking met de **e-step** mag door de **klant** worden geopend om de inhou
 
 Indien de **e-step** tijdens de herroepingstermijn is gebruikt en de **overeenkomst** wordt geannuleerd, heeft **Augment** het recht de **klant** de waardevermindering van de **e-step** in rekening te brengen. **Augment** heeft het recht de **klant** de volledige waarde van de **e-step** in rekening te brengen indien de geretourneerde **e-step** onverkoopbaar zijn.
 
-<div class="page"></div>
 
 ## Vergoedingen voor diensten, en behoud van contactgegevens
 
