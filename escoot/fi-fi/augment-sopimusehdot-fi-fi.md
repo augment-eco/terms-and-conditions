@@ -74,13 +74,13 @@ Augment on liikennevakuuttanut sopimuksen piiriin kuuluvat skuutit **Lähi-Tapio
 
 ### Skuutin päivittäminen uuteen
 
-Käytössä olevan **skuutin** voi päivittää uuteen 12 kk kuluttua Sopimuksen alkamisesta maksamalla 125 €, tai veloituksetta 18 kk kuluttua **sopimuksen** alkamisesta. **Skuutin** päivittäminen aloittaa uuden 24kk määräaikaisen **minimisopimuskauden**.
+Käytössä olevan **skuutin** voi päivittää uuteen 12 kk kuluttua Sopimuksen alkamisesta maksamalla 125 €, tai veloituksetta 18 kk kuluttua **sopimuksen** alkamisesta. **Skuutin** päivittäminen aloittaa uuden 12/24/36kk määräaikaisen **minimisopimuskauden**.
 
 Uuden **skuutin** saapumisen jälkeen vanha **skuutti** tulee lähettää **Augmentille asiakaspalvelun** ohjeita noudattaen. Ellei vanhaa **skuuttia** ole lähetetty viikon sisällä uuden **skuutin** vastaanottamisesta **Augmentilla** on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksu.
 
 ### Sopimuksen voimassaoloaika
 
-Sopimusaika on vähintään 24 kuukautta **sopimuksen** alkamisesta. Ensimmäiset 24kk Sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (**minimisopimuskausi**). Tämän jälkeen **sopimuksen** voimassaolo jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
+Sopimusaika on vähintään 12/24/36 kuukautta **sopimuksen** alkamisesta. Ensimmäiset 12/24/36kk Sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (**minimisopimuskausi**). Tämän jälkeen **sopimuksen** voimassaolo jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
 
 ## Sopimuksen päättämiseen liittyvät ehdot
 
@@ -92,7 +92,7 @@ Sopimusaika on vähintään 24 kuukautta **sopimuksen** alkamisesta. Ensimmäise
 
 ### Mahdollisuus lunastaa Skuutti omaksi
 
-Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **3 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 149 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
+Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **3,95 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 59 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
 
 ### Skuutin palautus sopimuksen päättyessä
 
@@ -191,7 +191,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä sopimusehdot ovat voimassa Suomessa 13.12.2024 alkaen toistaiseksi
+Nämä sopimusehdot ovat voimassa Suomessa 30.07.2025 alkaen toistaiseksi
 
 <div class="page"></div>
 
