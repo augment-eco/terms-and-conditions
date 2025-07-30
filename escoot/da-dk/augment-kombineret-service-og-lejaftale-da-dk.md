@@ -30,7 +30,7 @@ Normalt tilbehør såsom en mobiltelefonholder kan monteres på **el-løbehjulet
 
 ### Aftalens varighed
 
-**Aftalens minimumsperiode** er 24 måneder. I løbet af de første 24 måneder af **aftalen** kan **aftalen** ikke opsiges (**minimum aftaleperiode**). Efter udløbet af minimumsperioden forbliver **aftalen** i kraft indtil videre og kan opsiges med 30 dages varsel, medmindre **kunden** har opgraderet **el-løbehjulet** til et nyt i henhold til nedenstående procedure.
+**Aftalens minimumsperiode** er 12/24/36 måneder. I løbet af de første 12/24/36 måneder af **aftalen** kan **aftalen** ikke opsiges (**minimum aftaleperiode**). Efter udløbet af minimumsperioden forbliver **aftalen** i kraft indtil videre og kan opsiges med 30 dages varsel, medmindre **kunden** har opgraderet **el-løbehjulet** til et nyt i henhold til nedenstående procedure.
 
 ### Brug af el-løbehjulet
 
@@ -82,7 +82,7 @@ Ethvert færdselsuheld med tredjemand skal anmeldes til politiet og **Augment** 
 
 ### Opgradering af el-løbehjulet til et nyt
 
-**El-løbehjulet** kan opgraderes til et nyt **el-løbehjul** efter 12 måneder efter **aftalens** ikrafttræden til en pris af 930 DKK, eller gratis 18 måneder efter **aftalens** ikrafttræden. En ny **minimumsperiode** af **aftalen** på 24 måneder begynder, når et **el-løbehjul** opgraderes.
+**El-løbehjulet** kan opgraderes til et nyt **el-løbehjul** efter 12 måneder efter **aftalens** ikrafttræden til en pris af 930 DKK, eller gratis 18 måneder efter **aftalens** ikrafttræden. En ny **minimumsperiode** af **aftalen** på 12/24/36 måneder begynder, når et **el-løbehjul** opgraderes.
 
 Det gamle **el-løbehjul** skal returneres til **Augment** i henhold til **kundeservicevejledningen**, når det nye **el-løbehjul** er ankommet. Hvis det gamle **el-løbehjul** ikke returneres inden for en uge efter modtagelse af det nye **el-løbehjul**, vil **Augment** være berettiget til at opkræve et forsinkelsesgebyr på 89,50 DKK pr. uges forsinkelse.
 
@@ -96,7 +96,7 @@ Efter udløbet af **minimumsperioden** har **Augment** ret til at opsige **aftal
 
 ### Mulighed for at købe el-løbehjulet
 
-Hvis kunden har valgt købsmuligheden mod et ekstra gebyr på 27 DKK/måned, kan de købe el-løbehjulet for 1157 DKK efter kontraktens bindingsperiode. Når købsprisen er betalt, ophører denne kontrakt automatisk.
+Hvis kunden har valgt købsmuligheden mod et ekstra gebyr på 29 DKK/måned, kan de købe el-løbehjulet for 449 DKK efter kontraktens bindingsperiode. Når købsprisen er betalt, ophører denne kontrakt automatisk.
 
 ### Opsigelse af aftalen inden udløbet af minimumsaftaleperioden
 
@@ -212,7 +212,7 @@ Endvidere kan tvister indbringes for de almindelige danske domstole af hver af p
 
 ### Gyldigheden af ​​aftalens vilkår
 
-Disse vilkår og betingelser for Augment er gældende i Danmark **fra 13.12.2024** indtil videre.
+Disse vilkår og betingelser for Augment er gældende i Danmark **fra 30.07.2025** indtil videre.
 
 <div class="page"></div>
 
