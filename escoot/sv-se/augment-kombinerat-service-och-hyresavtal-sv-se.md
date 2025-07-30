@@ -28,7 +28,7 @@ Vanliga tillbehör så som en mobiltelefonhållare kan monteras på **elsparkcyk
 
 ### Avtalets löptid
 
-**Avtalstiden** är minst 24 månader. Under **avtalets** första 24 månader kan **avtalet** ej sägas upp (**minsta avtalsperiod**). Efter att minsta avtalsperiod har passerat så gäller **avtalet** tills vidare, och kan sägas upp med 30 dagars uppsägningstid, såvida inte **kunden** har uppgraderat **elsparkcykeln** till en ny enligt förfarande nämnt nedan.
+**Avtalstiden** är minst 12/24/36 månader. Under **avtalets** första 12/24/36 månader kan **avtalet** ej sägas upp (**minsta avtalsperiod**). Efter att minsta avtalsperiod har passerat så gäller **avtalet** tills vidare, och kan sägas upp med 30 dagars uppsägningstid, såvida inte **kunden** har uppgraderat **elsparkcykeln** till en ny enligt förfarande nämnt nedan.
 
 ### Användning av elsparkcykel
 
@@ -80,7 +80,7 @@ Trafikolyckor där tredje part är inblandade måste anmälas till polis och **A
 
 ### Uppgradera elsparkcykeln till en ny
 
-**Elsparkcykeln** kan uppgraderas till en helt ny efter 12 månader från **avtalets** startdatum till en kostnad av 1250 SEK, eller kostnadsfritt 18 månader efter avtalets början. En ny **avtalsperiod** på 24 månader börjar vid uppgradering av **elsparkcykeln**.
+**Elsparkcykeln** kan uppgraderas till en helt ny efter 12 månader från **avtalets** startdatum till en kostnad av 1250 SEK, eller kostnadsfritt 18 månader efter avtalets början. En ny **avtalsperiod** på 12/24/36 månader börjar vid uppgradering av **elsparkcykeln**.
 
 Den gamla **elsparkcykeln** måste returneras till **Augment** enligt instruktioner från **kundtjänst** när den nya **elsparkcykeln** har levererats. Om den gamla **elsparkcykeln** ej returneras inom en vecka efter mottagandet av den nya **elsparkcykeln**, har **Augment** rätt att ta ut en förseningsavgift på 125 SEK per vecka för förseningen.
 
@@ -92,7 +92,7 @@ Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** 
 
 ### Möjlighet att köpa elsparkcykeln
 
-**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **35 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **1858 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
+**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **49 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **699 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
 
 <div class="page"></div>
 
@@ -210,7 +210,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 ### Giltighet av avtalets villkor
 
-Dessa villkor för Augment gäller i Sverige från 13.12.2024 och tills vidare.
+Dessa villkor för Augment gäller i Sverige från 30.07.2025 och tills vidare.
 
 <div class="page"></div>
 
