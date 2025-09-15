@@ -120,10 +120,11 @@ De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de be
 
 In overeenstemming met Boek XIX 'Schulden van de consument' in het Wetboek Economisch Recht (WER), sturen we u in geval van een gehele of gedeeltelijke niet-betaling van uw factuur een kosteloze aanmaning waarin u 14 dagen de tijd krijgt om uw openstaande factuur te betalen zonder extra Kosten zoals vertragingsrente of kosten. Als u niet binnen deze termijn betaalt, zijn wij gerechtigd uw openstaande factuur over te dragen aan een incassobureau, in welk geval de onderstaande maximumbedragen in rekening kunnen worden gebracht:
 
-Verschuldigde bedrag 		    Maximumbedrag/procentuele schadevergoeding
-⪬ 150 EUR 			            20 EUR
-≥ 150,01 EUR; ⪬ 500 EUR 	  30 EUR + 10% van het hoofdbedrag
-≥ 500,01 EUR 			          65 EUR + 5% van het hoofdbedrag, tot een maximum van 2,000 EUR
+**Verschuldigde bedrag ⪬ 150 EUR** - Maximumbedrag/procentuele schadevergoeding: 20 EUR
+
+**Verschuldigde bedrag ≥ 150,01 EUR; ⪬ 500 EUR** - Maximumbedrag/procentuele schadevergoeding: 30 EUR + 10% van het hoofdbedrag
+
+**Verschuldigde bedrag ≥ 500,01 EUR** - Maximumbedrag/procentuele schadevergoeding: 65 EUR + 5% van het hoofdbedrag, tot een maximum van 2,000 EUR
 
 Bovenop deze maximale kosten kunnen nalatigheidsinteresten aangerekend worden, die niet hoger mogen zijn dan de interestvoet vermeerderd met 8 procentpunten zoals bedoeld in artikel 5, tweede lid van de wet van 2 augustus 2002 betreffende de bestrijding van betalingsachterstand bij handelstransacties. Deze intrest wordt berekend op het nog verschuldigde bedrag.
 
