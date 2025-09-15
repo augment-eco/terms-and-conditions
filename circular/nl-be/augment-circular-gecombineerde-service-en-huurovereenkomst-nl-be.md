@@ -136,8 +136,6 @@ Als de gegevens van de betaalkaart/bankrekening veranderen, moeten de nieuwe geg
 
 De betalingsverwerkers die **Augment** gebruikt (momenteel Adyen / Stripe) slaan de nodige gegevens over betaalkaarten en andere betaalmiddelen sterk versleuteld op in hun eigen databanken.
 
-<div class="page"></div>
-
 ### Contactgegevens bijhouden
 
 De **klant** zorgt ervoor dat **Augment** over zijn actuele contactgegevens beschikt.
