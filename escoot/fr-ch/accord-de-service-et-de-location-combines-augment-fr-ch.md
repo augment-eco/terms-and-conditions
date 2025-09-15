@@ -172,8 +172,6 @@ Si le **client** a des **frais de service** impayés, ou si la **trottinette** �
 
 **Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
 
-<div class="page"></div>
-
 ### Rupture d'accord
 
 Si le **client** ne paie pas les frais de service dus ou autrement matériellement enfreint les termes de l'**accord**, **Augment** a le droit de résilier immédiatement le contrat et reprendre possession de la **trottinette** sans concertation avec le **client**.
