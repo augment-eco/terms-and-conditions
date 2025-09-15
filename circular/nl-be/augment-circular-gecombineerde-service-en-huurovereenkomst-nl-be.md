@@ -164,8 +164,6 @@ Indien de klant blijft tekortschieten in de nakoming van zijn contractuele verpl
 
 **Augment** zal het gebruik van de **dienst** niet opschorten of beperken wegens wanbetaling indien de wanbetaling aantoonbaar te wijten is aan onverwachte ziekte of een andere vergelijkbare oorzaak buiten de wil van de **klant**, en de verschuldigde betaling binnen één (1) maand na verzending van de betalingsherinnering geschiedt, of indien de **klant** de factuur met gegronde redenen heeft betwist en het onbetwiste gedeelte van de betaling op de vervaldag is voldaan.
 
-<div class="page"></div>
-
 ### Schending van de overeenkomst
 
 Indien de **klant** de verschuldigde servicekosten niet betaalt of anderszins wezenlijk in strijd handelt met de voorwaarden van de **overeenkomst**, heeft **Augment** het recht de **overeenkomst** onmiddellijk te beëindigen en de **Circular e-step** zonder overleg met de **klant** terug te nemen.
