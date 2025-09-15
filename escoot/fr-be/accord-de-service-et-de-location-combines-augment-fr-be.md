@@ -129,7 +129,7 @@ En plus de ces frais maximaux, des intérêts de retard peuvent être facturés,
 
 Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
 
-**Augment** déposera plainte en cas de demande de retour si la **trottinette** n'est pas retournée.
+**Augment** déposera plainte si la **trottinette** n'est pas retournée.
 
 Les paiements au titre de l'**accord** sont gagés en faveur de Norion Bank AB en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
 
