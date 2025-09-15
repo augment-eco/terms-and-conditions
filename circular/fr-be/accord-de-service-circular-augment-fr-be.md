@@ -119,7 +119,7 @@ Conformément au Livre XIX « Dettes du consommateur » du Code de Droit Économ
 En plus de ces frais maximaux, des intérêts de retard peuvent être facturés, qui ne peuvent dépasser le taux d'intérêt majoré de 8 points de pourcentage, comme prévu à l'article 5, deuxième alinéa, de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales. Ces intérêts sont calculés sur le montant restant dû.
 
 Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
- 
+
 **Augment** déposera plainte si la **trottinette** n'est pas retournée.
 
 Les paiements au titre de l'**accord** sont gagés en faveur de Norion Bank AB en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
