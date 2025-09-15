@@ -204,11 +204,11 @@ Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vert
 
 **Augment** kan telematicagegevens verzamelen van de **e-step** en andere apparaten, zoals informatie over de locatie van de **e-step**, de bewegingen, de temperatuur en het algemene gebruik van het apparaat. Telematicagegevens omvatten geen persoonsgegevens.
 
+<div class="page"></div>
+
 ### Beperking van de aansprakelijkheid
 
 **Augment is** niet aansprakelijk voor indirecte schade of gevolgschade, tenzij **Augment** deze schade opzettelijk of door grove nalatigheid heeft veroorzaakt.
-
-<div class="page"></div>
 
 ### Contractuele taal
 
