@@ -114,7 +114,27 @@ Les frais de **service** sont facturés à l'avance selon l'intervalle de paieme
 
 La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
 
-Si le **client** ne paie pas les frais de service à la date d'échéance, le **client** se verra facturer des intérêts de retard selon la loi. En plus des intérêts de retard, **Augment** aura droit de facturer des frais de recouvrement raisonnables. Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
+Les créances impayées sont transmises à une agence de recouvrement externe après une mise en demeure infructueuse. Outre le paiement du montant de la facture, le client est également tenu de rembourser tous les frais occasionnés par ce retard de paiement  (notamment les intérêts moratoires, les frais de mise en demeure, les frais de recouvrement et les frais d'avocat). 
+
+Les frais de recouvrement dépendent du montant de la créance, mais correspondent toutefois aux recommandations de l'association Inkasso Suisse. 
+
+Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
+
+max. 80 CHF (montant de la créance jusqu'à 75 CHF); 
+max. 149.15 CHF(montant de la créance jusqu'à 250 CHF) ; 
+max. 195 CHF (montant de la créance jusqu'à 500 CHF) ; 
+max. 260 CHF (montant de la créance jusqu'à 1 000 CHF); 
+max. 355 CHF (montant de la créance jusqu'à 2 000 CHF) ; 
+max. 448,15 CHF (montant de la créance jusqu'à 3 000 CHF) ; 
+max. 634,40 CHF (montant de la créance jusqu'à 5 000 CHF) ; 
+max. 1 100 CHF (montant de la créance jusqu'à 10 000 CHF) ; 
+max. 1 920 CHF (montant de la créance jusqu'à 30 000 CHF) ; 
+max. 2 740 CHF (montant de la créance jusqu'à 50 000 CHF) ; 
+max. 5,5 % du montant de la créance (à partir de 50 000,01 CHF).
+
+Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
+
+Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
 
 **Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
 
