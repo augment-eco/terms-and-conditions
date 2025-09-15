@@ -122,7 +122,23 @@ Die **vertraglichen** **Servicegebühren** werden je nach dem im Voraus gewählt
 
 Das Fälligkeitsdatum der **Servicegebühr** wird durch das Datum der Bestellung bestimmt. Das Fälligkeitsdatum kann verschoben werden, indem man sich an den **Kundendienst** wendet. Da die Länge der Kalendermonate variiert, kann das Fälligkeitsdatum für die monatlichen Gebühren von Monat zu Monat um ein paar Tage variieren.
 
-Im Falle eines Zahlungsverzugs werden dem **Kunden** Verzugszinsen in Höhe des im Zinsgesetz vorgesehenen Satzes berechnet. Zusätzlich zu den Verzugszinsen ist **Augment** berechtigt, angemessene Inkassokosten zu berechnen. Wenn der **Kunde** den **E-Scooter** nicht zurückgibt, ist **Augment** berechtigt, die vollen Kosten für die Suche und Abholung des **E-Scooters** sowie die Kosten eines Gerichtsverfahrens zu berechnen. Die Nichtrückgabe des **E-Scooters** führt zu einer Strafanzeige gegen den Kunden.
+Unbezahlte Forderungen werden nach erfolgloser Mahnung zur Betreibung an ein externes Inkassoinstitut übergeben. Der Kunde ist neben der Begleichung des Rechnungsbetrages auch zum Ersatz sämtlicher im Zusammenhang der Zahlungsverzögerung entstehenden Kosten (insbesondere Verzugszinsen, Mahngebühren, Inkassokosten und Anwaltskosten) verpflichtet. Die Inkassokosten sind abhängig von der Forderungshöhe, entsprechen jedoch maximal den Empfehlungen des Verbands Inkasso Suisse. Für Inkassodienstleistungen durch ein Inkassoinstitut schulden Sie je nach Höhe der betreffenden Hauptforderung folgende Entschädigung in CHF im Falle Ihres Zahlungsverzugs und ab Beauftragungszeitpunkt des Inkassoinstituts:
+
+max. CHF 80 (Forderungshöhe bis 75 CHF),
+max. CHF 149.15 (Forderungshöhe bis CHF 250);
+max. CHF 195 (Forderungshöhe bis CHF 500);
+max. CHF 260 (Forderungshöhe bis CHF 1’000),
+max. CHF 355 (Forderungshöhe bis CHF 2’000);
+max CHF 448.15 (Forderungshöhe bis CHF 3’000);
+max. CHF 634.40 (Forderungshöhe bis CHF 5’000);
+max. CHF 1’100 (Forderungshöhe bis CHF 10’000);
+max. CHF 1’920 (Forderungshöhe bis CHF 30’000);
+max. CHF 2’740 (Forderungshöhe bis CHF 50’000);
+max. 5.5% vom Forderungsbetrag (ab CHF 50’000.01).
+
+Die Inkassokosten in Höhe dieser Angaben aus der Verzugsschadenstabelle des Inkasso Suisse gelten unabhängig von einem Schadensnachweis als vom Kunden akzeptiert.
+
+Wenn der **Kunde** den **E-Scooter** nicht zurückgibt, ist **Augment** berechtigt, die vollen Kosten für die Suche und Abholung des **E-Scooters** sowie die Kosten eines Gerichtsverfahrens zu berechnen. Die Nichtrückgabe des **E-Scooters** führt zu einer Strafanzeige gegen den Kunden.
 
 Die Forderungen aus dem Vertrag sind zugunsten der finnischen Niederlassung der Norion Bank AB, dem **Pfandnehmer**, verpfändet. Niemand außer dem **Pfandnehmer** darf Änderungen an den Zahlungsanweisungen vornehmen.
 
