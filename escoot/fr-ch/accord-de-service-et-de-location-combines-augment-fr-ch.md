@@ -120,16 +120,16 @@ Les frais de recouvrement dépendent du montant de la créance, mais corresponde
 
 Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
 
-max. 80 CHF (montant de la créance jusqu'à 75 CHF); 
-max. 149.15 CHF(montant de la créance jusqu'à 250 CHF) ; 
-max. 195 CHF (montant de la créance jusqu'à 500 CHF) ; 
-max. 260 CHF (montant de la créance jusqu'à 1 000 CHF); 
-max. 355 CHF (montant de la créance jusqu'à 2 000 CHF) ; 
-max. 448,15 CHF (montant de la créance jusqu'à 3 000 CHF) ; 
-max. 634,40 CHF (montant de la créance jusqu'à 5 000 CHF) ; 
-max. 1 100 CHF (montant de la créance jusqu'à 10 000 CHF) ; 
-max. 1 920 CHF (montant de la créance jusqu'à 30 000 CHF) ; 
-max. 2 740 CHF (montant de la créance jusqu'à 50 000 CHF) ; 
+max. 80 CHF (montant de la créance jusqu'à 75 CHF);
+max. 149.15 CHF(montant de la créance jusqu'à 250 CHF) ;
+max. 195 CHF (montant de la créance jusqu'à 500 CHF) ;
+max. 260 CHF (montant de la créance jusqu'à 1 000 CHF);
+max. 355 CHF (montant de la créance jusqu'à 2 000 CHF) ;
+max. 448,15 CHF (montant de la créance jusqu'à 3 000 CHF) ;
+max. 634,40 CHF (montant de la créance jusqu'à 5 000 CHF) ;
+max. 1 100 CHF (montant de la créance jusqu'à 10 000 CHF) ;
+max. 1 920 CHF (montant de la créance jusqu'à 30 000 CHF) ;
+max. 2 740 CHF (montant de la créance jusqu'à 50 000 CHF) ;
 max. 5,5 % du montant de la créance (à partir de 50 000,01 CHF).
 
 Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
