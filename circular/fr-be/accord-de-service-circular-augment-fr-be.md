@@ -112,8 +112,8 @@ La date d'échéance des **frais de service** est déterminée par la date à la
 
 Conformément au Livre XIX « Dettes du consommateur » du Code de Droit Économique, en cas de non-paiement total ou partiel de votre facture, nous vous enverrons un rappel gratuit vous accordant un délai de 14 jours pour régler votre facture en souffrance sans frais supplémentaires tels que des intérêts de retard ou des frais. Si vous ne payez pas dans ce délai, nous sommes en droit de transmettre votre facture impayée à une agence de recouvrement, auquel cas les montants maximaux suivants peuvent être facturés :
 
-**Montant dû :** ⪬ 150 EUR - **Montant maximal/indemnité en pourcentage :** 20 EUR
-**Montant dû :** ≥ 150,01 EUR ; ⪬ 500 EUR - **Montant maximal/indemnité en pourcentage :** 30 EUR + 10 % du montant principal
+**Montant dû :** ≤ 150 EUR - **Montant maximal/indemnité en pourcentage :** 20 EUR
+**Montant dû :** ≥ 150,01 EUR ; ≤ 500 EUR - **Montant maximal/indemnité en pourcentage :** 30 EUR + 10 % du montant principal
 **Montant dû :** ≥ 500,01 EUR - **Montant maximal/indemnité en pourcentage :** 65 EUR + 5 % du montant principal, jusqu'à un maximum de 2.000 EUR
 
 En plus de ces frais maximaux, des intérêts de retard peuvent être facturés, qui ne peuvent dépasser le taux d'intérêt majoré de 8 points de pourcentage, comme prévu à l'article 5, deuxième alinéa, de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales. Ces intérêts sont calculés sur le montant restant dû.
@@ -195,8 +195,6 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 **Augment** traite les données personnelles conformément à la législation applicable en matière de protection des données. Pour plus d'informations sur le traitement des données personnelles et des cookies, veuillez consulter la politique de confidentialité d'**Augment**, disponible sur le site Web d’**Augment**.
 
 **Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
-
-<div class="page"></div>
 
 ### Limitation de responsabilité
 
