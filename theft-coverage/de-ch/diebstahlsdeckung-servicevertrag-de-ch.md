@@ -87,6 +87,6 @@ Augment ist von seinen vertraglichen Verpflichtungen und seiner Schadensersatzpf
 
 ## Gültigkeit der Bedingungen und Konditionen
 
-Diese Bedingungen sind ab dem 27. Juni, 2023 bis auf weiteres gültig.
+Diese Bedingungen sind ab dem 15. September, 2025 bis auf weiteres gültig.
 
 Der technische Support wird über den Augment.Eco Live Chat angeboten und beginnt mit der Bestätigung und Annahme Ihres Vertrags.
