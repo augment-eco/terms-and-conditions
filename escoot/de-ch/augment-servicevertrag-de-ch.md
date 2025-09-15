@@ -154,6 +154,8 @@ Der **Kunde** muss sicherstellen, dass **Augment** über aktuelle Kontaktdaten v
 
 **Augment** sendet Mitteilungen im Zusammenhang mit dem **Vertrag**, wie z.B. Informationen über verspätete Zahlungen oder Serviceänderungen, auf elektronischem Wege an die vom **Kunden** angegebene E-Mail-Adresse oder Telefonnummer.
 
+<div class="page"></div>
+
 ## Andere Bedingungen
 
 ### Sperrung und Einschränkung des Dienstes
