@@ -67,6 +67,15 @@ La « Couverture contre le vol Augment » est facturée mensuellement à l'avanc
 
 Si vous ne payez pas vos factures en souffrance alors que vous avez reçu un rappel de paiement, Augment a le droit de résilier votre service de couverture contre le vol et de percevoir de votre part une indemnisation raisonnable pour les dommages ou les frais occasionnés par la résiliation anticipée de cet accord de durée minimale de contrat.
 
+Conformément au Livre XIX « Dettes du consommateur » du Code de Droit Économique, en cas de non-paiement total ou partiel de votre facture, nous vous enverrons un rappel gratuit vous accordant un délai de 14 jours pour régler votre facture en souffrance sans frais supplémentaires tels que des intérêts de retard ou des frais. Si vous ne payez pas dans ce délai, nous sommes en droit de transmettre votre facture impayée à une agence de recouvrement, auquel cas les montants maximaux suivants peuvent être facturés :
+
+Montant dû 			            Montant maximal/indemnité en pourcentage
+⪬ 150 EUR 			            20 EUR
+≥ 150,01 EUR ; ⪬ 500 EUR 	  30 EUR + 10 % du montant principal
+≥ 500,01 EUR 		          	65 EUR + 5 % du montant principal, jusqu'à un maximum de 2.000 EUR
+
+En plus de ces frais maximaux, des intérêts de retard peuvent être facturés, qui ne peuvent dépasser le taux d'intérêt majoré de 8 points de pourcentage, comme prévu à l'article 5, deuxième alinéa, de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales. Ces intérêts sont calculés sur le montant restant dû.
+
 <div class="page"></div>
 
 ## Force majeure
@@ -75,6 +84,6 @@ Augment est libéré de ses obligations contractuelles et de sa responsabilité 
 
 ## Validité des termes et conditions
 
-Ces termes et conditions sont valables à partir du 9 septembre 2024 jusqu'à nouvel ordre.
+Ces termes et conditions sont valables à partir du 15 septembre 2025 jusqu'à nouvel ordre.
 
 Le support technique est fourni par Augment.Eco Live Chat et commence dèsvalidation et acceptation de votre contrat.
