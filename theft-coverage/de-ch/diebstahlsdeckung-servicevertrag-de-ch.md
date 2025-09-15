@@ -65,6 +65,22 @@ Die "Augment Diebstahlabdeckung" wird monatlich im Voraus über die von Ihnen an
 
 Wenn Sie Ihre überfälligen Rechnungen trotz Zahlungserinnerung nicht bezahlen, hat Augment das Recht, Ihre Diebstahlabdeckung zu kündigen und von Ihnen eine angemessene Entschädigung für den Schaden oder die Kosten zu verlangen, die durch die vorzeitige Beendigung dieser Vereinbarung über die Mindestvertragsdauer entstanden sind.
 
+Unbezahlte Forderungen werden nach erfolgloser Mahnung zur Betreibung an ein externes Inkassoinstitut übergeben. Der Kunde ist neben der Begleichung des Rechnungsbetrages auch zum Ersatz sämtlicher im Zusammenhang der Zahlungsverzögerung entstehenden Kosten (insbesondere Verzugszinsen, Mahngebühren, Inkassokosten und Anwaltskosten) verpflichtet. Die Inkassokosten sind abhängig von der Forderungshöhe, entsprechen jedoch maximal den Empfehlungen des Verbands Inkasso Suisse. Für Inkassodienstleistungen durch ein Inkassoinstitut schulden Sie je nach Höhe der betreffenden Hauptforderung folgende Entschädigung in CHF im Falle Ihres Zahlungsverzugs und ab Beauftragungszeitpunkt des Inkassoinstituts:
+
+max. CHF 80 (Forderungshöhe bis 75 CHF),
+max. CHF 149.15 (Forderungshöhe bis CHF 250);
+max. CHF 195 (Forderungshöhe bis CHF 500);
+max. CHF 260 (Forderungshöhe bis CHF 1’000),
+max. CHF 355 (Forderungshöhe bis CHF 2’000);
+max CHF 448.15 (Forderungshöhe bis CHF 3’000);
+max. CHF 634.40 (Forderungshöhe bis CHF 5’000);
+max. CHF 1’100 (Forderungshöhe bis CHF 10’000);
+max. CHF 1’920 (Forderungshöhe bis CHF 30’000);
+max. CHF 2’740 (Forderungshöhe bis CHF 50’000);
+max. 5.5% vom Forderungsbetrag (ab CHF 50’000.01).
+
+Die Inkassokosten in Höhe dieser Angaben aus der Verzugsschadenstabelle des Inkasso Suisse gelten unabhängig von einem Schadensnachweis als vom Kunden akzeptiert.
+
 ## Höhere Gewalt
 
 Augment ist von seinen vertraglichen Verpflichtungen und seiner Schadensersatzpflicht befreit, sofern die Erfüllung des Vertrags durch höhere Gewalt verhindert oder verzögert wird. Höhere Gewalt bezieht sich auf Umstände, die Augment beim Abschluss des Vertrags nicht vorhersehen konnte und die außerhalb seiner Kontrolle liegen.
