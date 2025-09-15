@@ -234,7 +234,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 30.07.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 15.09.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
