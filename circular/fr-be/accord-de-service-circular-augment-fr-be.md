@@ -218,6 +218,8 @@ Pour savoir comment contacter le médiateur : https://consumentenombudsdienst.be
 
 A défaut, toute contestation sur la formation, l'interprétation ou l'exécution du présent contrat sous la juridiction exclusive des juridictions belges compétentes.
 
+<div class="page"></div>
+
 ### Validité des termes de l'accord
 
 Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 15.09.2025 jusqu'à nouvel ordre.
