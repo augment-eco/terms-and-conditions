@@ -108,8 +108,6 @@ Le colis contenant la **trottinette** électrique peut être ouvert par le **cli
 
 Si la **trottinette** électrique a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique. **Augment** a le droit de facturer au **client** la valeur totale de la **trottinette** électrique si la **trottinette** électrique retournée est invendable.
 
-<div class="page"></div>
-
 ## Frais de service et maintien des coordonnées
 
 ### Frais de service
