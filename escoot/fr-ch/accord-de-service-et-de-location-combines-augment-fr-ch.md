@@ -114,9 +114,9 @@ Les frais de **service** sont facturés à l'avance selon l'intervalle de paieme
 
 La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
 
-Les créances impayées sont transmises à une agence de recouvrement externe après une mise en demeure infructueuse. Outre le paiement du montant de la facture, le client est également tenu de rembourser tous les frais occasionnés par ce retard de paiement  (notamment les intérêts moratoires, les frais de mise en demeure, les frais de recouvrement et les frais d'avocat). 
+Les créances impayées sont transmises à une agence de recouvrement externe après une mise en demeure infructueuse. Outre le paiement du montant de la facture, le client est également tenu de rembourser tous les frais occasionnés par ce retard de paiement  (notamment les intérêts moratoires, les frais de mise en demeure, les frais de recouvrement et les frais d'avocat).
 
-Les frais de recouvrement dépendent du montant de la créance, mais correspondent toutefois aux recommandations de l'association Inkasso Suisse. 
+Les frais de recouvrement dépendent du montant de la créance, mais correspondent toutefois aux recommandations de l'association Inkasso Suisse.
 
 Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
 
