@@ -67,7 +67,21 @@ De “Verhoogde diefstaldekking” wordt maandelijks vooraf gefactureerd via de 
 
 Als je je uitstaande facturen niet betaalt nadat je een betalingsherinnering hebt ontvangen, heeft Augment het recht om je diefstaldekkingsdienst te beëindigen en een redelijke vergoeding van je te eisen voor schade of kosten die zijn opgelopen als gevolg van de vroegtijdige beëindiging van deze overeenkomst voor minimale duur.
 
-<div class="page"></div>
+De **servicekosten** worden vooraf in rekening gebracht volgens het vooraf gekozen betalingsinterval (1 maand, 3 maanden of 24 maanden). De **klant** dient ervoor te zorgen dat de betaalkaart of bankrekening over voldoende middelen beschikt om de toepasselijke servicekosten te dekken.
+
+De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de bestelling is geplaatst. De vervaldatum kan worden gewijzigd door contact op te nemen met de **klantenservice**. De vervaldatum voor maandelijkse kosten kan van maand tot maand enkele dagen verschillen, aangezien de lengte van de kalendermaanden varieert.
+
+In overeenstemming met Boek XIX 'Schulden van de consument' in het Wetboek Economisch Recht (WER), sturen we u in geval van een gehele of gedeeltelijke niet-betaling van uw factuur een kosteloze aanmaning waarin u 14 dagen de tijd krijgt om uw openstaande factuur te betalen zonder extra Kosten zoals vertragingsrente of kosten. Als u niet binnen deze termijn betaalt, zijn wij gerechtigd uw openstaande factuur over te dragen aan een incassobureau, in welk geval de onderstaande maximumbedragen in rekening kunnen worden gebracht:
+
+| Verschuldigde bedrag                | Maximumbedrag/procentuele schadevergoeding                |
+|-------------------------------------|-----------------------------------------------------------|
+| ≤ 150 EUR                           | 20 EUR                                                    |
+| ≥ 150,01 EUR; ≤ 500 EUR             | 30 EUR + 10% van het hoofdbedrag                          |
+| ≥ 500,01 EUR                        | 65 EUR + 5% van het hoofdbedrag, tot een maximum van 2.000 EUR |
+
+Bovenop deze maximale kosten kunnen nalatigheidsinteresten aangerekend worden, die niet hoger mogen zijn dan de interestvoet vermeerderd met 8 procentpunten zoals bedoeld in artikel 5, tweede lid van de wet van 2 augustus 2002 betreffende de bestrijding van betalingsachterstand bij handelstransacties. Deze intrest wordt berekend op het nog verschuldigde bedrag.
+
+De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
 ## Overmacht
 
@@ -75,6 +89,6 @@ Augment is vrijgesteld van zijn contractuele verplichtingen en aansprakelijkheid
 
 ## Geldigheid van de algemene voorwaarden
 
-Deze voorwaarden zijn geldig vanaf 9 september 2024 tot nader order.
+Deze voorwaarden zijn geldig vanaf 16 september 2025 tot nader order.
 
 Technische ondersteuning wordt geboden door Augment.Eco Live Chat en begint zodra je contract is gevalideerd en geaccepteerd.
