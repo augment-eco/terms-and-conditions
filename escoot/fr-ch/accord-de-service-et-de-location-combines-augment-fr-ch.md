@@ -154,8 +154,6 @@ Le **client** doit s'assurer qu'**Augment** dispose de ses coordonnées à jour.
 
 **Augment** utilisera l'adresse e-mail ou le numéro de téléphone portable fourni pour envoyer des avis liés au **service** et à l'**accord**, tels que des modifications de **service** ou des informations de retard de paiement.
 
-<div class="page"></div>
-
 ## Autres termes et conditions
 
 ### Résiliation et limitation d'utilisation du service
