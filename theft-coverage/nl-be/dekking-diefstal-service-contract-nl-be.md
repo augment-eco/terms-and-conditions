@@ -83,8 +83,6 @@ Bovenop deze maximale kosten kunnen nalatigheidsinteresten aangerekend worden, d
 
 De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
-<div class="page"></div>
-
 ## Overmacht
 
 Augment is vrijgesteld van zijn contractuele verplichtingen en aansprakelijkheid voor schade voor zover de uitvoering van de overeenkomst wordt verhinderd of vertraagd door overmacht. Met overmacht worden omstandigheden bedoeld die Augment bij het sluiten van de overeenkomst niet kon voorzien en die buiten haar macht liggen.
