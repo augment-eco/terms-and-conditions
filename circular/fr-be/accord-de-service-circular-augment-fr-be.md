@@ -112,7 +112,7 @@ La date d'échéance des **frais de service** est déterminée par la date à la
 
 Conformément au Livre XIX « Dettes du consommateur » du Code de Droit Économique, en cas de non-paiement total ou partiel de votre facture, nous vous enverrons un rappel gratuit vous accordant un délai de 14 jours pour régler votre facture en souffrance sans frais supplémentaires tels que des intérêts de retard ou des frais. Si vous ne payez pas dans ce délai, nous sommes en droit de transmettre votre facture impayée à une agence de recouvrement, auquel cas les montants maximaux suivants peuvent être facturés :
 
-| **Montant dû**                | **Montant maximal / Indemnité**                                 |
+| **Montant dû**                | **Montant maximal / Indemnité en pourcentage**                                 |
 |-------------------------------|------------------------------------------------------------------|
 | ≤ 150 EUR                     | 20 EUR                                                           |
 | ≥ 150,01 EUR ; ≤ 500 EUR      | 30 EUR + 10 % du montant principal                              |
