@@ -65,12 +65,30 @@ Die "Augment Diebstahlabdeckung" wird monatlich im Voraus über die von Ihnen an
 
 Wenn Sie Ihre überfälligen Rechnungen trotz Zahlungserinnerung nicht bezahlen, hat Augment das Recht, Ihre Diebstahlabdeckung zu kündigen und von Ihnen eine angemessene Entschädigung für den Schaden oder die Kosten zu verlangen, die durch die vorzeitige Beendigung dieser Vereinbarung über die Mindestvertragsdauer entstanden sind.
 
+Unbezahlte Forderungen werden nach erfolgloser Mahnung zur Betreibung an ein externes Inkassoinstitut übergeben. Der Kunde ist neben der Begleichung des Rechnungsbetrages auch zum Ersatz sämtlicher im Zusammenhang der Zahlungsverzögerung entstehenden Kosten (insbesondere Verzugszinsen, Mahngebühren, Inkassokosten und Anwaltskosten) verpflichtet. Die Inkassokosten sind abhängig von der Forderungshöhe, entsprechen jedoch maximal den Empfehlungen des Verbands Inkasso Suisse. Für Inkassodienstleistungen durch ein Inkassoinstitut schulden Sie je nach Höhe der betreffenden Hauptforderung folgende Entschädigung in CHF im Falle Ihres Zahlungsverzugs und ab Beauftragungszeitpunkt des Inkassoinstituts:
+
+| Forderungshöhe (CHF)           | Maximale Inkassokosten (CHF)       |
+|--------------------------------|------------------------------------|
+| bis 75                         | 80                                 |
+| bis 250                        | 149.15                             |
+| bis 500                        | 195                                |
+| bis 1’000                      | 260                                |
+| bis 2’000                      | 355                                |
+| bis 3’000                      | 448.15                             |
+| bis 5’000                      | 634.40                             |
+| bis 10’000                     | 1’100                              |
+| bis 30’000                     | 1’920                              |
+| bis 50’000                     | 2’740                              |
+| ab 50’000.01                   | 5.5% vom Forderungsbetrag          |
+
+Die Inkassokosten in Höhe dieser Angaben aus der Verzugsschadenstabelle des Inkasso Suisse gelten unabhängig von einem Schadensnachweis als vom Kunden akzeptiert.
+
 ## Höhere Gewalt
 
 Augment ist von seinen vertraglichen Verpflichtungen und seiner Schadensersatzpflicht befreit, sofern die Erfüllung des Vertrags durch höhere Gewalt verhindert oder verzögert wird. Höhere Gewalt bezieht sich auf Umstände, die Augment beim Abschluss des Vertrags nicht vorhersehen konnte und die außerhalb seiner Kontrolle liegen.
 
 ## Gültigkeit der Bedingungen und Konditionen
 
-Diese Bedingungen sind ab dem 27. Juni, 2023 bis auf weiteres gültig.
+Diese Bedingungen sind ab dem 16. September 2025 bis auf weiteres gültig.
 
 Der technische Support wird über den Augment.Eco Live Chat angeboten und beginnt mit der Bestätigung und Annahme Ihres Vertrags.
