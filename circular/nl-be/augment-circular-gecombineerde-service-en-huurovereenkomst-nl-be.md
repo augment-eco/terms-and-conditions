@@ -114,6 +114,8 @@ De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de be
 
 In overeenstemming met Boek XIX 'Schulden van de consument' in het Wetboek Economisch Recht (WER), sturen we u in geval van een gehele of gedeeltelijke niet-betaling van uw factuur een kosteloze aanmaning waarin u 14 dagen de tijd krijgt om uw openstaande factuur te betalen zonder extra Kosten zoals vertragingsrente of kosten. Als u niet binnen deze termijn betaalt, zijn wij gerechtigd uw openstaande factuur over te dragen aan een incassobureau, in welk geval de onderstaande maximumbedragen in rekening kunnen worden gebracht:
 
+<div class="page"></div>
+
 | Verschuldigde bedrag                | Maximumbedrag/procentuele schadevergoeding                |
 |-------------------------------------|-----------------------------------------------------------|
 | ≤ 150 EUR                           | 20 EUR                                                    |
