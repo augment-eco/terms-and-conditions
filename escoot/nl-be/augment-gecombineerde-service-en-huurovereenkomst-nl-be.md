@@ -118,7 +118,17 @@ De **servicekosten** worden vooraf in rekening gebracht volgens het vooraf gekoz
 
 De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de bestelling is geplaatst. De vervaldatum kan worden gewijzigd door contact op te nemen met de **klantenservice**. De vervaldatum voor maandelijkse kosten kan van maand tot maand enkele dagen verschillen, aangezien de lengte van de kalendermaanden varieert.
 
-Indien de **klant** de servicevergoeding niet op de vervaldag betaalt, wordt de **klant** een vertragingsrente volgens het toepasselijke recht in rekening gebracht. Naast de vertragingsrente is **Augment** gerechtigd redelijke incassokosten in rekening te brengen. Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
+In overeenstemming met Boek XIX 'Schulden van de consument' in het Wetboek Economisch Recht (WER), sturen we u in geval van een gehele of gedeeltelijke niet-betaling van uw factuur een kosteloze aanmaning waarin u 14 dagen de tijd krijgt om uw openstaande factuur te betalen zonder extra Kosten zoals vertragingsrente of kosten. Als u niet binnen deze termijn betaalt, zijn wij gerechtigd uw openstaande factuur over te dragen aan een incassobureau, in welk geval de onderstaande maximumbedragen in rekening kunnen worden gebracht:
+
+| Verschuldigde bedrag                | Maximumbedrag / Procentuele schadevergoeding                |
+|-------------------------------------|-------------------------------------------------------------|
+| ≤ 150 EUR                           | 20 EUR                                                      |
+| ≥ 150,01 EUR; ≤ 500 EUR             | 30 EUR + 10% van het hoofdbedrag                            |
+| ≥ 500,01 EUR                        | 65 EUR + 5% van het hoofdbedrag, tot een maximum van 2.000 EUR |
+
+Bovenop deze maximale kosten kunnen nalatigheidsinteresten aangerekend worden, die niet hoger mogen zijn dan de interestvoet vermeerderd met 8 procentpunten zoals bedoeld in artikel 5, tweede lid van de wet van 2 augustus 2002 betreffende de bestrijding van betalingsachterstand bij handelstransacties. Deze intrest wordt berekend op het nog verschuldigde bedrag.
+
+Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
 
 De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
@@ -194,11 +204,11 @@ Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vert
 
 **Augment** kan telematicagegevens verzamelen van de **e-step** en andere apparaten, zoals informatie over de locatie van de **e-step**, de bewegingen, de temperatuur en het algemene gebruik van het apparaat. Telematicagegevens omvatten geen persoonsgegevens.
 
+<div class="page"></div>
+
 ### Beperking van de aansprakelijkheid
 
 **Augment is** niet aansprakelijk voor indirecte schade of gevolgschade, tenzij **Augment** deze schade opzettelijk of door grove nalatigheid heeft veroorzaakt.
-
-<div class="page"></div>
 
 ### Contractuele taal
 
@@ -206,7 +216,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 30.07.2025  tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 16.09.2025 tot nader order.
 
 <div class="page"></div>
 
