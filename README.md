@@ -6,7 +6,7 @@ This repository contains draft versions of the terms and conditions for the [aug
 
 ## How to Edit
 
-1. **Choose the file you want to edit** (e.g. [escoot/fi-fi/augment-sopimusehdot-fi-fi.md](./escoot/fi-fi/augment-sopimusehdot-fi-fi.md)).
+1. **Choose the file you want to edit** (e.g. [new-e-scooter/fi-fi/augment-sopimusehdot-fi-fi.md](./new-e-scooter/fi-fi/augment-sopimusehdot-fi-fi.md)).
 2. **Use a markdown editor** of your choice, such as [Dillinger](https://dillinger.io) or [StackEdit](https://stackedit.io), to make changes. Be sure to check the [Special Markup](#special-markup) section below for handling specific formatting requirements.
 3. **Submit the updated file** to the repository once your edits are complete.
 
