@@ -85,6 +85,6 @@ Augment est libéré de ses obligations contractuelles et de sa responsabilité 
 
 ## Validité des termes et conditions
 
-Ces termes et conditions sont valables à partir du 15 septembre 2025 jusqu'à nouvel ordre.
+Ces termes et conditions sont valables à partir du 16 septembre 2025 jusqu'à nouvel ordre.
 
 Le support technique est fourni par Augment.Eco Live Chat et commence dèsvalidation et acceptation de votre contrat.
