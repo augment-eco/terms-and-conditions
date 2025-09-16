@@ -124,17 +124,19 @@ Das Fälligkeitsdatum der **Servicegebühr** wird durch das Datum der Bestellung
 
 Unbezahlte Forderungen werden nach erfolgloser Mahnung zur Betreibung an ein externes Inkassoinstitut übergeben. Der Kunde ist neben der Begleichung des Rechnungsbetrages auch zum Ersatz sämtlicher im Zusammenhang der Zahlungsverzögerung entstehenden Kosten (insbesondere Verzugszinsen, Mahngebühren, Inkassokosten und Anwaltskosten) verpflichtet. Die Inkassokosten sind abhängig von der Forderungshöhe, entsprechen jedoch maximal den Empfehlungen des Verbands Inkasso Suisse. Für Inkassodienstleistungen durch ein Inkassoinstitut schulden Sie je nach Höhe der betreffenden Hauptforderung folgende Entschädigung in CHF im Falle Ihres Zahlungsverzugs und ab Beauftragungszeitpunkt des Inkassoinstituts:
 
-max. CHF 80 (Forderungshöhe bis 75 CHF),
-max. CHF 149.15 (Forderungshöhe bis CHF 250);
-max. CHF 195 (Forderungshöhe bis CHF 500);
-max. CHF 260 (Forderungshöhe bis CHF 1’000),
-max. CHF 355 (Forderungshöhe bis CHF 2’000);
-max CHF 448.15 (Forderungshöhe bis CHF 3’000);
-max. CHF 634.40 (Forderungshöhe bis CHF 5’000);
-max. CHF 1’100 (Forderungshöhe bis CHF 10’000);
-max. CHF 1’920 (Forderungshöhe bis CHF 30’000);
-max. CHF 2’740 (Forderungshöhe bis CHF 50’000);
-max. 5.5% vom Forderungsbetrag (ab CHF 50’000.01).
+| Forderungshöhe (CHF)           | Maximale Inkassokosten (CHF)      |
+|--------------------------------|-----------------------------------|
+| bis 75                         | 80                                |
+| bis 250                        | 149.15                            |
+| bis 500                        | 195                               |
+| bis 1’000                      | 260                               |
+| bis 2’000                      | 355                               |
+| bis 3’000                      | 448.15                            |
+| bis 5’000                      | 634.40                            |
+| bis 10’000                     | 1’100                             |
+| bis 30’000                     | 1’920                             |
+| bis 50’000                     | 2’740                             |
+| ab 50’000.01                   | 5.5% vom Forderungsbetrag         |
 
 Die Inkassokosten in Höhe dieser Angaben aus der Verzugsschadenstabelle des Inkasso Suisse gelten unabhängig von einem Schadensnachweis als vom Kunden akzeptiert.
 
@@ -224,7 +226,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 15.09.2025 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 16.09.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
