@@ -67,7 +67,27 @@ La « Couverture contre le vol Augment » est facturée mensuellement à l'avanc
 
 Si vous ne payez pas vos factures en souffrance alors que vous avez reçu un rappel de paiement, Augment a le droit de résilier votre service de couverture contre le vol et de percevoir de votre part une indemnisation raisonnable pour les dommages ou les frais occasionnés par la résiliation anticipée de cet accord de durée minimale de contrat.
 
-<div class="page"></div>
+Les créances impayées sont transmises à une agence de recouvrement externe après une mise en demeure infructueuse. Outre le paiement du montant de la facture, le client est également tenu de rembourser tous les frais occasionnés par ce retard de paiement  (notamment les intérêts moratoires, les frais de mise en demeure, les frais de recouvrement et les frais d'avocat).
+
+Les frais de recouvrement dépendent du montant de la créance, mais correspondent toutefois aux recommandations de l'association Inkasso Suisse.
+
+Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
+
+| Montant de la créance (CHF)         | Frais de recouvrement maximum (CHF) |
+|-------------------------------------|-------------------------------------|
+| jusqu'à 75                          | 80                                  |
+| jusqu'à 250                         | 149.15                              |
+| jusqu'à 500                         | 195                                 |
+| jusqu'à 1 000                       | 260                                 |
+| jusqu'à 2 000                       | 355                                 |
+| jusqu'à 3 000                       | 448.15                              |
+| jusqu'à 5 000                       | 634.40                              |
+| jusqu'à 10 000                      | 1 100                               |
+| jusqu'à 30 000                      | 1 920                               |
+| jusqu'à 50 000                      | 2 740                               |
+| à partir de 50 000,01               | 5,5 % du montant de la créance      |
+
+Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
 
 ## Force majeure
 
@@ -75,6 +95,6 @@ Augment est libéré de ses obligations contractuelles et de sa responsabilité 
 
 ## Validité des termes et conditions
 
-Ces termes et conditions sont valables à partir du 28 juin 2023 jusqu'à nouvel ordre.
+Ces termes et conditions sont valables à partir du 16 Septembre 2025 jusqu'à nouvel ordre.
 
-Le support technique est fourni par Augment.Eco Live Chat et commence dèsvalidation et acceptation de votre contrat.
+Le support technique est fourni par Augment.Eco Live Chat et commence dès validation et acceptation de votre contrat.
