@@ -120,17 +120,19 @@ Les frais de recouvrement dépendent du montant de la créance, mais corresponde
 
 Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
 
-max. 80 CHF (montant de la créance jusqu'à 75 CHF);
-max. 149.15 CHF(montant de la créance jusqu'à 250 CHF) ;
-max. 195 CHF (montant de la créance jusqu'à 500 CHF) ;
-max. 260 CHF (montant de la créance jusqu'à 1 000 CHF);
-max. 355 CHF (montant de la créance jusqu'à 2 000 CHF) ;
-max. 448,15 CHF (montant de la créance jusqu'à 3 000 CHF) ;
-max. 634,40 CHF (montant de la créance jusqu'à 5 000 CHF) ;
-max. 1 100 CHF (montant de la créance jusqu'à 10 000 CHF) ;
-max. 1 920 CHF (montant de la créance jusqu'à 30 000 CHF) ;
-max. 2 740 CHF (montant de la créance jusqu'à 50 000 CHF) ;
-max. 5,5 % du montant de la créance (à partir de 50 000,01 CHF).
+| Montant de la créance (CHF)         | Indemnité maximale (CHF)        |
+|-------------------------------------|---------------------------------|
+| jusqu'à 75                          | 80                              |
+| jusqu'à 250                         | 149.15                          |
+| jusqu'à 500                         | 195                             |
+| jusqu'à 1 000                       | 260                             |
+| jusqu'à 2 000                       | 355                             |
+| jusqu'à 3 000                       | 448.15                          |
+| jusqu'à 5 000                       | 634.40                          |
+| jusqu'à 10 000                      | 1 100                           |
+| jusqu'à 30 000                      | 1 920                           |
+| jusqu'à 50 000                      | 2 740                           |
+| à partir de 50 000,01               | 5,5 % du montant de la créance  |
 
 Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
 
@@ -234,7 +236,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 15.09.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 16.09.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
