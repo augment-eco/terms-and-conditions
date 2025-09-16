@@ -126,10 +126,6 @@ Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klan
 
 De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
-Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
-
-De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
-
 ### Betalingsinformatie bijhouden
 
 Als de gegevens van de betaalkaart/bankrekening veranderen, moeten de nieuwe gegevens worden bijgewerkt via de selfservicewebsite van **Augment** voordat de volgende **servicekosten** verschuldigd zijn.
