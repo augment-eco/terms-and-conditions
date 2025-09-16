@@ -150,13 +150,13 @@ Wenn sich die Daten der verwendeten Zahlungskarte/des Bankkontos ändern, müsse
 
 Die von **Augment** genutzten Zahlungsanbieter (derzeit Adyen / Stripe) speichern die erforderlichen Daten von Zahlungskarten und anderen Zahlungsinstrumenten in stark verschlüsselter Form in ihren eigenen Datenbanken.
 
+<div class="page"></div>
+
 ### Verwaltung der Kontaktinformationen
 
 Der **Kunde** muss sicherstellen, dass **Augment** über aktuelle Kontaktdaten verfügt.
 
 **Augment** sendet Mitteilungen im Zusammenhang mit dem **Vertrag**, wie z.B. Informationen über verspätete Zahlungen oder Serviceänderungen, auf elektronischem Wege an die vom **Kunden** angegebene E-Mail-Adresse oder Telefonnummer.
-
-<div class="page"></div>
 
 ## Andere Bedingungen
 
