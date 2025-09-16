@@ -210,6 +210,8 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 
 **Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
 
+<div class="page"></div>
+
 ### Limitation de responsabilité
 
 **Augment** ne sera pas responsable de toute perte ou dommage indirect ou consécutif causé par **Augment**, à moins qu'**Augment** n'ait causé cette perte ou ce dommage intentionnellement ou par négligence grave.
