@@ -122,7 +122,25 @@ Die **vertraglichen** **Servicegebühren** werden je nach dem im Voraus gewählt
 
 Das Fälligkeitsdatum der **Servicegebühr** wird durch das Datum der Bestellung bestimmt. Das Fälligkeitsdatum kann verschoben werden, indem man sich an den **Kundendienst** wendet. Da die Länge der Kalendermonate variiert, kann das Fälligkeitsdatum für die monatlichen Gebühren von Monat zu Monat um ein paar Tage variieren.
 
-Im Falle eines Zahlungsverzugs werden dem **Kunden** Verzugszinsen in Höhe des im Zinsgesetz vorgesehenen Satzes berechnet. Zusätzlich zu den Verzugszinsen ist **Augment** berechtigt, angemessene Inkassokosten zu berechnen. Wenn der **Kunde** den **E-Scooter** nicht zurückgibt, ist **Augment** berechtigt, die vollen Kosten für die Suche und Abholung des **E-Scooters** sowie die Kosten eines Gerichtsverfahrens zu berechnen. Die Nichtrückgabe des **E-Scooters** führt zu einer Strafanzeige gegen den Kunden.
+Unbezahlte Forderungen werden nach erfolgloser Mahnung zur Betreibung an ein externes Inkassoinstitut übergeben. Der Kunde ist neben der Begleichung des Rechnungsbetrages auch zum Ersatz sämtlicher im Zusammenhang der Zahlungsverzögerung entstehenden Kosten (insbesondere Verzugszinsen, Mahngebühren, Inkassokosten und Anwaltskosten) verpflichtet. Die Inkassokosten sind abhängig von der Forderungshöhe, entsprechen jedoch maximal den Empfehlungen des Verbands Inkasso Suisse. Für Inkassodienstleistungen durch ein Inkassoinstitut schulden Sie je nach Höhe der betreffenden Hauptforderung folgende Entschädigung in CHF im Falle Ihres Zahlungsverzugs und ab Beauftragungszeitpunkt des Inkassoinstituts:
+
+| Forderungshöhe (CHF)           | Maximale Inkassokosten (CHF)      |
+|--------------------------------|-----------------------------------|
+| bis 75                         | 80                                |
+| bis 250                        | 149.15                            |
+| bis 500                        | 195                               |
+| bis 1’000                      | 260                               |
+| bis 2’000                      | 355                               |
+| bis 3’000                      | 448.15                            |
+| bis 5’000                      | 634.40                            |
+| bis 10’000                     | 1’100                             |
+| bis 30’000                     | 1’920                             |
+| bis 50’000                     | 2’740                             |
+| ab 50’000.01                   | 5.5% vom Forderungsbetrag         |
+
+Die Inkassokosten in Höhe dieser Angaben aus der Verzugsschadenstabelle des Inkasso Suisse gelten unabhängig von einem Schadensnachweis als vom Kunden akzeptiert.
+
+Wenn der **Kunde** den **E-Scooter** nicht zurückgibt, ist **Augment** berechtigt, die vollen Kosten für die Suche und Abholung des **E-Scooters** sowie die Kosten eines Gerichtsverfahrens zu berechnen. Die Nichtrückgabe des **E-Scooters** führt zu einer Strafanzeige gegen den Kunden.
 
 Die Forderungen aus dem Vertrag sind zugunsten der finnischen Niederlassung der Norion Bank AB, dem **Pfandnehmer**, verpfändet. Niemand außer dem **Pfandnehmer** darf Änderungen an den Zahlungsanweisungen vornehmen.
 
@@ -131,6 +149,8 @@ Die Forderungen aus dem Vertrag sind zugunsten der finnischen Niederlassung der 
 Wenn sich die Daten der verwendeten Zahlungskarte/des Bankkontos ändern, müssen die neuen Daten über die Selbstbedienungs-Website von **Augment** aktualisiert werden, bevor die nächste **Servicegebühr** fällig wird.
 
 Die von **Augment** genutzten Zahlungsanbieter (derzeit Adyen / Stripe) speichern die erforderlichen Daten von Zahlungskarten und anderen Zahlungsinstrumenten in stark verschlüsselter Form in ihren eigenen Datenbanken.
+
+<div class="page"></div>
 
 ### Verwaltung der Kontaktinformationen
 
@@ -178,8 +198,6 @@ Der **Service** und die Hardware, die Software, die Dokumente und anderes Materi
 
 Bei Kündigung des **Vertrags** kann **Augment** vom **Kunden** die Rückgabe oder Vernichtung der Handbücher, anderer Dokumente oder der Software für dieses andere Material verlangen.
 
-<div class="page"></div>
-
 ### Höhere Gewalt
 
 Keine der Parteien haftet für ihre vertraglichen Verpflichtungen oder für Schadenersatz, soweit die Erfüllung des Vertrags durch höhere Gewalt eingeschränkt, verhindert oder verzögert wird.
@@ -208,7 +226,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 30.07.2025 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 16.09.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
