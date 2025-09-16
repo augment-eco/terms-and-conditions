@@ -108,7 +108,23 @@ De **servicekosten** worden vooraf in rekening gebracht volgens het vooraf gekoz
 
 De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de bestelling is geplaatst. De vervaldatum kan worden gewijzigd door contact op te nemen met de **klantenservice**. De vervaldatum voor maandelijkse kosten kan van maand tot maand enkele dagen verschillen, aangezien de lengte van de kalendermaanden varieert.
 
-Indien de **klant** de servicevergoeding niet op de vervaldag betaalt, wordt de **klant** een vertragingsrente volgens het toepasselijke recht in rekening gebracht. Naast de vertragingsrente is **Augment** gerechtigd redelijke incassokosten in rekening te brengen. Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
+De **servicekosten** worden vooraf in rekening gebracht volgens het vooraf gekozen betalingsinterval (1 maand, 3 maanden of 24 maanden). De **klant** dient ervoor te zorgen dat de betaalkaart of bankrekening over voldoende middelen beschikt om de toepasselijke servicekosten te dekken.
+
+De vervaldatum van de **servicekosten** wordt bepaald door de datum waarop de bestelling is geplaatst. De vervaldatum kan worden gewijzigd door contact op te nemen met de **klantenservice**. De vervaldatum voor maandelijkse kosten kan van maand tot maand enkele dagen verschillen, aangezien de lengte van de kalendermaanden varieert.
+
+In overeenstemming met Boek XIX 'Schulden van de consument' in het Wetboek Economisch Recht (WER), sturen we u in geval van een gehele of gedeeltelijke niet-betaling van uw factuur een kosteloze aanmaning waarin u 14 dagen de tijd krijgt om uw openstaande factuur te betalen zonder extra Kosten zoals vertragingsrente of kosten. Als u niet binnen deze termijn betaalt, zijn wij gerechtigd uw openstaande factuur over te dragen aan een incassobureau, in welk geval de onderstaande maximumbedragen in rekening kunnen worden gebracht:
+
+<div class="page"></div>
+
+| Verschuldigde bedrag                | Maximumbedrag/procentuele schadevergoeding                |
+|-------------------------------------|-----------------------------------------------------------|
+| ≤ 150 EUR                           | 20 EUR                                                    |
+| ≥ 150,01 EUR; ≤ 500 EUR             | 30 EUR + 10% van het hoofdbedrag                          |
+| ≥ 500,01 EUR                        | 65 EUR + 5% van het hoofdbedrag, tot een maximum van 2.000 EUR |
+
+Bovenop deze maximale kosten kunnen nalatigheidsinteresten aangerekend worden, die niet hoger mogen zijn dan de interestvoet vermeerderd met 8 procentpunten zoals bedoeld in artikel 5, tweede lid van de wet van 2 augustus 2002 betreffende de bestrijding van betalingsachterstand bij handelstransacties. Deze intrest wordt berekend op het nog verschuldigde bedrag.
+
+Indien de **klant** de step niet teruggeeft, is **Augment** gerechtigd de **klant** de volledige kosten van de opsporings- en incassokosten van **Augment**, en de daaraan verbonden juridische kosten, in rekening te brengen. **Augment** zal desgevraagd strafrechtelijke vervolging instellen indien de **e-step** niet wordt teruggegeven.
 
 De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van Norion Bank AB als **pandhouder**. Niemand anders dan de **pandhouder mag** wijzigingen aanbrengen in de betalingsinstructies.
 
@@ -117,8 +133,6 @@ De betalingen uit hoofde van de **overeenkomst** worden verpand ten gunste van N
 Als de gegevens van de betaalkaart/bankrekening veranderen, moeten de nieuwe gegevens worden bijgewerkt via de selfservicewebsite van **Augment** voordat de volgende **servicekosten** verschuldigd zijn.
 
 De betalingsverwerkers die **Augment** gebruikt (momenteel Adyen / Stripe) slaan de nodige gegevens over betaalkaarten en andere betaalmiddelen sterk versleuteld op in hun eigen databanken.
-
-<div class="page"></div>
 
 ### Contactgegevens bijhouden
 
@@ -147,8 +161,6 @@ Indien de klant blijft tekortschieten in de nakoming van zijn contractuele verpl
 - deze overeenkomst te beëindigen; en de klant te verplichten om de maandelijkse betalingen voor de resterende minimale looptijd van de overeenkomst te voldoen, naast de reeds verschuldigde maandelijkse betalingen.
 
 **Augment** zal het gebruik van de **dienst** niet opschorten of beperken wegens wanbetaling indien de wanbetaling aantoonbaar te wijten is aan onverwachte ziekte of een andere vergelijkbare oorzaak buiten de wil van de **klant**, en de verschuldigde betaling binnen één (1) maand na verzending van de betalingsherinnering geschiedt, of indien de **klant** de factuur met gegronde redenen heeft betwist en het onbetwiste gedeelte van de betaling op de vervaldag is voldaan.
-
-<div class="page"></div>
 
 ### Schending van de overeenkomst
 
@@ -182,8 +194,6 @@ Onder overmacht wordt verstaan een omstandigheid die de partij ten tijde van het
 
 Indien de uitvoering van de overeenkomst door overmacht wordt opgeschort of vertraagd, wordt de termijn voor de nakoming van de verplichting verlengd in de mate die onder de gegeven omstandigheden redelijk is.
 
-<div class="page"></div>
-
 ### Verwerking van persoonsgegevens, telematicagegevens en cookies
 
 **Augment** verwerkt persoonsgegevens in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming. Voor meer informatie over de verwerking van persoonsgegevens en cookies wordt verwezen naar het privacybeleid van **Augment**, dat te vinden is op de website van **Augment**.
@@ -200,7 +210,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 12.05.2025 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 16.09.2025 tot nader order.
 
 <div class="page"></div>
 
