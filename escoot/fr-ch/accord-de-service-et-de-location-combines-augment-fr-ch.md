@@ -114,7 +114,29 @@ Les frais de **service** sont facturés à l'avance selon l'intervalle de paieme
 
 La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
 
-Si le **client** ne paie pas les frais de service à la date d'échéance, le **client** se verra facturer des intérêts de retard selon la loi. En plus des intérêts de retard, **Augment** aura droit de facturer des frais de recouvrement raisonnables. Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
+Les créances impayées sont transmises à une agence de recouvrement externe après une mise en demeure infructueuse. Outre le paiement du montant de la facture, le client est également tenu de rembourser tous les frais occasionnés par ce retard de paiement  (notamment les intérêts moratoires, les frais de mise en demeure, les frais de recouvrement et les frais d'avocat).
+
+Les frais de recouvrement dépendent du montant de la créance, mais correspondent toutefois aux recommandations de l'association Inkasso Suisse.
+
+Pour les services de recouvrement fournis par une agence de recouvrement, vous devez, en fonction du montant de la créance principale concernée, verser l'indemnité suivante en CHF en cas de retard de paiement et à compter de la date à laquelle l'agence de recouvrement a été mandatée :
+
+| Montant de la créance (CHF)         | Indemnité maximale (CHF)        |
+|-------------------------------------|---------------------------------|
+| jusqu'à 75                          | 80                              |
+| jusqu'à 250                         | 149.15                          |
+| jusqu'à 500                         | 195                             |
+| jusqu'à 1 000                       | 260                             |
+| jusqu'à 2 000                       | 355                             |
+| jusqu'à 3 000                       | 448.15                          |
+| jusqu'à 5 000                       | 634.40                          |
+| jusqu'à 10 000                      | 1 100                           |
+| jusqu'à 30 000                      | 1 920                           |
+| jusqu'à 50 000                      | 2 740                           |
+| à partir de 50 000,01               | 5,5 % du montant de la créance  |
+
+Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
+
+Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
 
 **Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
 
@@ -149,8 +171,6 @@ Si le **client** a des **frais de service** impayés, ou si la **trottinette** �
 - Malgré la demande d'**Augment**, le **client** n'a pas respecté ses obligations contractuelles autres que celles relatives au paiement.
 
 **Augment** ne suspendra ni ne limitera l'utilisation du **service** pour non-paiement s'il s'avère que le non-paiement est dû à une maladie inattendue ou à une autre cause comparable indépendante de la volonté du **client**, et que le paiement dû est effectué dans un délai d'un (1) mois à compter de le rappel de paiement étant envoyé, ou si le **client** a contesté la facture avec des motifs valables et la partie non contestée du paiement est payée à la date d'échéance.
-
-<div class="page"></div>
 
 ### Rupture d'accord
 
@@ -190,6 +210,8 @@ Si l'exécution du contrat est suspendue ou retardée en raison d'un cas de forc
 
 **Augment** peut collecter des données télématiques de la **trottinette** et d'autres dispositifs, tels que des informations sur l'emplacement de la **trottinette**, ses mouvements, la température et l'utilisation générale de l'appareil. Les données télématiques n'incluent pas d'informations personnelles.
 
+<div class="page"></div>
+
 ### Limitation de responsabilité
 
 **Augment** ne sera pas responsable de toute perte ou dommage indirect ou consécutif causé par **Augment**, à moins qu'**Augment** n'ait causé cette perte ou ce dommage intentionnellement ou par négligence grave.
@@ -214,7 +236,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 30.07.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 16.09.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
