@@ -89,8 +89,6 @@ Pour les services de recouvrement fournis par une agence de recouvrement, vous d
 
 Les frais de recouvrement indiqués dans le tableau des dommages causés par le retard de paiement d'Inkasso Suisse s'appliquent indépendamment de la preuve du dommage.
 
-<div class="page"></div>
-
 ## Force majeure
 
 Augment est libéré de ses obligations contractuelles et de sa responsabilité pour les dommages dans la mesure où son exécution du contrat est empêchée ou retardée par un cas de force majeure. La force majeure fait référence à des circonstances qu'Augment n'aurait pas pu prévoir lors de la conclusion du contrat et qui échappent à son contrôle.
