@@ -108,8 +108,6 @@ Le colis contenant la **trottinette** électrique peut être ouvert par le **cli
 
 Si la **trottinette** électrique a été utilisée pendant le délai de rétractation et que le contrat est annulé, **Augment** a le droit de facturer au **client** la réduction de valeur de la **trottinette** électrique. **Augment** a le droit de facturer au **client** la valeur totale de la **trottinette** électrique si la **trottinette** électrique retournée est invendable.
 
-<div class="page"></div>
-
 ## Frais de service et maintien des coordonnées
 
 ### Frais de service
@@ -118,9 +116,19 @@ Les frais de **service** sont facturés à l'avance selon l'intervalle de paieme
 
 La date d'échéance des **frais de service** est déterminée par la date à laquelle la commande est passée. La date d'échéance peut être modifiée en contactant le **service client**. La date d'échéance des frais mensuels peut varier de quelques jours d'un mois à l'autre, car la durée des mois civils varie.
 
-Si le **client** ne paie pas les frais de service à la date d'échéance, le **client** se verra facturer des intérêts de retard selon la loi. En plus des intérêts de retard, **Augment** aura droit de facturer des frais de recouvrement raisonnables. Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
+Conformément au Livre XIX « Dettes du consommateur » du Code de Droit Économique, en cas de non-paiement total ou partiel de votre facture, nous vous enverrons un rappel gratuit vous accordant un délai de 14 jours pour régler votre facture en souffrance sans frais supplémentaires tels que des intérêts de retard ou des frais. Si vous ne payez pas dans ce délai, nous sommes en droit de transmettre votre facture impayée à une agence de recouvrement, auquel cas les montants maximaux suivants peuvent être facturés :
 
-**Augment** déposera plaintes en cas de demande de retour et si la **trottinette** n'est pas retournée.
+| **Montant dû**                | **Montant maximal/indemnité en pourcentage**                           |
+|-------------------------------|------------------------------------------------------------------------|
+| ≤ 150 EUR                     | 20 EUR                                                                 |
+| ≥ 150,01 EUR ; ≤ 500 EUR      | 30 EUR + 10 % du montant principal                                     |
+| ≥ 500,01 EUR                  | 65 EUR + 5 % du montant principal, jusqu'à un maximum de 2.000 EUR     |
+
+En plus de ces frais maximaux, des intérêts de retard peuvent être facturés, qui ne peuvent dépasser le taux d'intérêt majoré de 8 points de pourcentage, comme prévu à l'article 5, deuxième alinéa, de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales. Ces intérêts sont calculés sur le montant restant dû.
+
+Si le **client** ne retourne pas la **trottinette**, **Augment** est en droit de facturer au **client** le coût total des frais de recherche et de recouvrement d'**Augment** et des frais juridiques connexes.
+
+**Augment** déposera plainte si la **trottinette** n'est pas retournée.
 
 Les paiements au titre de l'**accord** sont gagés en faveur de Norion Bank AB en tant que créancier gagiste. Personne d'autre que le créancier gagiste ne peut modifier les instructions de paiement.
 
@@ -224,7 +232,7 @@ A défaut, toute contestation sur la formation, l'interprétation ou l'exécutio
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 30.07.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 16.09.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
