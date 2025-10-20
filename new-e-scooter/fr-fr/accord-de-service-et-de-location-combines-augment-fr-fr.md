@@ -96,7 +96,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **4,95 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **1 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
+Lors de la création du contrat, le client a la possibilité de souscrire à une option d’achat. Cette option lui confère le droit d’acquérir la trottinette au terme de la période minimale d’engagement, selon les conditions tarifaires en vigueur mentionnées sur le site internet d’Augment au moment de la souscription. Le contrat sera réputé clos après le règlement du montant dû au titre de cette acquisition.
 
 ### Retour de la trottinette à la fin du contrat
 
