@@ -92,7 +92,7 @@ Sopimusaika on vähintään 12/24/36 kuukautta **sopimuksen** alkamisesta. Ensim
 
 ### Mahdollisuus lunastaa Skuutti omaksi
 
-Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **3,95 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 59 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
+Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **4,95 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 1 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
 
 ### Skuutin palautus sopimuksen päättyessä
 
@@ -191,7 +191,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä sopimusehdot ovat voimassa Suomessa 30.07.2025 alkaen toistaiseksi
+Nämä sopimusehdot ovat voimassa Suomessa 23.10.2025 alkaen toistaiseksi
 
 <div class="page"></div>
 
