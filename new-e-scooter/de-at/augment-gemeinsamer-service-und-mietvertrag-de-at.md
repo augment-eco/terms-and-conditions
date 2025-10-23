@@ -102,7 +102,7 @@ Der **Kunde** hat das Recht, den Vertrag zum Ende der **Mindestvertragslaufzeit*
 
 ### Option zum Kauf des E-Scooters
 
-Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **3,95 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **59 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
+Wenn der Kunde die Kaufoption gegen eine zusätzliche Gebühr von **4,95 €/Monat** gewählt hat, kann der E-Scooter nach der Mindestvertragslaufzeit für **1 €** erworben werden. Sobald der Kaufpreis bezahlt ist, endet der Vertrag automatisch.
 
 ### E-Scooter Rückgabe bei Vertragsende
 
@@ -218,7 +218,7 @@ Die Europäische Kommission stellt dir eine Online-Plattform zur Lösung von Str
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 30.07.2025 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in Österreich ab dem 23.10.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
