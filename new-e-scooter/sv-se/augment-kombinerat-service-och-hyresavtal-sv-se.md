@@ -92,7 +92,7 @@ Efter passerad **avtalsperiod** har **Augment** rätt att säga upp **avtalet** 
 
 ### Möjlighet att köpa elsparkcykeln
 
-**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **49 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **699 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
+**Om kunden** har lagt till vår tilläggstjänst för att köpa ut elsparkcyklen för en extra kostnad av **55 SEK /månad** så kan elsparkcykeln köpas ut efter bindningstiden för **10 SEK**. När utköpssumman betalats så kommer **kontraktet upphöra automatiskt**.
 
 <div class="page"></div>
 
@@ -210,7 +210,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 ### Giltighet av avtalets villkor
 
-Dessa villkor för Augment gäller i Sverige från 30.07.2025 och tills vidare.
+Dessa villkor för Augment gäller i Sverige från 23.10.2025 och tills vidare.
 
 <div class="page"></div>
 
