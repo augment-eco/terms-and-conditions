@@ -94,7 +94,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **CHF 3.95 par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour CHF 59 à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **CHF 4.95 par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **CHF 1** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Résiliation du contrat avant la fin de la durée minimale du contrat
 
@@ -236,7 +236,7 @@ Rue de Genève 17
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 16.09.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en France à partir du 23.10.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
