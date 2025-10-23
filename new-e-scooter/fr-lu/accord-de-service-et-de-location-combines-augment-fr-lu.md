@@ -1,4 +1,4 @@
-# ACCORD DE SERVICE ET DE LOCATION COMBINÉS AUGMENT
+F# ACCORD DE SERVICE ET DE LOCATION COMBINÉS AUGMENT
 
 Les termes et conditions du présent **accord** s'appliquent au **service trottinette** électrique fourni par **Augment** aux particuliers, le **client**, **Augment** et le **client** collectivement, les **parties**. Le **client** doit être une personne physique [pleinement autorisée] âgée de plus de 18 ans et non un pupille d'un tribunal. Le **service** et la **trottinette** électrique sont destinés à l'usage d'un seul ménage. Le **service** ou la **trottinette** électrique ne peut être utilisé à des fins commerciales ou pour générer des revenus.
 
@@ -94,7 +94,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **149 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **4,95 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **1 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Retour de la trottinette à la fin du contrat
 
@@ -212,7 +212,7 @@ En cas de litige, le client peut toujours s'adresser à la plateforme européenn
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 13.12.2024 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur au Luxembourg à partir du 23.10.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
