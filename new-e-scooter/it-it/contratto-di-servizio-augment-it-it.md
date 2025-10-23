@@ -98,7 +98,7 @@ Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere 
 
 ### Opzione di acquisto del monopattino elettrico
 
-Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di  3 €/mese alla creazione del contratto , può acquistare il monopattino elettrico per 149 € dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
+Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di  **4,95 €/mese** alla creazione del contratto , può acquistare il monopattino elettrico per **1 € dopo** la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
 
 ### Restituire il monopattino elettrico alla risoluzione del contratto
 
@@ -217,7 +217,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 13.12.2024 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 23.10.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
