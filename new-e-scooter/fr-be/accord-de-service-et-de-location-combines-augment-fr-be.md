@@ -232,7 +232,7 @@ A défaut, toute contestation sur la formation, l'interprétation ou l'exécutio
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 16.09.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 23.10.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
