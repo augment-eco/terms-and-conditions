@@ -191,7 +191,7 @@ Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi K
 
 ### Sopimusehtojen voimassaolo
 
-Nämä sopimusehdot ovat voimassa Suomessa 23.10.2025 alkaen toistaiseksi
+Nämä sopimusehdot ovat voimassa Suomessa 24.10.2025 alkaen toistaiseksi
 
 <div class="page"></div>
 
