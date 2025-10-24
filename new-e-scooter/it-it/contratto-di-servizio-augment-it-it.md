@@ -217,7 +217,7 @@ In alternativa, il cliente ha la possibilità di attivare la procedura di concil
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 23.10.2025 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Italia dal 24.10.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
