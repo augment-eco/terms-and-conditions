@@ -226,7 +226,7 @@ Der Vertrag unterliegt dem Schweizer Recht. Gerichtsstand ist Zürich. Obligator
 
 ### Gültigkeit der Vertragsbedingungen
 
-Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 23.10.2025 bis auf weiteres gültig.
+Diese Allgemeinen Geschäftsbedingungen von Augment sind in der Schweiz ab dem 24.10.2025 bis auf weiteres gültig.
 
 <div class="page"></div>
 
