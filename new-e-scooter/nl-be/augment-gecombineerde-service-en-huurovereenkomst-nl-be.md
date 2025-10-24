@@ -96,7 +96,7 @@ Na het verstrijken van de **minimumtermijn** heeft **Augment** het recht de **ov
 
 ### Aflossing van de e-step
 
-Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€3,95/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€59**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
+Als de klant de extra aankoopoptie heeft aangeschaft op het moment van inschrijving voor **€4,95/maand**, dan kan hij de step na de minimale contractperiode aanschaffen voor **€1**. Zodra de klant de aankoopprijs heeft betaald, wordt het **contract automatisch beëindigd**.
 
 ### e-Step retour na afloop van het contract
 
@@ -216,7 +216,7 @@ De primaire taal van deze **overeenkomst** is Vlaams. In geval van tegenstrijdig
 
 ### Geldigheid van de voorwaarden van de overeenkomst
 
-Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 16.09.2025 tot nader order.
+Deze algemene voorwaarden van **Augment** zijn in België van kracht vanaf 24.10.2025 tot nader order.
 
 <div class="page"></div>
 
