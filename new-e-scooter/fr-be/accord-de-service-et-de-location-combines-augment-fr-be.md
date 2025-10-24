@@ -94,7 +94,7 @@ Après l'expiration de la **durée minimale**, **Augment** aura le droit de rés
 
 ### Option d'achat de la trottinette
 
-**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **3,95 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **59 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
+**Lors de la création de son contrat**, le client peut souscrire à l'option d'achat à **4,95 € par mois**. Cette option d'achat lui permet d'acquérir la trottinette pour **1 €** à la fin de la période minimale d'engagement. Une fois cette somme payée, le contrat sera clôturé.
 
 ### Retour de la trottinette à la fin du contrat
 
@@ -232,7 +232,7 @@ A défaut, toute contestation sur la formation, l'interprétation ou l'exécutio
 
 ### Validité des termes de l'accord
 
-Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 16.09.2025 jusqu'à nouvel ordre.
+Les présentes conditions générales d'**Augment** sont en vigueur en Belgique à partir du 24.10.2025 jusqu'à nouvel ordre.
 
 <div class="page"></div>
 
