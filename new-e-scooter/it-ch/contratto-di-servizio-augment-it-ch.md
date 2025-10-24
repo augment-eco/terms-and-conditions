@@ -217,7 +217,7 @@ Rue de Genève 17
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 23.10.2025 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 24.10.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
