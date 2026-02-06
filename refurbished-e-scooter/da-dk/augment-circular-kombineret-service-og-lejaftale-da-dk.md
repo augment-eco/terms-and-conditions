@@ -194,6 +194,8 @@ Tvister vil primært blive afgjort ved forhandling mellem parterne. Aftalen er u
 
 Endvidere kan tvister indbringes for de almindelige danske domstole af hver af parterne i overensstemmelse med gældende regler.
 
+<div class="page"></div>
+
 ### Aftalens gyldighed
 
 Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 06.02.2026 indtil videre.
