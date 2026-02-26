@@ -198,7 +198,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 Giltigheten av avtalets villkor
 
-Dessa allmänna villkor för Augment gäller i Sverige från 06.02.2026 tills vidare.
+Dessa allmänna villkor för Augment gäller i Sverige från 26.02.2026 tills vidare.
 
 <div class="page"></div>
 
