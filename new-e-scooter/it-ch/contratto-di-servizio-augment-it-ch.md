@@ -98,7 +98,7 @@ Dopo la scadenza del **periodo minimo**, **Augment** ha il diritto di risolvere 
 
 ### Opzione di acquisto del monopattino elettrico
 
-Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di CHF 3 /mese alla creazione del contratto , può acquistare il monopattino elettrico per CHF 149 dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
+Se il cliente ha scelto l’opzione di acquisto per un costo aggiuntivo di **CHF 4.95 /mese** alla creazione del contratto , può acquistare il monopattino elettrico per **CHF 1** dopo la durata minima del contratto. Una volta pagato il prezzo di acquisto, questo contratto si risolverà automaticamente.
 
 ### Conclusione del contratto prima della fine del period minimo di contratto
 
@@ -217,7 +217,7 @@ Rue de Genève 17
 
 ## Validita’ dei termini del contratto
 
-I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 25.03.2025 fino a nuovo avviso.
+I presenti termini e condizioni generali di **Augment** sono validi in Svizzera dal 24.10.2025 fino a nuovo avviso.
 
 <div class="page"></div>
 
