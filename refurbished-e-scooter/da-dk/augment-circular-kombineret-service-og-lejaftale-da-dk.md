@@ -86,14 +86,10 @@ Kunden har ret til at opsige aftalen ved udløb af aftalens minimumsperiode ved 
 
 Efter udløbet af minimumsperioden har Augment ret til at opsige aftalen med 30 dages varsel.
 
-### Opsigelse af aftalen inden udløbet af minimumsaftaleperioden
+### Returnering af scooter ved aftalens ophør
 
-Kunden har ret til tidligst at opsige aftalen 6 måneder efter aftalens ikrafttræden ved at meddele dette til kundeservice og betale 2400 DKK. Når betalingen er modtaget af Augment, vil ejendomsretten til elløbehjulet blive overdraget til kunden, og aftalen ophører automatisk.
-
-### Returnering af el-løbehjul efter opsigelse af aftalen
-
-Hvis kunden ikke ønsker at indløse el-løbehjulet ved udløbet af aftaleperioden, skal el-løbehjulet returneres til Augment i overensstemmelse med kundeserviceanvisningerne.
-
+Ved aftalens ophør skal Circular-scooteren returneres til Augment i overensstemmelse med kundeservicens anvisninger.
+Returnering af scooteren er gratis.
 Kunden er forpligtet til at erstatte ødelagt, bortkommet eller på anden måde ikke returneret el-løbehjul til sin nye købspris.
 
 ### Fortrydelsesret for fjernsalg
@@ -198,9 +194,11 @@ Tvister vil primært blive afgjort ved forhandling mellem parterne. Aftalen er u
 
 Endvidere kan tvister indbringes for de almindelige danske domstole af hver af parterne i overensstemmelse med gældende regler.
 
+<div class="page"></div>
+
 ### Aftalens gyldighed
 
-Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 13.12.2024 indtil videre.
+Disse generelle vilkår og betingelser for Augment er gældende i Danmark fra 26.02.2026 indtil videre.
 
 <div class="page"></div>
 
