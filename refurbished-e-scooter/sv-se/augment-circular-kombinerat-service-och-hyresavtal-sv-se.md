@@ -88,9 +88,7 @@ Efter passerad avtalsperiod har Augment rätt att säga upp avtalet med 30 dagar
 
 ### Retur av elsparkcykel efter uppsägning av avtal
 
-Om kunden väljer att inte köpa ut elsparkcykeln vid utlöp av avtalsperioden så skall elsparkcykeln returneras till Augment enligt instruktioner från kundtjänst.
-
-Kunden är skyldig att ersätta förstörd, förlorad eller på annat sätt ej återlämnad elsparkcykel till dess nya inköpspris.
+När avtalet upphör ska Circular-skotern återlämnas till Augment i enlighet med instruktionerna från kundtjänsten. Återlämningen av elsparkcykeln är kostnadsfri. Kunden är skyldig att ersätta förstörd, förlorad eller på annat sätt ej återlämnad elsparkcykel till dess nya inköpspris.
 
 ### Ångerrätt vid distansförsäljning
 
@@ -200,7 +198,7 @@ Allmänna reklamationsnämnden prövar inte tvister som enbart avser grunden fö
 
 Giltigheten av avtalets villkor
 
-Dessa allmänna villkor för Augment gäller i Sverige från 13.12.2024 tills vidare.
+Dessa allmänna villkor för Augment gäller i Sverige från 26.02.2026 tills vidare.
 
 <div class="page"></div>
 
