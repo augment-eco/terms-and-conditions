@@ -98,9 +98,9 @@ Den ursprungliga enheten återlämnas inte.
 
 Vid ersättning debiteras kunden en självrisk enligt följande:
 
-- 100 € utan batteri
-- 150 € med batteri
-- 125 € för batteri
+- 1,099 kr utan batteri
+- 1,649 kr med batteri
+- 1,390 kr för batteri
 
 Självrisken ska betalas innan ersättningsenheten levereras.
 
