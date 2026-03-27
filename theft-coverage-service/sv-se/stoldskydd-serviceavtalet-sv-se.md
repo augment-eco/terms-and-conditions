@@ -2,7 +2,7 @@
 
 ## 1. Avtalets tillämpning och förhållande till huvudavtalet
 
-Dessa stöldskyddsvillkor tillämpas mellan Augment Mobility Ab ("Augment") och kunden ("kunden") när kunden har valt stöldskydd i samband med beställning av en elsparkcykel.
+Dessa stöldskyddsvillkor tillämpas mellan Augment Mobility AB ("Augment") och kunden ("kunden") när kunden har valt stöldskydd i samband med beställning av en elsparkcykel.
 
 Stöldskyddet är en valbar och avgiftsbelagd tilläggstjänst som utgör ett separat avtal.
 
@@ -160,10 +160,10 @@ Augment ansvarar inte för hinder utanför dess kontroll, såsom myndighetsåtg�
 
 ## 16. Tillämplig lag och tvistlösning
 
-På detta avtal tillämpas finsk lag.
+På detta avtal tillämpas svensk lag.
 
 Eventuella tvister ska i första hand lösas genom förhandling mellan parterna.
 
-Konsumenter har rätt att vända sig till Konsumenttvistenämnden.
+Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN).
 
-I sista hand avgörs tvisten i den behöriga tingsrätten på kundens hemort.
+Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
