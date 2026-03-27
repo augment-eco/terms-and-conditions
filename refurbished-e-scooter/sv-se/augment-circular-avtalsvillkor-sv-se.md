@@ -13,13 +13,9 @@ I dessa avtalsvillkor avses med:
 "Tilläggsprodukter" separat köpta produkter såsom lås eller hjälm.
 "Yrkesmässig användning" användning av enheten i inkomstsyfte, såsom matleveranser, budverksamhet eller motsvarande.
 
----
-
 ## 1. Avtalets tillämpningsområde
 
 Dessa villkor gäller mellan Augment och kunden och avser köp av en begagnad Augment Circular elsparkcykel samt eventuella tilläggstjänster.
-
----
 
 ## 2. Produktens natur (begagnad enhet)
 
@@ -33,8 +29,6 @@ Kunden är medveten om och accepterar att:
 
 Dessa egenskaper utgör inte fel.
 
----
-
 ## 3. Batteriets skick
 
 Enheten innehåller ett begagnat batteri.
@@ -45,19 +39,13 @@ Batteriets kapacitet minskar normalt över tid vid användning.
 
 Kapacitetsminskning utgör inte fel, om inte kapaciteten väsentligt understiger den angivna nivån vid försäljningstillfället.
 
----
-
 ## 4. Avtalets ingående
 
 Avtalet uppstår när kunden gör en beställning och Augment bekräftar denna.
 
----
-
 ## 5. Äganderätt
 
 Äganderätten övergår till kunden när betalning har erlagts eller finansiering har godkänts.
-
----
 
 ## 6. Pris och betalning
 
@@ -74,15 +62,11 @@ Finansieringen kan omfatta:
 
 Tilläggstjänster anses betalda i sin helhet vid avtalets ingående och kan inte sägas upp under avtalsperioden.
 
----
-
 ## 7. Leverans
 
 Leveranstid är normalt 1–5 arbetsdagar.
 
 Risken övergår till kunden vid leverans.
-
----
 
 ## 8. Ångerrätt
 
@@ -91,8 +75,6 @@ Konsumenten har 14 dagars ångerrätt.
 Produkten får endast användas för att kontrollera dess egenskaper.
 
 Augment har rätt att göra avdrag för värdeminskning.
-
----
 
 ## 9. Felansvar (ingen garanti)
 
@@ -108,13 +90,9 @@ Följande utgör inte fel:
 - visuella spår av användning
 - batteriets naturliga kapacitetsminskning
 
----
-
 ## 10. Användning av enheten
 
 Användning kräver Augments mobilapplikation.
-
----
 
 ## 11. Giltighet och omfattning
 
@@ -129,8 +107,6 @@ Kunden kan välja en avtalsperiod på:
 Serviceavtalet gäller för enheten eller en ersättningsenhet.
 
 Serviceavtalet gäller endast i det land där enheten levererades.
-
----
 
 ## 12. Vad serviceavtalet omfattar
 
@@ -153,23 +129,17 @@ Följande omfattas inte:
 
 Skador som endast påverkar utseendet ger inte rätt till ersättningsenhet.
 
----
-
 ## 13. Felanmälan
 
 Kunden ska anmäla fel utan dröjsmål.
 
 Augment avgör åtgärd.
 
----
-
 ## 14. Snabbbyteservice
 
 Ersättningsenhet levereras normalt inom 1–3 arbetsdagar.
 
 Ersättningsenheten är begagnad.
-
----
 
 ## 15. Skick vid byte
 
@@ -181,8 +151,6 @@ Enheten får inte ha:
 
 Augment kan debitera 500–1 000 kr i återställningskostnad.
 
----
-
 ## 16. Retur
 
 Enheten ska returneras inom 7 dagar.
@@ -191,19 +159,13 @@ Augment står för returfrakt enligt instruktion.
 
 Försening debiteras med 125 kr per påbörjad vecka eller enhetens värde.
 
----
-
 ## 17. Egenreparation
 
 Kunden kan välja egenreparation.
 
----
-
 ## 18. Begränsningar
 
 Serviceavtalet gäller inte vid yrkesmässig användning.
-
----
 
 ## 19. Giltighet
 
@@ -215,16 +177,12 @@ Avtalstid:
 - 12 månader
 - 24 månader
 
----
-
 ## 20. Låsning och förvaring
 
 Enheten ska låsas:
 
 - via app
 - med fysiskt lås
-
----
 
 ## 21. Vid stöld
 
@@ -234,13 +192,9 @@ Kunden ska:
 - lämna in den till Augment
 - meddela utan dröjsmål
 
----
-
 ## 22. Ersättning
 
 Ersättning sker med begagnad enhet.
-
----
 
 ## 23. Självrisk
 
@@ -252,8 +206,6 @@ Vid ersättning betalar kunden:
 
 Självrisken ska betalas innan ersättningsenheten levereras.
 
----
-
 ## 24. Begränsningar
 
 Ersättning lämnas inte om:
@@ -263,19 +215,13 @@ Ersättning lämnas inte om:
 - kommersiell användning
 - polisanmälan saknas
 
----
-
 ## 25. Ansvarsbegränsning
 
 Augment ansvarar inte för indirekta skador.
 
----
-
 ## 26. Force majeure
 
 Augment ansvarar inte för händelser utanför kontroll.
-
----
 
 ## 27. Tillämplig lag och tvister
 
@@ -287,15 +233,11 @@ Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN). 
 
 Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
 
----
-
 ## 28. Immateriella rättigheter
 
 Alla rättigheter tillhör Augment.
 
 Kunden har endast nyttjanderätt.
-
----
 
 ## 29. Giltighet av avtalsvillkor
 
