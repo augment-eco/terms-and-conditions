@@ -26,6 +26,7 @@ Dessa villkor gäller mellan Augment och kunden och avser köp av en begagnad Au
 Enheten är en begagnad och rekonditionerad produkt.
 
 Kunden är medveten om och accepterar att:
+
 - enheten uppvisar spår av användning
 - enheten kan ha repor, slitage och andra visuella avvikelser
 - enheten inte motsvarar en ny produkt i utseende eller skick
@@ -61,10 +62,12 @@ Avtalet uppstår när kunden gör en beställning och Augment bekräftar denna.
 ## 6. Pris och betalning
 
 Kunden kan betala:
+
 - som engångsbetalning
 - via konsumentfinansiering
 
 Finansieringen kan omfatta:
+
 - enheten
 - serviceavtal
 - stöldskydd
@@ -100,6 +103,7 @@ Augment ansvarar för fel enligt konsumentskyddslagstiftningen.
 Felansvaret är begränsat till ett (1) år från leverans.
 
 Följande utgör inte fel:
+
 - normalt slitage
 - visuella spår av användning
 - batteriets naturliga kapacitetsminskning
@@ -112,13 +116,12 @@ Användning kräver Augments mobilapplikation.
 
 ---
 
-# SERVICEAVTAL (VALBART)
-
 ## 11. Giltighet och omfattning
 
 Serviceavtal är en valbar avgiftsbelagd tilläggstjänst.
 
 Kunden kan välja en avtalsperiod på:
+
 - 6 månader
 - 12 månader
 - 24 månader
@@ -132,16 +135,19 @@ Serviceavtalet gäller endast i det land där enheten levererades.
 ## 12. Vad serviceavtalet omfattar
 
 Serviceavtalet omfattar:
+
 - fel som uppstår vid normal användning
 - slitdelar (däck, bromsbelägg, batteri)
 - en (1) skadehändelse per 12 månader
 
 Med skadehändelse avses en plötslig och yttre händelse, såsom:
+
 - fall
 - kollision
 - att enheten tappas
 
 Följande omfattas inte:
+
 - avsiktlig skada
 - grov vårdslöshet
 
@@ -168,6 +174,7 @@ Ersättningsenheten är begagnad.
 ## 15. Skick vid byte
 
 Enheten får inte ha:
+
 - klistermärken
 - målning
 - strukturella ändringar
@@ -205,6 +212,7 @@ Serviceavtalet gäller inte vid yrkesmässig användning.
 Stöldskydd är valbart.
 
 Avtalstid:
+
 - 6 månader
 - 12 månader
 - 24 månader
@@ -214,6 +222,7 @@ Avtalstid:
 ## 20. Låsning och förvaring
 
 Enheten ska låsas:
+
 - via app
 - med fysiskt lås
 
@@ -222,6 +231,7 @@ Enheten ska låsas:
 ## 21. Vid stöld
 
 Kunden ska:
+
 - göra polisanmälan inom 10 arbetsdagar
 - lämna in den till Augment
 - meddela utan dröjsmål
@@ -249,6 +259,7 @@ Självrisken ska betalas innan ersättningsenheten levereras.
 ## 24. Begränsningar
 
 Ersättning lämnas inte om:
+
 - låsning inte följts
 - enheten lånats ut utanför hushållet
 - kommersiell användning
