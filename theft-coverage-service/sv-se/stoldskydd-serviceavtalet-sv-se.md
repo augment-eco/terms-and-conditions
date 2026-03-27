@@ -167,3 +167,7 @@ Eventuella tvister ska i första hand lösas genom förhandling mellan parterna.
 Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN).
 
 Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
+
+## 17. Giltighet av användarvillkor
+
+Dessa villkor gäller från den 5 maj 2023 tills annat anges.
