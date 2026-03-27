@@ -43,6 +43,8 @@ Kapacitetsminskning utgör inte fel, om inte kapaciteten väsentligt understiger
 
 Avtalet uppstår när kunden gör en beställning och Augment bekräftar denna.
 
+<div class="page"></div>
+
 ## 5. Äganderätt
 
 Äganderätten övergår till kunden när betalning har erlagts eller finansiering har godkänts.
@@ -195,6 +197,8 @@ Kunden ska:
 ## 22. Ersättning
 
 Ersättning sker med begagnad enhet.
+
+<div class="page"></div>
 
 ## 23. Självrisk
 
