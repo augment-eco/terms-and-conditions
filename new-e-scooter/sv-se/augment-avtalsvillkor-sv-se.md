@@ -4,7 +4,7 @@
 
 I dessa avtalsvillkor avses med:
 
-**"Augment"** Augment Mobility Ab.
+**"Augment"** Augment Mobility AB.
 **"Kund"** en fysisk eller juridisk person som ingår avtal med Augment.
 **"Enhet"** den elsparkcykel som kunden köper.
 **"Serviceavtal"** Augments tidsbegränsade service enligt dessa villkor.
@@ -17,7 +17,7 @@ I dessa avtalsvillkor avses med:
 
 ## 1. Avtalets parter och tillämpningsområde
 
-Dessa avtalsvillkor gäller mellan Augment Mobility Ab ("Augment") och kunden ("kunden") och avser köp av elsparkcykel samt eventuella tilläggstjänster som kunden väljer.
+Dessa avtalsvillkor gäller mellan Augment Mobility AB ("Augment") och kunden ("kunden") och avser köp av elsparkcykel samt eventuella tilläggstjänster som kunden väljer.
 
 Kunden kan vara en fysisk eller juridisk person.
 
@@ -227,7 +227,7 @@ Enheten får inte ha:
 
 Normalt slitage är tillåtet.
 
-Om enheten har klistermärken, tejpningar eller målning har Augment rätt att ta ut en hanterings- eller rekonditioneringsavgift på 50–100 €.
+Om enheten har klistermärken, tejpningar eller målning har Augment rätt att ta ut en hanterings- eller rekonditioneringsavgift på 500–1 000 kr.
 
 Augment har rätt att neka snabbbyteservice eller debitera extra kostnader om villkoren i övrigt inte har följts.
 
@@ -246,7 +246,7 @@ Augment ansvarar för returfraktkostnaden om instruktionerna följs.
 
 Om kunden inte följer instruktionerna ansvarar kunden själv för kostnaderna.
 
-Vid försening kan 12,50 € debiteras per påbörjad vecka, eller så kan enhetens värde krävas in.
+Vid försening kan 125 kr debiteras per påbörjad vecka, eller så kan enhetens värde krävas in.
 
 <div class="underline"></div>
 
@@ -314,11 +314,11 @@ Augment levererar en motsvarande rekonditionerad begagnad enhet.
 
 <div class="underline"></div>
 
-## 22. Självrisk
+## 22. Självrisk vid stöldskydd
 
-- 1,099 kr. utan batteri
-- 1,649 kr. med batteri
-- 1,390 kr. för batteri
+- 1 099 kr utan batteri
+- 1 649 kr med batteri
+- 1 390 kr för batteri
 
 <div class="underline"></div>
 
@@ -355,13 +355,13 @@ Augment ansvarar inte för force majeure-situationer.
 
 ## 27. Tillämplig lag och tvistlösning
 
-På avtalet tillämpas finsk lag.
+På detta avtal tillämpas svensk lag.
 
 Eventuella tvister ska i första hand lösas genom förhandling mellan parterna.
 
-En konsumentkund har rätt att hänskjuta ärendet till Konsumenttvistenämnden.
+Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN). Augment åtar sig att följa ARN:s rekommendationer.
 
-I sista hand avgörs tvister av den behöriga tingsrätten på kundens hemort.
+Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
 
 <div class="underline"></div>
 
@@ -372,3 +372,9 @@ Alla immateriella rättigheter som hänför sig till enheten, programvaran, mobi
 Kunden beviljas en begränsad rätt att använda enheten och tillhörande tjänster i enlighet med dessa villkor.
 
 Kunden har inte rätt att kopiera, ändra, sprida eller på annat sätt utnyttja Augments immateriella rättigheter utan Augments skriftliga förhandstillstånd.
+
+<div class="underline"></div>
+
+## 29. Giltighet av avtalsvillkor
+
+Dessa villkor gäller från den 27 mars 2026 tills annat anges.
