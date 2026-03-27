@@ -170,4 +170,4 @@ Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kunden
 
 ## 17. Giltighet av användarvillkor
 
-Dessa villkor gäller från den 5 maj 2023 tills annat anges.
+Dessa villkor gäller från den 27 mars 2026 tills annat anges.
