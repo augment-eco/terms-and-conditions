@@ -205,8 +205,6 @@ Serviceavtalet gäller inte vid yrkesmässig användning.
 
 ---
 
-# STÖLDSKYDD (VALBART)
-
 ## 19. Giltighet
 
 Stöldskydd är valbart.
