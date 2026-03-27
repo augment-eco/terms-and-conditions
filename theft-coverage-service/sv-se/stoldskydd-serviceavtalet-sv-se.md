@@ -10,8 +10,6 @@ Stöldskyddet är dock beroende av det avtal som gäller köp av enheten samt ev
 
 Om huvudavtalet inte uppstår, upphör eller anses ogiltigt, uppstår inte heller stöldskyddsavtalet eller så upphör det i motsvarande omfattning.
 
-<div class="underline"></div>
-
 ## 2. Avtalets uppkomst
 
 Stöldskyddsavtalet uppstår när:
@@ -19,15 +17,11 @@ Stöldskyddsavtalet uppstår när:
 - kunden har valt stöldskydd i samband med beställningen, och
 - Augment har bekräftat beställningen
 
-<div class="underline"></div>
-
 ## 3. Giltighetstid
 
 Stöldskyddet gäller under den tidsperiod som kunden har valt vid beställningen.
 
 Stöldskyddet gäller endast i det land till vilket enheten ursprungligen beställdes och levererades.
-
-<div class="underline"></div>
 
 ## 4. Skyddets omfattning
 
@@ -35,15 +29,11 @@ Stöldskyddet gäller endast den enhet eller ersättningsenhet som har levererat
 
 Om enheten har ersatts genom snabbbyteservice eller annan process, fortsätter stöldskyddet att gälla för den ersättande enheten.
 
-<div class="underline"></div>
-
 ## 5. Förvaring och låsningskrav
 
 Kunden ansvarar för att enheten förvaras på ett säkert sätt.
 
 Enheten ska alltid förvaras i ett låst utrymme när den inte används.
-
-<div class="page"></div>
 
 Med delat utrymme avses ett utrymme som flera personer har tillgång till, till exempel:
 
@@ -51,14 +41,14 @@ Med delat utrymme avses ett utrymme som flera personer har tillgång till, till 
 - gemensamma förvaringsutrymmen
 - andra motsvarande utrymmen
 
+<div class="page"></div>
+
 I delat eller offentligt utrymme ska enheten vara låst:
 
 - via Augments mobilapplikation, och
 - med ett fysiskt lås fäst i en fast konstruktion
 
 Att enbart placera enheten i ett delat utrymme utan fysisk låsning uppfyller inte dessa krav.
-
-<div class="underline"></div>
 
 ## 6. Kundens skyldigheter vid stöld
 
@@ -70,8 +60,6 @@ Vid misstänkt eller konstaterad stöld ska kunden:
 
 Kunden ska lämna riktiga och fullständiga uppgifter om händelsen.
 
-<div class="underline"></div>
-
 ## 7. Augments rätt att utreda
 
 Augment har rätt att begära ytterligare information om händelsen.
@@ -79,8 +67,6 @@ Augment har rätt att begära ytterligare information om händelsen.
 Augment har rätt att bedöma om villkoren för ersättning är uppfyllda.
 
 Om kunden inte lämnar tillräcklig information kan ersättning vägras.
-
-<div class="underline"></div>
 
 ## 8. Ersättning
 
@@ -92,8 +78,6 @@ Augment har rätt att bestämma ersättningsenhetens modell, skick och specifika
 
 Den ursprungliga enheten återlämnas inte.
 
-<div class="underline"></div>
-
 ## 9. Självrisk
 
 Vid ersättning debiteras kunden en självrisk enligt följande:
@@ -104,7 +88,7 @@ Vid ersättning debiteras kunden en självrisk enligt följande:
 
 Självrisken ska betalas innan ersättningsenheten levereras.
 
-<div class="underline"></div>
+<div class="page"></div>
 
 ## 10. Begränsningar i stöldskyddet
 
@@ -118,15 +102,11 @@ Ersättning lämnas inte om:
 
 Ersättning lämnas inte heller om det finns skäl att misstänka att uppgifterna är felaktiga eller vilseledande.
 
-<div class="underline"></div>
-
 ## 11. Missbruk och avtalsbrott
 
 Augment har rätt att neka ersättning vid misstanke om missbruk.
 
 Vid allvarligt avtalsbrott har Augment rätt att säga upp stöldskyddet med omedelbar verkan.
-
-<div class="underline"></div>
 
 ## 12. Betalning
 
@@ -136,27 +116,19 @@ Betalningssättet påverkar inte avtalets giltighet.
 
 Stöldskyddet kan inte sägas upp under avtalstiden.
 
-<div class="underline"></div>
-
 ## 13. Förhållande till huvudavtalet
 
 I övrigt tillämpas villkoren i huvudavtalet.
 
 Om det finns motstridigheter mellan dessa villkor och huvudavtalet, gäller dessa villkor i frågor som rör stöldskyddet.
 
-<div class="underline"></div>
-
 ## 14. Ansvarsbegränsning
 
 Augment ansvarar inte för indirekta skador eller följdskador.
 
-<div class="page"></div>
-
 ## 15. Force majeure
 
 Augment ansvarar inte för hinder utanför dess kontroll, såsom myndighetsåtgärder, strejker eller andra force majeure-händelser.
-
-<div class="underline"></div>
 
 ## 16. Tillämplig lag och tvistlösning
 
