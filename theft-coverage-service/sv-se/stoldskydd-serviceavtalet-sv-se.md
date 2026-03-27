@@ -41,7 +41,7 @@ Om enheten har ersatts genom snabbbyteservice eller annan process, fortsätter s
 
 Kunden ansvarar för att enheten förvaras på ett säkert sätt.
 
-Enheten ska alltid förvaras i ett låst utrymme när den inte används.
+När enheten inte används ska den som huvudregel förvaras i ett låst utrymme. Om detta inte är möjligt och enheten måste lämnas i ett delat eller offentligt utrymme gäller de särskilda låsningskraven nedan.
 
 <div class="page"></div>
 
@@ -100,7 +100,7 @@ Vid ersättning debiteras kunden en självrisk enligt följande:
 
 - 1 099 kr utan batteri
 - 1 649 kr med batteri
-- 1 390 kr för batteri
+- 1 390 kr vid stöld av enbart batteri
 
 Självrisken ska betalas innan ersättningsenheten levereras.
 
@@ -168,6 +168,6 @@ Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN).
 
 Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
 
-## 17. Giltighet av användarvillkor
+## 17. Giltighet av stöldskyddsvillkoren
 
 Dessa villkor gäller från den 27 mars 2026 tills annat anges.

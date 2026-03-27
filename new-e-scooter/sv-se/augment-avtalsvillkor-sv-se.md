@@ -285,11 +285,13 @@ Stöldskyddet gäller endast i det land till vilket enheten ursprungligen bestä
 
 ## 19. Förvaring och låsning
 
-Enheten ska förvaras i ett låst utrymme.
+Enheten ska när den inte används förvaras på ett säkert sätt.
+
+I hemmet eller annat privat utrymme ska enheten i normalfallet förvaras inomhus, i ett låst utrymme eller på annat likvärdigt skyddat sätt.
 
 Med delat utrymme avses ett utrymme som flera personer har tillgång till, till exempel ett cykelförråd i ett bostadsbolag, ett gemensamt förråd eller annat motsvarande utrymme.
 
-I delat eller offentligt utrymme ska enheten låsas:
+Vid förvaring i delat utrymme eller på offentlig plats ska enheten låsas:
 
 - med applikationen
 - med ett fysiskt lås i en fast konstruktion
@@ -318,7 +320,7 @@ Augment levererar en motsvarande rekonditionerad begagnad enhet.
 
 - 1 099 kr utan batteri
 - 1 649 kr med batteri
-- 1 390 kr för batteri
+- 1 390 kr vid stöld av enbart batteri
 
 <div class="underline"></div>
 
