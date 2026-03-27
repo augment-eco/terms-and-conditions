@@ -39,7 +39,7 @@ Samtliga villkor bildar ett gemensamt och sammanhängande avtalsförhållande.
 
 <div class="page"></div>
 
-## 2A. Valbara tilläggstjänster
+### 2.1. Valbara tilläggstjänster
 
 Serviceavtal och stöldskydd är valbara och avgiftsbelagda tilläggstjänster som kunden kan välja i samband med beställningen.
 
@@ -215,7 +215,7 @@ Den ursprungliga enheten återlämnas inte till kunden.
 
 <div class="underline"></div>
 
-## 14A. Enhetens skick vid snabbbyteservice
+### 14.1. Enhetens skick vid snabbbyteservice
 
 Enheten ska vara i skick som motsvarar originalskick.
 
