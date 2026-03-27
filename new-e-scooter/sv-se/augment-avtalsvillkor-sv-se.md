@@ -13,8 +13,6 @@ I dessa avtalsvillkor avses med:
 **"Tilläggsprodukter"** separata produkter som köps i samband med enheten, till exempel lås eller hjälm.
 **"Yrkesmässig användning"** användning av enheten regelbundet för inkomstförvärv eller affärsverksamhet, till exempel matleveranser, budverksamhet eller annan motsvarande användning.
 
-<div class="underline"></div>
-
 ## 1. Avtalets parter och tillämpningsområde
 
 Dessa avtalsvillkor gäller mellan Augment Mobility AB ("Augment") och kunden ("kunden") och avser köp av elsparkcykel samt eventuella tilläggstjänster som kunden väljer.
@@ -23,8 +21,6 @@ Kunden kan vara en fysisk eller juridisk person.
 
 Om kunden är konsument gäller tvingande konsumentskyddslagstiftning.
 Om kunden använder produkten i näringsverksamhet gäller inte konsumentskyddslagstiftningen.
-
-<div class="underline"></div>
 
 ## 2. Avtalets struktur och helhet
 
@@ -49,15 +45,11 @@ Kunden betalar ett separat pris för tilläggstjänsterna i samband med beställ
 
 Kunden godkänner valet av tilläggstjänster separat i beställningsskedet.
 
-<div class="underline"></div>
-
 ## 3. Avtalets ingående
 
 Avtalet uppstår när kunden gör en beställning i Augments webbutik och Augment bekräftar beställningen elektroniskt.
 
 Augment har rätt att inte godkänna en beställning om det finns saklig grund för detta.
-
-<div class="underline"></div>
 
 ## 4. Produkt och äganderätt
 
@@ -67,8 +59,6 @@ Enheten säljs till kunden.
 
 - betalningen har erlagts i sin helhet, eller
 - finansieringsavtalet har godkänts
-
-<div class="underline"></div>
 
 ## 5. Pris och betalning
 
@@ -93,7 +83,7 @@ Serviceavtal och stöldskydd:
 Betalningssättet påverkar inte avtalets bindande verkan.
 Betalningsskyldigheten påverkas inte av om tjänsten används eller inte.
 
-<div class="underline"></div>
+<div class="page"></div>
 
 ## 6. Tilläggsprodukter
 
@@ -103,8 +93,6 @@ Tilläggsprodukterna är separata varor och omfattas av normala köpvillkor.
 
 Serviceavtalet eller stöldskyddet gäller inte för tilläggsprodukter.
 
-<div class="underline"></div>
-
 ## 7. Leverans och riskövergång
 
 De produkter som ingår i beställningen levereras i samma försändelse, om inget annat anges.
@@ -113,8 +101,6 @@ Leveranstiden är normalt 1–5 arbetsdagar.
 
 Risken för produkten övergår till kunden när produkten har överlämnats.
 
-<div class="underline"></div>
-
 ## 8. Ångerrätt
 
 En konsument har rätt att frånträda köpet inom 14 dagar från det att produkten tagits emot.
@@ -122,8 +108,6 @@ En konsument har rätt att frånträda köpet inom 14 dagar från det att produk
 Produkten får endast användas i den omfattning som krävs för att kontrollera dess egenskaper och funktion.
 
 Om produkten har använts mer än vad som är nödvändigt har Augment rätt att göra avdrag för värdeminskningen vid återbetalning.
-
-<div class="underline"></div>
 
 ## 9. Garanti och felansvar
 
@@ -154,8 +138,6 @@ Augment ansvarar inte för avbrott i användningen som beror på kundens utrustn
 
 Augment garanterar inte att applikationen fungerar utan avbrott.
 
-<div class="underline"></div>
-
 ## 11. Serviceavtalets tillämpning och koppling till enheten
 
 Serviceavtalet är en valbar avgiftsbelagd tilläggstjänst.
@@ -165,8 +147,6 @@ Det gäller endast om kunden har valt tjänsten i samband med beställningen.
 Serviceavtalet gäller endast den enhet eller ersättningsenhet som har levererats till kunden med stöd av detta avtal.
 
 Serviceavtalet gäller endast i det land till vilket enheten ursprungligen beställdes och levererades.
-
-<div class="underline"></div>
 
 ## 12. Vad serviceavtalet omfattar
 
@@ -191,8 +171,6 @@ I sådana fall levererar Augment nödvändiga reservdelar till kunden, och kunde
 
 Augment har rätt att avgöra om det endast är fråga om en visuell skada eller om det är ett funktionellt fel.
 
-<div class="underline"></div>
-
 ## 13. Process vid fel
 
 Kunden ska utan dröjsmål anmäla felet till Augment.
@@ -203,8 +181,6 @@ Augment bedömer situationen och avgör om följande åtgärd ska användas:
 - service/reparation
 - leverans av reservdelar
 
-<div class="underline"></div>
-
 ## 14. Snabbbyteservice
 
 Augment skickar normalt en ersättningsenhet inom 1–3 arbetsdagar.
@@ -212,8 +188,6 @@ Augment skickar normalt en ersättningsenhet inom 1–3 arbetsdagar.
 Ersättningsenheten är en rekonditionerad begagnad enhet.
 
 Den ursprungliga enheten återlämnas inte till kunden.
-
-<div class="underline"></div>
 
 ### 14.1. Enhetens skick vid snabbbyteservice
 
@@ -231,8 +205,6 @@ Om enheten har klistermärken, tejpningar eller målning har Augment rätt att t
 
 Augment har rätt att neka snabbbyteservice eller debitera extra kostnader om villkoren i övrigt inte har följts.
 
-<div class="underline"></div>
-
 ## 15. Retur av trasig enhet
 
 Kunden ska returnera enheten inom 7 dagar från mottagandet av ersättningsenheten.
@@ -248,7 +220,7 @@ Om kunden inte följer instruktionerna ansvarar kunden själv för kostnaderna.
 
 Vid försening kan 125 kr debiteras per påbörjad vecka, eller så kan enhetens värde krävas in.
 
-<div class="underline"></div>
+<div class="page"></div>
 
 ## 16. Egenreparation
 
@@ -257,8 +229,6 @@ Kunden kan välja egenreparation, varvid Augment levererar reservdelarna.
 Om kunden vill behålla samma enhet rekommenderar Augment egenreparation enligt Augments instruktioner.
 
 Kunden ansvarar själv för monteringen och Augment ansvarar inte för skador som orsakas av felaktig installation.
-
-<div class="underline"></div>
 
 ## 17. Begränsningar i serviceavtalet
 
@@ -271,8 +241,6 @@ Med yrkesmässig användning avses användning för inkomstförvärv, såsom:
 
 Serviceavtalet omfattar inte heller missbruk eller användning i strid med instruktionerna.
 
-<div class="underline"></div>
-
 ## 18. Stöldskyddets tillämpning
 
 Stöldskyddet är en valbar avgiftsbelagd tilläggstjänst.
@@ -280,8 +248,6 @@ Stöldskyddet är en valbar avgiftsbelagd tilläggstjänst.
 Det gäller endast om kunden har valt tjänsten.
 
 Stöldskyddet gäller endast i det land till vilket enheten ursprungligen beställdes och levererades.
-
-<div class="underline"></div>
 
 ## 19. Förvaring och låsning
 
@@ -306,21 +272,15 @@ Kunden ska:
 - skicka en kopia av polisanmälan till Augment
 - utan dröjsmål meddela Augment om händelsen
 
-<div class="underline"></div>
-
 ## 21. Ersättning
 
 Augment levererar en motsvarande rekonditionerad begagnad enhet.
-
-<div class="underline"></div>
 
 ## 22. Självrisk vid stöldskydd
 
 - 1 099 kr utan batteri
 - 1 649 kr med batteri
 - 1 390 kr för batteri
-
-<div class="underline"></div>
 
 ## 23. Begränsningar i stöldskyddet
 
@@ -331,21 +291,15 @@ Ersättning betalas inte om:
 - enheten har använts kommersiellt
 - polisanmälan inte har lämnats in
 
-<div class="underline"></div>
-
 ## 24. Försenad betalning
 
 Dröjsmålsränta bestäms enligt räntelagen.
 
 Inkassokostnader kan debiteras.
 
-<div class="underline"></div>
-
 ## 25. Ansvarsbegränsning
 
 Augment ansvarar inte för indirekta skador.
-
-<div class="underline"></div>
 
 ## 26. Force majeure
 
@@ -363,8 +317,6 @@ Konsumenter har rätt att vända sig till Allmänna reklamationsnämnden (ARN). 
 
 Som ett sista steg avgörs tvisten i allmän domstol med tingsrätten på kundens hemort som första instans.
 
-<div class="underline"></div>
-
 ## 28. Immateriella rättigheter
 
 Alla immateriella rättigheter som hänför sig till enheten, programvaran, mobilapplikationen och tillhörande material tillhör Augment eller dess licensgivare.
@@ -372,8 +324,6 @@ Alla immateriella rättigheter som hänför sig till enheten, programvaran, mobi
 Kunden beviljas en begränsad rätt att använda enheten och tillhörande tjänster i enlighet med dessa villkor.
 
 Kunden har inte rätt att kopiera, ändra, sprida eller på annat sätt utnyttja Augments immateriella rättigheter utan Augments skriftliga förhandstillstånd.
-
-<div class="underline"></div>
 
 ## 29. Giltighet av avtalsvillkor
 
