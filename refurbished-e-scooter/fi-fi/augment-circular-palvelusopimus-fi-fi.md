@@ -1,257 +1,264 @@
-# AUGMENT CIRCULAR -PALVELUSOPIMUS
+# AUGMENT SOPIMUSEHDOT – CIRCULAR
 
-## Sopimuksen osapuolet ja tarkoitus
+## Määritelmät
 
-Näitä ehtoja sovelletaan Augment Mobility Ab:n (virallinen osoite: Upankatu 1, 60100 Seinäjoki), ja muiden Augment-ryhmään kuuluvien yrityksien (Augment) yksityishenkilölle (Asiakas) tarjoamaan Circular-sähköpotkulauta (Circular-skuutti) palveluun. Sopimuksen saa solmia ainoastaan 18 vuotta täyttänyt henkilö, joka ei ole holhouksen alainen. Palvelua ei saa käyttää elinkeinotoiminnassa tai tulon hankkimiseksi, ja se on tarkoitettu käytettäväksi yhdessä taloudessa Suomessa.
+Näissä sopimusehdoissa:
 
-Sopimuksen tarkoituksena on määritellä osapuolten oikeudet ja velvollisuudet koskien Augmentin tämän Sopimuksen mukaista palvelua (myöhemmin Palvelu) ja siihen sisältyvää sähköpotkulautaa (myöhemmin Circular-skuutti).
+"Augment" tarkoittaa Augment Mobility Ab:tä.
+"Asiakas" tarkoittaa luonnollista henkilöä tai oikeushenkilöä, joka tekee sopimuksen Augmentin kanssa.
+"Laite" tarkoittaa käytettyä, kunnostettua Augment Circular -sähköpotkulautaa.
+"Huoltopalvelu" tarkoittaa Augmentin tarjoamaa määräaikaista huoltopalvelua näiden ehtojen mukaisesti.
+"Varkausturva" tarkoittaa Augmentin tarjoamaa palvelua, jonka mukaisesti varastettu laite korvataan ehtojen mukaisesti.
+"Pikavaihtopalvelu" tarkoittaa palvelua, jossa laite vaihdetaan toiseen käytettyyn laitteeseen ilman korjausprosessia.
+"Lisätuotteet" tarkoittavat erikseen ostettavia tuotteita, kuten lukkoja tai kypäriä.
+"Ammattikäyttö" tarkoittaa laitteen käyttöä tulonhankintaan, kuten ruokalähettipalveluissa, kuriiritoiminnassa tai muussa vastaavassa toiminnassa.
 
-- Sopimuksen alkamiseen liittyvät ehdot (sivu 1)
-- Circular-skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot (sivu 1)
-- Sopimuksen päättämiseen liittyvät ehdot (sivu 4)
-- Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot (sivu 4)
-- Muut ehdot (sivu 4)
+## 1. Sopimuksen soveltamisala
 
-## Sopimuksen alkamiseen liittyvät ehdot
+Näitä ehtoja sovelletaan Augmentin ja asiakkaan väliseen sopimukseen, joka koskee käytetyn Augment Circular -sähköpotkulaudan ostamista sekä mahdollisia lisäpalveluita.
 
-### Sopimuksen alkaminen
+## 2. Tuotteen luonne (käytetty laite)
 
-Tämä Sopimus laaditaan sähköisesti. Sopimus alkaa Augmentin hyväksyttyä Asiakkaan tilauksen. Sopimus on ladattavissa sähköisessä muodossa Augmentin verkkosivuilta.
+Laite on käytetty ja kunnostettu tuote.
 
-### Luottotietojen tarkistaminen
+Asiakas ymmärtää ja hyväksyy, että:
 
-Augmentilla on oikeus tarkistaa asiakkaan luottotiedot ennen sopimuksen hyväksymistä.
+- laitteessa on käytön jälkiä
+- laitteessa voi olla naarmuja, kulumaa ja muita visuaalisia poikkeamia
+- laite ei vastaa uutta tuotetta ulkonäöltään tai kulumiseltaan
 
-### Asiakkaalle toimitettava Circular-skuutti
+Edellä mainittuja ominaisuuksia ei katsota virheeksi.
 
-Augment toimittaa Asiakkaalle tehdaskorjatun Circular-skuutin minimisopimuskauden alussa. Circular-skuutti on Augmentin omaisuutta Sopimuksen voimassaoloaikana. Circular-skuuttiin ei saa tehdä teknisiä tai muita muutoksia. Circular-skuutista ei saa poistaa Augment:n logoja, maalata sitä, kiinnittää tarroja tai muutenkaan muuttaa Circular-skuuttia. Augmentilla on oikeus periä Asiakkaalta kustannukset, jotka aiheutuvat Circular-skuutin muutosten palauttamisesta alkuperäiseksi.
+## 3. Akun kunto
 
-## Skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot
+Laite sisältää käytetyn akun.
 
-### Circular-skuutin käyttäminen
+Akun kapasiteetti on myyntihetkellä vähintään 75 % uuden vastaavan akun kapasiteetista.
 
-Sähköpotkulaudat ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi Suomessa kuten tieliikennelaissa on määritelty. Asiakkaan tulee varmistua, että hän ja Circular-skuutin muut käyttäjät tuntevat Circular-skuutin käyttämiseen liittyvät liikennesäännöt, ja osaavat käsitellä Circular-skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itselleen tai muille liikenteessä kulkijoille.
+Akun kapasiteetti heikkenee normaalisti käytön myötä.
 
-Asiakas vastaa siitä, että Circular-skuutti on lakien mukaisessa kunnossa ja että Circular-skuuttia käytetään lain edellyttämällä tavalla. Circular-skuuttia ei saa käyttää sääolosuhteissa, mihin se ei sovellu turvallisesti käytettäväksi.
+Akun kapasiteetin heikkeneminen ei ole virhe, ellei kapasiteetti alita olennaisesti myyntihetkellä ilmoitettua tasoa.
 
-Circular-skuuttia ei ole tarkoitettu kilpailu-, maastoajoon tai temppuiluun. Temppuiluksi katsotaan esimerkiksi eturenkaan sudittelu kaasulla, tahalliset lukkojarrutukset, yhdellä renkaalla ajaminen, keuliminen ja hyppiminen.
+## 4. Sopimuksen syntyminen
 
-### Circular-skuutin rikkoutuminen
+Sopimus syntyy, kun asiakas tekee tilauksen ja Augment vahvistaa sen.
 
-Circular-skuuttiin tulleesta viasta tai vahingosta tulee ilmoittaa asiakaspalveluun live chat:n välityksellä. Ilmoituksen jälkeen Augment lähettää asiakkaalle veloituksetta Circular-vaihtoskuutin seuraavana työpäivänä. Lähetyspäivästä laskettuna Circular-vaihtoskuutin toimitusaika on normaalisti 1-3 työpäivää. Toimitettava Circular-vaihtoskuutti voi poiketa esim. kooltaan ja renkaistukseltaan asiakkaalla aikaisemmin käytössä olleesta Circular-skuutista.
+## 5. Omistusoikeus
 
-Vaihtoehtoisesti asiakas voi itse korjata rikki menneen Circular-skuutin. Tällöin toimitamme Asiakkaalle veloituksetta korjaamiseen tarvittavat varaosat.
+Omistusoikeus siirtyy asiakkaalle, kun maksu on suoritettu tai rahoitus hyväksytty.
 
-Palvelumme kattaa:
+## 6. Hinta ja maksaminen
 
-- Kaikki viat mukaan lukien Kuluvat osat kuten renkaat, jarrut, moottori ja akku
-- Normaalikäytöstä poikkeavat odottamattomat vahingot esim. Circular-skuutin rikkoutuminen törmäyksen tai kaatumisen takia. Näissä tapauksissa korvattavien vahinkojen määrä on rajoitettu maksimissaan kahteen tapaukseen vuosittain sopimuksen alusta alkaen laskettuna.
+Asiakas voi maksaa:
 
-Augmentilla on oikeus periä tahallaan tai törkeästä huolimattomuudesta aiheutettujen vikojen korjaamisesta aiheutuneet kustannukset. Augment ei vastaa Asiakkaalle tai kolmansille osapuolille Circular-skuutin tai sen käytöstä aiheutuneista henkilö-, omaisuus- tai irtaimisto- tai kiinteistövahingoista. Asiakkaan tulee varmistaa, että hänellä on niiden varalta voimassa olevat vahinko-, tapaturma- ja vastuuvakuutukset.
+- kertamaksulla
+- kuluttajarahoituksella
 
-### Rikki menneen Circular-skuutin palauttaminen
+Rahoitus voi kattaa:
 
-Circular-vaihtoskuutin vastaanottamisen jälkeen rikki mennyt Circular-skuutti tulee palauttaa Augmentille noudattaen asiakaspalvelun antamia ohjeita. Rikki menneen Circular-skuutin lähettäminen on veloituksetonta.
+- laitteen
+- huoltopalvelun
+- varkausturvan
 
-Ellei rikki mennyttä Circular-skuuttia palauteta viikon kuluessa Circular-vaihtoskuutin vastaanottamisesta, Augmentilla on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksu.
+Lisäpalvelut katsotaan maksetuiksi kokonaisuudessaan sopimuksen syntyhetkellä eikä niitä voi irtisanoa kesken sopimuskauden.
 
-### Circular-skuutin akku ja sen lataaminen
+## 7. Toimitus
 
-Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät Circular-skuutin käyttöohjeesta. Circular-skuutin akku tulee ladata vähintään 2 kuukauden välein. Jos akussa on fyysisiä vaurioita, akku kuumentuu tavallista enemmän, akku pitää omituista ääntä tai vuotaa, sitä ei saa ladata tai käyttää.
+Toimitusaika on tyypillisesti 1–5 arkipäivää.
 
-Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista, Augment vaihtaa akun veloituksetta. Augmentilla ei ole velvollisuutta vaihtaa akkua, mikäli sitä ei ole säilytetty tai ladattu ohjeiden mukaisesti.
+Vaaranvastuu siirtyy asiakkaalle luovutuksen yhteydessä.
 
-### Varastettu Circular-skuutti, Circular-skuuttiin kohdistuva ilkivalta, Circular-skuutin muu menettäminen
+## 8. Peruutusoikeus
 
-Mikäli Circular-skuutti varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja Augmentille asiakaspalvelun live chat:n välityksellä.
+Kuluttajalla on 14 päivän peruutusoikeus.
 
-Augmentilta on saatavana lisämaksullinen Varkausturva-lisäpalvelu varkauksien varalle. Ellei Varkausturva-lisäpalvelu ole käytössä, veloitamme varastetusta Circular skuutista 250 € ilman akkua, 360Wh akun kanssa 350 € ja isompien akkujen kanssa 450 €. Maksun suorittamisen jälkeen toimitamme Asiakkaalle veloituksetta Circular-vaihtoskuutin. Varkaus, katoaminen tai ilkivalta ei päätä tätä sopimusta.
+Tuotetta saa käyttää vain ominaisuuksien testaamiseen.
 
-### Toiminta onnettomuustilanteissa
+Augment voi vähentää arvon alenemisen palautuksesta.
 
-Liikenneonnettomuudet, joissa on osallisena 3. osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä.
+## 9. Virhevastuu (ei takuuta)
 
-### Sopimuksen voimassaoloaika
+Laitteella ei ole takuuta.
 
-Sopimusaika on vähintään 3, 6, 12 tai 24 kuukautta sopimuksen alkamisesta. Ensimmäiset 3, 6, 12 tai 24 kk sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (jäljempänä minimisopimuskausi). Tämän jälkeen sopimus jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
+Augment vastaa kuitenkin virheistä kuluttajansuojalain mukaisesti.
 
-## Sopimuksen päättämiseen liittyvät ehdot
+Virhevastuu on rajoitettu yhteen (1) vuoteen laitteen luovutuksesta.
 
-### Sopimuksen irtisanominen
+Virheeksi ei katsota:
 
-Asiakkaalla on oikeus irtisanoa sopimus minimisopimuskauden päättyessä toimittamalla irtisanomisilmoitus Augmentin asiakaspalveluun ennen minimisopimuskauden päättymistä.
+- normaalia kulumista
+- käytetylle tuotteelle tyypillisiä visuaalisia jälkiä
+- akun kapasiteetin luonnollista heikkenemistä
 
-Augmentilla on minimisopimuskauden jälkeen oikeus irtisanoa sopimus 30 päivän irtisanomisajalla.
+## 10. Laitteen käyttö
 
-### Skuutin palauttaminen sopimuksen päättyessä
+Laitteen käyttö edellyttää Augmentin mobiilisovellusta.
 
-Sopimuksen päättyessä Circular-skuutti tulee palauttaa Augmentille asiakaspalvelun ohjeita noudattaen. Skuutin palauttaminen on veloituksetonta.
+## HUOLTOPALVELU (VALINNAINEN)
 
-### Etämyynnin peruutusoikeus
+## 11. Huoltopalvelun kesto ja soveltaminen
 
-Asiakkaalla on kuluttajansuojalain mukainen oikeus peruuttaa etämyynnissä tehty sopimus viimeistään 14 päivän kuluessa sopimuksen tekemisestä. Sopimuksen peruuttamisesta tulee ilmoittaa Augmentille toimittamalla liitteenä oleva Peruutuslomake täytettynä Asiakaspalvelulle.
+Huoltopalvelu on valinnainen maksullinen lisäpalvelu.
 
-Circular-skuutin pakkauksen saa avata tutustuakseen rauhassa sen sisältöön. Sopimuksen peruuttamisen jälkeen Circular-skuutti tulee lähettää Augmentille alkuperäisessä kunnossa viikon kuluessa Asiakaspalvelulta saatavia ohjeita noudattaen.
+Asiakas voi valita kestoksi:
 
-Mikäli Circular-skuutti on otettu käyttöön peruutusaikana ja Sopimus perutaan, Augmentilla on oikeus veloittaa Circular-skuutin arvon alentumisesta. Jos palautettu Circular-skuutti on myyntikelvoton, Augmentilla on oikeus veloittaa Asiakkaalta koko Circular-skuutin arvoa vastaava summa.
+- 6 kuukautta
+- 12 kuukautta
+- 24 kuukautta
 
-<div class="page"></div>
+Huoltopalvelu koskee laitetta tai vaihtolaitetta.
 
-## Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot
+Huoltopalvelu on voimassa vain siinä maassa, johon laite on toimitettu.
 
-### Palvelumaksut
+## 12. Huoltopalvelun sisältö
 
-Sopimuksen mukaiset Palvelumaksut veloitetaan etukäteen kuukausittain. Asiakkaan tulee varmistaa, että käytettävällä maksukortilla tai pankkitilillä on riittävästi katetta maksujen suorittamiseen.
+Huoltopalvelu kattaa:
 
-Palvelumaksun eräpäivä määräytyy tilauspäivän mukaan. Eräpäivää voi siirtää olemalla yhteydessä asiakaspalveluun. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
+- normaalissa käytössä syntyvät viat
+- kuluvat osat (renkaat, jarrupalat, akku)
+- yhden (1) vahinkotapauksen per 12 kuukautta
 
-Tämän Sopimuksen alaiset saatavat on pantattu Norion Bank AB:n (myöhemmin pantinsaaja) hyväksi. Kukaan muu kuin pantinsaaja ei saa tehdä muutoksia maksuohjeisiin.
+Vahinkotapauksella tarkoitetaan äkillistä ja ulkoista tapahtumaa, kuten:
 
-### Maksutietojen ylläpitäminen
+- kaatuminen
+- törmäys
+- laitteen putoaminen
 
-Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee päivittää Augmentin itsepalvelusivuston kautta ennen seuraavan palvelumaksun erääntymistä.
+Vahinkotapaukseksi ei katsota:
 
-Maksukortti- ja muut maksuvälinetiedot tallennetaan vahvasti salattuina käyttämiemme maksun välittäjien (Adyen / Stripe) tietokantaan.
+- tahallista vahinkoa
+- törkeää huolimattomuutta
 
-## Muut ehdot
+Pelkästään visuaaliset vauriot (esim. muoviposkien naarmut tai kolhut) eivät oikeuta vaihtolaitteeseen.
 
-### Palvelun käytön sulkeminen ja rajoittaminen
+Näissä tapauksissa Augment toimittaa varaosat itsekorjausta varten.
 
-Augmentilla on velvollisuus pyynnöstä sulkea, rajoittaa tai estää palvelun käyttö, jos Asiakas tai toimivaltainen viranomainen kuten Poliisi tai vakuutusyhtiö niin vaatii.
+Augmentilla on oikeus arvioida vian luonne.
 
-Augmentilla on alla mainituissa tilanteissa oikeus pyytää asiakkaalta ylimääräinen ennakko- / takuumaksu, sulkea palvelu ja/tai rajoittaa Circular-skuutin käyttöä. Sulkemisella tarkoitetaan kaikkien palveluiden estämistä. Käytön rajoittamisella tarkoitetaan yhden tai useamman palvelun käytön estämistä osittain tai kokonaan.
+## 13. Vikatilanneprosessi
 
-Augmentilla on oikeus rajoittaa Circular-skuutin käyttöä, mikäli asiakkaalla on erääntyneitä palvelumaksuja, Circular-skuutti on varastettu, kadonnut tai sitä on oikeudettomasti käytetty taikka se on oikeudettomasti toisen hallussa. Circular-skuutin käyttöä voidaan rajoittaa esimerkiksi siten, että Asiakas voi ajaa vain kävelyvauhtia tai määritellyillä alueilla.
+Asiakkaan tulee ilmoittaa viasta viipymättä.
 
-Augmentilla on oikeus sulkea Palvelu kokonaan tai osaksi, jos
+Augment päättää, toteutetaanko:
 
-- Erääntynyttä maksua ei ole maksettu viikon (1) kuluessa maksukehotuksen lähettämisestä,
-- Se on tarpeen väärinkäytösten tai vahinkojen estämiseksi,
-- Asiakas on asetettu konkurssiin tai viranomainen on todennut asiakkaan muutoin maksukyvyttömäksi,
-- Kehotuksesta huolimatta muita kuin maksuja koskevia sopimuksen mukaisia velvollisuuksia ei ole noudatettu.
+- pikavaihto
+- korjaus
+- varaosatoimitus
 
-Augment ei sulje tai rajoita palvelun käyttöä maksujen laiminlyönnin vuoksi, jos maksun laiminlyönnin voidaan osoittaa johtuvan yllättävästä sairaudesta, tai muusta siihen verrattavasta, asiakkaasta riippumattomasta syystä, ja erääntynyt maksu maksetaan yhden (1) kuukauden kuluessa maksukehotuksen lähettämisestä, tai laskusta on tehty perusteltu laskuhuomautus, ja riidaton osa maksusta on maksettu määräaikana.
+## 14. Pikavaihtopalvelu
 
-### Palveluun liittyvät ilmoitukset
+Vaihtolaite toimitetaan tyypillisesti 1–3 arkipäivässä.
 
-Asiakkaan tulee huolehtia siitä, että Augmentilla on hänen kulloinkin ajan tasalla olevat yhteystiedot.
+Vaihtolaite on käytetty.
 
-Augment lähettää sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai palvelumuutoksista sähköisesti ilmoitettuun sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
+Alkuperäinen laite ei palaudu asiakkaalle.
 
-### Palvelun tai sopimusehtojen muutos
+## 15. Laitteen kunto vaihdossa
 
-Palvelun ja sen ominaisuudet tai sovellettavat ehdot voivat muuttua. Asiakkaalla on oikeus irtisanoa sopimus päättyväksi kuukauden kuluessa saatuaan tiedon olennaisesta palvelua koskevasta muutoksesta.
+Laitteessa ei saa olla:
 
-Augment ilmoittaa olennaisista palvelun sisällön muutoksista viimeistään kuukautta ennen muutosta asiakkaan Augmentille antamaan sähköpostiosoitteeseen. Palveluun sovelletaan uusia sopimusehtoja niiden voimaantulosta alkaen.
+- tarroja
+- maalausta
+- rakenteellisia muutoksia
 
-Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, Augmentilla on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
+Augment voi veloittaa 50–100 € kunnostusmaksun.
 
-### Aineettomat oikeudet
+## 16. Palautus
 
-Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekijänoikeudet, tuotemerkit ja patentit kuuluvat Augmentille tai kolmannelle taholle. Augment myöntää rajoitetun käyttöoikeuden sopimuksen voimassaoloajaksi sopimuksen mukaiseen palveluun sekä sopimuksen perusteella toimitettujen ohjelmistojen konekielisiin versioihin ja asiakirjoihin.
+Laite tulee palauttaa 7 päivän kuluessa.
 
-Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmistoja, asiakirjoja ja muuta aineistoa on käytettävä Augmentin tai kolmannen tahon, kuten ohjelmiston omistajan, antamien ohjeiden mukaisesti ja vain sovittuun tarkoitukseen.
+Augment maksaa palautuksen ohjeiden mukaan.
 
-Käyttöoikeuden päättyessä Augment voi pyytää asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
+Viivästyksestä veloitetaan 12,50 € / viikko tai laitteen arvo.
 
-### Ylivoimainen este
+## 17. Itsekorjaus
 
-Kumpikaan osapuoli ei vastaa sopimus- tai korvausvelvoitteestaan siltä osin kuin sopimuksen noudattamista rajoittaa, estää tai viivästyttää ylivoimainen este.
+Asiakas voi valita itsekorjauksen.
 
-Ylivoimaisella esteellä tarkoitetaan seikkaa, jota osapuoli ei kohtuudella ole voinut ottaa lukuun sopimusta tehtäessä ja joka on osapuolesta riippumaton. Tällainen seikka voi olla esimerkiksi poikkeuksellisista sääolosuhteista johtuvat olosuhteet, kansallinen poikkeustila, työselkkaus, luonnonmullistus, energiajakelun keskeytys, maksuliikenteen keskeytys, lainsäännös tai viranomaismääräys tai -päätös, ulkopuolisen aiheuttama kaivuu-, laite- tai vastaava vahinko sekä edellä mainituista seikoista johtuvat Augmentin alihankkijan tai toimittajan toimitusvirheet.
+## 18. Rajoitukset
 
-Jos sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi, velvoitteen täyttämisaikaa jatketaan sen verran kuin olosuhteet huomioon ottaen on pidettävä kohtuullisena.
+Ei kata ammattikäyttöä (esim. ruokalähettitoiminta).
 
-<div class="page"></div>
+## VARKAUSTURVA (VALINNAINEN)
 
-### Henkilötietojen käsittely, evästeet
+## 19. Varkausturvan kesto
 
-Augment käsittelee henkilötietoja soveltuvan tietosuojalainsäädännön mukaisesti. Tarkemmat tiedot henkilötietojen käsittelystä ja evästeiden on Augmentin tietosuojasopimuksessa, joka löytyy Augmentin nettisivuilta.
+Varkausturva on valinnainen.
 
-### Vastuunrajoitus
+Kesto:
 
-Augment ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuorasta vahingosta, ellei Augment ole aiheuttanut sitä tahallisesti tai törkeän tuottamuksellisesti.
+- 6 kk
+- 12 kk
+- 24 kk
 
-### Sopimuskieli
+Voimassa vain toimitusmaassa.
 
-Tämän Sopimuksen ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
+## 20. Lukitus ja säilytys
 
-### Erimielisyydet
+Laite tulee lukita:
 
-Erimielisyydet tulee pyrkiä ratkaisemaan osapuolten välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevan kotipaikkasi käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
+- sovelluksella
+- fyysisellä lukolla
 
-Asiakkaalla on oikeus saattaa sopimusta koskeva erimielisyys käsiteltäväksi Kuluttajariitalautakuntaan, jonka päätökset ovat luonteeltaan suosituksia.
+Jaetussa tilassa fyysinen lukitus pakollinen.
 
-### Sopimusehtojen voimassaolo
+## 21. Varkaustilanne
 
-Nämä Augmentin Circular-palvelusopimusehdot ovat voimassa Suomessa 13.12.2024 alkaen toistaiseksi.
+Asiakkaan tulee:
 
-<div class="page"></div>
+- tehdä rikosilmoitus 10 arkipäivässä
+- toimittaa se Augmentille
+- ilmoittaa viipymättä
 
-### Määritelmät
+## 22. Korvaus
 
-- Augment – Augment Mobility Ab (tai Augment Mobility Ab:n kanssa samaan yritysryhmään kuuluva yritys)
-- Circular-skuutti – Palveluun kuuluva Augmentin sähköpotkulauta
-- Sopimus – Tämä sopimus
-- Palveluehdot – Tämän Sopimuksen ehdot
-- Palvelumaksu – Tähän Sopimukseen liittyvät käyttöveloitukset, jotka veloitetaan 1kk, 3kk tai 24 kk välein
-- Minimisopimuskausi – Sopimusaika, minkä ajan Sopimus on voimassa määräaikaisena ja jonka jälkeen Sopimus jatkuu toistaiseksi voimassa olevana, ellet ole irtisanonut sitä Sopimuksen ehtojen mukaisesti ennen määräajan päättymistä
-- Asiakas – asiakas, joka solmii palvelusopimuksen Augmentin kanssa. Tämän Sopimuksen osapuolena olet vastuussa Skuutista, Palvelumaksuista ja Käytöstä.
-- Asiakaspalvelu – Augmentin asiakaspalvelu
-- Circular-vaihtoskuutti – Sinulla käytössä ollutta Circular-skuuttia olennaisilta ominaisuuksiltaan vastaava Augmentin korjaama ja tarkistama vaihtolaite. Circular-vaihtoskuuteissa voi olla käytön jälkiä.
-- Pantinsaaja – Norion Bank AB
-- Peruutusoikeus – Lakisääteinen oikeus irtisanoa tämä sopimus kuluttajansuojalain (38/1978) etämyyntiä koskevien säännösten mukaisesti 14 päivän sisällä tilauksesta
-- Lisäpalvelut – Tähän sopimukseen erikseen tarjottavat palvelut, jotka edellyttävät tämän Sopimuksen voimassaoloa
-- Kuluvat osat – Circular-skuutin käytön yhteydessä normaalisti kuluvat osat kuten renkaat ja jarrupalat
-- Vika – Circular-skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Circular-skuutin käyttämistä tai rajoittaa sitä.
-- Vahinko – Käyttäjästä tai olosuhteista aiheutuva Circular-skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
+Korvaus tapahtuu käytetyllä vaihtolaitteella.
 
-<div class="page"></div>
+Augment päättää laitteen.
 
-### Etämyynnin peruutuslomake
+## 23. Omavastuu
 
-Täytä lomake ja pakkaa mukaan palautuspakettiin, jotta peruutuksesi ja palautuksesi voidaan käsitellä. Täytä sopimusta koskevat kohdat erityisen huolellisesti.
+Varkaustilanteessa asiakkaalta peritään:
 
-Nimi:
+- 100 € ilman akkua
+- 150 € akun kanssa
+- 125 € akku
 
-<div class="underline"></div>
+Omavastuu tulee maksaa ennen korvauslaitteen toimitusta.
 
-Tilauksen yhteydessä käytetty sähköpostiosoite:
+## 24. Rajoitukset
 
-<div class="underline"></div>
+Ei korvata jos:
 
-Katuosoite:
+- lukitusvaatimuksia ei noudatettu
+- laite luovutettu talouden ulkopuolelle
+- kaupallinen käyttö
+- rikosilmoitusta ei toimiteta
 
-<div class="underline"></div>
+## 25. Vastuunrajoitus
 
-Puhelinnumero:
+Augment ei vastaa välillisistä vahingoista.
 
-<div class="underline"></div>
+## 26. Ylivoimainen este
 
-Peruutuksen päivämäärä:
+Augment ei vastaa force majeure -tilanteista.
 
-<div class="underline"></div>
+## 27. Sovellettava laki ja riidanratkaisu
 
-Ostin palautettavan tuotteen: ☐ Netistä ☐ Tilasin puhelimitse ☐ Minulle soitettiin
+Sopimukseen sovelletaan Suomen lakia.
 
-Palautuksen syy:
+Erimielisyydet ratkaistaan ensisijaisesti neuvotteluin.
 
-☐ Tuote/palvelu ei vastannut odotuksiani, koska
+Kuluttaja voi viedä asian kuluttajariitalautakuntaan.
 
-<div class="underline"></div>
+Lopullisesti asia ratkaistaan asiakkaan kotipaikan käräjäoikeudessa.
 
-☐ Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
+## 28. Immateriaalioikeudet
 
-<div class="underline"></div>
+Kaikki oikeudet kuuluvat Augmentille.
 
-☐ Minulla ei ole käyttöä tuotteelle/palvelulle, koska
+Asiakkaalla on vain käyttöoikeus.
 
-<div class="underline"></div>
+## Sopimusehtojen voimassaolo
 
-☐ Tuotteen/palvelun käyttöönotto ei onnistunut, koska
-
-<div class="underline"></div>
-
-☐ Muu syy:
-
-<div class="underline"></div>
+Nämä sopimusehdot ovat voimassa Suomessa 30.03.2026 alkaen toistaiseksi
