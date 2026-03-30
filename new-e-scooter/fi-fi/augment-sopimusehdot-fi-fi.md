@@ -1,6 +1,6 @@
 # AUGMENT SOPIMUSEHDOT 
 
-## 0. Määritelmät
+## Määritelmät
 
 Näissä sopimusehdoissa:
 
