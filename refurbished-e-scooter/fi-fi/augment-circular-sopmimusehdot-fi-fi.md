@@ -39,6 +39,8 @@ Akun kapasiteetti heikkenee normaalisti käytön myötä.
 
 Akun kapasiteetin heikkeneminen ei ole virhe, ellei kapasiteetti alita olennaisesti myyntihetkellä ilmoitettua tasoa.
 
+<div class="page"></div>
+
 ## 4. Sopimuksen syntyminen
 
 Sopimus syntyy, kun asiakas tekee tilauksen ja Augment vahvistaa sen.
