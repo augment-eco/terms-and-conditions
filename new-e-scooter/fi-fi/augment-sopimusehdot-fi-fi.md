@@ -33,7 +33,7 @@ Tämä sopimus sisältää:
 
 Kaikki ehdot muodostavat yhden yhtenäisen sopimuskokonaisuuden.
 
-## 2A. Valinnaiset lisäpalvelut
+## 2.1. Valinnaiset lisäpalvelut
 
 Huoltopalvelu ja varkausturva ovat valinnaisia maksullisia lisäpalveluita, jotka asiakas voi halutessaan valita tilauksen yhteydessä.
 
