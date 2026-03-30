@@ -285,6 +285,8 @@ Korvausta ei makseta, jos:
 - laitetta on käytetty kaupallisesti
 - rikosilmoitusta ei toimiteta
 
+  <div class="page"></div>
+
 ## 24. Maksujen viivästyminen
 
 Viivästyskorko määräytyy korkolain mukaan.
