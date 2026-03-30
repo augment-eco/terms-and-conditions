@@ -303,5 +303,6 @@ Asiakkaalle myönnetään rajoitettu käyttöoikeus laitteen ja siihen liittyvie
 
 Asiakkaalla ei ole oikeutta kopioida, muokata, levittää tai muuten hyödyntää Augmentin immateriaalioikeuksia ilman Augmentin etukäteen antamaa kirjallista lupaa.
 
-### Sopimusehtojen voimassaolo
+## Sopimusehtojen voimassaolo
+
 Nämä sopimusehdot ovat voimassa Suomessa 30.03.2026 alkaen toistaiseksi
