@@ -134,8 +134,6 @@ Augment ei vastaa käyttökatkoista, jotka johtuvat asiakkaan laitteista tai ohj
 
 Augment ei takaa sovelluksen keskeytyksetöntä toimintaa.
 
-## HUOLTOPALVELU
-
 ## 11. Huoltopalvelun soveltaminen ja laitekohtaisuus
 
 Huoltopalvelu on valinnainen maksullinen lisäpalvelu.
@@ -238,8 +236,6 @@ Ammattimaisella käytöllä tarkoitetaan käyttöä tulonhankintaan, kuten:
 Huoltopalvelu ei kata väärinkäyttöä tai ohjeiden vastaista käyttöä.
 
 <div class="page"></div>
-
-## VARKAUSTURVA
 
 ## 18. Varkausturvan soveltaminen
 
