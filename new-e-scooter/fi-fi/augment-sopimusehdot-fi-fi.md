@@ -1,4 +1,4 @@
-# AUGMENT SOPIMUSEHDOT 
+# AUGMENT SOPIMUSEHDOT
 
 ## Määritelmät
 
@@ -54,22 +54,26 @@ Augmentilla on oikeus olla hyväksymättä tilausta perustellusta syystä.
 Laite myydään asiakkaalle.
 
 Omistusoikeus siirtyy asiakkaalle, kun:
+
 - maksu on suoritettu kokonaisuudessaan, tai
 - rahoitussopimus on hyväksytty
 
 ## 5. Hinta ja maksaminen
 
 Asiakas voi maksaa tilauksen:
+
 - kertamaksuna, tai
 - kuluttajarahoituksella
 
 Rahoitus voi kattaa:
+
 - laitteen
 - lisätuotteet
 - huoltopalvelun
 - varkausturvan
 
 Huoltopalvelu ja varkausturva:
+
 - ovat määräaikaisia palveluita
 - katsotaan maksetuiksi kokonaisuudessaan sopimuksen syntyhetkellä
 - eivät ole irtisanottavissa kesken sopimuskauden
@@ -120,6 +124,7 @@ Akun kapasiteetin heikkenemistä tämän rajan yläpuolella pidetään normaalin
 Laitteen käyttö edellyttää Augmentin mobiilisovelluksen käyttöä.
 
 Asiakas vastaa siitä, että:
+
 - hänellä on yhteensopiva mobiililaite
 - sovellus on käytettävissä
 
@@ -146,11 +151,13 @@ Huoltopalvelu kattaa normaalissa käytössä syntyvät viat sekä kuluvat osat, 
 Vahinkotapauksella tarkoitetaan äkillistä ja ennalta arvaamatonta ulkoista tapahtumaa.
 
 Tällaisia ovat esimerkiksi:
+
 - kaatuminen
 - törmäys
 - laitteen putoaminen
 
 Vahinkotapaukseksi ei katsota:
+
 - tahallista vahinkoa
 - törkeää huolimattomuutta
 
@@ -165,6 +172,7 @@ Augmentilla on oikeus arvioida, onko kyseessä ainoastaan visuaalinen haitta vai
 Asiakkaan tulee ilmoittaa viasta viipymättä Augmentille.
 
 Augment arvioi tilanteen ja päättää, toteutetaanko:
+
 - pikavaihto
 - huolto
 - varaosatoimitus
@@ -182,6 +190,7 @@ Alkuperäinen laite ei palaudu asiakkaalle.
 Laitteen tulee olla alkuperäistä vastaavassa kunnossa.
 
 Laitteessa ei saa olla:
+
 - tarroja tai teippauksia
 - maalausta
 - rakenteellisia muutoksia
@@ -197,6 +206,7 @@ Augmentilla on oikeus evätä pikavaihtopalvelu tai veloittaa lisäkustannuksia,
 Asiakkaan tulee palauttaa laite 7 päivän kuluessa vaihtolaitteen vastaanottamisesta.
 
 Palautus tapahtuu:
+
 - Augmentin toimittamassa pakkauksessa
 - Augmentin toimittamalla palautuslähetteellä
 
@@ -219,6 +229,7 @@ Asiakas vastaa asennuksesta eikä Augment vastaa virheellisestä asennuksesta.
 Huoltopalvelu ei kata ammattimaista käyttöä.
 
 Ammattimaisella käytöllä tarkoitetaan käyttöä tulonhankintaan, kuten:
+
 - ruokalähettipalvelut
 - kuriiri- ja jakelutoiminta
 
@@ -241,6 +252,7 @@ Laite tulee säilyttää lukitussa tilassa.
 Jaetulla tilalla tarkoitetaan tilaa, johon useilla henkilöillä on pääsy, kuten taloyhtiön pyörävarasto, yhteinen varastotila tai muu vastaava tila.
 
 Jaetussa tai julkisessa tilassa laite tulee lukita:
+
 - sovelluksella
 - fyysisellä lukolla kiinteään rakenteeseen
 
@@ -249,6 +261,7 @@ Pelkkä säilyttäminen jaetussa tilassa ilman fyysistä lukitusta ei täytä n�
 ## 20. Varkaustilanne
 
 Asiakkaan tulee:
+
 - tehdä rikosilmoitus 10 arkipäivän kuluessa
 - toimittaa kopio Augmentille
 - ilmoittaa tapahtumasta viipymättä
@@ -266,6 +279,7 @@ Augment toimittaa vastaavan kunnostetun käytetyn laitteen.
 ## 23. Varkausturvan rajoitukset
 
 Korvausta ei makseta, jos:
+
 - lukitusvaatimuksia ei ole noudatettu
 - laite on luovutettu käytettäväksi henkilölle, joka ei kuulu asiakkaan samaan talouteen
 - laitetta on käytetty kaupallisesti

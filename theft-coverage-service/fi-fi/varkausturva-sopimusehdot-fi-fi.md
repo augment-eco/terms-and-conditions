@@ -1,4 +1,4 @@
-# AUGMENT VARKAUSTURVAEHDOT 
+# AUGMENT VARKAUSTURVAEHDOT
 
 ## 1. Sopimuksen soveltaminen ja suhde pääsopimukseen
 
@@ -13,6 +13,7 @@ Mikäli pääsopimusta ei synny, päättyy tai todetaan pätemättömäksi, ei m
 ## 2. Varkausturvan syntyminen
 
 Varkausturva tulee voimaan, kun:
+
 - asiakas on valinnut varkausturvan tilauksen yhteydessä, ja
 - Augment on vahvistanut tilauksen
 
@@ -31,11 +32,13 @@ Varkausturva koskee ainoastaan sitä laitetta tai vaihtolaitetta, joka on toimit
 Laite tulee säilyttää lukitussa tilassa.
 
 Jaetulla tilalla tarkoitetaan tilaa, johon useilla henkilöillä on pääsy, kuten:
+
 - taloyhtiön pyörävarasto
 - yhteinen varastotila
 - muu vastaava tila
 
 Jaetussa tai julkisessa tilassa laite tulee lukita:
+
 - Augmentin mobiilisovelluksella, ja
 - fyysisellä lukolla kiinteään rakenteeseen
 
@@ -44,6 +47,7 @@ Pelkkä säilyttäminen jaetussa tilassa ilman fyysistä lukitusta ei täytä n�
 ## 6. Varkaustilanne
 
 Varkaustapauksessa asiakkaan tulee:
+
 - tehdä rikosilmoitus 10 arkipäivän kuluessa
 - toimittaa rikosilmoituksesta kopio Augmentille
 - ilmoittaa tapahtumasta Augmentille viipymättä
@@ -65,6 +69,7 @@ Varkaustilanteessa asiakkaalta peritään omavastuu:
 ## 9. Varkausturvan rajoitukset
 
 Korvausta ei makseta, jos:
+
 - lukitusvaatimuksia ei ole noudatettu
 - laite on luovutettu käytettäväksi henkilölle, joka ei kuulu asiakkaan samaan talouteen
 - laitetta on käytetty ammattimaisesti tai kaupallisesti
