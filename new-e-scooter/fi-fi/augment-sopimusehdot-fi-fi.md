@@ -235,8 +235,6 @@ Ammattimaisella käytöllä tarkoitetaan käyttöä tulonhankintaan, kuten:
 
 Huoltopalvelu ei kata väärinkäyttöä tai ohjeiden vastaista käyttöä.
 
-<div class="page"></div>
-
 ## 18. Varkausturvan soveltaminen
 
 Varkausturva on valinnainen maksullinen lisäpalvelu.
