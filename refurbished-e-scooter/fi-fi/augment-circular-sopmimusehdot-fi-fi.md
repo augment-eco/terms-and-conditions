@@ -195,6 +195,8 @@ Kesto:
 
 Voimassa vain toimitusmaassa.
 
+<div class="page"></div>
+
 ## 20. Lukitus ja säilytys
 
 Laite tulee lukita:
