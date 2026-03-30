@@ -177,7 +177,7 @@ Asiakas voi valita itsekorjauksen.
 
 ## 18. Rajoitukset
 
-Ei kata ammattikäyttöä (esim. ruokalähettitoiminta)
+Ei kata ammattikäyttöä (esim. ruokalähettitoiminta).
 
 ## 19. Varkausturvan kesto
 
