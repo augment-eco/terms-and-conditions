@@ -96,8 +96,6 @@ Virheeksi ei katsota:
 
 Laitteen käyttö edellyttää Augmentin mobiilisovellusta.
 
-## HUOLTOPALVELU (VALINNAINEN)
-
 ## 11. Huoltopalvelun kesto ja soveltaminen
 
 Huoltopalvelu on valinnainen maksullinen lisäpalvelu.
@@ -180,8 +178,6 @@ Asiakas voi valita itsekorjauksen.
 ## 18. Rajoitukset
 
 Ei kata ammattikäyttöä (esim. ruokalähettitoiminta).
-
-## VARKAUSTURVA (VALINNAINEN)
 
 ## 19. Varkausturvan kesto
 
