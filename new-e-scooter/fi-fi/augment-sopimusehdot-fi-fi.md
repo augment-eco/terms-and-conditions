@@ -89,6 +89,8 @@ Lisätuotteet ovat erillisiä tavaroita, joihin sovelletaan normaalia kauppaa ko
 
 Huoltopalvelu tai varkausturva ei koske lisätuotteita.
 
+<div class="page"></div>
+
 ## 7. Toimitus ja vaaranvastuu
 
 Tilaukseen sisältyvät tuotteet toimitetaan samassa toimituksessa, ellei toisin ilmoiteta.
