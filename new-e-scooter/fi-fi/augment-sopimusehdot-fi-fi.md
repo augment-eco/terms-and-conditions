@@ -1,322 +1,264 @@
-# AUGMENT SOPIMUSEHDOT
+# AUGMENT PALVELUSOPIMUS
 
-## Määritelmät
+## Sopimuksen osapuolet ja tarkoitus
 
-Näissä sopimusehdoissa:
+Näitä ehtoja sovelletaan **Augmentin** yksityishenkilölle (**asiakas**) tarjoamaan sähköpotkulauta **palveluun**. **Sopimuksen** saa solmia ainoastaan 18 vuotta täyttänyt henkilö, joka ei ole holhouksen alainen. **Palvelua** on tarkoitettu käytettäväksi yhdessä kotitaloudessa. **Palvelua** ei saa käyttää elinkeinotoiminnassa tai tulon hankkimiseksi.
 
-"Augment" tarkoittaa Augment Mobility Ab:tä.
-"Asiakas" tarkoittaa luonnollista henkilöä tai oikeushenkilöä, joka tekee sopimuksen Augmentin kanssa.
-"Laite" tarkoittaa asiakkaan ostamaa sähköpotkulautaa.
-"Huoltopalvelu" tarkoittaa Augmentin tarjoamaa määräaikaista huoltopalvelua näiden ehtojen mukaisesti.
-"Varkausturva" tarkoittaa Augmentin tarjoamaa palvelua, jonka mukaisesti varastettu laite korvataan näiden ehtojen mukaisesti.
-"Pikavaihtopalvelu" tarkoittaa palvelua, jossa asiakkaan laite korvataan vaihtolaitteella ilman korjausprosessia.
-"Lisätuotteet" tarkoittavat laitteen yhteydessä ostettavia erillisiä tuotteita, kuten lukkoja tai kypäriä.
-"Ammattikäyttö" tarkoittaa laitteen käyttöä säännöllisesti tulonhankintaan tai liiketoimintaan, kuten ruokalähettipalveluissa, kuriiritoiminnassa tai muussa vastaavassa toiminnassa.
+**Sopimuksen** tarkoituksena on määritellä osapuolten oikeudet ja velvollisuudet koskien Augmentin tämän Sopimuksen mukaista **palvelua** ja siihen sisältyvää sähköpotkulautaa.
 
-## 1. Sopimuksen osapuolet ja soveltamisala
+- Sopimuksen alkamiseen liittyvät ehdot (sivu 1)
+- Skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot (sivu 1)
+- Sopimuksen päättämiseen liittyvät ehdot (sivu 3)
+- Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot (sivu 4)
+- Muut ehdot (sivu 4)
 
-Näitä sopimusehtoja sovelletaan Augment Mobility Ab:n (”Augment”) ja asiakkaan (”asiakas”) väliseen sopimukseen, joka koskee sähköpotkulaudan ostamista sekä asiakkaan mahdollisesti valitsemia lisäpalveluita.
+## Sopimuksen alkamiseen liittyvät ehdot
 
-Asiakas voi olla luonnollinen henkilö tai oikeushenkilö.
+### Sopimuksen alkaminen
 
-Mikäli asiakas on kuluttaja, sovelletaan pakottavaa kuluttajansuojalainsäädäntöä.
-Mikäli asiakas käyttää tuotetta elinkeinotoiminnassa, kuluttajansuojalainsäädäntö ei sovellu.
+**Sopimus** laaditaan sähköisesti. **Sopimus** alkaa **Augmentin** hyväksyttyä **asiakkaan** tilauksen. Sopimus on ladattavissa sähköisessä muodossa Augmentin verkkosivuilta.
 
-## 2. Sopimuksen rakenne ja kokonaisuus
+### Luottotietojen tarkistaminen
 
-Tämä sopimus sisältää:
+**Augmentilla** on oikeus tarkistaa **asiakkaan** luottotiedot ennen sopimuksen hyväksymistä.
 
-1. laitteen kauppaa koskevat ehdot
-2. lisätuotteita koskevat ehdot
-3. huoltopalvelua koskevat ehdot (jos valittu)
-4. varkausturvaa koskevat ehdot (jos valittu)
+### Sopimuksen alussa asiakkaalle toimitettava skuutti
 
-Kaikki ehdot muodostavat yhden yhtenäisen sopimuskokonaisuuden.
+**Augment** toimittaa asiakkaalle uuden käyttämättömän **skuutin minimisopimuskauden** alussa. **Skuutti** on **Augmentin** omaisuutta **sopimuksen** voimassaoloaikana. Skuuttiin ei saa tehdä teknisiä tai muita muutoksia. **Skuutista** ei saa poistaa **Augment**:n logoja, maalata sitä, kiinnittää tarroja tai muutenkaan muuttaa **skuuttia**. **Augmentilla** on oikeus periä **asiakkaalta** kustannukset, jotka aiheutuvat Skuutin muutosten palauttamisesta alkuperäiseen kuntoon.
 
-## 2.1. Valinnaiset lisäpalvelut
+## Skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot
 
-Huoltopalvelu ja varkausturva ovat valinnaisia maksullisia lisäpalveluita, jotka asiakas voi halutessaan valita tilauksen yhteydessä.
+### Skuutin käyttäminen
 
-Lisäpalvelut eivät sisälly laitteen kauppaan, ellei asiakas ole niitä erikseen valinnut.
+Sähköpotkulaudat ovat Suomen tieliikennelain mukaisia ”Kevyitä sähköajoneuvoja” ja tarkoitettu käytettäväksi Suomessa kuten tieliikennelaissa on määritelty. **Asiakkaan** tulee varmistua, että hän ja **skuutin** muut käyttäjät tuntevat **skuutin** käyttämiseen liittyvät liikennesäännöt, ja osaavat käsitellä Skuuttia kaikissa olosuhteissa aiheuttamatta vaaraa itselleen tai muille liikenteessä kulkijoille.
 
-Asiakas maksaa lisäpalveluista erillisen hinnan tilauksen yhteydessä.
+**Asiakas** vastaa siitä, että **skuutti** on lakien mukaisessa kunnossa ja että Skuuttia käytetään lain edellyttämällä tavalla. **Skuuttia** ei saa käytää sääolosuhteissa, mihin se ei sovellu turvallisesti käytettäväksi.
 
-Asiakas hyväksyy lisäpalveluiden valinnan erikseen tilausvaiheessa.
+**Skuuttia** ei ole tarkoitettu kilpailu-, maastoajoon tai temppuiluun. Temppuiluksi katsotaan esimerkiksi eturenkaan sudittelu kaasulla, tahalliset lukkojarrutukset, yhdellä renkaalla ajaminen, keuliminen ja hyppiminen.
 
-## 3. Sopimuksen syntyminen
+### Skuutin rikkoutuminen
 
-Sopimus syntyy, kun asiakas tekee tilauksen Augmentin verkkokaupassa ja Augment vahvistaa tilauksen sähköisesti.
+**Skuuttiin** tulleesta viasta tai vahingosta tulee ilmoittaa **asiakaspalveluun** live chat:n välityksellä. Ilmoituksen jälkeen **Augment** lähettää **asiakkaalle** veloituksetta Vaihtoskuutin seuraavana työpäivänä. Lähetyspäivästä laskettuna **vaihtoskuutin** toimitusaika on normaalisti 1-3 työpäivää.
 
-Augmentilla on oikeus olla hyväksymättä tilausta perustellusta syystä.
+Vaihtoehtoisesti **asiakas** voi itse korjata rikki menneen **skuutin**. Tällöin toimitamme **asiakkaalle** veloituksetta korjaamiseen tarvittavat varaosat.
 
-## 4. Tuote ja omistusoikeus
+Palvelumme kattaa:
 
-Laite myydään asiakkaalle.
+- Kaikki viat mukaan lukien Kuluvat osat kuten renkaat, jarrut, moottori ja akku
+- Normaalikäytöstä poikkeavat odottamattomat vahingot esim. skuutin rikkoutuminen törmäyksen tai kaatumisen takia. Näissä tapauksissa korvattavien vahinkojen määrä on rajoitettu maksimissaan kahteen tapaukseen vuosittain Sopimuksen alusta alkaen laskettuna.
 
-Omistusoikeus siirtyy asiakkaalle, kun:
+**Augmentilla** on oikeus periä tahallaan tai törkeästä huolimattomuudesta aiheutettujen vikojen korjaamisesta aiheutuneet kustannukset. **Augment** ei vastaa **asiakkaalle** tai kolmansille osapuolille Skuutista tai sen käytöstä aiheutuneista henkilö-, omaisuus- tai irtaimisto- tai kiinteistövahingoista. Asiakkaan tulee varmistaa, että hänellä on niiden varalta voimassa olevat vahinko-, tapaturma- ja vastuuvakuutukset.
 
-- maksu on suoritettu kokonaisuudessaan, tai
-- rahoitussopimus on hyväksytty
+### Rikki menneen skuutin palauttaminen
 
-## 5. Hinta ja maksaminen
+**Vaihtoskuutin** vastaanottamisen jälkeen rikki mennyt **skuutti** tulee lähettää **Augmentille** noudattaen **asiakaspalvelulta** saatavia ohjeita. Rikki menneen **skuutin** lähettäminen on veloituksetonta.
 
-Asiakas voi maksaa tilauksen:
+Ellei rikki mennyttä **skuuttia** ole lähetetty viikon kuluessa **vaihtoskuutin** vastaanottamisesta, **Augmentilla** on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksu.
 
-- kertamaksuna, tai
-- kuluttajarahoituksella
+### Skuutin akku ja sen lataaminen
 
-Rahoitus voi kattaa:
+Ohjeet akun lataamiseksi ja säilyttämiseksi löytyvät **skuutin** käyttöohjeesta. **Skuutin** akku tulee ladata vähintään 2 kuukauden välein. Jos akussa on fyysisiä vaurioita, akku kuumentuu tavallista enemmän, akku pitää omituista ääntä tai vuotaa, sitä ei saa ladata tai käyttää.
 
-- laitteen
-- lisätuotteet
-- huoltopalvelun
-- varkausturvan
+Jos akun enimmäiskapasiteetti laskee alle 70 prosenttiin uuden akun kapasiteetista, **Augment** vaihtaa akun veloituksetta. **Augmentilla** ei ole velvollisuutta vaihtaa akkua, mikäli sitä ei ole säilytetty tai ladattu ohjeiden mukaisesti.
 
-Huoltopalvelu ja varkausturva:
+### Varastettu skuutti, skuuttiin kohdistuva ilkivalta, skuutin muu menettäminen
 
-- ovat määräaikaisia palveluita
-- katsotaan maksetuiksi kokonaisuudessaan sopimuksen syntyhetkellä
-- eivät ole irtisanottavissa kesken sopimuskauden
-
-Maksutapa ei muuta sopimuksen sitovuutta.
-Maksuvelvollisuus ei riipu palvelun käytöstä.
-
-## 6. Lisätuotteet
-
-Asiakas voi ostaa lisätuotteita, kuten lukkoja tai kypäriä.
-
-Lisätuotteet ovat erillisiä tavaroita, joihin sovelletaan normaalia kauppaa koskevia ehtoja.
-
-Huoltopalvelu tai varkausturva ei koske lisätuotteita.
+Mikäli **skuutti** varastetaan tai se katoaa tai joutuu ilkivallan kohteeksi, asiasta tulee ilmoittaa 48 tunnin kuluessa Poliisille ja **Augmentille asiakaspalvelun** live chat:n välityksellä. Veloitamme varastetusta **skuutista** 250 € ilman akkua ja 450 € akun kanssa. Maksun suorittamisen jälkeen toimitamme **asiakkaalle** veloituksetta **vaihtoskuutin**. Varkaus, katoaminen tai ilkivalta ei päätä tätä **sopimusta**.
 
 <div class="page"></div>
 
-## 7. Toimitus ja vaaranvastuu
+### Liikenneonnettomuudet
 
-Tilaukseen sisältyvät tuotteet toimitetaan samassa toimituksessa, ellei toisin ilmoiteta.
+Liikenneonnettomuudet, joissa on osallisena kolmansia osapuolia, tulee ilmoittaa poliisille ja Augmentille 48 tunnin sisällä.
+Augment on liikennevakuuttanut sopimuksen piiriin kuuluvat skuutit **Lähi-Tapiolassa**. Vakuutus kattaa liikenteessä tapahtuvat omaisuus- ja henkilövahingot liikennevakuutuslain mukaisesti.
 
-Toimitusaika on tyypillisesti 1–5 arkipäivää.
+### Skuutin päivittäminen uuteen
 
-Vaaranvastuu siirtyy asiakkaalle luovutuksen yhteydessä.
+Käytössä olevan **skuutin** voi päivittää uuteen 12 kk kuluttua Sopimuksen alkamisesta maksamalla 125 €, tai veloituksetta 18 kk kuluttua **sopimuksen** alkamisesta. **Skuutin** päivittäminen aloittaa uuden 12/24/36kk määräaikaisen **minimisopimuskauden**.
 
-## 8. Peruutusoikeus
+Uuden **skuutin** saapumisen jälkeen vanha **skuutti** tulee lähettää **Augmentille asiakaspalvelun** ohjeita noudattaen. Ellei vanhaa **skuuttia** ole lähetetty viikon sisällä uuden **skuutin** vastaanottamisesta **Augmentilla** on oikeus veloittaa kultakin alkavalta viikolta 12,50 € viivästymismaksu.
 
-Kuluttajalla on 14 päivän peruutusoikeus tuotteen vastaanottamisesta.
+### Sopimuksen voimassaoloaika
 
-Tuotetta saa käyttää vain sen ominaisuuksien testaamiseen.
+Sopimusaika on vähintään 12/24/36 kuukautta **sopimuksen** alkamisesta. Ensimmäiset 12/24/36kk Sopimus on voimassa määräaikaisena eikä se ole irtisanottavissa (**minimisopimuskausi**). Tämän jälkeen **sopimuksen** voimassaolo jatkuu toistaiseksi voimassa olevana 30 päivän irtisanomisajalla.
 
-Liiallisesta käytöstä Augmentilla on oikeus vähentää arvon alenema palautuksesta.
+## Sopimuksen päättämiseen liittyvät ehdot
 
-## 9. Takuu ja virhevastuu
+### Sopimuksen irtisanominen
 
-Tuotteella on 24 kuukauden takuu.
+**Asiakkaalla** on oikeus irtisanoa **sopimus** päättymään **minimisopimuskauden** päättyessä toimittamalla irtisanomisilmoitus Augmentin Asiakaspalveluun ennen määräaikaisen Minimisopimuskauden päättymistä.
 
-Takuu ei rajoita kuluttajansuojalain mukaista virhevastuuta.
+**Augmentilla** on **minimisopimuskauden** jälkeen oikeus irtisanoa **sopimus** 30 päivän irtisanomisajalla
 
-Augmentilla on ensisijainen oikeus korjata tai vaihtaa tuote.
+### Mahdollisuus lunastaa Skuutti omaksi
 
-Akun osalta todetaan lisäksi, että akun kapasiteetti heikkenee normaalin käytön myötä.
+Mikäli asiakas on tilauksen yhteydessä hankkinut lunastusoptio -lisäpalvelun hintaan **4,95 € / kk**, hän voi lunastaa skuutin omakseen **minimisopimusajan jälkeen hintaan 1 €**. Asiakkaan maksettua lunastushinnan, tämä sopimus päättyy automaattisesti.
 
-Mikäli laitetta on käytetty normaalisti, akun kapasiteetin odotetaan olevan vähintään 75 % alkuperäisestä kapasiteetista 24 kuukauden käytön jälkeen.
+### Skuutin palautus sopimuksen päättyessä
 
-Akun kapasiteetin heikkenemistä tämän rajan yläpuolella pidetään normaalina kulumisena eikä se oikeuta takuun mukaiseen korjaukseen tai vaihtoon.
+Jos asiakkaalla **ei ole** lunastusoptio-lisäpalvelua ja hän **ei halua lunastaa skuuttia** sopimuksen päättyessä, skuutti **tulee palauttaa Augmentille** asiakaspalvelun antamien ohjeiden mukaisesti.
 
-## 10. Laitteen käyttö ja mobiilisovellus
+### Etämyynnin peruutusoikeus
 
-Laitteen käyttö edellyttää Augmentin mobiilisovelluksen käyttöä.
+**Asiakkaalla** on kuluttajansuojalain mukainen oikeus peruuttaa etämyynnissä tehty sopimus viimeistään 14 päivän kuluessa Sopimuksen tekemisestä. **Sopimuksen** peruuttamisesta tulee ilmoittaa Augmentille toimittamalla liitteenä oleva **peruutuslomake** täytettynä **asiakaspalvelulle**.
 
-Asiakas vastaa siitä, että:
+**Skuutti**-pakkauksen saa avata tutustuakseen rauhassa sen sisältöön. **Sopimuksen** peruuttamisen jälkeen **skuutti** tulee lähettää **Augmentille** alkuperäisessä uutta vastaavassa kunnossa viikon kuluessa **asiakaspalvelulta** saatavia ohjeita noudattaen.
 
-- hänellä on yhteensopiva mobiililaite
-- sovellus on käytettävissä
+Mikäli **skuutti** on otettu käyttöön peruutusaikana ja **sopimus** perutaan, **Augmentilla** on oikeus veloittaa **skuutin** arvon alentuma **asiakkaalta**. Jos palautettu **skuutti** on myyntikelvoton, **Augmentilla** on oikeus veloittaa **asiakkaalta** koko **skuutin** arvoa vastaava summa.
 
-Augment ei vastaa käyttökatkoista, jotka johtuvat asiakkaan laitteista tai ohjelmistosta.
+## Palvelumaksuihin ja yhteystietojen ylläpitämiseen liittyvät ehdot
 
-Augment ei takaa sovelluksen keskeytyksetöntä toimintaa.
+### Palvelumaksut
 
-## 11. Huoltopalvelun soveltaminen ja laitekohtaisuus
+**Sopimuksen** mukaiset **palvelumaksut** veloitetaan etukäteen valitun maksuvälin (1kk, 3kk tai 24kk) mukaisesti. **Asiakkaan** tulee varmistaa, että käytettävällä maksukortilla tai pankkitilillä on riittävästi katetta maksujen suorittamiseen.
 
-Huoltopalvelu on valinnainen maksullinen lisäpalvelu.
+**Palvelumaksun** eräpäivä määräytyy tilauspäivän mukaan. Eräpäivää voi siirtää olemalla yhteydessä **asiakaspalveluun**. Koska kalenterikuukausien pituus vaihtelee, kuukausiveloituksien eräpäivä voi vaihdella kuukausien välillä muutamalla päivällä.
 
-Se on voimassa vain, jos asiakas on valinnut sen tilauksen yhteydessä.
+**Sopimuksen** alaiset saatavat on pantattu Norion Bank AB:n hyväksi. Kukaan muu kuin **pantinsaaja** ei saa tehdä muutoksia maksuohjeisiin.
 
-Huoltopalvelu koskee ainoastaan sitä laitetta tai vaihtolaitetta, joka on toimitettu asiakkaalle kyseisen sopimuksen perusteella.
+### Maksutietojen ylläpitäminen
 
-Huoltopalvelu on voimassa ainoastaan siinä maassa, johon laite on alun perin tilattu ja toimitettu.
+Mikäli käytetyn maksukortin / pankkitilin tiedot muuttuvat, uudet tiedot tulee päivittää **Augmentin** itsepalvelusivuston kautta ennen seuraavan **palvelumaksun** erääntymistä.
 
-## 12. Huoltopalvelun sisältö
+Käyttämämme maksuvälittäjät (tällä hetkellä Adyen / Stripe) tallentavat tarvittavat maksukortti- ja muut maksuvälinetiedot vahvasti salattuina omiin tietokantoihinsa.
 
-Huoltopalvelu kattaa normaalissa käytössä syntyvät viat sekä kuluvat osat, kuten renkaat, jarrupalat ja akun, sekä yhden (1) vahinkotapauksen per 12 kuukauden jakso.
+### Yhteystietojen ylläpitäminen
 
-Vahinkotapauksella tarkoitetaan äkillistä ja ennalta arvaamatonta ulkoista tapahtumaa.
+**Asiakkaan** tulee huolehtia siitä, että **Augmentilla** on hänen kulloinkin ajan tasalla olevat yhteystiedot.
 
-Tällaisia ovat esimerkiksi:
+Augment lähettää Sopimukseen liittyvät ilmoitukset kuten tiedon viivästyneistä maksuista tai palvelumuutoksista sähköisesti ilmoitettuun sähköpostiosoitteeseen tai matkaviestinliittymänumeroon.
 
-- kaatuminen
-- törmäys
-- laitteen putoaminen
+## Muut ehdot
 
-Vahinkotapaukseksi ei katsota:
+### Palvelun käytön sulkeminen ja rajoittaminen
 
-- tahallista vahinkoa
-- törkeää huolimattomuutta
+**Augmentilla** on velvollisuus pyynnöstä sulkea, rajoittaa tai estää palvelun käyttö, jos **asiakas** tai toimivaltainen viranomainen kuten Poliisi tai vakuutusyhtiö niin vaatii.
 
-Lisäksi todetaan, että pelkästään laitteen ulkonäköön vaikuttavat viat, kuten etu- tai takapuolen muoviosien (ns. muoviposket) naarmut, kolhut tai muut visuaaliset haitat, eivät oikeuta pikavaihtopalvelun käyttöön.
+**Augmentilla** on alla mainituissa tilanteissa oikeus sulkea **palvelu** ja/tai rajoittaa **skuutin** käyttöä. Sulkemisella tarkoitetaan tämän **sopimuksen** kautta saatavien kaikkien **palveluiden** estämistä. Käytön rajoittamisella tarkoitetaan sopimuksen kautta saatavan yhden tai useamman **palvelun** käytön estämistä.
 
-Tällaisissa tapauksissa Augment toimittaa asiakkaalle tarvittavat varaosat, jotka asiakas voi vaihtaa itse Augmentin ohjeiden mukaisesti.
+**Augmentilla** on oikeus rajoittaa **skuutin** käyttöä, mikäli **asiakkaalla** on erääntyneitä **palvelumaksuja**, **skuutti** on varastettu, kadonnut tai sitä on oikeudettomasti käytetty taikka se on oikeudettomasti toisen hallussa. **Skuutin** käyttöä voidaan rajoittaa sen ajonopeutta alentamalla tai sen käyttöaluetta rajaamalla.
 
-Augmentilla on oikeus arvioida, onko kyseessä ainoastaan visuaalinen haitta vai toiminnallinen vika.
+**Augmentilla** on oikeus sulkea **palvelu** kokonaan tai osaksi, jos
 
-## 13. Vikatilanneprosessi
+- Erääntynyttä maksua ei ole maksettu kahden (2) viikon kuluessa maksukehotuksen lähettämisestä,
+- Se on tarpeen väärinkäytösten tai vahinkojen estämiseksi,
+- **Asiakas** on asetettu konkurssiin tai viranomainen on todennut **asiakkaan** muutoin maksukyvyttömäksi,
+- Kehotuksesta huolimatta muita kuin maksuja koskevia **sopimuksen** mukaisia velvollisuuksia ei ole noudatettu.
 
-Asiakkaan tulee ilmoittaa viasta viipymättä Augmentille.
+Augment ei sulje tai rajoita **palvelun** käyttöä maksujen laiminlyönnin vuoksi, jos maksun laiminlyönnin voidaan osoittaa johtuvan yllättävästä sairaudesta, tai muusta siihen verrattavasta, **asiakkaasta** riippumattomasta syystä, ja erääntynyt maksu maksetaan yhden (1) kuukauden kuluessa maksukehotuksen lähettämisestä, tai laskusta on tehty perusteltu laskuhuomautus, ja riidaton osa maksusta on maksettu määräaikana.
 
-Augment arvioi tilanteen ja päättää, toteutetaanko:
+### Palvelun tai sopimusehtojen muutos
 
-- pikavaihto
-- huolto
-- varaosatoimitus
+**Palvelun** ja sen ominaisuudet tai sovellettavat ehdot voivat muuttua. **Asiakkaalla** on oikeus irtisanoa **sopimus** päättyväksi kuukauden kuluessa saatuaan tiedon olennaisesta **palvelua** koskevasta muutoksesta.
 
-## 14. Pikavaihtopalvelu
+**Augment** ilmoittaa olennaisista palvelun sisällön muutoksista viimeistään kuukautta ennen muutosta **asiakkaan Augmentille** antamaan sähköpostiosoitteeseen. **Palveluun** sovelletaan uusia sopimusehtoja niiden voimaantulosta alkaen.
 
-Augment toimittaa vaihtolaitteen tyypillisesti 1–3 arkipäivän kuluessa.
+Jos muutos perustuu lainsäädännön muutokseen tai viranomaisen päätökseen, **Augmentilla** on oikeus toteuttaa muutos siitä päivästä lähtien, kun lain muutos tai viranomaisen päätös tulee voimaan.
 
-Vaihtolaite on kunnostettu käytetty laite.
+### Aineettomat oikeudet
 
-Alkuperäinen laite ei palaudu asiakkaalle.
+Augmentin palveluihin ja tuotteisiin liittyvät aineettomat oikeudet kuten tekijänoikeudet, tuotemerkit ja patentit kuuluvat Augmentille tai kolmannelle taholle. Augment myöntää rajoitetun käyttöoikeuden sopimuksen voimassaoloajaksi Sopimuksen mukaiseen Palveluun sekä Sopimuksen perusteella toimitettujen ohjelmistojen konekielisiin versioihin ja asiakirjoihin.
 
-## 14.1. Laitteen kunto pikavaihtopalvelussa
+Palvelua ja sen yhteydessä käyttöoikeuksin luovutettuja laitteistoja, ohjelmistoja, asiakirjoja ja muuta aineistoa on käytettävä Augmentin tai kolmannen tahon, kuten ohjelmiston omistajan, antamien ohjeiden mukaisesti ja vain sovittuun tarkoitukseen.
 
-Laitteen tulee olla alkuperäistä vastaavassa kunnossa.
+Käyttöoikeuden päättyessä Augment voi pyytää Asiakasta palauttamaan tai hävittämään tämän muun aineiston ohjekirjat, muut asiakirjat tai ohjelmistot.
 
-Laitteessa ei saa olla:
+### Ylivoimainen este
 
-- tarroja tai teippauksia
-- maalausta
-- rakenteellisia muutoksia
+Kumpikaan osapuoli ei vastaa sopimus- tai korvausvelvoitteestaan siltä osin kuin Sopimuksen noudattamista rajoittaa, estää tai viivästyttää ylivoimainen este.
 
-Normaali kuluminen sallitaan.
+Ylivoimaisella esteellä tarkoitetaan seikkaa, jota osapuoli ei kohtuudella ole voinut ottaa lukuun Sopimusta tehtäessä ja joka on osapuolesta riippumaton. Tällainen seikka voi olla esimerkiksi poikkeuksellisista sääolosuhteista johtuvat olosuhteet, kansallinen poikkeustila, työselkkaus, luonnonmullistus, energiajakelun keskeytys, maksuliikenteen keskeytys, lainsäännös tai viranomaismääräys tai -päätös, ulkopuolisen aiheuttama kaivuu-, laite- tai vastaava vahinko sekä edellä mainituista seikoista johtuvat Augmentin alihankkijan tai toimittajan toimitusvirheet.
 
-Mikäli laitteessa on tarroja, teippauksia tai maalausta, Augmentilla on oikeus veloittaa 50–100 € suuruinen käsittely- tai kunnostusmaksu.
+Jos sopimuksen täyttäminen estyy tai viivästyy ylivoimaisen esteen vuoksi, velvoitteen täyttämisaikaa jatketaan sen verran kuin olosuhteet huomioon ottaen on pidettävä kohtuullisena.
 
-Augmentilla on oikeus evätä pikavaihtopalvelu tai veloittaa lisäkustannuksia, mikäli ehtoja ei muutoin noudateta.
+### Henkilötietojen käsittely, evästeet
 
-## 15. Rikkoutuneen laitteen palautus
+Augment käsittelee henkilötietoja soveltuvan tietosuojalainsäädännön mukaisesti. Tarkemmat tiedot henkilötietojen käsittelystä ja evästeiden on Augmentin tietosuojasopimuksessa, joka löytyy Augmentin nettisivuilta.
 
-Asiakkaan tulee palauttaa laite 7 päivän kuluessa vaihtolaitteen vastaanottamisesta.
+### Vastuunrajoitus
 
-Palautus tapahtuu:
+Augment ei ole vastuussa mistään aiheuttamastaan välillisestä tai epäsuorasta vahingosta, ellei Augment ole aiheuttanut sitä tahallisesti tai törkeän tuottamuksellisesti.
 
-- Augmentin toimittamassa pakkauksessa
-- Augmentin toimittamalla palautuslähetteellä
+### Sopimuskieli
 
-Augment vastaa palautuskustannuksista, mikäli ohjeita noudatetaan.
+Tämän Sopimuksen ensisijainen sopimuskieli on suomi. Mahdollisissa ristiriitatilanteissa eri kieliversioiden välillä suomenkielinen versio on määräävä.
 
-Mikäli asiakas ei noudata ohjeita, asiakas vastaa kustannuksista.
+### Erimielisyydet
 
-Viivästyksestä voidaan veloittaa 12,50 € per alkava viikko tai periä laitteen arvo.
+Erimielisyydet tulee pyrkiä ratkaisemaan osapuolten välisin neuvotteluin. Sinulla on oikeus nostaa kanne Augmentia vastaan Suomessa sijaitsevan kotipaikkasi käräjäoikeudessa. Jos erimielisyyden ratkaisemiseen ei ole muutoin toimivaltaista tuomioistuinta, sopimusta koskevat riitaisuudet käsitellään Seinäjoen käräjäoikeudessa.
 
-## 16. Itsekorjaus
+Asiakkaalla on oikeus saattaa Sopimusta koskeva erimielisyys käsiteltäväksi Kuluttajariitalautakuntaan, jonka päätökset ovat luonteeltaan suosituksia.
 
-Asiakas voi valita itsekorjauksen, jolloin Augment toimittaa varaosat.
+### Sopimusehtojen voimassaolo
 
-Mikäli asiakas haluaa säilyttää saman laitteen, Augment suosittelee itsekorjausta Augmentin ohjeiden mukaisesti.
+Nämä sopimusehdot ovat voimassa Suomessa 08.04.2026 alkaen toistaiseksi
 
-Asiakas vastaa asennuksesta eikä Augment vastaa virheellisestä asennuksesta.
+<div class="page"></div>
 
-## 17. Huoltopalvelun rajoitukset
+### Määritelmät
 
-Huoltopalvelu ei kata ammattimaista käyttöä.
+- Augment – Augment Mobility Ab, virallinen osoite Upankatu 1, 60100 Seinäjoki ja Augment Mobility Ab:n kanssa samaan yritysryhmään kuuluvat yritykset
+- Skuutti – Palveluun kuuluva Augmentin sähköpotkulauta
+- Sopimus – Tämä sopimus
+- Palveluehdot – Tämän Sopimuksen ehdot
+- Palvelumaksu – Tähän Sopimukseen liittyvät käyttöveloitukset, jotka veloitetaan 1kk, 3kk tai 24 kk välein
+- Minimisopimuskausi – Sopimusaika, minkä ajan Sopimus on voimassa määräaikaisena ja jonka jälkeen Sopimus jatkuu toistaiseksi voimassa olevana, ellet ole irtisanonut sitä Sopimuksen ehtojen mukaisesti ennen määräajan päättymistä
+- Asiakas – asiakas, joka solmii palvelusopimuksen Augmentin kanssa. Tämän Sopimuksen osapuolena olet vastuussa Skuutista, Palvelumaksuista ja Käytöstä.
+- Asiakaspalvelu – Augmentin asiakaspalvelu
+- Vaihtoskuutti – Sinulla käytössä ollut Skuuttia vastaava Augmentin korjaama ja tarkistama vaihtolaite. Vaihtoskuutit ovat Augmentin korjaamia ja tarkastamia. Vaihtoskuuteissa voi olla käytön jälkiä.
+- Pantinsaaja – Norion Bank AB
+- Peruutusoikeus – Lakisääteinen oikeus irtisanoa tämä Sopimus kuluttajansuojalain (38/1978) etämyyntiä koskevien säännösten mukaisesti 14 päivän sisällä tilauksesta
+- Lisäpalvelut – Tähän Sopimukseen erikseen tarjottavat palvelut, jotka edellyttävät tämän Sopimuksen voimassaoloa
+- Kuluvat osat – Skuutin käytön yhteydessä normaalisti kuluvat osat kuten renkaat ja jarrupalat
+- Vika – Skuuttiin normaalissa käytössä tuleva odottamaton ongelma, joka estää Skuutin käyttämistä tai rajoittaa sitä.
+- Vahinko – Käyttäjästä tai olosuhteista aiheutuva Skuutin odottamaton vikaantuminen normaalin käytön ulkopuolella esim. kaatuminen, törmääminen tai kastuminen
 
-Ammattimaisella käytöllä tarkoitetaan käyttöä tulonhankintaan, kuten:
+<div class="page"></div>
 
-- ruokalähettipalvelut
-- kuriiri- ja jakelutoiminta
+### Etämyynnin peruutuslomake
 
-Huoltopalvelu ei kata väärinkäyttöä tai ohjeiden vastaista käyttöä.
+Täytä lomake ja pakkaa mukaan palautuspakettiin, jotta peruutuksesi ja palautuksesi voidaan käsitellä. Täytä sopimusta koskevat kohdat erityisen huolellisesti.
 
-## 18. Varkausturvan soveltaminen
+Nimi:
 
-Varkausturva on valinnainen maksullinen lisäpalvelu.
+<div class="underline"></div>
 
-Se on voimassa vain, jos asiakas on valinnut sen.
+Tilauksen yhteydessä käytetty sähköpostiosoite:
 
-Varkausturva on voimassa ainoastaan siinä maassa, johon laite on alun perin tilattu ja toimitettu.
+<div class="underline"></div>
 
-## 19. Säilytys ja lukitus
+Katuosoite:
 
-Laite tulee säilyttää lukitussa tilassa.
+<div class="underline"></div>
 
-Jaetulla tilalla tarkoitetaan tilaa, johon useilla henkilöillä on pääsy, kuten taloyhtiön pyörävarasto, yhteinen varastotila tai muu vastaava tila.
+Puhelinnumero:
 
-Jaetussa tai julkisessa tilassa laite tulee lukita:
+<div class="underline"></div>
 
-- sovelluksella
-- fyysisellä lukolla kiinteään rakenteeseen
+Peruutuksen päivämäärä:
 
-Pelkkä säilyttäminen jaetussa tilassa ilman fyysistä lukitusta ei täytä näiden ehtojen vaatimuksia.
+<div class="underline"></div>
 
-## 20. Varkaustilanne
+Ostin palautettavan tuotteen: ☐ Netistä ☐ Tilasin puhelimitse ☐ Minulle soitettiin
 
-Asiakkaan tulee:
+Palautuksen syy:
 
-- tehdä rikosilmoitus 10 arkipäivän kuluessa
-- toimittaa kopio Augmentille
-- ilmoittaa tapahtumasta viipymättä
+☐ Tuote/palvelu ei vastannut odotuksiani, koska
 
-## 21. Korvaus
+<div class="underline"></div>
 
-Augment toimittaa vastaavan kunnostetun käytetyn laitteen.
+☐ Tuote/palvelu ei vastannut myyjän kanssa sovittua, koska
 
-## 22. Omavastuu
+<div class="underline"></div>
 
-- 100 € ilman akkua
-- 150 € akun kanssa
-- 125 € akku
+☐ Minulla ei ole käyttöä tuotteelle/palvelulle, koska
 
-## 23. Varkausturvan rajoitukset
+<div class="underline"></div>
 
-Korvausta ei makseta, jos:
+☐ Tuotteen/palvelun käyttöönotto ei onnistunut, koska
 
-- lukitusvaatimuksia ei ole noudatettu
-- laite on luovutettu käytettäväksi henkilölle, joka ei kuulu asiakkaan samaan talouteen
-- laitetta on käytetty kaupallisesti
-- rikosilmoitusta ei toimiteta
+<div class="underline"></div>
 
-  <div class="page"></div>
+☐ Muu syy:
 
-## 24. Maksujen viivästyminen
-
-Viivästyskorko määräytyy korkolain mukaan.
-
-Perintäkulut voidaan veloittaa.
-
-## 25. Vastuunrajoitus
-
-Augment ei vastaa välillisistä vahingoista.
-
-## 26. Ylivoimainen este
-
-Augment ei vastaa force majeure -tilanteista.
-
-## 27. Sovellettava laki ja riidanratkaisu
-
-Sopimukseen sovelletaan Suomen lakia.
-
-Mahdolliset erimielisyydet pyritään ensisijaisesti ratkaisemaan osapuolten välisin neuvotteluin.
-
-Kuluttaja-asiakkaalla on oikeus saattaa asia kuluttajariitalautakunnan käsiteltäväksi.
-
-Viime kädessä riidat ratkaistaan asiakkaan kotipaikan toimivaltaisessa käräjäoikeudessa.
-
-## 28. Immateriaalioikeudet
-
-Kaikki laitteeseen, ohjelmistoon, mobiilisovellukseen sekä niihin liittyviin materiaaleihin liittyvät immateriaalioikeudet kuuluvat Augmentille tai sen lisenssinantajille.
-
-Asiakkaalle myönnetään rajoitettu käyttöoikeus laitteen ja siihen liittyvien palveluiden käyttöön näiden ehtojen mukaisesti.
-
-Asiakkaalla ei ole oikeutta kopioida, muokata, levittää tai muuten hyödyntää Augmentin immateriaalioikeuksia ilman Augmentin etukäteen antamaa kirjallista lupaa.
-
-## Sopimusehtojen voimassaolo
-
-Nämä sopimusehdot ovat voimassa Suomessa 30.03.2026 alkaen toistaiseksi
+<div class="underline"></div>
