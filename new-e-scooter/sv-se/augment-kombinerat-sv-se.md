@@ -1,6 +1,6 @@
 # AUGMENT AVTALSVILLKOR
 
-Gäller i Sverige från och med [DATUM]
+Gäller i Sverige från och med 10.04.2026
 
 ## 1. AVTALETS TILLÄMPNING
 
