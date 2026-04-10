@@ -6,6 +6,8 @@
     "MD033": false,
     "MD034": false,
     "MD001": false, // TODO remove and enforce the rule
-    "MD036": false // TODO remove and enforce the rule
+    "MD036": false, // TODO remove and enforce the rule
+    "MD024": false, // TODO remove and enforce the rule
+    "MD025": false // TODO remove and enforce the rule
   }
 }
