@@ -373,6 +373,8 @@ Näitä ehtoja sovelletaan **Augmentin** yksityishenkilölle (**asiakas**) tarjo
 
 **Augment** toimittaa asiakkaalle uuden käyttämättömän **skuutin minimisopimuskauden** alussa. **Skuutti** on **Augmentin** omaisuutta **sopimuksen** voimassaoloaikana. Skuuttiin ei saa tehdä teknisiä tai muita muutoksia. **Skuutista** ei saa poistaa **Augment**:n logoja, maalata sitä, kiinnittää tarroja tai muutenkaan muuttaa **skuuttia**. **Augmentilla** on oikeus periä **asiakkaalta** kustannukset, jotka aiheutuvat Skuutin muutosten palauttamisesta alkuperäiseen kuntoon.
 
+<div class="page"></div>
+
 ## Skuutin käyttöön ja sopimuksen voimassaoloaikaan liittyvät ehdot
 
 ### Skuutin käyttäminen
