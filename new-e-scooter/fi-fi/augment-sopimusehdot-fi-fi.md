@@ -1,6 +1,6 @@
 # AUGMENT SOPIMUSEHDOT
 
-Voimassa Suomessa [PÄIVÄMÄÄRÄ] alkaen
+Voimassa Suomessa 08.04.2026 alkaen
 
 ## 1. SOPIMUKSEN SOVELTAMINEN
 
