@@ -1,6 +1,6 @@
 # AUGMENT VERTRAGSBEDINGUNGEN
 
-Gültig in Österreich ab 21.04.2026
+Gültig in Deutschland ab 21.04.2026
 
 ## 1. ANWENDUNG DES VERTRAGS
 
@@ -14,7 +14,7 @@ Der Kunde wählt im Bestellprozess, welches Beschaffungsmodell angewendet wird.
 - Kaufmodell -> **A-TEIL**
 - Service- / Mietmodell -> **B-TEIL**
 
-Soweit in diesen Bedingungen zwingende verbraucherschutzrechtliche Vorschriften des österreichischen Rechts anwendbar sind, bleiben diese unberührt.
+Soweit in diesen Bedingungen zwingende verbraucherschutzrechtliche Vorschriften des deutschen Rechts anwendbar sind, bleiben diese unberührt.
 
 # A-TEIL: BEDINGUNGEN FÜR DEN KAUF DES GERÄTS
 
@@ -474,9 +474,9 @@ Für die Dauer und den Umfang des Ereignisses ruhen die betroffenen Leistungspfl
 
 ## 27. Anwendbares Recht und Streitbeilegung
 
-Auf diesen A-Teil und auf daraus entstehende Streitigkeiten findet österreichisches Recht Anwendung unter Ausschluss solcher Kollisionsnormen, die zur Anwendung eines anderen Rechts führen würden, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
+Auf diesen A-Teil und auf daraus entstehende Streitigkeiten findet deutsches Recht Anwendung unter Ausschluss solcher Kollisionsnormen, die zur Anwendung eines anderen Rechts führen würden, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
 
-Ist der Kunde Verbraucher und hat er seinen gewöhnlichen Aufenthalt in Österreich, bleiben zwingende Verbraucherschutzrechte unberührt.
+Ist der Kunde Verbraucher und hat er seinen gewöhnlichen Aufenthalt in Deutschland, bleiben zwingende Verbraucherschutzrechte unberührt.
 
 Erfüllungsort und Gerichtsstand richten sich nach den zwingenden gesetzlichen Bestimmungen.
 
