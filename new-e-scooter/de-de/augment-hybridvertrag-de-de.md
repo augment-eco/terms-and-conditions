@@ -1,6 +1,6 @@
 # AUGMENT VERTRAGSBEDINGUNGEN
 
-Gültig in Österreich ab 21.04.2026
+Gültig in Deutschland ab 21.04.2026
 
 ## 1. ANWENDUNG DES VERTRAGS
 
@@ -14,7 +14,7 @@ Der Kunde wählt im Bestellprozess, welches Beschaffungsmodell angewendet wird.
 - Kaufmodell -> **A-TEIL**
 - Service- / Mietmodell -> **B-TEIL**
 
-Soweit in diesen Bedingungen zwingende verbraucherschutzrechtliche Vorschriften des österreichischen Rechts anwendbar sind, bleiben diese unberührt.
+Soweit in diesen Bedingungen zwingende verbraucherschutzrechtliche Vorschriften des deutschen Rechts anwendbar sind, bleiben diese unberührt.
 
 # A-TEIL: BEDINGUNGEN FÜR DEN KAUF DES GERÄTS
 
@@ -46,7 +46,7 @@ Diese Vertragsbedingungen gelten für den Vertrag zwischen Augment Mobility Ab (
 
 Kunde kann sowohl eine natürliche Person als auch eine juristische Person sein.
 
-Ist der Kunde Verbraucher, gelten zusätzlich die zwingenden Bestimmungen des österreichischen Verbraucherrechts, insbesondere des Konsumentenschutzgesetzes und des Fern- und Auswärtsgeschäfte-Gesetzes, soweit diese anwendbar sind.
+Ist der Kunde Verbraucher, gelten zusätzlich die zwingenden Bestimmungen des deutschen Verbraucherrechts, insbesondere des Konsumentenschutzgesetzes und des Fern- und Auswärtsgeschäfte-Gesetzes, soweit diese anwendbar sind.
 
 Verwendet der Kunde das Gerät im Rahmen einer unternehmerischen oder beruflichen Tätigkeit, finden verbraucherschutzrechtliche Bestimmungen keine Anwendung, soweit das Gesetz nichts anderes vorsieht.
 
@@ -165,7 +165,7 @@ Nach einem wirksamen Rücktritt hat der Kunde die Ware unverzüglich und spätes
 
 Augment erstattet dem Kunden nach Maßgabe des anwendbaren Rechts die vom Kunden geleisteten Zahlungen. Eine Erstattung kann verweigert werden, bis Augment die Ware zurückerhalten hat oder bis der Kunde einen Nachweis über die Rücksendung erbracht hat, je nachdem, welches der frühere Zeitpunkt ist.
 
-Hat der Kunde ausdrücklich verlangt, dass mit einer Dienstleistung schon während der Rücktrittsfrist begonnen wird, und verliert der Kunde dadurch sein Rücktrittsrecht oder entsteht eine anteilige Zahlungspflicht, gelten die gesetzlichen Bestimmungen des österreichischen Fernabsatzrechts.
+Hat der Kunde ausdrücklich verlangt, dass mit einer Dienstleistung schon während der Rücktrittsfrist begonnen wird, und verliert der Kunde dadurch sein Rücktrittsrecht oder entsteht eine anteilige Zahlungspflicht, gelten die gesetzlichen Bestimmungen des deutschen Fernabsatzrechts.
 
 ## 9. Garantie, Gewährleistung und Mängelhaftung
 
@@ -474,9 +474,9 @@ Für die Dauer und den Umfang des Ereignisses ruhen die betroffenen Leistungspfl
 
 ## 27. Anwendbares Recht und Streitbeilegung
 
-Auf diesen A-Teil und auf daraus entstehende Streitigkeiten findet österreichisches Recht Anwendung unter Ausschluss solcher Kollisionsnormen, die zur Anwendung eines anderen Rechts führen würden, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
+Auf diesen A-Teil und auf daraus entstehende Streitigkeiten findet deutsches Recht Anwendung unter Ausschluss solcher Kollisionsnormen, die zur Anwendung eines anderen Rechts führen würden, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
 
-Ist der Kunde Verbraucher und hat er seinen gewöhnlichen Aufenthalt in Österreich, bleiben zwingende Verbraucherschutzrechte unberührt.
+Ist der Kunde Verbraucher und hat er seinen gewöhnlichen Aufenthalt in Deutschland, bleiben zwingende Verbraucherschutzrechte unberührt.
 
 Erfüllungsort und Gerichtsstand richten sich nach den zwingenden gesetzlichen Bestimmungen.
 
@@ -501,7 +501,7 @@ Der Kunde ist nicht berechtigt,
 
 ## Gültigkeit der Vertragsbedingungen
 
-Diese Vertragsbedingungen des A-Teils gelten in Österreich ab 21.04.2026 bis auf Weiteres.
+Diese Vertragsbedingungen des A-Teils gelten in Deutschland ab 21.04.2026 bis auf Weiteres.
 
 # B-TEIL: SERVICE- / MIETVERTRAG
 
@@ -886,7 +886,7 @@ Sollten Übersetzungen in andere Sprachen bereitgestellt werden, dient die deuts
 
 ### 28. Anwendbares Recht und Streitbeilegung
 
-Auf diesen Vertrag findet österreichisches Recht Anwendung, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
+Auf diesen Vertrag findet deutsches Recht Anwendung, soweit dem keine zwingenden Verbraucherschutzvorschriften entgegenstehen.
 
 Für Verbraucher gelten die zwingenden Gerichtsstands- und Verbraucherschutzvorschriften ihres gewöhnlichen Aufenthaltsortes, soweit diese anwendbar sind.
 
@@ -896,7 +896,7 @@ Hinweis: Die frühere EU-Plattform zur Online-Streitbeilegung wurde eingestellt.
 
 ### 29. Gültigkeit der Vertragsbedingungen
 
-Diese Vertragsbedingungen des B-Teils gelten in Österreich ab 21.04.2026 bis auf Weiteres.
+Diese Vertragsbedingungen des B-Teils gelten in Deutschland ab 21.04.2026 bis auf Weiteres.
 
 ## Definitionen
 
