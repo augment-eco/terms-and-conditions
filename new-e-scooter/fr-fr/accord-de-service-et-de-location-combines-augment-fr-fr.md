@@ -110,6 +110,8 @@ Augment et ses prestataires de paiement ou de financement peuvent, dans les limi
 
 Les données sont traitées conformément à la réglementation applicable et à la politique de confidentialité d’Augment.
 
+<div class="page"></div>
+
 # PARTIE A – ACHAT D’UN APPAREIL
 
 ## 8. Objet de la vente
