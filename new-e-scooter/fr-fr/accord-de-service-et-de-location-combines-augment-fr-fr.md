@@ -369,6 +369,8 @@ Le Client répond des amendes et conséquences de son utilisation illégale.
 
 La Trottinette ne doit pas être utilisée pour des compétitions, cascades, sauts, dérapages volontaires, surcharge, conduite hors des usages prévus ou dans des conditions dangereuses.
 
+<div class="page"></div>
+
 ## 29. Interdiction de l’usage professionnel
 
 L’Usage professionnel est interdit sans accord écrit préalable.
