@@ -377,6 +377,8 @@ L’Usage professionnel est interdit sans accord écrit préalable.
 
 En cas d’usage non autorisé, les pannes, dommages et usures liés à cet usage peuvent être exclus du Service. Un usage professionnel continu malgré mise en demeure peut constituer un manquement grave.
 
+<div class="page"></div>
+
 ## 30. Étendue du Service d’entretien
 
 Le Service couvre, dans le cadre d’un usage privé normal :
@@ -792,6 +794,8 @@ L’attente d’une réparation ou pièce ne donne pas automatiquement droit à 
 
 Les droits impératifs du Client demeurent applicables si le véhicule reste durablement inutilisable en raison d’un défaut relevant d’Augment.
 
+<div class="page"></div>
+
 ## 62. Dommages causés à l’Augment 360
 
 Le Client répond des dommages dépassant l’Usure normale, notamment :
@@ -1008,6 +1012,8 @@ Augment peut limiter ou empêcher l’utilisation lorsqu’une mesure est néces
 La mesure peut comprendre verrouillage électronique, limitation de fonctions ou de vitesse.
 
 Elle ne doit jamais être appliquée d’une manière créant un danger pendant la conduite.
+
+<div class="page"></div>
 
 ## 81. Manquement du Client
 
