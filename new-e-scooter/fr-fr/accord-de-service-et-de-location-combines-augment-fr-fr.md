@@ -150,6 +150,8 @@ Le paiement peut être effectué au comptant ou au moyen d’un financement prop
 
 Un financement distinct est régi par les conditions de l’organisme de financement. Le financement peut, selon son acceptation, couvrir l’Appareil, les accessoires et les services complémentaires.
 
+<div class="page"></div>
+
 ## 12. Garanties légales
 
 Le Client bénéficie de la garantie légale de conformité et, le cas échéant, de la garantie des vices cachés prévues par le droit français.
