@@ -512,6 +512,8 @@ La mise à niveau nécessite l’acceptation d’Augment et un nouveau contrat. 
 
 L’ancienne Trottinette doit être retournée dans les sept jours suivant la réception de la nouvelle.
 
+<div class="page"></div>
+
 ## 40. Option d’achat de la Trottinette
 
 Lorsque le Client a choisi l’Option d’achat au prix périodique indiqué, il peut acquérir la Trottinette après la Durée minimale au prix indiqué dans la confirmation de commande.
@@ -1230,6 +1232,8 @@ Aucune clause des présentes ne restreint une compétence juridictionnelle impé
 Les présentes conditions entrent en vigueur en France le **27 juillet 2026** et restent applicables jusqu’à leur remplacement.
 
 Le contrat du Client est en principe régi par la version qu’il a acceptée lors de la commande.
+
+<div class="page"></div>
 
 # ANNEXE – FORMULAIRE TYPE DE RÉTRACTATION
 
