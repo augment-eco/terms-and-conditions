@@ -461,6 +461,8 @@ En cas de non-restitution, Augment adresse une mise en demeure et accorde un dé
 
 Aucun coût n’est réclamé lorsque le retard résulte d’un motif légitime indépendant du Client.
 
+<div class="page"></div>
+
 ## 36. Auto-réparation
 
 Avec l’accord d’Augment, le Client peut effectuer lui-même une réparation. Augment fournit les pièces couvertes et, lorsqu’elles existent, les instructions.
