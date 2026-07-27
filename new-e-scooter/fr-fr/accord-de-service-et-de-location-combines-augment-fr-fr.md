@@ -287,6 +287,8 @@ Augment remet les documents techniques et administratifs en sa possession raison
 
 Le Client ne doit pas utiliser l’Augment 360 sur la voie publique avant que l’immatriculation, la plaque, l’assurance, le permis requis et les autres conditions légales soient valables.
 
+<div class="page"></div>
+
 # PARTIE B – ABONNEMENT ET LOCATION D’UNE TROTTINETTE
 
 ## 23. Contenu de l’abonnement Trottinette
@@ -368,8 +370,6 @@ Le Client doit respecter la réglementation française, les règles locales, les
 Le Client répond des amendes et conséquences de son utilisation illégale.
 
 La Trottinette ne doit pas être utilisée pour des compétitions, cascades, sauts, dérapages volontaires, surcharge, conduite hors des usages prévus ou dans des conditions dangereuses.
-
-<div class="page"></div>
 
 ## 29. Interdiction de l’usage professionnel
 
@@ -461,8 +461,6 @@ En cas de non-restitution, Augment adresse une mise en demeure et accorde un dé
 
 Aucun coût n’est réclamé lorsque le retard résulte d’un motif légitime indépendant du Client.
 
-<div class="page"></div>
-
 ## 36. Auto-réparation
 
 Avec l’accord d’Augment, le Client peut effectuer lui-même une réparation. Augment fournit les pièces couvertes et, lorsqu’elles existent, les instructions.
@@ -519,6 +517,8 @@ Lorsque le Client a choisi l’Option d’achat au prix périodique indiqué, il
 Lorsque le prix d’achat indiqué est de 1 euro, le transfert de propriété intervient après paiement de 1 euro et de toutes les sommes échues non contestées.
 
 L’Option d’achat Trottinette est distincte de l’Option d’achat 360 + service de pièces détachées.
+
+<div class="page"></div>
 
 # PARTIE C – LOCATION LONGUE DURÉE DE L’AUGMENT 360
 
@@ -832,6 +832,8 @@ Le Client doit :
 Le vol ou la perte ne met pas automatiquement fin au contrat.
 
 La responsabilité du Client dépend de l’assurance, de la franchise, de sa diligence, des présentes conditions et de la loi. Aucune double indemnisation ne peut être réclamée pour un même dommage.
+
+<div class="page"></div>
 
 # PARTIE D – CONDITIONS COMMUNES
 
