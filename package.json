@@ -18,6 +18,9 @@
     "lint": "npx markdownlint-cli2 markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#output\"",
     "generate": "node generate.js"
   },
+  "engines": {
+    "node": "24.19.0"
+  },
   "dependencies": {
     "mdpdf": "^3.0.4",
     "pdf-watermark": "^1.0.4"
