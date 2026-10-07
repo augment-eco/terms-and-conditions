@@ -28,7 +28,7 @@ De volledige koopprijs of subscriptionprijs en uw betalingsverplichting worden n
 
 Individueel overeengekomen afspraken gaan voor op algemene voorwaarden voor zover de wet dat toestaat. Verplichte consumentenrechten gaan altijd voor. Een latere versie verandert een bestaande overeenkomst niet automatisch. Deze voorwaarden zijn voor consumenten; zakelijke bestellingen vereisen passende afzonderlijke afspraken.
 
-## Registratie verzekering en voertuigdocumenten
+## Registratie, verzekering en voertuigdocumenten
 
 U regelt de Nederlandse registratie, tenaamstelling, het kenteken en een eventuele latere uitschrijving zelf en op uw kosten. Augment levert de overeengekomen en wettelijk vereiste documenten, waaronder het bij de uitvoering behorende CoC, en werkt mee aan handelingen waarvoor informatie of medewerking van de eigenaar of verkoper nodig is.
 
@@ -360,7 +360,7 @@ Bij een voldoende ernstige tekortkoming kan Augment de service proportioneel ops
 
 Gronden kunnen zijn: een wezenlijke betalingsachterstand die na een correcte aanmaning voortduurt, ernstige of herhaalde schending van gebruiksplichten, fraude of misbruik, of onrechtmatig bezit door een derde. Alleen een onbewezen vermoeden dat u in de toekomst niet zult betalen is onvoldoende.
 
-Technische beperkingen moeten noodzakelijk, veilig en proportioneel zijn. Er vindt geen plotselinge blokkering of gevaarlijke snelheidswijziging plaats terwijl het voertuig rijdt. Voor ingrijpende beperkingen wordt u vooraf gewaarschuwd, behalve wanneer een onmiddellijke maatregel noodzakelijk is wegens een aantoonbaar veiligheidsrisico of een bevoegde overheidsbevel.
+Technische beperkingen moeten noodzakelijk, veilig en proportioneel zijn. Er vindt geen plotselinge blokkering of gevaarlijke snelheidswijziging plaats terwijl het voertuig rijdt. Voor ingrijpende beperkingen wordt u vooraf gewaarschuwd, behalve wanneer een onmiddellijke maatregel noodzakelijk is wegens een aantoonbaar veiligheidsrisico of een bevoegd overheidsbevel.
 
 Augment blokkeert of beëindigt niet uitsluitend wegens betalingsachterstand wanneer u aantoont dat deze het gevolg is van onverwachte ziekte of een vergelijkbare niet-toerekenbare omstandigheid en u binnen één maand na aanmaning betaalt. Dat geldt ook wanneer u een gegrond bezwaar tegen de vordering hebt en het onbetwiste deel tijdig betaalt. Uw wettelijke verweren en opschortingsrechten blijven bestaan.
 
